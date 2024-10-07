@@ -1,0 +1,27 @@
+The mortality rate attributable to the joint effects of household and ambient air pollution can be 
+expressed as: crude death  rate or age -standardized death  rate. Crude rates are calculated by dividing the 
+brut number of deaths by the total population (or indicated if a diffe rent population group is used, e.g. 
+children under 5 years) , while the age -standardized rates  adjust for differences in the age distribution of 
+the population by applying the observed age -specific mortality rates for each population to a standard 
+populatio n. 
+ Last updated: 2023 -12-15 
+   
+ Evidence from epidemiological studies have shown that exposure to air pollution is linked, among others, 
+to the important underlying causes of death  taken into account  in this estimate:  
+ 
+- Acute lower respiratory infections (estimated in all age groups ; ICD-10: J09-J22, P23, U04  ); 
+- Cerebrovascular diseases (stroke) in adults (estimated above 25 years ; ICD-10: I60-I69); 
+- Ischaemic heart diseases (IHD) in adults (estimated above 25 years ; ICD -10: I20 -I25); 
+- Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years ; ICD-10: J40 -J44); 
+and 
+- Lung cancer in adults (estimated above 25 years ; ICD -10: C33 -C34). 
+ 
+  
+The mortality resulting from the exposure to ambient (outdoor) air pollution and household (indoor) air 
+pollution from polluting fuels use d for cooking  and/or heating  was assessed. Ambient air pollution results 
+from emissions from industrial activity, households, cars and trucks which are complex mixtures of  air 
+pollutants, many of which are harmful to health. Of all  these pollutants, fine particulate matter has the 
+greatest effect  on human health. By polluting fuels is understood kerosene, wood, coal, animal dung, 
+charcoal, and crop wastes.  
+ 
+ 

@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+formal education : 0.5676
+education training : 0.5558
+educational programmes : 0.5376
+education children : 0.5136
+defined education : 0.4905
+education non : 0.4895
+education provided : 0.4749
+educational : 0.4708
+----------------------------------------------------

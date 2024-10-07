@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+vaccination coverage : 0.6214
+vaccine dose : 0.5919
+recommended vaccines : 0.5635
+vaccine according : 0.5381
+vaccine measure : 0.5353
+vaccines year : 0.5334
+infant vaccination : 0.5258
+containing vaccines : 0.5247
+immunization schedules : 0.5247
+----------------------------------------------------

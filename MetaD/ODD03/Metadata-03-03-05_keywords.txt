@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+interventions ntds : 0.5728
+diseases ntds : 0.5449
+requiring treatment : 0.4934
+world health : 0.4928
+treatment care : 0.4778
+individual treatment : 0.4723
+universal health : 0.4716
+preventive chemotherapy : 0.4638
+tropical diseases : 0.4632
+health coverage : 0.4351
+----------------------------------------------------

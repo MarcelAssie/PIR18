@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+water quality : 0.6502
+assessed water : 0.5993
+monitoring water : 0.5825
+status water : 0.5313
+pollution water : 0.5138
+status groundwater : 0.5065
+water significant : 0.4892
+wetlands monitoring : 0.4789
+ambient water : 0.4787
+water classification : 0.4784
+----------------------------------------------------

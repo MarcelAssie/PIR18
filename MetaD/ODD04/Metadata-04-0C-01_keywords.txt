@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+percentage teachers : 0.6946
+teachers level : 0.6257
+teacher training : 0.5564
+required teaching : 0.5377
+teachers : 0.5033
+pedagogical teacher : 0.4921
+country teacher : 0.4449
+teaching relevant : 0.4437
+teaching : 0.4412
+----------------------------------------------------

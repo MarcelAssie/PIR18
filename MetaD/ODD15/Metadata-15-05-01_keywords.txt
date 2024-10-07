@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+extinction risk : 0.5544
+threatened extinction : 0.5321
+assessed iucn : 0.5279
+species measures : 0.5185
+endangered species : 0.5117
+risk extinction : 0.5072
+species extinction : 0.5050
+species assessed : 0.4858
+iucn red : 0.4806
+species threatened : 0.4801
+----------------------------------------------------

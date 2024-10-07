@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+indicators sdg_related_indicators : 0.5503
+sdg_related_indicators : 0.5410
+biodiversity areas : 0.5290
+mountain biodiversity : 0.5092
+including biodiversity : 0.4941
+mountain ecosystems : 0.4897
+biodiversity covered : 0.4875
+indicators include : 0.4863
+conservation monitoring : 0.4800
+----------------------------------------------------

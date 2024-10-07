@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+agricultural land : 0.6282
+agriculture consider : 0.6205
+indicator agricultural : 0.6031
+agriculture areas : 0.5985
+agriculture : 0.5937
+crops livestock : 0.5858
+subsistence agriculture : 0.5745
+country agricultural : 0.5721
+----------------------------------------------------

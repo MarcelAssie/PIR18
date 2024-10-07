@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+national regulations : 0.5112
+governing land : 0.4961
+land compulsory : 0.4929
+land rights : 0.4918
+women proxy : 0.4553
+proxy women : 0.4538
+land inheritance : 0.4510
+entitlements property : 0.4331
+women ownership : 0.4306
+discrimination women : 0.4300
+----------------------------------------------------

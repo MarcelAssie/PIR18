@@ -1,0 +1,11 @@
+Percentage  of bloodstream infection due to methicillin -resistant  Staphylococcus aureus  (MRSA) 
+and Escherichia coli  resistant to 3rd -generation cephalosporin (e.g., ESBL - E. coli)  among patients seeking 
+care and  whose  blood sample  is taken and  tested.   
+  Last updated:  2021 -04-01 
+• Presumptive methicillin -resistant  S. aureus  (MRSA)  isolates as defined by oxacillin  minimum 
+inhibitory concentration (MIC)  and cefoxitin disc diffusion tests accordin g to current 
+internationally recognized clinical breakpoints (e.g.,  EUCAST or CLSI)1  
+• E. coli  resistant to third generation cephalosporins:  E. coli  isolates that are resistant as defined by 
+current internationally recognized clinical breakpoints for third  generation cephalosporins 
+(e.g.,  EUCAST or CLSI),  specifically ceftriaxone or cefotaxime or ceftazidime.   
+ 

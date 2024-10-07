@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+poverty measure : 0.6047
+multidimensional poverty : 0.5830
+multidimensional deprivation : 0.5772
+deprivations measured : 0.5763
+poverty indicators : 0.5682
+weighted deprivations : 0.5542
+poverty headcount : 0.5054
+individual measures : 0.4815
+deprivations intensity : 0.4718
+----------------------------------------------------

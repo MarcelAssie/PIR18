@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+mobile population : 0.6728
+3g population : 0.6576
+covered 3g : 0.6003
+population coverage : 0.5979
+3g mobile : 0.5297
+mobile cellular : 0.5221
+range 3g : 0.5149
+----------------------------------------------------

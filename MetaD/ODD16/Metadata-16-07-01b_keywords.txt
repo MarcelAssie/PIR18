@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+governments sdg : 0.4912
+government units : 0.4851
+definitions sdg : 0.4781
+demographic groups : 0.4728
+government sector : 0.4566
+government employees : 0.4396
+sdg proportion : 0.4327
+various demographic : 0.4326
+demographic : 0.4319
+----------------------------------------------------

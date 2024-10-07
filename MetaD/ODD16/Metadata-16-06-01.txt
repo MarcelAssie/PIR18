@@ -1,0 +1,31 @@
+Primary government expenditures as a proportion of original approved budget  
+ 
+This indicator measures the extent to which aggregate budget expenditure outturn reflects the amount 
+originally approved, as defined in government budget documentation and fiscal reports. The coverage is 
+budgetary central government (BCG) and the time peri od covers  every f iscal year  for the count ries. . 
+ 
+  
+Aggregate expenditure includes actual expenditures incorporating those incurred as a result of  unplanned 
+or exceptional events —for example, armed conflicts or natural disasters. Expenditures financed by windfall 
+revenues, including privatization, should be included and noted in the supporting fiscal tables and 
+narrative. Expenditures financed exter nally by loans or grants should be included, if covered by the budget, Last updated: 2024 -07-29 
+   
+ along with contingency vote(s) and interest on debt. Expenditure assigned to suspense accounts is not 
+included in the aggregate. However, if amounts are held in suspense accounts at the  end of any year that 
+could affect the scores if included in the calculations, they can be included. In such cases the reason(s) for 
+inclusion must be clearly stated.  
+ 
+Actual expenditure outturns can deviate from the originally approved budget for reasons unrelated to the 
+accuracy of forecasts —for example, as a result of a major macroeconomic shock. The calibration of this 
+indicator accommodates one unusual or “outlier” year and focuses on deviations from the forecast which 
+occur in two of the three years c overed by the assessment.  
+ 
+Very detailed resources are available at  www.pefa.org . The document directly related to the SDG Indicator 
+16.6.1 is the “PEFA Framework for assessing public financial management” : 
+https://www.pefa.org/resources/pefa -2016 -framework ). There are seven Pillars in this document 
+containing a total of 31 indicators. The pillar containing the indicator PI -1 corresponding  to SDG 16.6.1  is 
+part of Pillar I which measures Budget reliability.   
+The SDG 16.6.1 Indicator follows the defini tion and concept for PEFA PI -1 Indicator  in PEFA Framework 
+with the only difference that the budget deviations for PI -1 are computed based on three years country 
+performance, while the SDG 16.6.1 indicator is based on the annual budgets deviations.  
+ 

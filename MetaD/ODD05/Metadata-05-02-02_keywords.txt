@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sexual violence : 0.6581
+violence defined : 0.5944
+violence women : 0.5762
+statistics violence : 0.5162
+abuse sexual : 0.5156
+violence occurring : 0.5093
+sexual abuse : 0.5040
+sexual behaviour : 0.4932
+psychological violence : 0.4931
+----------------------------------------------------

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+unsafe sanitation : 0.5687
+sanitation hygiene : 0.5328
+sanitation : 0.5110
+sanitation lack : 0.5038
+water sanitation : 0.4971
+diseases diarrhoea : 0.4955
+hygiene exposure : 0.4584
+infections ghe : 0.4569
+included diseases : 0.4493
+unsafe wash : 0.4445
+----------------------------------------------------

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+disaster risk : 0.5979
+integrate disaster : 0.5321
+relating disaster : 0.5118
+2030 disaster : 0.5043
+risk reduction : 0.5014
+risk strengthening : 0.4407
+environmental resilience : 0.4389
+disaster : 0.4292
+local disaster : 0.4171
+sendai framework : 0.3896
+----------------------------------------------------

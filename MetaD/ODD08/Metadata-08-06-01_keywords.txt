@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+education informal : 0.6349
+formal education : 0.6003
+education isced : 0.5925
+isced education : 0.5533
+considered education : 0.5249
+youth defined : 0.5053
+informal learning : 0.4953
+----------------------------------------------------

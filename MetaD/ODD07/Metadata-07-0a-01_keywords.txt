@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+generation renewable : 0.5261
+renewable sources : 0.5165
+geothermal energy : 0.5156
+renewable energy : 0.5063
+includes biogases : 0.4740
+development renewable : 0.4669
+use geothermal : 0.4619
+technologies renewable : 0.4583
+23260 geothermal : 0.4558
+renewable : 0.4505
+----------------------------------------------------

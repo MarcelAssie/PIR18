@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+marine technology : 0.5856
+technology ioccgtmt : 0.4892
+marine sciences : 0.4628
+marine operations : 0.4598
+term marine : 0.4557
+format marine : 0.4523
+transfer marine : 0.4507
+ioccgtmt refers : 0.4279
+resources ocean : 0.4211
+----------------------------------------------------

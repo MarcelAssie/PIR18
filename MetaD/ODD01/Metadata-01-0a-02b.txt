@@ -1,0 +1,24 @@
+As agreed by the Inter -agency and Expert Group on SDG Indic ators (IAEG -SDGs), data for the 
+education component only  of indicator 1.a.2 are provided by two custodian agencies (co -custodians 
+IMF and UNESCO -UIS) to provide maximum country coverage. Therefore, the Global SDG Indicators 
+Database includes two distinct d ata series for the education component, supplied by these different 
+data providers (the co -custodians). Each provider employs unique data collection and calculation 
+methods. Consequently, variations may arise when comparing the datasets: SG_XPD_EDUC (provi ded 
+by IMF as part of a set that contains all  components of indicator 1.a.2 and the total) and 
+SD_XPD_ESED (provided by UNESCO -UIS for the education component only). To gain insight into the Last updated:  2024-06-28 
+methodologies used by each provider, please review the additiona l metadata file associated with 
+indicator 1.a.2.  
+ 
+  
+Total general (local, regional  and central) government expenditure on education (current, capital, and 
+transfers), expressed as a percentage of total general government expenditure on all sectors (including 
+health, education, social services, etc.). It includes expenditure funded by tr ansfers from international 
+sources to the government.  
+ 
+  
+Government expenditure on education covers educational expenditure by all levels of government (local, 
+regional, central) on the formal education system, from early childhood to tertiary educ ation, in both 
+public and private instructional and non -instructional institutions within the borders of a country.  
+Expenditure on education includes expenditure on core educational goods and services,  such as teaching 
+staff, school buildings, or school bo oks and teaching materials, and peripheral  educational goods and 
+services such as ancillary services, general administration and other  activities.  

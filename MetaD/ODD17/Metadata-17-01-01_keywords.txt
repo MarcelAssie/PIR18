@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+taxes gfs : 0.6649
+revenue gfs : 0.6599
+revenue government : 0.5665
+revenue general : 0.5510
+tax revenue : 0.5473
+types revenue : 0.5452
+grants gfs : 0.5377
+revenue defined : 0.5366
+particular taxes : 0.5332
+----------------------------------------------------

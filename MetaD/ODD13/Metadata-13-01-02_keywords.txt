@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+indicators : 0.4891
+framework indicators : 0.4841
+indicators measure : 0.4817
+sendai framework : 0.4746
+indicators terminology : 0.4580
+indicators eventually : 0.4569
+agreements sendai : 0.4434
+indicators updated : 0.4243
+disaster risk : 0.4234
+relating disaster : 0.4146
+----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+cholarships oda : 0.6516
+oda donors : 0.6307
+donors cholarships : 0.5522
+oda recipients : 0.5418
+financial aid : 0.5413
+defines oda : 0.5120
+scholarships financial : 0.5079
+total oda : 0.5055
+grants students : 0.5021
+----------------------------------------------------

@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+biodiversity national : 0.6502
+accounting biodiversity : 0.6406
+national biodiversity : 0.6285
+plan biodiversity : 0.6273
+biodiversity target : 0.6253
+biodiversity strategy : 0.6172
+biodiversity 2011 : 0.6135
+integrate biodiversity : 0.6058
+----------------------------------------------------

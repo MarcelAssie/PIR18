@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sdg indicators : 0.5241
+educational expenditure : 0.4559
+expenditure core : 0.4507
+education component : 0.4496
+expenditure education : 0.4433
+total sd_xpd_esed : 0.4336
+datasets sg_xpd_educ : 0.4210
+includes expenditure : 0.4100
+indicators database : 0.4092
+----------------------------------------------------

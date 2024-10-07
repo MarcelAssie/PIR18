@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+civil society : 0.5902
+participation civil : 0.5645
+participation urban : 0.5179
+society participation : 0.4859
+encourage civil : 0.4815
+proposals civil : 0.4615
+society urban : 0.4552
+society organizations : 0.4550
+----------------------------------------------------

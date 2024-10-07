@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+expenditure poverty : 0.6305
+household poverty : 0.6107
+poor income : 0.5986
+poverty households : 0.5960
+poverty line : 0.5920
+levels poverty : 0.5820
+income : 0.5818
+international poverty : 0.5750
+poverty : 0.5534
+----------------------------------------------------

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+oda flows : 0.6195
+infrastructure oda : 0.5767
+defines oda : 0.5657
+oda official : 0.5407
+oda primarily : 0.4976
+oda recipients : 0.4951
+official flows : 0.4934
+flows countries : 0.4909
+total oda : 0.4866
+flows donors : 0.4745
+----------------------------------------------------

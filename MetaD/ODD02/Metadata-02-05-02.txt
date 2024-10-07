@@ -1,0 +1,14 @@
+The indicator presents the percentage of local livestock breeds among local breeds with known risk status 
+classified as being at risk of extinctions at a certain moment in time, as well as the trends for this 
+percentage.  
+ 
+  Last updated:  2024 -07-29 
+A similar indicator was o riginally proposed for the Target 15.5, and it serves also as an indicator for the 
+Aichi Target 13 “Genetic Diversity of Terrestrial Domesticated Animals” under the Convention on 
+Biological Diversity (CBD). It is described on the webpage of the Biodiversit y Indicators Partnership (BIP), 
+a network of organizations, which have come together to provide the most up -to date biodiversity 
+information possible for tracking progress towards the Aichi Targets 
+(http://www.bipindicators.net/domesticatedanimals). Furthe r, it is presented in the Global Biodiversity 
+Outlook 4, page 91 (see https://www.cbd.int/gbo/gbo4/publication/gbo4 -en.pdf  ) which is an output of 
+the pr ocesses under the CBD.  
+ 

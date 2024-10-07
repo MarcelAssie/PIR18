@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+export subsidy : 0.6314
+agricultural export : 0.5239
+subsidies defined : 0.4822
+subsidies tifications : 0.4796
+subsidies provisions : 0.4673
+subsidy reduction : 0.4506
+subsidies developing : 0.4506
+subsidy : 0.4489
+subsidies budgetary : 0.4363
+----------------------------------------------------

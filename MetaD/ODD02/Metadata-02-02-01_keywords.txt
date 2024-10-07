@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+prevalence stunting : 0.5432
+child malnutrition : 0.5422
+stunting height : 0.5097
+child growth : 0.4805
+malnutrition estimates : 0.4728
+crecimiento infantil : 0.4467
+height age : 0.4456
+growth standards : 0.4213
+malnutrition : 0.3982
+nutrition malnutrition : 0.3743
+----------------------------------------------------

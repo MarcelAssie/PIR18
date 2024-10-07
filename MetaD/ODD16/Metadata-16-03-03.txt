@@ -1,0 +1,51 @@
+)  
+  
+Number of persons who experienced a dispute during the past two years who accessed a formal or  
+informal dispute resolution mechanism, as a percentage of all those who experienced a dispute in 
+the past  two years, by type of mechanism.   
+  
+A dispute  can be understood as a justiciable problem  between individuals or between individual(s) 
+and an entity. Justiciable problems can be seen as the ones giving rise to legal issues , whether or not   
+the problems are perceived as being “legal” by those who face them, and whether or not any legal 
+action was taken as a result of the problem .1 
+Categories of disputes can vary between countries depending on social, economic, political, legal, in-
+stitutional and cultural factors. There are, however, a number of categories that have broad  applica-
+bility across countries, such as problems or disputes r elated to:2 
+- Land or buying and selling property  
+- Family and relationship break -ups 
+- Injuries or illnesses caused by an intentional or unintentional act or omission of another per-
+son or entity  
+- Occupation/employment  
+- Commercial transactions (including defective or undelivered goods or services)  
+- Government and public services (including abuse by public officials)  
+- Government payments   
+- Housing (Tenancy and landlord)   
+- Debt, damage compensation, and other financial matters  
+- Environmental damage (la nd or water pollution, waste dumping, etc.)  
+Dispute resolution mechanisms  vary across countries around the world. While in many countries 
+courts represent the main institution dealing with disputes of civil nature, the same may not be true 
+in countries or societies where the first point of reference in such cases are informal systems, tradi-
+tional or religious leaders. The formulation of the indicator, and the formulation of the questions  in 
+the survey, have to account for these differences and make sure to include all relevant institutions      or 
+mechanisms that are generally recognized and used.  
+A list of dispute resolution mechanisms could include:   
+- Lawyer or third -party mediation  
+- Community or religious leaders or other customary law mechanisms   
+- A court or  tribunal  
+- The police  
+- A government office or other formal designated authority or agency  
+ 
+1 Genn, G, Paths to Justice: What People Do and Think About Going to Law (Oxford: Hart, 1999), 12.  
+2 See Legal Needs Surveys and Access to Justice  , OECD (2019)   Last updated:  2023 -03-31 
+- Other formal complaints or appeal procedure   
+To improve the accuracy of the indicator it is important to define precisely the denominator (the  
+population at ‘risk’ of experiencing the event of interest, i.e. accessing a dispute -resolution  mecha-
+nism) by identifying the ‘demand’ of dispute resolution mechanisms. This demand is  composed of 
+those who use dispute resolution mechanisms (users) and thos e who - despite needing them - do 
+not have “access” to such mechanisms for various reasons such as lack of knowledge on how to ac-
+cess them, lack of trust in institutions, lack of legal advice/assistance, lack of awareness about justice 
+mechanisms, geograph ical distance or financial costs, to mention a few. It is important to exclude 
+from the demand those who experience disputes and do not turn to dispute resolution mechanisms 
+because they do not need them (voluntarily self -excluded). This refers to cases wh ere the dispute is 
+simple or when respondents solve  the issue with the other party through direct negotiation.  
+ 

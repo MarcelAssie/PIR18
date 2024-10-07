@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+biodiversity revenue : 0.5440
+finance biodiversity : 0.5323
+defines oda : 0.5088
+oda donors : 0.4944
+donors biodiversity : 0.4926
+biodiversity development : 0.4737
+mobilised biodiversity : 0.4695
+assistance oda : 0.4675
+ecosystem services : 0.4614
+services biodiversity : 0.4568
+----------------------------------------------------

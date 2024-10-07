@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+oda donors : 0.5264
+dac medical : 0.5162
+oda recipients : 0.4764
+defines oda : 0.4734
+sectors oda : 0.4697
+health sectors : 0.4585
+oda dac : 0.4446
+total oda : 0.4333
+dac defines : 0.4216
+----------------------------------------------------

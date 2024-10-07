@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+statistics countries : 0.6632
+nations statistical : 0.6456
+statistical legislation : 0.6302
+countries statistical : 0.6003
+official statistical : 0.5962
+statistics adopted : 0.5833
+statistics refers : 0.5690
+statistics fundamental : 0.5598
+----------------------------------------------------

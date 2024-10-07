@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+trade wildlife : 0.6856
+trade legal : 0.5653
+illegal trade : 0.5525
+trade endangered : 0.5299
+wildlife sum : 0.5284
+wildlife : 0.4762
+wildlife detected : 0.4677
+values legal : 0.4578
+international trade : 0.4315
+----------------------------------------------------

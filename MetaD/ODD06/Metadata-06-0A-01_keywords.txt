@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+oda disbursements : 0.5222
+sanitation oda : 0.5145
+financing administered : 0.4971
+oecd creditor : 0.4867
+institutions oda : 0.4821
+assistance government : 0.4764
+oda flows : 0.4575
+lending export : 0.4503
+supply sanitation : 0.4427
+donors multilateral : 0.4416
+----------------------------------------------------

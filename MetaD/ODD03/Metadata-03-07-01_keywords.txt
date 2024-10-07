@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+indicator contraceptive : 0.5028
+sdg_indicator_info goal : 0.4989
+sdg_related_indicators : 0.4897
+indicators sdg_related_indicators : 0.4742
+family planning : 0.4693
+etadata harmonized : 0.4570
+pregnancy indicator : 0.4452
+etadata : 0.4440
+information sdg_indicator_info : 0.4189
+----------------------------------------------------

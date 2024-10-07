@@ -1,0 +1,9 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+cephalosporins coli : 0.5908
+mrsa isolates : 0.5696
+generation cephalosporin : 0.5037
+resistant staphylococcus : 0.5023
+aureus mrsa : 0.5001
+infection methicillin : 0.4922
+----------------------------------------------------

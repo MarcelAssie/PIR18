@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+youth labour : 0.5449
+youth employment : 0.5331
+employment crisis : 0.5106
+international labour : 0.5085
+crisis global : 0.5011
+jobs pact : 0.4815
+global policy : 0.4747
+global jobs : 0.4537
+employment policies : 0.4424
+----------------------------------------------------

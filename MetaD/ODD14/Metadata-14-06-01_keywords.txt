@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+responsible fisheries : 0.6636
+fisheries iuu : 0.6628
+unregulated fishing : 0.6602
+fishing iuu : 0.6556
+iuu fishing : 0.6510
+fishing undermines : 0.6241
+fishing authorizations : 0.6115
+fishing implementation : 0.6058
+fisheries management : 0.6037
+----------------------------------------------------

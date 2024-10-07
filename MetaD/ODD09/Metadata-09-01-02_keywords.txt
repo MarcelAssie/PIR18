@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+freight measured : 0.6222
+transport reporting : 0.5967
+freight volumes : 0.5901
+transport standards : 0.5719
+traffic measured : 0.5612
+kilometres freight : 0.5605
+glossary_for_transport_statistics_en : 0.5572
+freight indicator : 0.5517
+passenger km : 0.5444
+----------------------------------------------------

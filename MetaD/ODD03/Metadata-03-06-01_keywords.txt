@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+death rate : 0.6116
+number deaths : 0.6099
+traffic fatal : 0.5754
+traffic injuries : 0.5046
+traffic crashes : 0.4937
+injury deaths : 0.4774
+deaths 100 : 0.4520
+road traffic : 0.4466
+people die : 0.4424
+----------------------------------------------------

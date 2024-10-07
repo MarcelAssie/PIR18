@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+land degradation : 0.4881
+mountain ecosystem : 0.4776
+ecosystem degradation : 0.4550
+degraded mountain : 0.4516
+conservation mountain : 0.4515
+conservation status : 0.4407
+biodiversity mountain : 0.4348
+status conservation : 0.4276
+index mgci : 0.4113
+----------------------------------------------------

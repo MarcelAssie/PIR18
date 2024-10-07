@@ -1,0 +1,20 @@
+This indicator refers to the proportion of the adult population who feel safe walking alone in their 
+neighbourhood  after dark . 
+ 
+  
+ Last updated:  2024 -07-29 
+“Neighbourhood” – the indicator aims to capture  fear of crime in the context of peopl e’s everyday lives. 
+It does so by limiting the area in question to the “neighbourhood” or “area  they live in ”. Various other 
+formulations of local neighbourhood may be appropriate depending on cultural, physical and language 
+context . Providing a universally applicable definition of neighborhood is challenging, as one’s 
+neighbourhood is a subjective concept that will mean different things to different people.1  
+ 
+“After dark ”- the indicator should specifically capture  respondent’s feelings and perceptions when  
+walking alone after dark . The specific reference to darkness  is important  because according to research ,2 
+darkness is one of the factors individuals perceive  as important when assessing whether  a situation is 
+dangerous.  While the specific reference to “after dark” is the preferrable wording  and widely used in 
+crime victimisation survey s,3 a suitable alternative wording is “at night”.4 Specifying an exact time of the 
+day (e.g. 6pm), however, is not advisable as darkness (not time of day per se) is the factor that affects 
+individuals perception of safety , and cross -national as well as seasonal variation in the onset of darkness 
+makes i t problematic to establish a universally suitable threshold  to define nighttime.  
+ 

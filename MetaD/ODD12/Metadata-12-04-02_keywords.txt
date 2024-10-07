@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+hazardous waste : 0.7034
+waste hazardous : 0.6958
+municipal waste : 0.6484
+waste refers : 0.6321
+waste generated : 0.6259
+electronic waste : 0.6232
+waste definition : 0.6215
+waste waste : 0.6172
+waste indicator : 0.6117
+waste municipal : 0.5992
+----------------------------------------------------

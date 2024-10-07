@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+pollution mean : 0.5820
+air pollution : 0.4907
+mean population : 0.4806
+diameters pm : 0.4686
+mean annual : 0.4658
+annual concentration : 0.4627
+measure air : 0.4467
+particles microns : 0.4400
+average : 0.4393
+average urban : 0.4361
+----------------------------------------------------

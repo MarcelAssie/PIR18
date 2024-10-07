@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+gdp real : 0.7188
+real gdp : 0.7126
+gdp calculated : 0.6797
+output gdp : 0.6745
+gdp : 0.6596
+estimates gdp : 0.6551
+gdp refers : 0.6523
+product gdp : 0.6355
+refers gdp : 0.6351
+----------------------------------------------------

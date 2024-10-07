@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+exports goods : 0.6347
+global exports : 0.5992
+exports : 0.5785
+exports developing : 0.5586
+trade balance : 0.5386
+countries ldcs : 0.5272
+goods services : 0.4833
+payments bop : 0.4510
+merchandise trade : 0.4495
+ldcs share : 0.4376
+----------------------------------------------------

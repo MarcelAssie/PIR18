@@ -1,0 +1,38 @@
+Indicator 1 4.a.1 shows the annual national research budget allocated by governments in the field of 
+marine technology, relative to the overall national governmental research and development budget in 
+general.  
+ 
+  Last u pdated:  2024-08-02 
+Definitions and mechanisms used in the develo pment of the SDG indicator 14.a.1 are based on the IOC 
+Criteria and Guidelines on Transfer of Marine Technology  – IOCCGTMT (originally published and endorsed 
+by IOC Member States in 2005 . These guidelines provide an internationally agreed definition of wha t is 
+understood by the term marine technology  and have been referenced in various UN General Assembly 
+Resolutions and specifically in the formulation of SDG target 14.a. These are further explained in the 
+Global Ocean Science Report (GOSR) referenced below . 
+ 
+Marine technology as defined in the IOCCGTMT refers to instruments, equipment, vessels, processes and 
+methodologies required to produce and use knowledge to improve the study and understanding of the 
+nature and resources of the ocean and coastal areas. Toward this end, marine technology may include 
+any of the following components:  
+a) Information and data, in a user -friendly format, on marine sciences and related marine 
+operations and services;  
+b) Manuals, guidelines, criteria, standards, reference materials;  
+c) Sampling and methodology equipment (e.g., for water, geological, biological, chemical samples);  
+d) Observation facilities and equipment (e.g. remote sensing equipment, buoys, tide gauges, 
+shipboard and other means of ocean observation);  
+e) Equipment f or in situ and laboratory observations, analysis and experimentation;  
+f) Computer and computer software, including models and modelling techniques;  
+g) Expertise, knowledge, skills, technical/scientific/legal know -how and analytical methods related 
+to marine scie ntific research and observation.  
+ 
+  
+The concepts used for the definition and calculation of the indicator 14.a.1 are based on sim ilar concepts 
+used in the UNESCO Science Report (2010, 2015).These reports present GERD data (gross domestic 
+expenditure on research and experimental development) as a share of GDP (gross domestic product) and 
+further provide the R&D (research and developm ent) expenditure by sector of performance in % (Table 
+S2 in the 2015 UNESCO Science Rep ort). In addition , UIS publishes science field specific R&D, e.g. natural 
+science s (http://data.uis.unesco.org/).  
+ 
+The definitions and classifications used to collect R& D data are based on the ‘Frascati Manual: Proposed 
+Standard Practice for Surveys on Research and Experimental Development’ (OECD , 2002 ). 
+ 

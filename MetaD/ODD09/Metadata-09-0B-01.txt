@@ -1,0 +1,56 @@
+Definitions:  
+The proportion of medium -high and high -tech industry (MHT hereafter) value added in total value added 
+of manufacturing (MVA hereafter) is a ratio value between the value added of MHT industry and MVA.  
+ 
+  Last updated:  2024-03-28 
+ The value added of an industry (industry value added) is a survey concept that refers to the given industry’s 
+net output derived from the difference of gross output and  intermediate consumption. Manufacturing 
+sector  is defined according to the International Standard Industrial Classification of all Economic Activities 
+(ISIC) Revision 3 (1990) or Revision 4 (2008). It refers to industries belonging to Section  D in ISIC R evision 3 
+or Section  C in ISIC Revision 4.  
+ 
+Technology classification is based on research and development (R&D) expenditure relative to value 
+added (R&D intensity  hereafter) .  Data for R&D intensity are presented in a report published by the OECD 
+(OECD, 2003 ; Galindo -Rueda  and Verger, 2016 , for ISIC Revision 3 and 4 respectively ), which also 
+proposes a taxonomy for industry groups with different ranges of R&D expenditure relative to their gross 
+value added. MHT industries have  traditionally been defined exclusively to manufacturing industries. 
+However, there have been recent efforts (Galindo -Rueda and Verger, 2016) to extend the definition to 
+non-manufacturing industries as well. Nevertheless, medium -high and high technology se ctors are 
+primarily represented by manufacturing industries.  
+ 
+The following table includes the classification of MHT industries by ISIC Rev. 3 and ISIC Rev. 4.  
+ 
+ISIC 
+Rev.4  Description  ISIC 
+Rev.3  Description  
+20 Manufacture of chemicals and chemical 
+products  24 Manufacture of chemicals and chemical 
+products  
+21 Manufacture of basic pharmaceutical 
+products and pharmaceutical 
+preparations  29 Manufacture of machinery and equipment 
+n.e.c.  
+252 Manufacture of weapons and ammunition  30 Manufacture of office, accounting and 
+computing machinery  
+26 Manufacture of computer, electronic and 
+optical products  31 Manufacture of electrical machinery and 
+apparatus n.e.c.  
+27 Manufacture of electrical equipment  32 Manufacture of radio, television a nd 
+communication equipment and apparatus  
+28 Manufacture of machinery and 
+equipment n.e.c.  33 Manufacture of medical, precision and 
+optical instruments, watches and clocks  
+29 Manufacture of motor vehicles, trailers 
+and semi -trailers  34 Manufacture of motor vehicles, trailers 
+and semi -trailers  
+30* Manufacture of other transport 
+equipment   35** Manufacture of other transport 
+equipment  
+325 Manufacture of medical and dental 
+instruments and supplies    
+* Excluding 301 ( Building of ships and boats)  
+** Excluding 351 ( Building and repairing of ships and boats)  
+ 
+MVA is the value added of manufacturing industry, which is Section C of ISIC Rev.4  or Section D of ISIC 
+Rev.3.  
+ 

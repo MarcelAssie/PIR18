@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+ecosystem indicator : 0.5881
+ecosystem measured : 0.5424
+water ecosystems : 0.5350
+wetlands sdg : 0.5331
+measurements ecosystem : 0.5146
+observations ecosystem : 0.4763
+mangroves data : 0.4725
+sdg indicator : 0.4625
+----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+regulations ihr : 0.5896
+assessment ihr : 0.5787
+ihr states : 0.5417
+health regulations : 0.4951
+advocacy ihr : 0.4845
+international health : 0.4793
+ihr implementation : 0.4669
+health capacities : 0.4436
+self assessed : 0.4341
+----------------------------------------------------

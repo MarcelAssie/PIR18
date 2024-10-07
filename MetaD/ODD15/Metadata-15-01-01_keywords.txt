@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+trees area : 0.5900
+forest management : 0.5875
+forest defined : 0.5829
+forest area : 0.5544
+areas forest : 0.5401
+tree height : 0.5199
+forest land : 0.5174
+hectares trees : 0.5131
+includes forest : 0.5069
+----------------------------------------------------

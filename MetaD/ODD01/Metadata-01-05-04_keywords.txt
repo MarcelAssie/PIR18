@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+disaster risk : 0.6075
+policy disaster : 0.5463
+integrate disaster : 0.5433
+relating disaster : 0.5353
+2030 disaster : 0.5283
+risk reduction : 0.4895
+environmental resilience : 0.4560
+local disaster : 0.4474
+disaster : 0.4457
+risk strengthening : 0.4371
+----------------------------------------------------

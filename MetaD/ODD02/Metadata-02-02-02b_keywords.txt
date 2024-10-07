@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+height wasting : 0.5432
+prevalence wasting : 0.5130
+wasting weight : 0.4781
+wasting assessed : 0.4626
+weight height : 0.4466
+child growth : 0.4153
+wasting including : 0.3661
+arm circumference : 0.3620
+report wasting : 0.3547
+----------------------------------------------------

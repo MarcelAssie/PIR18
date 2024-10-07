@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+respondents satisfaction : 0.5493
+services populations : 0.5147
+services income : 0.5128
+government services : 0.5083
+services quality : 0.5038
+survey initiative : 0.5021
+survey results : 0.5004
+used survey : 0.4996
+public satisfaction : 0.4981
+survey respondents : 0.4924
+----------------------------------------------------

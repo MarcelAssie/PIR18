@@ -1,0 +1,38 @@
+Last updated:  2024 -03-28 
+Definitions:  The indicator “Implementation of standard accounting tools to monitor the economic and 
+environmental aspects of tourism sustainability” relates to  the degree of implementation in countries of 
+the Tourism Satellite Account (TSA) and the System of Environmental and Economic Accounts (SEEA) tables 
+that are to date considered most relevant and feasible for monitoring sustainability in tourism. These tab les 
+are: 
+• TSA Table 1 on inbound tourism expenditure  
+• TSA Table 2 on domestic tourism expenditure  
+• TSA Table 3 on outbound tourism expenditure  
+• TSA Table 4 on internal tourism consumption  
+• TSA Table 5 on production accounts of tourism industries  
+• TSA Table 6 domestic supply and internal tourism consumption  
+• TSA Table 7 on employment in tourism industries  
+• SEEA table water flows  
+• SEEA table energy flows  
+• SEEA table GHG emissions  
+• SEEA table solid waste  
+ 
+The TSA tables should be implemented following the  Tourism Satellite Account: Recommended 
+Methodological Framework 2008  and the environmental tables should be implemented following the 
+System of Economic -Environmental Accounting 2012 . 
+ 
+  
+The concepts and template pr esentation tables related to Tourism Satellite Accounts can be found in the 
+Tourism Satellite Account: Recommended Methodological Framework 2008  (TSA: RMF 2008) which 
+provides the common conceptual framework for constructing a TSA. It adopts the basic system of concepts, 
+classifications, definitions, tables and aggregates of the System of National Accounts 2008 (SNA 2008). The 
+UN Statistical Commission t ook note of the TSA: RMF 2008 document at its 39th session (26 -29 February 
+2008) , which  updates and replaces the previous TSA:  RMF 2000 that was approved by the United Nations 
+Statistical Commission at its 31st session (29 February -3 March 2000).  
+ 
+The concepts and template presentation tables related to water, energy, Greenhouse gas ( GHG ) emission 
+and solid waste can be found in System of Environmental -Economic Accounting - Central Framework  (SEEA -
+CF). The SEEA -CF is an international statistical standard for measuring the environment and its relationship 
+with the economy. It contains an internationally agreed set of standard concepts, definitions, classifications, 
+accounting rules and tables to produce internationally comparable statistics . The UN Statistical Commission 
+adopted the SEEA Central Framework at its 43rd session (28 February – 2 March 2012).  
+ 

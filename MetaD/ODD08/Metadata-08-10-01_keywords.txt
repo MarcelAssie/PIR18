@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+atms scaled : 0.6021
+atms refers : 0.5604
+number atms : 0.5579
+atms 100 : 0.5418
+atms country : 0.5381
+machines atms : 0.5231
+atms : 0.5135
+commercial banks : 0.5071
+bank branches : 0.4726
+----------------------------------------------------

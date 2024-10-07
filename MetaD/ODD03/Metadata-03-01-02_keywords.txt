@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+childbirth care : 0.6596
+proportion childbirths : 0.6409
+childbirths attended : 0.5841
+maternal newborn : 0.5818
+childbirth : 0.5809
+competent maternal : 0.5778
+women newborns : 0.5636
+viding childbirth : 0.5451
+----------------------------------------------------

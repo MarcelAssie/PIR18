@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+oecd frascati : 0.5646
+development researchers : 0.5168
+frascati manual : 0.4984
+development oecd : 0.4977
+edition frascati : 0.4795
+development comprise : 0.4308
+experimental development : 0.4263
+development gross : 0.4256
+----------------------------------------------------

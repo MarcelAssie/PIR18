@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+tb incidence : 0.6171
+prevalence tb : 0.5931
+tb diagnosis : 0.5094
+tb disease : 0.5057
+tuberculosis tb : 0.4794
+tb cases : 0.4421
+relapse tb : 0.4403
+recapture modelling : 0.4197
+----------------------------------------------------

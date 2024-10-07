@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+industry mht : 0.5757
+manufacturing sector : 0.5682
+refers industries : 0.5369
+industry value : 0.5364
+manufacturing industries : 0.5140
+mht industries : 0.5124
+industries isic : 0.4996
+industries medium : 0.4996
+----------------------------------------------------

@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+migration governance : 0.6571
+regulating migration : 0.6057
+govern migration : 0.6002
+migration policy : 0.5795
+national migration : 0.5621
+migration national : 0.5507
+migration management : 0.5466
+----------------------------------------------------

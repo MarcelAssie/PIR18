@@ -1,0 +1,7 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+resources freshwater : 0.5899
+renewable freshwater : 0.5888
+freshwater withdrawal : 0.5844
+freshwater resources : 0.5763
+----------------------------------------------------

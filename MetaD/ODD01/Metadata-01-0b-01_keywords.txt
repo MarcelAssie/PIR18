@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+monetary poverty : 0.6643
+poor monetary : 0.5655
+poverty determined : 0.5301
+consumption poverty : 0.5291
+poverty levels : 0.5255
+poverty : 0.5038
+expenditures governments : 0.4887
+directly monetary : 0.4855
+government spending : 0.4830
+----------------------------------------------------

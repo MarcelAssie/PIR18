@@ -1,0 +1,49 @@
+Definitions:  
+Food waste  is food and associated inedible parts removed from the human food supply chain in the 
+following sectors: retail and other distribution of food; food service (restaurants, schools, hospitals, other 
+canteens, etc.); and households. “Removed from the human food supply chain” means one of the following 
+end destinations: landfill, controlled combustion, sewer, litter/discard s/ refuse, co/anaerobic digestion, 
+compost/aerobic digestion or land application.  
+ 
+The indicator aims to measure the total amount of food that is wasted in tonnes. It complements SDG 
+12.3.1(a) on Food Loss (which is under the custodianship of FAO). Both in dicators look to divide the food 
+value chain and measure the efficiency of the food system.  
+ Last updat ed: 2024 -07-29 
+The food waste indicator is calculated at two levels, which are presented in Table 1 below.  
+ 
+Table 1: Two levels of  indicator 12.3.1(b) on food waste  
+Name  Measurement  
+Level I indicator:   
+Food waste estimates for each sector  
+ Existing data and extrapolation to other countries  
+ 
+Level II indicator:  
+Food waste generation tracked at a 
+national level  
+ Direct measurement of food waste in retail, food service 
+and households  at the national level . Sufficiently accurate 
+for tracking.  
+ 
+ 
+  
+Food: Any substance  — whether processed, semi -processed, or raw  — that is intended for human 
+consumption. “Food” includes drink and any substance that has been used in the manufacture, 
+preparation, or treatment of food. “Food” also includes material that has spoiled and is therefore no longer 
+fit for human consumption. It does not include cosmetics, tobacco, or substances used only as drugs. It 
+does not incl ude processing agents used along the food supply chain, for example, water to clean or cook 
+raw materials in factories or at home.  
+ 
+Inedible (or non -edible) parts: Components associated with a food that, in a particular food supply chain, 
+are not intended to be consumed by humans. Examples of inedible parts associated with food could include 
+bones, rinds, and pits/stones. “Inedible parts” do not include packaging. What is considered inedible varies 
+among users (e.g., chicken feet are consumed in some food s upply chains but not others), changes over 
+time, and is influenced by a range of variables including culture, socio -economic factors, availability, price, 
+technological advances, international trade, and geography.   
+ 
+Municipal Solid Waste (MSW)  includes wa ste originating from households, commerce , and trade, small 
+businesses, office buildings and institutions (schools, hospitals, government buildings). It also includes 
+bulky waste (e.g., old furniture, mattresses) and waste from selected municipal services,  e.g., waste from 
+park and garden maintenance, waste from street cleaning services (street sweepings, the content of litter 
+containers, market cleansing waste), if managed as waste. Further information on municipal solid waste is 
+defined in the SDG indicat or methodology for 11.6.1.  
+ 

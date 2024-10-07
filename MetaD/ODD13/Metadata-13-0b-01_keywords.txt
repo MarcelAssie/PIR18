@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+ndcs intends : 0.5494
+ndcs accordance : 0.5316
+contributions ndcs : 0.5095
+subsequent ndcs : 0.4780
+ldcs ndcs : 0.4644
+ndc interim : 0.4600
+ndcs updated : 0.4547
+ndc : 0.4156
+paris agreement : 0.4149
+sids ldcs : 0.4135
+----------------------------------------------------

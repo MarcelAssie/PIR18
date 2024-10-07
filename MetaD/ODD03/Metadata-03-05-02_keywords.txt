@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+alcohol consumption : 0.6939
+alcohol consumed : 0.6880
+tourist alcohol : 0.6133
+alcohol tourists : 0.5940
+consuming alcohol : 0.5932
+alcohol visiting : 0.5843
+alcohol defined : 0.5840
+alcohol content : 0.5828
+alcohol calculated : 0.5720
+alcohol legal : 0.5662
+----------------------------------------------------

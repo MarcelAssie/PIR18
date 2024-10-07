@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+aid trade : 0.5235
+oda donors : 0.4822
+trade development : 0.4502
+donors aid : 0.4446
+development welfare : 0.4341
+development finance : 0.4338
+economic infrastructure : 0.4228
+economic development : 0.4180
+----------------------------------------------------

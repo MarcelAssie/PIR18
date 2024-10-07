@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+weapons defined : 0.6242
+firearms defined : 0.6055
+arms refer : 0.5326
+considered arms : 0.5289
+firearms parts : 0.5199
+pistols rifles : 0.5197
+1899 arms : 0.5188
+arms illicit : 0.5180
+rifles carbines : 0.5165
+instruments arms : 0.5087
+----------------------------------------------------

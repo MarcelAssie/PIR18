@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+internet pedagogical : 0.6373
+computers internet : 0.5975
+purposes internet : 0.5936
+use ict : 0.5861
+internet defined : 0.5632
+ict infrastructure : 0.5442
+ict : 0.5418
+computers pedagogical : 0.5368
+internet : 0.5274
+----------------------------------------------------

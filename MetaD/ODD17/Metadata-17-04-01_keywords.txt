@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+services debt : 0.6532
+debt services : 0.6409
+external debt : 0.6097
+debt concepts : 0.6007
+debt data : 0.5838
+debt : 0.5674
+percentag debt : 0.5567
+guaranteed debt : 0.5421
+payments exports : 0.5092
+----------------------------------------------------

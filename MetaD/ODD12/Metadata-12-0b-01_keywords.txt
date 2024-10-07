@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+environmental accounting : 0.5922
+economic accounting : 0.5524
+environmental tables : 0.5051
+tourism expenditure : 0.4958
+tourism sustainability : 0.4797
+tourism consumption : 0.4728
+accounts tourism : 0.4664
+tsa tables : 0.4629
+sustainability tourism : 0.4577
+----------------------------------------------------

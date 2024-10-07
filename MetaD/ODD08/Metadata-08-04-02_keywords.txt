@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+consumption dmc : 0.6278
+economy dmc : 0.5858
+material consumption : 0.5786
+material economy : 0.5640
+dmc material : 0.5535
+dmc measures : 0.5469
+consumption materials : 0.5343
+dmc standard : 0.5096
+footprint mf : 0.5056
+----------------------------------------------------

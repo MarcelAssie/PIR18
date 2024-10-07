@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+social protection : 0.6117
+social insurance : 0.5370
+insurance social : 0.5165
+coverage social : 0.4635
+social assistance : 0.4576
+spl policies : 0.4478
+labor spl : 0.4306
+spl percentage : 0.4292
+protection indicators : 0.4270
+spl data : 0.4095
+----------------------------------------------------

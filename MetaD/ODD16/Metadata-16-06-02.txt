@@ -1,0 +1,151 @@
+)  
+  
+This indicator measures levels of public satisfaction with people’s last experience with public services, in 
+the three service areas of healthcare, education and government services (i.e. services to obtain 
+government -issued identification documents and se rvices for the civil registration of life events such as 
+births, marriages and deaths)3. This is a survey -based indicator which emphasizes citizens’ experiences  over 
+general perceptions, with an eye on measuring the availability and quality of services as they were actually 
+delivered to survey respondents .  
+ 
+3 The formulation ‘government services’ (also commonly called ‘admin istrative services’) is used in this metadata to mirror 
+this more colloquial language used in the survey questionnaire.  Last updated:  2023 -03-31 
+Respondents are asked to reflect on their last experience with each service, and to provide a rating on five 
+‘attributes’, or service -specific standards,  of healthcare, education and government services  (such as 
+access, affordability, quality of facilities, etc.). A final question asks respondents for their overall satisfaction 
+level with each service.  
+It is recommended that survey results, at a minimum, be disaggregated by sex, income and place of 
+residence (urban/rural, administrative regions). To the extent possible, all efforts should be made to also 
+disaggregate results by disability status and by ‘nationally relevant population groups’.  
+A detailed questionnaire and implementation manual to produce the indicator is defined in the SDG 16 
+Survey Initiative4: The questions for 16.6.2 on healthcare, education and government  services can be 
+inserted into existing surveys, u sing these surveys’ additional batteries on demographics for subsequent 
+disaggregation of results. This modular ‘add -on’ technique also allows for the cross -tabulation of 
+satisfaction levels with other socioeconomic variables found in the larger survey, su ch as the health 
+conditions of the respondent. This enables a more comprehensive analysis of disparities in the provision of 
+services, and helps to pinpoint specific factors that influence satisfaction levels.   
+  
+• Public services:  As stated by the United Nations High Commissioner for Human Rights, “States are 
+responsible for delivering a variety of services to their populations, including education, health and 
+social welfare services. The provision of these services is essential to the protectio n of human rights 
+such as the right to housing, health, education and food. The role of the public sector as service 
+provider or regulator of the private provision of services is crucial for the realization of all human rights, 
+particularly social and econ omic rights.”5  
+ 
+While several definitions of ‘public services’ exist, they tend to have in common a focus on ‘common 
+interest' and on ‘government responsibility’. For instance, the European Commission defines such 
+services as “Services that public author ities of the Member States clarify as being of general interest 
+and, therefore, subject to specific public service obligations.”6 Similarly, the African Charter on Values 
+and Principles of Public Service and Administration (African Union, 2011) defines a public service as 
+“Any service or public -interest activity that is under the authority of the government administration”.  
+ 
+• Public services ‘of general interest’: The methodology for SDG 16.6.2 carefully defines the scope of 
+healthcare and education services to ensure that the focus is placed on services that are truly of general 
+interest . In the case of healthcare services, for instance, preventive and primary healthcare services 
+can be said to be truly ‘of general interest’: these services are relevant to everyone and they are most 
+commonly found in both urban and rural areas. This might  not be the case for hospitals that provide 
+tertiary care, and as such hospital and specialist care is excluded from the questions on healthcare 
+services. Likewise, in the case of education services, primary and lower secondary education services 
+ 
+4 The SDG 16 Survey Initiative jointly developed by UNDP, UNODC and OHCHR provides a high quality, well 
+tested tool that countries can use to measure progress on many of the survey -based indicators under SDG16.  
+It can support data production on peace, justice and inclusion (SDG 16) . The methodology was welcomed by 
+the 53rd United Nations Statistical Commission ( E/2022/24 -E/CN.3/2022/41 ) 
+5 Good Governance Practices for the Protection of Human Rights  (United Nations publication, Sales No. E.07.XIV.10), p. 38 – 
+cited in Report of the United Nations High Commissioner for Human Rights on the role of the public service as an essential 
+component  of good governance in the promotion and protection of human rights, Human Rights Council, 25th Session, 23 
+December 2013, A/HRC/25/27   
+6 European Commission’s 2011 Communication regarding ‘ A Quality Framework for Services of General Interest in Europe’, 
+p. 3  Last updated:  2023 -03-31 
+can be sa id to be truly ‘of general interest’, given their universality. University education, however, is 
+excluded from the questions on education services.  
+ 
+• ‘Last experience’ of public services in the past 12 months:  Indicator 16.6.2 focuses on respondents’ 
+‘last experience of public services’, and specifies a reference period of “the past 12 months” to avoid 
+telescoping effects and to minimize memory bias effects. This means that only respondents who will 
+have used healthcare, education and government services i n the past 12 months will proceed to 
+answer the survey questions.  
+ 
+• Service -specific standards – or ‘attributes’: The United Nations High Commissioner for Human Rights 
+explains that “A human rights -based approach to public services is integral to the desig n, delivery, 
+implementation and monitoring of all public service provision. Firstly, the normative human rights 
+framework provides an important legal yardstick for measuring how well public service is designed and 
+delivered and whether the benefits reach r ights -holders”7. For instance, the Committee on Economic, 
+Social and Cultural Rights specifies that “The availability, accessibility, acceptability and quality of 
+health -related services should be facilitated and controlled by States. This duty extends to  a variety of 
+health -related services ranging from controlling the spread of infectious diseases to ensuring maternal 
+health and adequate facilities for children.”8 Similarly, with respect to education services, the same 
+Committee underlines that “States should adopt a human rights approach to ensure that [education 
+services are] of an adequate standard and do not exclude any child on the basis of race, religion, 
+geographical location or any other defining characteristic.”9   
+ 
+• Healthcare services: The questions on healthcare services focus on respondents’ experiences (or that 
+of a child in their household who needed treatment and was accompanied by the respondent) wi th 
+primary healthcare services (over the past 12 months) – that is, basic health care services provided by 
+a government/public health clinic, or covered by a public health system. It can include health care 
+services provided by private institutions, as lon g as such services are provided at reduced (or no) cost 
+to beneficiaries, under a public health system. Respondents are specifically asked not to include in their 
+answers any experience they might have had with hospital or specialist medical care services (for 
+example, if they had a surgery), or with dental care and teeth exams (because in many countries, dental  
+care is not covered by publicly funded healthcare systems). Attributes -based questions on healthcare 
+services focus on 1) Accessibility (related to  geographic proximity, delay in getting appointment, 
+waiting time to see doctor on day of appointment); 2) Affordability; 3) Quality of facilities; 4) Equal 
+treatment for everyone; and 5) Courtesy and treatment (attitude of healthcare staff).  
+ 
+• Education se rvices: The questions on education services focuses on respondents’ experience with the 
+public school system  over the past 12 months, that is, if there are children in their household whose 
+age falls within the age range spanning primary and secondary educ ation in the country. Public schools 
+are defined as “those for which no private tuition fees or major payments must be paid by the parent 
+or guardian of the child who is attending the school; they are state -funded schools.” Respondents are 
+asked to respond  separately for primary and secondary schools if children in their household attend 
+school at different levels. Attributes -based questions on education services focus on 1) Accessibility 
+(with a focus on geographic proximity); 2) Affordability; 3) Quality of facilities; 4) Equal treatment for 
+everyone; and 5) Effective delivery of service (Quality of teaching).  
+ 
+• Government services: The battery on government services focuses exclusively on two types of 
+government services: 1) Services to obtain government -issued identification documents (such as 
+ 
+7 Report of the United Nations High Commissioner for Human Rights on the role of the public service as an essential 
+component of good governance in the promotion and protection of human  rights, Human Rights Council, 25th Session, 23 
+December 2013, A/HRC/25/27   
+8 Committee on Economic, Social and Cultural Rights, General Comment No. 14 (2000) on the right to the highest 
+attainable standard of health, para. 4.    
+9 Committee on Economic, S ocial and Cultural Rights, general comment No. 13 (1999) on the right to education, para. 1.   Last updated:  2023 -03-31 
+national identity cards, passports, driver’s licenses and voter’s cards) and 2) services for the civil 
+registration of life events su ch as births, marriages and deaths. This particular focus on these two types 
+of services arises from the high frequency of use of these services. Attributes -based questions on 
+government services focus on 1) Accessibility; 2) Affordability; 3) Equal treatm ent for everyone; 4) 
+Effective delivery of service (delivery process is simple and easy to understand); and 5) Timeliness.  
+ 
+Selection of relevant disaggregation dimensions   
+• Relevant international legal frameworks: Indicator 16.6.2 aims to provide a better understanding 
+of how access to services and the quality of services differ across localities and across various 
+demographic groups. This aim is supported by international human rights law:   
+ 
+- Article  25 (c) of the International Covenant on Civil and Political Rights provides for the 
+right to equal access  to public service. In its report on the role of the public services as an 
+essential component in the promotion and protection of human rights,  the United Nations 
+High Commissioner for Human Rights reminds that “States must bear in mind that there 
+are demographic groups in every society that may be disadvantaged in their access to 
+public services, namely women, children, migrants, persons with di sabilities, indigenous 
+persons and older persons. States need to ensure that the human rights of these groups 
+are not undermined and that they receive adequate public services.”10 The High 
+Commissioner also calls attention to the fact that “ Poverty acts as  a major barrier in 
+relation to public services.”    
+ 
+- The obligations to ensure equality and non -discrimination are recognized in article  2 of 
+the Universal Declaration of Human Rights and are encountered in many United Nations 
+human rights instruments, suc h as the International Covenant on Civil and Political Rights 
+(arts.  2 and  26), the International Covenant on Economic, Social and Cultural Rights  (art.  2 
+(2)), the Convention on the Rights of the Child (art.  2), the International Convention on 
+the Protect ion of the Rights of All Migrant Workers and Members of Their Families (art.  7) 
+and the Convention on the Rights of Persons with Disabilities (art.  5). In  terms of public 
+services, this means that States have an immediate obligation to ensure that delibera te, 
+targeted measures are put into place to secure substantive equality and that all individuals 
+have an equal opportunity to enjoy their right to access public services.  
+ 
+• Empirical analysis: Statistical analysis of available datasets on citizen satisfacti on with healthcare 
+and education services11 shows that the demographic variables that are most strongly correlated 
+with satisfaction with healthcare and education services are (1) income (by far the strongest 
+determinant of satisfaction levels), (2) sex, a nd (3) place of residence (rural/urban). There is no 
+statistically significant association between the age of respondents and satisfaction levels.  
+ 

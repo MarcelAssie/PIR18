@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+results indicators : 0.5260
+country development : 0.4707
+objectives results : 0.4482
+national development : 0.4272
+assess performance : 0.4232
+goals country : 0.4178
+results frameworks : 0.4142
+definition results : 0.4051
+----------------------------------------------------

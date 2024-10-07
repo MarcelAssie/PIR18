@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+parity indices : 0.7383
+indicates parity : 0.6606
+parity groups : 0.5249
+parity : 0.5057
+indices : 0.4004
+ratio indicator : 0.3956
+indices require : 0.3849
+indicator value : 0.3755
+underlying indicator : 0.3660
+represent ratio : 0.3175
+----------------------------------------------------

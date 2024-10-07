@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+energy intensity : 0.5795
+total energy : 0.5301
+defined energy : 0.5282
+energy supply : 0.5255
+economic output : 0.4993
+purposes gdp : 0.4975
+gdp measure : 0.4865
+energy statistics : 0.4740
+intensity defined : 0.4731
+----------------------------------------------------

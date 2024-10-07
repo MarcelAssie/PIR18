@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+bribe payment : 0.6337
+experiencing bribe : 0.5808
+considered bribe : 0.5369
+yes bribe : 0.5142
+officials transactions : 0.4996
+informal payment : 0.4912
+bribe : 0.4815
+transactions respondent : 0.4741
+public transactions : 0.4512
+refusals considered : 0.4424
+----------------------------------------------------

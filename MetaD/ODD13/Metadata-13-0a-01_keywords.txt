@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+climate finance : 0.5350
+finance scf : 0.5010
+unfccc count : 0.4454
+report financial : 0.4400
+unfccc secretariat : 0.4349
+data unfccc : 0.4319
+finance flows : 0.4254
+unfccc : 0.4213
+reporting climate : 0.4201
+reports annex : 0.4120
+----------------------------------------------------

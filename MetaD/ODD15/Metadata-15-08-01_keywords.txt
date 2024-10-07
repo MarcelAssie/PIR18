@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+invasive alien : 0.6831
+invasive species : 0.6656
+efforts invasive : 0.5637
+alien species : 0.5436
+controlling invasive : 0.5392
+invasive : 0.5284
+relevant invasive : 0.5276
+known invasive : 0.5150
+species relevant : 0.5067
+----------------------------------------------------

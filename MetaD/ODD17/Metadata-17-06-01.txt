@@ -1,0 +1,30 @@
+The indicator fixed broadband subscriptions, by speed, refers to the number of fixed -broadband 
+subscriptions to the public Internet, broken down by advertised download speed.  
+ 
+ 
+1 In March 2023, the series description was updated from “ Fixed Internet broadband subscriptions per 100 
+inhabitants, by speed ” to “ Fixed broadband subscriptions per 100 inhabitants, by speed ”; content in the 
+series is the same.  Last updated: 2024-07-29 
+The indicator is currently broken down by the following subscription speeds:  
+ 
+- 256 kbit/s to less than 2 Mbit/s subscriptions: Refers to all fixed broadband Internet subscriptions with 
+advertised downstream speeds equal to, or greater than, 256 kbit/s and less than 2 Mbit/s.  
+ 
+- 2 Mbit/s to less than 10 Mbit/s subscriptions: Refers to all fixed -broadband Internet subscriptions with 
+advertised downstream speeds equal to, or greater than, 2 Mbit/s an d less than 10 Mbit/s.  
+ 
+- Equal to or above 10 Mbit/s subscriptions (4213_G10). Refers to all fixed -broadband Internet 
+subscriptions with advertised downstream speeds equal to, or greater than, 10 Mbit/s.  
+ 
+  
+Fixed broadband subscriptions refer to subscriptions to high -speed access to the public Internet (a TCP/IP 
+connection), at downstream speeds equal to, or greater than, 256 kbit/s. This includes cable modem, DSL, 
+fibre -to-the-home/building, other fixed -broadband subscriptions, satellite broadba nd and terrestrial 
+fixed wireless broadband. This total is measured irrespective of the method of payment. It excludes 
+subscriptions that have access to data communications (including the Internet) via mobile -cellular 
+networks. It should include fixed WiMA X and any other fixed wireless technologies. It includes both 
+residential subscriptions and subscriptions for organizations.  
+ 
+The Internet is a worldwide public computer network. It provides access to a number of communication 
+services including the World Wide Web and carries e -mail, news, entertainment and data files.  
+ 

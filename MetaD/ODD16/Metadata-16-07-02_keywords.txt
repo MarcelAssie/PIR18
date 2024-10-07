@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+participation decision : 0.4428
+political efficacy : 0.4415
+survey initiative1 : 0.4261
+survey based : 0.4235
+political : 0.4153
+established survey : 0.4120
+politicians political : 0.4087
+indicator measures : 0.3926
+indicator sdg : 0.3875
+political allows : 0.3834
+----------------------------------------------------

@@ -1,0 +1,18 @@
+Coverage of social protection and labor  (SPL) is the percentage of population participating in social 
+insurance, social assistance , and labor market programs. Estimates include both direct and indirect Last updated:  2024 -03-28 
+ beneficiaries  (number of individuals who live in a household where at least one member participates in a 
+social protection program ). 
+ 
+  
+Coverage Coverage  is estimated by three social protection area sareas: social insurance, social assistance 
+and l abor market programs.  The indicator is calculated for the entire population and for the poorest 
+quintile , which is generated using using per capita income income or consumption  including transfer s.    
+ 
+The source of the indicator is the Atlas of Social Protection: Indicators of Resilience and Equity (ASPIRE).  
+ASPIRE is the World Bank's premier compilation of indicators to analyze the scope and performance of 
+social protection programs.  Developed by the Social Protection and Jobs (SPJ) Global Practice, ASPIRE 
+provides indicators for 1 30+ countries on social assistance, social insurance and labor market programs 
+based on both program -level administrative data and national household survey data.  ASPIRE is an 
+ongoing project that aims to improve SPL data quality, comparability, and availabi lity to better inform 
+SPL policies and programs.  
+ 

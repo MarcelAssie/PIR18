@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+estimates emissions : 0.5362
+total emissions : 0.5348
+sector emissions : 0.5301
+emissions manufacturing : 0.5186
+emissions gdp : 0.5137
+emissions economy : 0.5117
+dioxide emissions : 0.5091
+emissions fuel : 0.4634
+refers industries : 0.4619
+----------------------------------------------------

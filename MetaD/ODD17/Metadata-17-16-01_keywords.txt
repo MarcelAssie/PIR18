@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+stakeholder monitoring : 0.5386
+global partnership : 0.5008
+development cooperation : 0.4963
+stakeholder development : 0.4896
+partnerships development : 0.4892
+stakeholder partnerships : 0.4872
+frameworks indicators : 0.4847
+sustainable development : 0.4778
+multi stakeholder : 0.4723
+partnership monitoring : 0.4485
+----------------------------------------------------

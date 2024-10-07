@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+bribery defined : 0.7508
+definitions bribery : 0.7373
+concept bribery : 0.6866
+bribery national : 0.6833
+officials bribery : 0.6819
+bribery affecting : 0.6759
+bribery : 0.6572
+bribery foreign : 0.6537
+administrative bribery : 0.6470
+iccs bribery : 0.6469
+----------------------------------------------------

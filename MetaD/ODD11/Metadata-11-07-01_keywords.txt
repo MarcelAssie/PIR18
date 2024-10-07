@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+definitions cities : 0.5818
+cities implemented : 0.5375
+urbanisation degurba : 0.5301
+cities areas : 0.5059
+delineate cities : 0.4986
+urban areas : 0.4907
+areas cities : 0.4884
+urban agglomerations : 0.4871
+metropolitan areas : 0.4798
+----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+birth certificate : 0.7273
+certificate birth : 0.7149
+births registered : 0.6550
+birth registration : 0.6368
+registration birth : 0.5979
+births accordance : 0.5740
+vital record : 0.5672
+documents birth : 0.5657
+certificate civil : 0.5285
+----------------------------------------------------

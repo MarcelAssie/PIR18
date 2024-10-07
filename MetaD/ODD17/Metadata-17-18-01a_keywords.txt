@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+assessed odin : 0.5646
+odin evaluation : 0.5172
+sdg odin : 0.4878
+odin covera : 0.4750
+inventory odin : 0.4512
+odin elements : 0.4480
+availability data : 0.4479
+openness data : 0.4450
+odin : 0.4413
+data offerings : 0.4235
+----------------------------------------------------

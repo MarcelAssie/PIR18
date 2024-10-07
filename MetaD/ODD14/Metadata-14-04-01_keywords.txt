@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sustainable levels : 0.4758
+levels abundance : 0.4532
+sustainability fisheries : 0.4431
+fisheries abundance : 0.4402
+abundance estimated : 0.4223
+calculate indicators : 0.4154
+classify sustainability : 0.4145
+relative abundance : 0.4140
+levels measures : 0.4121
+fish stocks : 0.3958
+----------------------------------------------------

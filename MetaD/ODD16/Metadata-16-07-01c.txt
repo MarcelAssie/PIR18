@@ -1,0 +1,117 @@
+This metadata is focused only on the judiciary  sub-component of indicator 16.7.1.  It measures 
+representation in the judiciary with respect to the sex, age, disability  and population group status, and 
+assesses how these correspond to the proportion of these groups in society as a whole.   
+More specifically, this indicator measures the proportional representation of various demographic groups 
+(women, youth, persons with d isability, and nationally relevant population groups) across two key decision -
+making positions  in the judiciary  (judges and registrars ) as well as across three ‘levels’ of courts , namely 
+‘supreme/constitutional courts, ’ ‘higher -level courts ’ and ‘lower -level courts ’. 
+ 
+  
+This indicator builds on various concepts and terms from international statistical standards and 
+classifications as well as normative frameworks . The concepts and terms used for this indicator reflect 
+general features of judiciaries around the world, while recognizing that different countries have their own 
+legal systems informed by their specific histories and cultures, which in turn determine th e specific 
+functions and form of the judiciary in a given country. The below concepts and definitions were elaborated 
+with a view to being broad enough to accommodate these national specificities : 
+ 
+- Focus on formal court system: The judiciary  is the system of courts that constitutes the branch of 
+central authority in a country concerned with the administration of justice. The judiciary sub -
+component of SDG indicator 16.7.1 focuses on the formal court system and does not include within 
+its scope informal mech anisms (e.g., religious, tribal, or traditional dispute resolution 
+mechanisms).  
+ 
+- Levels of courts: The indicator disaggregates between three ‘levels’ of courts to reflect the way in 
+which courts are used, namely ‘supreme/constitutional courts, ’ ‘higher -level courts ’ (courts that 
+handle national issues  or appeals ), and ‘lower -level courts ’ (courts – typically of first instance – 
+that commonly handle local issues, such as disputes involving family, land , and government 
+benefits and services). This broad categorization is elaborated to encompass the diversity of 
+judicial systems  across the world, including across different types of legal systems (common law, 
+civil law, etc.) and across different types of government (unitary, federal, etc.) : 
+• Supreme/constitutional  courts : Supreme/constitutional  courts are the courts within a 
+country with the highest authority to interpret the law . The category include s both  
+supreme courts (i.e., the highest judicial bodies in the domain of civil and criminal 
+jurisdiction) and constitutional courts (i.e., the leg al bodies responsible for ensuring the 
+compatibility of legislation with the  provisions and principles of the constitution in each 
+country, in particular to protect constitutionally -established rights and freedoms). 
+Constitutional courts include those cour ts that sit only on constitutional issues, as well as 
+courts that sit as constitutional courts only on occasion when constitutional issues arise. 
+In federal court systems, highest courts include supreme courts and constitutional courts 
+at the national leve l, but excludes  any supreme courts that may exist at sub -national 
+levels , as these should be included within the category of higher -level courts . In certain 
+jurisdictions, the supreme court and constitutional court might be one and the same and 
+therefore t here would be just one court  for the category of s upreme/constitutional 
+courts . Last updated:  2022-03-31 
+• Higher -level  courts : Higher -level courts include other high courts, high -level courts, and 
+courts of appeal. In federal court systems, higher -level courts include higher -level courts 
+at both the national and sub -national levels, and also include supreme courts at sub -
+national  levels.  
+• Lower -level  courts : Lower -level courts encompass first -instance or frontline courts of local 
+jurisdiction. This category includes local courts, district courts, magisterial courts, and 
+magistrate courts. In federal court systems, lower -level court s include lower -level courts 
+of both national and sub -national court systems.   
+• Finally, a note about specialized courts  is in order : The determination of whether 
+specialized courts or tribunals, or a subset thereof, fall within supreme/constitutional, 
+higher -level, or lower -level courts is left to the discretion of countries. Specialized courts 
+are courts that have limited jurisdictio n over a specialized subject matter, and may 
+include, but are not limited to, war crimes courts, gender -based violence courts, 
+commercial courts, finance courts, labour courts, family courts, property courts, military 
+courts, administrative courts, social welfare courts, juvenile courts, courts for organized 
+crime, narcotics, and corruption, etc. In many jurisdictions, specialized courts are 
+considered higher -level courts. In such jurisdictions, these specialized courts might have 
+exclusive or original juri sdiction over certain claims, and therefore act in the first instance 
+for those claims, but are nevertheless considered higher -level courts. In other 
+jurisdictions, specialized courts might be considered lower -level courts or supreme courts. 
+Some jurisdict ions might categorize a subset of specialized courts as higher -level courts 
+and another subset as lower -level courts.  
+ 
+- Decision -making positions : Target 16.7 focuses on ‘decision -making’ and the extent to which it is 
+responsive, inclusive, and representative. In the judiciary, decision -making power and leadership 
+roles are essentially held by individuals in two types of positions, namely judges and registrars. 
+Judges play important roles in decision -making by carrying out their core functions of interpreting 
+laws and adjudicating controversies over the application of laws to particular circumstances. 
+Registrars assist judges in performing their funct ions and play an important role in case 
+management, including by scheduling hearing dates, registering court documents, receiving fees 
+emanating from court matters, preparing case files, drafting decisions, and executing court 
+decisions. Additionally, in c ertain circumstances, they can perform judicial or quasi -judicial 
+functions themselves, including making decisions on interlocutory applications, assessment of 
+damages, and applications for the entry of default judgments.  The judiciary sub -component of SDG  
+indicator 16.7.1 does not cover other positions such as: court -annexed alternative dispute 
+resolution professionals (individuals appointed by the state to decide upon an adjudicatory dispute 
+resolution process, such as arbitrators and mediators); non -legal court personnel (part -time or full -
+time individuals paid by the state to support the administration of the judicial system, such as 
+bailiffs, tipstaff, secretaries, notaries, paralegals, and administrators); or state -funded legal 
+professionals within the  justice sector (individuals paid by the state to carry out the representation 
+or prosecution of an individual in a legal proceeding, including prosecutors, public defenders, and 
+legal aid service providers). While these individuals play some role in the f unctioning of the justice 
+system as a whole and are supported by state funds, they do not constitute the judiciary as it is 
+understood by most countries. Additionally, they are typically accounted for in the public service 
+sub-component of SDG indicator 16 .7.1 ( i.e. SDG 16.7.1b).  
+• Judge  (alternatively called ‘justice’, ‘magistrate’, or ‘jurist’): A judge is a person authorized 
+to decide cases in a court of law. UN DESA’s Manual for the Development of a System of Last updated:  2022-03-31 
+Criminal Justice Statistics defines ‘professional judges or magistrates ’ as both full -time and 
+part-time officials authorized to hear civil, criminal, and other cases, including in appeal 
+courts, and to make dispositions in a court of law. This category includes associate judges 
+and magistrates who may be so authorized.3  
+• Registra r (alternatively called ‘clerk’, ‘judicial officer’, ‘Rechtspfleger ’, ‘secretario de 
+estudio y cuenta ’, ‘secretario general ’, ‘secretario de acuerdos ’, ‘greffiers’ , ‘ المسجلون’  :)A 
+registrar is a judicial officer of the court entrusted with judicial or quasi -judicial functions 
+who has autonomous competence. A registrar’s decisions may be subject to appeal in 
+certain circumstances . 
+ 
+- Definition of “youth”:  youth for the purpose of  this indicator is defined as 44 years old and below, 
+because positions in the judiciary require training and experience. This cutoff also provides 
+consistency with sub -component (a) of SDG 16.7.1 on parliaments which uses a similar cutoff for 
+‘youth’, bas ed on the Interparliamentary Union’s definition of ‘young MPs’ as MPs aged 45 and 
+below (see metadata for SDG indicator 16.7.1(a)).  
+ 
+- Information for part -time positions should be given in full -time equivalents  and should be 
+counted only for permanent posts actually filled. It is important to consider the part -time or full -
+time status of posts  to address the risk that some target groups may be underemployed and over -
+reported (e.g., if women are more likely to re ceive part -time posts than full -time posts, there might 
+be a false impression that women are equally represented in those posts, when in reality they 
+adjudicate a smaller portion of cases than their male counterparts due to their part -time status).   
+ 
+- Disability status:  To disaggregate data on judges and registrars by disability status, it is 
+recommended that countries use the Short Set of Questions on  Disability  elaborated by the 
+Washington Group .4 
+ 

@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+land consumption : 0.6332
+consumption land : 0.5593
+estimating land : 0.5525
+percentage land : 0.5276
+measure land : 0.5119
+land uses : 0.4824
+growth land : 0.4805
+constitutes consumption : 0.4672
+rate urbanized : 0.4466
+----------------------------------------------------

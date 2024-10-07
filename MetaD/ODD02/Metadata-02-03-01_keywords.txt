@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+measurement agriculture : 0.5553
+volume agricultural : 0.5418
+agricultural production : 0.5246
+revenues agricultural : 0.5130
+livestock revenues : 0.5084
+numeraire aggregating : 0.5055
+livestock production : 0.4777
+production units : 0.4657
+livestock sector : 0.4648
+----------------------------------------------------

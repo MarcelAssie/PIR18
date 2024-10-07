@@ -1,0 +1,39 @@
+The target includes two components. The first component is that transaction costs for migrant 
+remittances should be 3% or less by 2030. This transaction cost should be intended as  “Global a verage 
+total cost of sending $200 (or equivalent in local sending currency) and expressed a s % of amount 
+sent” . This indicator is read ily available and published on a quarterly basis by the World Bank in the 
+Remittance Prices Worldwide database, which covers 365  country corridors, from 48 sending to 105  
+receiving countries . The second component is to eliminate corridor where cost is 5% or higher. This 
+should be intended in the sense that it should be possible for remittance senders to send money to the 
+beneficiary for an average cost of 5% or less of the amount sent. For this purpose, it should s uffice that in Last updated: 20 22-03-31 
+   
+ each corridor there are at least 3 services, meeting a defined set of service requirements (including 
+service quality, reach etc.), for which the average is 5% or less.  
+ 
+  
+International remittance transfer.  A cross -border person -to-person payment of relatively low value. The 
+transfers are typically recurrent payments by migrant workers (who send money to their families in their 
+home country every month). In the report, the term “remittance transfer” is used for simplicity (ie it is 
+assumed the transfer is international).  
+ 
+Remittance service.  A service that enables end users to send and/or receive remittance transfers.  
+ 
+Remittance service provider (RSP).  An entity, operating as a business, that provides a remittance service 
+for a price to end users, either directly or through agents. These include both banks and money transfer 
+operators, as defined below.  
+ 
+Money transfer operator (MTO).  A non -deposit taki ng payment service provider where the service  
+involves payment per transfer (or possibly payment for a set or series of transfers) by the  sender to the 
+payment service provider (for example, by cash or bank transfer) – i.e. as opposed to a situation where 
+the payment service provider debits an account held by the  sender at the payment service provider.  
+MTOs may include both traditional players focusing on delivering funds in cash and innovative players 
+which may adopt a variety of different business models for the delivery of the transactions.  
+ 
+Price. The total cost to the end users of sending a remittance transfer (including the fees  charged to the 
+sender and the margin by which the exchange rate charged to  the end users is above the current 
+interbank exchange rate).  
+ 
+Transparent service . A remittance service for which the sending cost can be split into its two 
+components: transfer fee and foreign exchange margin. If a provider does not disclose the foreign 
+exchange rate applicable to the tran saction, then the service is considered not transparent.  
+ 

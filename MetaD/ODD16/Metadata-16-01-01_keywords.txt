@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+homicide defined : 0.6309
+intentional homicides : 0.6017
+homicide intentional : 0.5940
+homicide iccs : 0.5923
+homicides irrespective : 0.5378
+unlawfulness killing : 0.5365
+homicide killing : 0.5312
+killings corresponding : 0.4989
+homicide : 0.4960
+----------------------------------------------------

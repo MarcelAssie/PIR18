@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+housing sustainable : 0.6581
+housing urban : 0.6517
+housing globally : 0.6193
+housing sector : 0.6126
+housing neighbourhoods : 0.6113
+housing inadequate : 0.6039
+housing housing : 0.5992
+housing conditions : 0.5897
+inadequate housing : 0.5874
+housing slums : 0.5856
+----------------------------------------------------

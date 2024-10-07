@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+rotterdam convention : 0.5134
+basel convention1 : 0.5002
+convention rotterdam : 0.4908
+convention mercury : 0.4906
+convention designation : 0.4885
+convention submitted : 0.4784
+convention annexes : 0.4711
+convention official : 0.4679
+----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+oda grants : 0.6632
+assistance oda : 0.5575
+income oecd : 0.5458
+development welfare : 0.5277
+defines oda : 0.5239
+poverty reduction : 0.5191
+oda recipients : 0.4982
+development assistance : 0.4873
+oda basic : 0.4722
+----------------------------------------------------

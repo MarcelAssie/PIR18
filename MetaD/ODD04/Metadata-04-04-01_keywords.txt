@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+measure ict : 0.6808
+ict skills : 0.6701
+ict related : 0.6528
+assessment ict : 0.6141
+technology ict : 0.6077
+certain ict : 0.6065
+ict : 0.6049
+individuals ict : 0.5982
+level ict : 0.5616
+basic ict : 0.5590
+----------------------------------------------------

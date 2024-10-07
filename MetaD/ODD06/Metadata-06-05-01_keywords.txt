@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+environment iwrm : 0.5885
+iwrm management : 0.5819
+management iwrm : 0.5724
+concept iwrm : 0.5528
+definition iwrm : 0.5528
+iwrm institutions : 0.5472
+iwrm status : 0.5390
+applicable iwrm : 0.5235
+implement iwrm : 0.5182
+official iwrm : 0.5121
+----------------------------------------------------

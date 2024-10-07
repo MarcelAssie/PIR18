@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+basel standards : 0.4704
+indicators fsis : 0.4693
+iii leverage : 0.4643
+leverage ratio : 0.4403
+fsi calculated : 0.4399
+regulatory tier : 0.4369
+assets regulatory : 0.4331
+capital regulatory : 0.4315
+financial soundness : 0.4245
+assets fsi : 0.4240
+----------------------------------------------------

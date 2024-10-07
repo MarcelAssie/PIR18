@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+gender budgeting : 0.5348
+fiscal indicator : 0.5231
+measure government : 0.5019
+government budget : 0.4938
+inform budget : 0.4930
+budget authority : 0.4929
+budget classification : 0.4842
+budget tracking : 0.4814
+policies gender : 0.4808
+----------------------------------------------------

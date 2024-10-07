@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+expenditure heritage : 0.6161
+heritage expenditure : 0.6106
+currency : 0.5787
+currencies : 0.5653
+rates currency : 0.5507
+ational currency : 0.5438
+currency conversion : 0.5353
+different currencies : 0.5281
+currency usd : 0.5170
+----------------------------------------------------

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+personal remittances : 0.6138
+remittances comprise : 0.5630
+remittances expressed : 0.5300
+personal transfers : 0.5292
+transfers compensation : 0.5284
+remittances : 0.5261
+remittances received : 0.5175
+gdp personal : 0.4880
+gdp inflow : 0.4835
+transfers include : 0.4753
+----------------------------------------------------

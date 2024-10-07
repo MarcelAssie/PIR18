@@ -1,0 +1,9 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+local government : 0.6460
+government consists : 0.5092
+legislation local : 0.5030
+constitutes local : 0.4804
+government members : 0.4770
+government functions : 0.4669
+----------------------------------------------------

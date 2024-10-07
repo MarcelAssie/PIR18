@@ -1,0 +1,316 @@
+SDG 11.6 targets an improved environmental performance of cities and SDG indicator 11.6.1 measures 
+the progress of the performance of a city’s municipal solid waste management. It quantifies the 
+parameters listed below, which are essential for planning and implementing sustainable Municipal Solid 
+Waste (MSW). In most cases, these variables are generally compatible with those collected th rough the 
+UNSD/UNEP Questionnaire on Environment Statistics (waste section).  
+a) Total MSW generated in the city (tonnes/day)  Last updated:  2021 -12-20 
+b) Total MSW collected in the city (tonnes/day)  
+c) Proportion of population with access to basic MSW collection services in the city (%)  
+d) Total MSW managed in controlled facilities in the city (tonnes/day)  
+e) MSW composition  
+It is important to realize that part (b) total MSW collected and (c) proportion of the population with 
+access to basic MSW collection services are two different concepts. W hile part (b) refers to amounts of 
+waste reaching waste management facilities, part (c) considers the population who receive waste 
+collection services. In some cities it is common to dump waste ‘collected’ from households into the 
+surrounding areas instead  of transporting it to a disposal or recovery facility. In this case the household 
+has waste collection services, but the collected waste is polluting the environment. Therefore, it is 
+possible that a city has a high proportion of population with access to  basic waste collection services, but 
+the amount of MSW collected and transported to waste management facilities is low.  
+Although part (c) is covered by SDG 1 (“End poverty in all its forms everywhere”), under target 1.4 and 
+SDG indicator 1.4.1 which focus es on universal access to basic services, with a particular emphasis on 
+poor and vulnerable groups, this document provides guidelines, quality ladders and household 
+questionnaires to measure the proportion of the population with access to ‘basic’ MSW colle ction 
+services.  The household questionnaire can be integrated into the national census or global household 
+survey mechanism such as Demographic and Health Survey or UNICEF’s Multiple Indicator Cluster 
+Surveys. Due to the lack of standardized concepts and d efinitions that differentiate these two concepts, 
+many cities report the proportion of collected MSW in their own terms. Therefore, this metadata 
+distinguishes clearly between part (b) and (c) and offers introduction to the approaches to monitor and 
+report  on part (c).  
+ 
+  
+Municipal Solid Waste (MSW)  
+Municipal Solid Waste  includes waste  generated from: households, commerce and trade, small 
+businesses, office buildings and institutions (schools, hospitals, government buildings). It also includes 
+bulky waste (e.g. white goods, old furniture, mattresses) and waste from selected municipal services, e.g. 
+waste from park and garden maintenance, waste from street cleaning services (street sweepings, the 
+content of litter containers, market clea nsing waste), if managed as waste. The definition excludes waste 
+from municipal sewage network and treatment, municipal construction and demolition waste.  
+Generation  
+Total MSW Generated  is the sum of the amount of municipal waste collected plus the estimated amount 
+of municipal waste from areas not served by a municipal waste collection service.  
+Collection  
+Total MSW Collected  refers to the amount of municipal waste collected by or on behalf of municipalities, 
+as well as municipal waste collected by t he private sector. It includes mixed waste, and fractions collected 
+separately for recovery operations (through door -to-door collection and/or through voluntary deposits).  Last updated:  2021 -12-20 
+ 
+Figure 1: What MSW collected means for SDG indicator 11.6.1  
+The proportion of the population with Access to Basic MSW Collection Services is  the proportion of the 
+population who receive waste collection services that are either basic, improved or full, defined by the 
+service ladder of MSW collectio n service. It considers aspects of frequency, regularity and proximity of 
+the collection points (  
+Table  1). This aspect is measured under the SDG indicator 11.6.1 assessment but it is reported through a 
+different indicator, SDG 1.4.1. on access to basic services.  
+Table 1: Ladder of MSW collection service that household receives  
+SERVICE 
+LEVEL  DEFINITION  
+Full  Receiving door -to-door MSW collection service with basic frequency and regularity and MSW is 
+collected in three or more separate fractions; or  
+ Having a designated collection point within 200m distance served with basic frequency and 
+regularity and without major littering and MSW is collected in three or more separate fractions    
+Improved   Receiving door -to-door MSW collection service with basic frequency and regularity and MSW is 
+collected in a minimum of two, separate fractions (e .g. wet and dry fractions)  
+ Having a designated collection point within 200m distance served with basic frequency and 
+regularity and without major littering and MSW is collected in a minimum of two, separate 
+fractions (e .g. wet and dry fractions)  
+Basic   Receiving door -to-door MSW collection service with basic frequency and regularity or  
+ Having designated collection point within 200m distance served with basic frequency and 
+regularity  
+Limited   Receiving door -to-door MSW collection service without basic frequency and regularity;  
+ Having a designated collection point within 200m distance but not served with basic frequency 
+and regularity; or  
+ Having designated collection point in further than 200 m distance.  
+No  Receiving no waste collection service  
+Note: Basic frequency and regularity: served at least once a week for one year  
+ 
+Recovery  
+Recovery  means any operation the principal result of which is waste serving a useful purpose by replacing 
+other materials which would otherwise have been used to fulfil a particular function, or waste being 
+prepared to fulfil that function, in the plant or in the wider economy.  
+Last updated:  2021 -12-20 
+Recovery facilities  include any facility with recovery activities defined above including  recycling, 
+composting, incineration with energy recovery, materials recovery facilities (MRF), mechanical biological 
+treatment (MBT), etc.  
+Material Recovery Facility  (MRF; or materials reclamation facility, materials recycling facility, multi re -use 
+facility) is a specialized recovery facility that receives, separates and prepares recyclable materials for 
+marketing to further processors or end -user manufacturers.  
+Mechanical Biological Treatment  (MBT) facilities are a type of recovery facility that combines  an MRF 
+with a form of biological treatment such as composting or anaerobic digestion.  
+Incineration  is the controlled combustion of waste with or without energy recovery.  
+Incineration with Energy Recovery  is the controlled combustion of waste with energy r ecovery.  
+Recycling  is defined under the UNSD/UNEP Questionnaire and further for the purpose of these indicators 
+as “Any reprocessing of waste material in a production process  that diverts it from the waste stream, 
+except reuse as fuel.  Both reprocessing a s the same type of product, and for different purposes should 
+be included. Recycling within industrial plants i.e., at the place of generation should be excluded.” For the 
+purpose of consistency with the Basel Convention reporting and correspondence with E UROSTAT 
+reporting system, Recovery operations R2 to R12 listed in Basel Convention Annex IV, are to be 
+considered as ‘Recycling’ under the UNSD reporting for hazardous waste.  
+Recycling value chain  usually involves several steps of the private recycling in dustry which purchase, 
+process and trade materials from the point a recyclable material is extracted from the waste stream until 
+it will be reprocessed into products, materials or substances that have market value. In many low and 
+low-to-middle income coun tries, this involves informal waste pickers, many middlemen, traders, apex 
+traders and end -of-chain recyclers.  
+Apex traders  collect recyclable materials from different sources and suppliers (in different cities across 
+municipal or even national boundaries ) and supply them to different end -of-chain recyclers (sometimes 
+after pre -processing such as sorting, washing and bailing).  
+End-of-chain recyclers  purchase recyclable material from suppliers such as apex traders and reprocess it 
+into products, materials, or substances that have market value.  Last updated:  2021 -12-20 
+ 
+Figure 2: Complexity in the recovery chain (plastic example)  
+Disposal  
+Disposal  means any operation whose main purpose is not the recovery of materials or energy even if the 
+operation has as a secondary consequence the reclamation of substances or energy.  
+Disposal Facilities  refer to sites which are regularly used by the public auth orities and private collectors, 
+regardless of their level of control and legality, to dispose of waste. Such sites may or may not have an 
+official recognition, a permit or a license.  Disposal sites may be managed in either a controlled or 
+uncontrolled man ner. The definition excludes other unrecognized places where waste is deposited 
+occasionally in small amounts which public authorities may organise clean ups to remove the waste from 
+these sites.  
+Landfill  is the deposit of waste into or onto land. It inclu des specially engineered landfill sites and 
+temporary storage of over one year on permanent sites. The definition covers both landfills at internal 
+sites, i.e. where a generator of waste is carrying out its own waste disposal at the place of generation, 
+and at external sites.  
+Control level of MSW recovery and disposal facilities  
+MSW Managed in Controlled Facilities  refers to MSW collected and transported to recovery and disposal 
+facilities with basic, improved or full control according to the Ladder of waste management facilities’ 
+control level ( Table 2: Ladder of waste management facilities’ control level. Table 2). The Ladder can be used as a 
+checklist for assessing the level of control of a particular recovery or disposal facility. The facility has the 
+level of control, where it checks the most boxes.  Note that the emphasis is on operational control rather 
+than engineering/design. A facility that is constructed to a high standard, but not operated in compliance 
+with Level 3 (or above) standard is not regarded as a controlled facility.  
+Table 2: Ladder of waste management facilities’ control level.  
+CONTROL 
+LEVEL  Landfill site  Incineration with energy 
+recovery  Other recovery facilities  
+Last updated:  2021 -12-20 
+ Full 
+Control   Waste daily covered  
+ Waste compacted  
+ Site fenced and full 24 -
+hour control of access  
+ Properly sited, designed 
+and functional sanitary 
+landfill  
+ Leachate containment and 
+treatment (naturally 
+consolidated clay on the 
+site or constructed liner)  
+ Landfill gas collection and 
+flaring and/or utilization  
+ Site staffed;  
+ Post closure plan  
+ Weighing and recording 
+conducted  
+ Protection of workers’ 
+health and safety   Built to and operating in 
+compliance with current 
+national laws and 
+standards including 
+stringent stack and GHG 
+emission criteria  
+ Emission controls are 
+conducted compliant to 
+environme ntal standards 
+and results of tests are 
+accessible and transparent 
+to citizens/users  
+ Fly ash managed as a 
+hazardous waste using the 
+best appropriate 
+technology  
+ Weighing and recording 
+conducted  
+ A strong and robust 
+environmental regulator 
+inspects and monitors 
+emissions  
+ Protection of workers’ 
+health and safety  
+  Built to and operating in 
+compliance with current 
+national laws and standards  
+ Pollution control compliant 
+to environmental standards  
+ Protection of workers’ 
+health and safety  
+ The nutrient value of 
+biologically treated 
+materials utilized for 
+separate organic waste (e.g. 
+in agriculture/horticulture)  
+ Materials are extracted, 
+processed according to 
+market specifications, and 
+sold to recycling markets  
+ Weighing and recording of 
+incoming loads conducted   
+ All outgoing loads registered 
+by weight and type of 
+destination  
+Improved 
+Control   Waste periodically covered  
+ Waste compacted  
+ Site fenced and control of 
+access  
+ Leachate containment and 
+treatment  
+ Landfill gas collection 
+(depending on landfill 
+technology)  
+ Site staffed  
+ Weighing and recording 
+conducted  
+ Provisions made for 
+workers’ health and safety  N/A  Engineered facilities with 
+effective process control  
+ Pollution control compliant 
+to environmental standards  
+ Protection of workers’ 
+health and safe ty 
+ Evidence of materials 
+extracted being delivered 
+into recycling or recovery 
+markets.  
+ Weighing and recording of 
+incoming and outgoing 
+loads conducted  
+Basic 
+Control   Some use of cover  
+ Waste compacted  
+ Sufficient equipment for 
+compaction  
+ Site fenced and control of 
+access  
+ No fire/smoke existence  
+ Site staffed  
+ Weighing and recording 
+conducted  
+ The slope of the landfill is 
+stable, landslides not 
+possible  
+ Provisions made for 
+workers’ health and safety   Emissi on controls to 
+capture particulates  
+ Trained staff follow set 
+operating procedures  
+ Equipment maintained  
+ Ash management carried 
+out 
+ Weighing and recording 
+conducted  
+ Provisions made for 
+workers’ health and safety   Registered facilities with 
+marked boundaries  
+ Some environmental 
+pollution control  
+ Provisions made for 
+workers’ health and safety  
+ Weighing and recording of 
+incoming and outgoing 
+loads conducted  
+Limited 
+Control   No cover  
+ Some compaction  
+ Some equipment for 
+compaction  
+ Some level of access 
+control/fencing  
+ No leachate control  
+ Some fire/smoke existence  
+ Site staffed  N/A  Unregistered faci lities with 
+distinguishable boundaries  
+ No environmental pollution 
+control  
+ No provisions made for 
+workers’ health and safety  
+ Weighing and recording 
+conducted  Last updated:  2021 -12-20 
+ Weighing and recording 
+conducted  
+ The slope of the landfill is 
+unstable with high 
+possibility of a landslide  
+No 
+Control   No cover  
+ No compaction  
+ No/ limited equipment  
+ No fencing  
+ No leachate control  
+ Fire/smoke existence  
+ No staff  
+ The slope of the landfill is 
+unstable with high 
+possibility of a landslide   Uncontrolled burning  
+ No air/water pollution 
+control   Unregistered locations with 
+no distinguishable 
+boundaries  
+ No provisions made for 
+workers’ health and safety  
+ No environmental pollution 
+control  
+ 
+Formality of MSWM  
+The Formality of MSWM  activities is an important aspect to take into consideration when conducting the 
+SDG indicator 11.6.1 assessment. MSWM activities are carried out by formal and i nformal economic 
+units, both public and private, and by generators for the purpose of prevention, collection, 
+transportation, treatment and disposal of waste.  
+Formal waste management  relates to waste management activities undertaken by units working within 
+the context of the formal governmental or non -state actors regulating and operating waste management; 
+that is, organisations or individuals registered as economic units with governm ent authorities and 
+assumed to generally abide by local laws and regulations related to wastes and their management.  
+Informal waste management, recycling and recovery  refers  to waste management and recovery activities 
+undertaken by individuals, economic units, or enterprises which are not sponsored, financed, recognised, 
+supported, organised or acknowledged by the formal solid waste authorities, or which operate in 
+violation of or in competition with formal authorities (Scheinberg et al., 2010). Informal units are 
+assumed to abide by local waste -related laws and regulations when it is in their interests to do so.  
+ 

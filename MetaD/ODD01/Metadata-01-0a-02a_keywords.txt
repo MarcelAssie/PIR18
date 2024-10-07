@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sdg indicators : 0.5121
+expenditure cofog : 0.4837
+indicator expenditure : 0.4671
+indicators iaeg : 0.4521
+expenditure education : 0.4311
+indicators database : 0.4096
+datasets sg_xpd_educ : 0.4084
+education component : 0.3991
+indicator assessing : 0.3982
+----------------------------------------------------

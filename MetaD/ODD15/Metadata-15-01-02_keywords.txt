@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+biodiversity covered : 0.6235
+protected areas : 0.5936
+conservation measures : 0.5782
+areas ecosystem : 0.5759
+biodiversity : 0.5231
+persistence biodiversity : 0.5136
+defined iucn : 0.5061
+associated ecosystem : 0.5026
+biodiversity contribute : 0.4936
+----------------------------------------------------

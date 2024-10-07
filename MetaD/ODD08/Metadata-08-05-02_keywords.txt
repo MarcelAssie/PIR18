@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+employment unemployment : 0.6319
+definitions employment : 0.6196
+employment refers : 0.6170
+employment assessed : 0.6044
+employment defined : 0.6040
+available employment : 0.5967
+measure employment : 0.5919
+----------------------------------------------------

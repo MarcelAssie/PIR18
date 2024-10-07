@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+debt concessional : 0.6072
+concessional transfer : 0.5505
+development loans : 0.5456
+grants developmenta : 0.5347
+concessional sustainable : 0.5305
+financing sustainable : 0.5270
+development finance : 0.5237
+grants transfers : 0.4874
+regarded concessional : 0.4830
+----------------------------------------------------

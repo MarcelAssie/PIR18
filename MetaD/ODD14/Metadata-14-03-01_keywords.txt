@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+ocean acidification : 0.6855
+ocean acidity : 0.6698
+marine acidity : 0.6591
+ocean carbon : 0.5611
+seawater ph : 0.5566
+acidity carbon : 0.5228
+chemistry seawater : 0.5062
+acidification decrease : 0.4952
+ph concentration : 0.4867
+acidification provide : 0.4831
+----------------------------------------------------

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+greenhouse gas : 0.5171
+ghg emissions : 0.5170
+gas ghg : 0.4915
+annual ghg : 0.4871
+national ghg : 0.4786
+convention unfccc : 0.4451
+ghg inventories : 0.4410
+climate change : 0.4351
+inventories climate : 0.4342
+unfccc reporting : 0.4324
+----------------------------------------------------

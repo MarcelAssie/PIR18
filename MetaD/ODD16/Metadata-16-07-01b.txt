@@ -1,0 +1,103 @@
+Definitions:  
+ 
+1 SDG 5.5.1 – Proportion of seats held by women in national parliaments and local governments; and SDG 5.5.2  – 
+Proportion of women in managerial positions . 
+2 SDG 10.2.1 – Proportion of people living below 50 per cent of median income, by age, sex and persons with disabi lities . Last updated: 2022-03-31 
+2 This metadata is focused only on the public service sub -component of indicator 16.7.1. It measures 
+representation in the public service with respect to the sex, age, disability and population group status of 
+public servants, and assesses how these correspo nd to the proportion of these groups in society as a 
+whole.  
+More specifically, this indicator measures the proportional representation of various demographic groups 
+(women, youth, persons with disability, and nationally relevant population groups) across various 
+occupational categories as well as across two administrative levels (national and sub -national).  
+ 
+Concepts : 
+This indicator builds on various concepts and terms from international statistical standards and 
+classifications as well as normative frameworks:  
+- Institutional units covered:  The concepts of ‘General Government Sector’ and ‘General 
+Government  Employment’3, as found in the 2008 System of National Accounts (SNA) but with 
+some minor modifications4, define the boundaries of the institutional units covered under this 
+indicator.  
+• The following institutional units should be included: All units of central and “state” (or 
+equivalent sub -central level) government, i.e. all ministries, agencies, department s and 
+non-profit institutions that are controlled by public authorities.  
+• The following institutional units should be excluded: local government units5, the military, 
+social security funds, public corporations and quasi -corporations that are owned and 
+cont rolled by government units.  
+ 
+- Administrative levels: As outlined above, this indicator covers employment at both central and 
+sub-central levels of government (but excludes local government). Employment data will therefore 
+be collected at two levels:  
+• Employment in national/central government; and  
+• Employment in ‘state government units’, described in the 2008 SNA as “institutional units 
+whose fiscal, legislative and executive authority extends only over the individual ‘states’ 
+into which the country as a whole may be divided”.6  
+ 
+- Occupational categories in the public service: Target 16.7 calls for responsive, inclusive, 
+participatory and representative decision -making at all levels.  As such, reporting on indicator 
+ 
+3 It is important to note that data on general government employment is different from data on ‘public sector 
+employment’, calculated under the International Labour Organisation  (ILO) framework, which includes employment in 
+public corporations (here to be excluded)  
+4 The following types of government employees are included in the SNA definition of general government, but excluded for 
+the purposes of this indicator: local governme nt units (see also next footnote for further detail), social security funds, 
+military.  
+5 Employment data from local government units should not be collected for reporting on indicator 16.7.1.  Even though 
+‘local government units’, defined in the 2008 SNA a s “institutional units whose fiscal, legislative and executive authority 
+extends over the smallest geographical areas distinguished for administrative and political purposes”, are, in principle, part 
+of the general government sector, this metadata does not require reporting on government employment at this 
+administrative level. In order for local government units to be treated as institutional units, the 2008 SNA specifies that 
+they “must be entitled to own assets, raise funds and incur liabilities by  borro wing on their own account; similarly, they 
+must have some discretion over how such funds are spent. They should also be able to appoint their own officers, 
+independently of external administrative control.” Since this is not the case in all countries, glob al reporting on this 
+indicator excludes this administrative level.   
+6 Such ‘states’ may be described by different terms in different countries. In some countries, especially small countries, 
+individual states and state governments may not exist. However, in large countries, especially those that have federal 
+constitutions, considerable powers and responsibilities may be assigned to state governments.”  Last updated: 2022-03-31 
+3 16.7.1(b) needs to be done separately for various levels of decision -making. Since there is no 
+international definition of ‘positions’ in the public service and therefore most countries have their 
+own national classification for public service positions, a harmonized set of occupational 
+categories in the public service is needed to ensure the comparability of data reported for this 
+indicator.    
+• The International Standard Classification of Occupations (ISCO -08) was used to identify 
+four ‘core’ occupational categories in the public service7 found to be relatively typical in 
+every government,  namely Managers (ISCO -08 Major Group 1), Professionals (ISCO -08 
+Major Group 2), Technicians and Associate Professionals (ISCO -08 Major Group 3) and 
+Clerical Support Work ers (ISCO -08 Major Group 4) .  
+• Moreover, the rationale of this indicator places a particular focus on ‘front -line service 
+workers’ which frequently interact directly with the public,8 such as police personnel, 
+education personnel, health personnel and fron t-desk administrative personnel. While 
+this list of front -line public service jobs is not exhaustive, these four categories were 
+selected given the substantial portion of public service jobs they account for, and the 
+frequent direct interaction these publi c servants have with the public.  
+ 
+- Appointed/elected positions:  In order to  ensure consistent reporting, it is important to distinguish 
+positions that are appointed (or elected) by the government or the head of government, and 
+career public servant positions obtained on the basis of merit and seniority. This indicator only 
+consid ers the latter – i.e. positions held by career public servants, obtained on the basis of merit 
+and seniority. NB: This consideration is most likely to affect positions in the ‘managers’ 
+occupational category. 9  
+ 
+- Disability status:  To disaggregate public servant data by disability status, it is recommended that 
+countries use the  Short Set of  Questions on  Disability  elaborated by the Washington Group .10   
+ 
+7 ISCO -08 is a tool for organizing jobs into a clearly defined set of groups according to the tasks and du ties undertaken in 
+the job. It is the basis for many national occupation classifications and the standard for labour information worldwide. A 
+job is defined in ISCO -08 as “a set of tasks and duties performed, or meant to be performed, by one person, includ ing for 
+an employer or in self -employment”. Occupation refers to the kind of work performed in a job. More specifically, the 
+concept of occupation is defined in ISCO -08 as a “set of jobs whose main tasks and duties are characterized by a high 
+degree of sim ilarity”.   
+8 Diverse representation among front -line service workers is important as it has been found to help raise the quality of 
+public services by improving the understanding of community needs and ameliorating social dialogue and communication 
+with t he wider population . (OECD (2009), Fostering diversity in the Public Service, Public Governance and Territorial 
+Directorate – Network on Public Employment and Management)  
+9 This is an important distinction with significant implications for reporting. For instance, appointing more women (or more 
+individuals from a certain disadvantaged population group) to leadership positions that change with elections is 
+fundamentally different (and can be done much more quickly) from promoting women (or a disadvantaged population 
+group) through the ranks to top positions in the public service. As such, if no distinction was made between appointed 
+positions and career public servants, countries deciding to include only on appointed positions may appear more 
+representative than countries reporting on career public servants.  
+10 UNDP’s Disability Based Inclusio n Report  details a pilot study in partnership with the South African statistical office on an 
+approach for using the Washington Group Short Set on Functioning to maintain data on the disability status of personnel 
+within the public service.  Last updated: 2022-03-31 
+4 

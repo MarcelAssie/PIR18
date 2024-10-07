@@ -1,0 +1,50 @@
+This metadata sheet is focused only on the first sub -component of indicator 16.7.1, namely on positions 
+in national legislatures held by individuals of each target population (sex, age, persons with disabilities, 
+and contextually relevant population groups ).  
+The legislative sub -component of indicator 16.7.1 aims to measure how representative of the general 
+population are the individuals occupying key decision -making positions in national legislatures. More 
+specifically, this indicator measures the proporti onal representation of various demographic groups 
+(women, age groups) in the national population amongst individuals occupying the following positions in 
+national legislatures: (1) Members, (2) Speakers and (3) Chairs of permanent committees in charge of t he 
+following portfolios: Foreign Affairs, Defence, Finance, Human Rights and Gender Equality. Furthermore, 
+it looks at the electoral and constitutional provisions adopted by countries to secure representation in 
+national legislatures of persons with disabi lities and contextually relevant population groups.  
+  
+The indicator is based on the following key concepts and terms:    
+• National legislature: A legislature (alternatively called ‘assembly’ or ‘parliament’) is the multi -
+member branch of government that considers public issues, makes laws and oversees the 
+executive.   
+o Unicameral / bicameral parliaments:  A legislature may consist of a single chambe r 
+(unicameral parliament) or two chambers (bicameral parliament). The organization of a 
+country’s legislature is prescribed by its constitution. Around the world, about 59% of all 
+countries have unicameral legislatures, while the remaining 41% are bicamera l1. To 
+ 
+1 Source: Structure of Parliaments, IPU New Parline database on national parliaments 
+<https://data.ipu.org/compare?field=country%3A%3Afield_structure_of_parliament#pie>  Last updated:  2023-12-15 
+allow for a comprehensive analysis, this indicator will consider both chambers in 
+bicameral parliaments.  
+• Member of Parliament (MP): A person who is formally an elected or appointed member of a 
+national legislature. This metadata considers all membe rs of lower and upper chamber 
+regardless of the selection modality (direct election, indirect election and appointment).  
+• Speaker: A Speaker (alternatively called ‘president’ or ‘chairperson’ of the legislature) is the 
+presiding officer of the legislature.  
+• Permanent committee (alternatively called ‘standing committee’): established for the full 
+duration of the legislature and generally aligned with the specific policy areas of key government 
+departments. For the purpose of SDG indicator 16.7.1(a), the perman ent committees in charge 
+of five portfolios are being considered: Foreign Affairs, Defence, Finance, Human Rights and 
+Gender Equality.  
+• Permanent Committee Chair:  A person designated to preside over the work of a permanent 
+committee, selected through nomina tion by political parties, election by MPs, appointment by 
+the Speaker, or other means.  
+• Disability: long -term physical, mental, intellectual or sensory impairments which in interaction 
+with various barriers may hinder the full and effective participation of disabled persons in society 
+on an equal basis with others.2 
+• Population group: The population of a country is a mosaic of different population groups that can 
+be identified according to racial or ethnic, language, migration status, religious affiliation, sexual 
+orientation, as well as disability status (UNECE). The indicator adopts a broad definition of 
+population groups, not limited to minorities3 and indigenous peoples4, in order to  capture all 
+nationally relevant groups tracked by a given parliament, which depends on the constitutional 
+and electoral measures in place to guarantee the representation of certain groups. Such 
+measures sometimes extend to groups other than ‘minorities’, such as, for instance, 
+occupational groups.5 
+ 

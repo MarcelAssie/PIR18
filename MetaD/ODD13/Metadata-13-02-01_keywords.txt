@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+ndcs intends : 0.5246
+definitions ndcs : 0.5052
+ndcs accordance : 0.4856
+contributions ndcs : 0.4776
+ndc interim : 0.4720
+paris agreement : 0.4585
+subsequent ndcs : 0.4520
+ndcs paris : 0.4397
+agreement nationally : 0.4363
+global stocktake : 0.4164
+----------------------------------------------------

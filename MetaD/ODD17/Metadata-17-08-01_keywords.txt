@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+internet users : 0.5989
+internet worldwide : 0.5418
+using internet : 0.5178
+internet defined : 0.4888
+indicator proportion : 0.4796
+months internet : 0.4778
+proportion individuals : 0.4687
+internet : 0.4642
+defined proportion : 0.4490
+----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+gender discrimination : 0.5645
+gender equality : 0.5538
+equality assessment : 0.5309
+discrimination women : 0.5149
+complaints gender : 0.4814
+constitute discrimination : 0.4712
+gender employment : 0.4689
+act discrimination : 0.4625
+prohibiting discrimination : 0.4601
+----------------------------------------------------

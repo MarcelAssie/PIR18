@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+childhood education : 0.6553
+primary education : 0.6486
+educational activities : 0.5647
+early childhood : 0.5601
+learning educational : 0.5594
+childhood primary : 0.5538
+educational tasks : 0.5128
+education programmes : 0.5111
+education defined : 0.5066
+learning programme : 0.4967
+----------------------------------------------------

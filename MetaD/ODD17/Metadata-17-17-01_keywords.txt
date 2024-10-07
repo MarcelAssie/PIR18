@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+infrastructure indicator : 0.6157
+infrastructure refers : 0.6071
+ppps defined : 0.5853
+partnership ppps : 0.5386
+infrastructure : 0.5257
+ppps contractual : 0.5022
+infrastructure transport : 0.4934
+partnerships infrastructure : 0.4769
+ppps : 0.4682
+----------------------------------------------------

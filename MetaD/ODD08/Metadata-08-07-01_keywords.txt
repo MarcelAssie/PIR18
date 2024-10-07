@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+child labour : 0.5871
+proportion children : 0.5038
+statistics child : 0.4874
+number children : 0.4845
+forms child : 0.4689
+labour statistics : 0.4636
+work children : 0.4600
+labour measurement : 0.4568
+children health : 0.4472
+----------------------------------------------------

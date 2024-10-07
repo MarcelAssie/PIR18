@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+expenditure health : 0.6768
+health expenditures : 0.6493
+household expenditure : 0.6381
+expenditure household : 0.6263
+denominator expenditure : 0.5744
+household health : 0.5616
+household consumption : 0.5581
+consumption expenditure : 0.5530
+income expenditure : 0.5487
+consumption household : 0.5446
+----------------------------------------------------

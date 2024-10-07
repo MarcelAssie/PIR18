@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+medicine affordability : 0.5242
+cost medicines : 0.5017
+proportion health : 0.4861
+health metric : 0.4771
+medicines core : 0.4771
+affordability medicine : 0.4481
+medicines selected : 0.4438
+cost effectiveness : 0.4423
+proportion facilities : 0.4337
+----------------------------------------------------

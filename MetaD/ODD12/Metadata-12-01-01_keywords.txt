@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sustainable consumption : 0.5776
+consumption production : 0.5178
+definition sustainable : 0.5116
+production sustainable : 0.5060
+policy instruments : 0.5049
+sustainable : 0.4946
+consumption : 0.4847
+supporting sustainable : 0.4710
+----------------------------------------------------

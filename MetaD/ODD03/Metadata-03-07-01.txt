@@ -1,0 +1,77 @@
+etadata  
+(Harmonized metadata template - format version 1. 1) 
+ 
+0. Indicator information (SDG_INDICATOR_INFO)  
+0.a. Goal (SDG_GOAL)  
+Goal 3: Ensure healthy lives and promote well -being for all at all ages  
+0.b. Target (SDG_TARGET)  
+Target 3.7: By 2030, ensure universal access to sexual and reproductive health -care services, including for 
+family planning, information and education, and the  integration of reproductive health into national 
+strategies and programmes  
+0.c. Indicator (SDG_INDICATOR)  
+Indicator 3.7.1: Proportion of women of reproductive age (aged 15 –49 years) who have their need for family 
+planning satisfied with modern methods  
+0.d. Series (SDG_SERIES_DESCR)  
+SH_FPL_MTMM - Proportion of women of reproductive age (aged 15 -49 years) who have their need for 
+family planning satisfied with modern methods [3 .7.1]  
+0.e. Metadata update (META_LAST_UPDATE)  
+2024 -03-28 
+0.f. Related indicators (SDG_RELATED_INDICATORS)  
+This indicator is linked to Target 3.8 (Achieve universal health coverage, including financial risk protection, 
+access to quality essential health -care services and access to safe, effective, qu ality and affordable essential 
+medicines and vaccines for all) because the provision of family planning information and methods to all 
+individuals who want to prevent pregnancy is an important component of achieving universal health 
+coverage.  
+This indicato r is also linked to Target 5.6 (Ensure universal access to sexual and reproductive health and 
+reproductive rights as agreed in accordance with the Programme of Action of the International Conference 
+on Population and Development and the Beijing Platform fo r Action and the outcome documents of their 
+review conferences) because meeting the demand for family planning is facilitated by increasing access to 
+sexual and reproductive health -care services, and also improves sexual and reproductive health and the 
+ability to exercise reproductive rights.  
+0.g. International organisations(s) responsible for global monitoring 
+(SDG_CUSTODIAN_AGENCIES)  
+Population Division, Department of Economic and Social Affairs (DESA)  
+United  Nations Population  Fund (UNFPA)  
+ 
+1. Data reporter (CONTACT)  
+1.a. Organisation (CONTACT_ORGANISATION)  
+Population Division, Department of Economic and Social Affairs (DESA)  Last updated:  2024 -03-28 
+United  Nations Population  Fund (UNFPA)  
+ 
+2. Definition, concepts, and classifications (IND_DEF_CON_CLASS)  
+2.a. Definit ion and concepts (STAT_CONC_DEF)  
+  
+The percentage of women of reproductive age (15 -49 years) currently using a modern method  of 
+contraception among those who desire either to have no (additional) children or to postpone the next 
+pregnancy . The indicator is also referred to as the  demand  for family planning satisfied with modern 
+methods . 
+ 
+  
+The percentage of women of reproductive age (15 -49 years) who have their need for family planning satisfied 
+with modern methods is also referred to as the proportion of demand satisfied by modern methods. The 
+components of the indicator are contraceptive prevalence (any method and modern methods) and unmet 
+need for family planning.  
+ 
+Contraceptive prevalence is the percentage of women who are currently using, or whose partner is currently 
+using, at least one method of contraception, regardless of the method used.  
+ 
+For analytical purposes, contraceptive methods are often classified as either modern or traditional. Modern 
+methods of contr aception include female and male sterilization, the intra -uterine device (IUD), the implant, 
+injectables, oral contraceptive pills, male and female condoms, vaginal barrier methods (including the 
+diaphragm, cervical cap and spermicidal foam, jelly, cream a nd sponge), lactational amenorrhea method 
+(LAM), emergency contraception and other modern methods not reported separately (e.g., the contraceptive 
+patch or vaginal ring). Traditional methods of contraception include rhythm (e.g., fertility awareness -based 
+methods, periodic abstinence), withdrawal and other traditional methods not reported separately.  
+ 
+Unmet need for family planning is defined as the percentage of women of reproductive age who want to stop 
+or delay childbearing but are not using any method o f contraception.  The standard definition of unmet need 
+for family planning includes women who are fecund and sexually active in the numerator, and who report not 
+wanting any (more) children, or who report wanting to delay the birth of their next child for at least two 
+years or are undecided about the timing of the next birth, but who are not using any method of 
+contraception. The numerator also includes  pregnant women whose pregnancies were unwanted or 
+mistimed at the time of conception; and  postpartum  amen orrheic  women who are not using family planning 
+and whose last birth was unwanted or mistimed.  Further information on the operational definition of the 
+unmet need for family planning, as well as survey questions and statistical programs needed to derive the 
+indicator, can be found at the following website of the USAID Demographic and Health Surveys Program: 
+http://measuredhs.com/Topics/Unmet -Need.cfm . 
+ 

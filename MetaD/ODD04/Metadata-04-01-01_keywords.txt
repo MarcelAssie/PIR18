@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+proficiency levels : 0.6369
+minimum proficiency : 0.6179
+levels mpls : 0.5500
+assessment reading : 0.5338
+knowledge grades : 0.5132
+proficiency : 0.5078
+learning assessments : 0.4986
+level reading : 0.4942
+----------------------------------------------------

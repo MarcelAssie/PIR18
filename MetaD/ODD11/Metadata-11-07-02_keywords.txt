@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+harassment percentage : 0.5507
+harassment sexual : 0.5089
+sexual harassment : 0.5041
+harassment population : 0.4968
+harassing behaviours : 0.4729
+harassment refers : 0.4572
+psychological violence : 0.4542
+prevalence sexual : 0.4514
+harassment formulated : 0.4421
+----------------------------------------------------

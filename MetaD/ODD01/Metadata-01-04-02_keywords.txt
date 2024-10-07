@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+land tenure : 0.5411
+secure landholder : 0.5321
+tenure land : 0.5252
+land rights : 0.5027
+tenure rights : 0.4874
+tenure security : 0.4822
+rights measures : 0.4769
+freehold rights : 0.4524
+----------------------------------------------------

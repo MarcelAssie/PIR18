@@ -1,0 +1,17 @@
+Definitions:  
+This indicator presents the share of manufacturing employment in total employment.  
+ 
+Concept s: 
+Employment comprises all persons of working age who during a short reference period (one week), were 
+engaged in any activity to produce goods or provide services for pay or profit. The difference between the Last updated:  2024 -03-28 
+two series for a given country is the operationa l criteria used to define employment, with one series based 
+on the statistical standards from the 13th International Conference of Labour Statisticians (ICLS) and the 
+other series based on 19th ICLS standards. In the 19th ICLS series, employment is defined  more narrowly 
+as work done for pay or profit, while activities not done mainly in exchange for remuneration (i.e., own -
+use production work, volunteer work and unpaid trainee work) are recognized as other forms of work.  
+No distinction is made between pers ons employed full time and those working less than full time.  
+ 
+The manufacturing sector is defined according to the International Standard Industrial Classification of all 
+Economic Activities (ISIC) revision 4 (2008, the latest) or revision 3 (1990). It refers to industries belonging 
+to sector C in revision 4 or sector D in revision 3.  
+ 

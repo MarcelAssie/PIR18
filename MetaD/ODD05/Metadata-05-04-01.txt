@@ -1,0 +1,27 @@
+This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by 
+men and women. Unpaid domestic and care work refers to activities related to the provision of  services 
+for own  final  use by household members, or by fami ly members living in other households. These 
+activities are listed in the International Classification of Activities for Time -Use Statistics 2016 (ICATUS 
+2016)2 under the major divisions “3. Unpaid domestic services for household and family members” and 
+“4. Unpaid caregiving services for household and family members”.   
+ 
+  
+Unpaid domestic work refers to activities including food and meals management preparation,  cleaning 
+and maintaining  of own dwelling  and surroundings , , do-it-yourself decoration, maintenance and repair of 
+personal and household goods, care and maintenance of textiles and footwear, household management, 
+pet care,  shopping  for own household and family members and travel related to previous listed unpaid 
+domestic services.  
+Unpaid  care work refers  to activities related to  childcare  and instruction, , care of the sick, elderly,  or 
+disabled household and family members, and travel related to these unpaid caregiving services. .  
+ 
+Concepts and definitions for this indicator are based on the following international standards:  
+▪ International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)  
+▪ System of National Accounts 2008 (SNA 2008)  
+▪ The Resolution concerning statistics of wor k, employment,  and labour underutilization, adopted 
+by the International Conference of Labour Statisticians (ICLS) at its 19th Session in 2013  
+ 
+As much as possible, statistics compiled by UNSD are based on the International Classification of 
+Activities for  Time Use Statistics 2016 (ICATUS 2016), which classifies activities undertaken by persons 
+during the survey period. ICATUS 2016 was adopted by the United Nations Statistical Commission for use 
+as an international statistical classification at its 48th ses sion, 7 -10 March 2017.  
+ 

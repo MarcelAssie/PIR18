@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+pharmacists density : 0.6114
+dentists density : 0.5840
+density dentists : 0.5719
+doctors density : 0.5715
+density pharmacists : 0.5634
+occupation density : 0.5433
+personnel density : 0.5175
+densities occupation : 0.5056
+worker densities : 0.4909
+density nursing : 0.4758
+----------------------------------------------------

@@ -1,0 +1,39 @@
+The p roportion of people living below 50 per cent of median income  (or consumption) is the share (%) of 
+a country’s population living o n less than half of the consumption/income level of the median of the na-
+tional income/consumption distribution.  
+ 
+  Last updated:  2024 -07-29 
+The indicator is measured using per capita welfare measure of consumption or income. The indicator is 
+calculated by estimating the s hare of the population in a country living on less than 50% of median of the 
+national distribution of income or consumption, as estimated from survey data.  
+ 
+Consumption distributions  typically capture household expenditure on a set of items over a given period 
+of time. These usually include purchased, own -produced, exchanged, and gifted food and non -food items 
+(for example clothing, housing —including imputed rent —and the use value of durable consumer goods). 
+Income distributions  capture the value of monetary inflow a household receives or earns over a given pe-
+riod of time. Household surveys usually provide information on labor income (salaries, own -business, and 
+self-employment income) , as well as non -labor income coming from pensions, subsidies, transfers, prop-
+erty income, scholarships, etc. Income distributions used here  aim to measure disposable income defined 
+as the sum of labor and non -labor income (including transfers) less taxes and contributions. The exact 
+definition and operationalization of income aggregates varies across different data sources.  Per capita 
+income or consumption is estimated using total household income or consumption divided by the total 
+household size.  
+ 
+The estimation relies on the same harmonized welfare vectors (distributions) that are used for 10.1.1 and 
+1.1.1. Using the same data and closely related methodologies ensures internal consistency across these 
+closely related indicators. The data is availab le through the Poverty and Inequality Platform (PIP) , the 
+World Bank’s online tool for reporting global poverty and inequality numbers. For details on concepts and 
+standards, refer to documentation available on the PIP website . 
+ 
+The methodology entails mea suring the share of people living below 50% of  national  median . A threshold 
+set at 50% of the median  of the income or consumption  is used to derive a headcount rate , similar to 
+how monetary poverty is typically measured . The national median is readily avai lable from the distribu-
+tional data  in PIP. The measurement follows a two -step process of first estimating half of the national 
+median income (or consumption) and then the share of people living below this relative threshold.  
+ 
+The indicator  uses the same da ta on household income and consumption that is used for monitoring SDG 
+indicators 1.1.1 and 10.1.1, which have been classified as Tier 1 indicators. The methodology and data are  
+similar to that used in measuring international poverty, which has been tested  and vetted over many 
+years, including for the purpose of monitoring Millennium Development Goals  (MDG ) 1. It is also closely 
+related to a large literature of relative poverty measurement.  
+ 

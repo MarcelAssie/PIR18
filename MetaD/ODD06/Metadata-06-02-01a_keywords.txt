@@ -1,0 +1,9 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sanitation facilities : 0.6592
+improved sanitation : 0.6465
+sanitation technologies : 0.6300
+latrines sanitation : 0.6122
+dry sanitation : 0.5938
+based sanitation : 0.5864
+----------------------------------------------------

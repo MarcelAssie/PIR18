@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+coverage reproductive : 0.5156
+service coverage : 0.4867
+coverage essential : 0.4820
+pregnancy care : 0.4516
+diseases service : 0.4419
+care percentage : 0.4349
+child immunization : 0.4314
+child health : 0.4243
+average coverage : 0.4234
+immunization percentage : 0.4211
+----------------------------------------------------

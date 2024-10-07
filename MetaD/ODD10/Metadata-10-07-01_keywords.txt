@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+employee migrants : 0.5880
+migrant workers : 0.5751
+total migrant : 0.5301
+migrants proportion : 0.5249
+migrants : 0.5186
+defined recruitment : 0.5174
+recruitment process : 0.5089
+----------------------------------------------------
