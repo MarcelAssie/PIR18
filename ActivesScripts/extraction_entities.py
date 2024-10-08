@@ -4,7 +4,7 @@ import os
 import re
 import csv
 
-from filters import txt_to_string, filter_similar_entities
+from .filters import txt_to_string, filter_similar_entities
 
 
 def entities_extractions(dossier):
@@ -67,7 +67,7 @@ def entities_extractions(dossier):
             keywords_ODD.append((k[0], k[1]))
         # Chemin de sortie du fichier
         metadata = data[0].replace(".txt","")
-        output_path = f"{dossier}/{metadata}_keywords.txt"
+        output_path = f"./{dossier}/{metadata}_keywords.txt"
         with open(output_path, "w", encoding="utf-8") as f:
             f.write("Mots-clés extraits et scores :\n")
             f.write("----------------------------------------------------\n")
@@ -75,7 +75,7 @@ def entities_extractions(dossier):
                 f.write(f"{keyword[0]} : {keyword[1]:.4f}\n")
             f.write("----------------------------------------------------\n")
 
-    output_path = f"Keywords_odd/ODD{odd_number}.csv"
+    output_path = f"./Keywords_odd/ODD{odd_number}.csv"
     with open(output_path, mode="w", newline='', encoding="utf-8") as f:
         writer = csv.writer(f)
         # Écrire l'en-tête
@@ -90,11 +90,6 @@ def entities_extractions(dossier):
     return None
 
 # print(entities_extractions("MetaD/ODD01"))
-if __name__ == "__main__":
-    # Exécution de tous les ODD
-    odd_files = os.listdir("MetaD")
-    for odd_file in odd_files:
-        entities_extractions(f"MetaD/{odd_file}")
 
 
 
