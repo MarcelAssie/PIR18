@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+sendai framework indicators : 0.7741
 sendai framework : 0.5793
 ework indicators : 0.5684
+reflect agreements sendai : 0.5637
+implementation sendai framework : 0.5537
 indicators measure : 0.5474
 indicators : 0.5408
-agreements sendai : 0.5166
-implementation sendai : 0.5147
-indicators eventually : 0.5123
-indicators terminology : 0.4821
-indicators updated : 0.4668
 ----------------------------------------------------

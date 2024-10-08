@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+price growth indicator : 0.5983
+rate growth cgr : 0.5501
+growth rate cagr : 0.5480
+price anomalies ifpa : 0.5381
 cgr growth : 0.5368
+cgr growth random : 0.5316
+changes cgr growth : 0.5254
 growth cgr : 0.5246
-growth indicator : 0.5187
-cqgr annual : 0.5062
-cgr quarterly : 0.5015
-anomalies ifpa : 0.4836
-rate cagr : 0.4592
-price growth : 0.4568
 ----------------------------------------------------

@@ -1,12 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-mortality rate : 0.6861
-nder mortality : 0.6381
-births mortality : 0.6208
-specific mortality : 0.5858
-mortality : 0.5775
-probability death : 0.5248
-number deaths : 0.5125
-rate probability : 0.4703
-rate number : 0.4404
+mortality rate probability : 0.6920
+nder mortality rate : 0.6889
+mortality rate defined : 0.6857
+births mortality rate : 0.6706
+specific mortality rates : 0.6598
+rate number deaths : 0.6427
 ----------------------------------------------------

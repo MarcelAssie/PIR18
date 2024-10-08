@@ -1,10 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-coherence sustainable : 0.6381
+policy coherence sustainable : 0.7773
+coherence sustainable development : 0.7611
+policy coherence development : 0.6807
+coherent policy sustainable : 0.6589
+coherence scope sustainable : 0.6515
+sustainable development goals : 0.6413
+policy coherence scope : 0.6291
 policy sustainable : 0.6253
-policy coherence : 0.6050
-sustainable development : 0.5740
-coherence policy : 0.5639
-scope sustainable : 0.5005
-2030 sustainable : 0.4986
 ----------------------------------------------------

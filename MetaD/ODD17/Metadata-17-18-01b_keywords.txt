@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+performance indicators spi : 0.5517
+countries new spi : 0.5463
+pillar score measures : 0.5358
+measure countries data : 0.5306
+indicators based countries : 0.5040
 countries data : 0.4940
-measure countries : 0.4898
-indicators spi : 0.4805
-countries measure : 0.4711
-data geospatial : 0.4549
-geospatial data : 0.4546
-infrastructure spi : 0.4438
-statistical indicators : 0.4383
-score measures : 0.4250
-spi framework : 0.4199
+data infrastructure spi : 0.4934
+administrative data geospatial : 0.4890
+help countries measure : 0.4838
 ----------------------------------------------------

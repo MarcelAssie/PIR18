@@ -1,11 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-public transport : 0.6471
-transport public : 0.6356
-transport accessible : 0.6162
-accessible walking : 0.5747
-pedestrian access : 0.5685
-transport users : 0.5490
-pedestrian walk : 0.5230
-transport considered : 0.5191
+public transport accessible : 0.7220
+public transport considered : 0.6807
+public transport frequent : 0.6618
+transport users walk : 0.6586
+access public transport : 0.6569
+transport access public : 0.6543
 ----------------------------------------------------

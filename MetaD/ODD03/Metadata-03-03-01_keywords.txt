@@ -1,11 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-uninfected population : 0.6117
+number new hiv : 0.7325
+000 uninfected population : 0.6632
+hiv infections 000 : 0.6357
+new hiv infections : 0.6350
 new hiv : 0.5982
-hiv infections : 0.5951
 hiv : 0.5564
-population sex : 0.4648
-infections 000 : 0.4437
-000 uninfected : 0.4433
-person uninfected : 0.3912
+000 person uninfected : 0.5413
 ----------------------------------------------------

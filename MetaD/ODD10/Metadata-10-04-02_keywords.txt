@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+income gini index : 0.6742
+equivalized income gini : 0.6590
+fiscal policy gini : 0.6279
+income population gini : 0.6222
+fiscal income redistributive : 0.6202
+population income gini : 0.6198
 income gini : 0.6150
 fiscal incomes : 0.6101
-inequality income : 0.5774
-gini coefficient : 0.5532
-income redistributive : 0.5372
-income equal : 0.5239
-indicator income : 0.5181
-gini index : 0.5154
-income cumulative : 0.4942
+policy gini coefficient : 0.6043
 ----------------------------------------------------

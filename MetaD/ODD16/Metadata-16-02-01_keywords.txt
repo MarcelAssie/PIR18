@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+experienced violent discipline : 0.6494
+punishment psychological aggression : 0.6350
+psychological aggression refers : 0.6298
+physical punishment psychological : 0.6266
 violent discipline : 0.6208
-psychological aggression : 0.6137
-physical punishment : 0.5607
-corporal punishment : 0.5559
-aggression caregivers : 0.5546
-aggression : 0.5312
-punishment psychological : 0.5267
-hitting slapping : 0.4878
-child hitting : 0.4824
+child experienced violent : 0.6078
+physical corporal punishment : 0.6070
+experienced physical punishment : 0.5998
 ----------------------------------------------------

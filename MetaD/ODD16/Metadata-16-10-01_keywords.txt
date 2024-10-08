@@ -1,10 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+journalists trade unionists : 0.6439
 journalists refers : 0.6056
 share journalistic : 0.5859
 citizen journalists : 0.5841
 journalists : 0.5762
+journalists refers observes : 0.5687
 journalists trade : 0.5625
 journalistic functions : 0.5615
-committed journalists : 0.5266
 ----------------------------------------------------

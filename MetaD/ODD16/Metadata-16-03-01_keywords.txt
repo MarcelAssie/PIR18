@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+victims report violence : 0.6694
 report violence : 0.6369
+report violence experienced : 0.6360
+violence defined iccs : 0.6244
+indicators violence physical : 0.6156
 violence indicators : 0.6078
+psychological violence indicators : 0.6068
+measure psychological violence : 0.6032
 violence perpetrated : 0.6016
-victims violence : 0.6002
-indicators violence : 0.5929
-physical violence : 0.5601
-violence psychological : 0.5559
-violence physical : 0.5528
-psychological violence : 0.5518
 ----------------------------------------------------

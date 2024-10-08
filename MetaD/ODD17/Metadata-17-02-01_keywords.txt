@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-national income : 0.5036
-income gni : 0.5035
-oecd development : 0.5017
-development oecd : 0.5003
-oda disbursements : 0.4954
-development welfare : 0.4908
-oecd measures : 0.4854
-dac oecd : 0.4508
-oecd org : 0.4503
-oecd : 0.4290
+national income gni : 0.5891
+net oda disbursements : 0.5603
+oecd development assistance : 0.5487
+income gni defined : 0.5447
+dac oecd measures : 0.5412
+development assistance total : 0.5392
+cooperation development oecd : 0.5283
+oda flows countries : 0.5199
+dac stats icialdevelopmentassistancedefinitionandcoverage : 0.5116
 ----------------------------------------------------

@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-vaccination coverage : 0.6214
-vaccine dose : 0.5919
-recommended vaccines : 0.5635
-vaccine according : 0.5381
-vaccine measure : 0.5353
-vaccines year : 0.5334
-infant vaccination : 0.5258
-containing vaccines : 0.5247
-immunization schedules : 0.5247
+vaccines children coverage : 0.6522
+infant vaccination coverage : 0.6397
+vaccination coverage measles : 0.6301
+vaccine dose schedule : 0.6185
+recommended vaccines vary : 0.6140
+number recommended vaccines : 0.6108
+conjugate vaccine dose : 0.6028
+coverage hpv vaccine : 0.6018
+national immunization schedules : 0.5977
 ----------------------------------------------------

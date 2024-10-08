@@ -1,11 +1,8 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-proficiency flp : 0.6241
+level proficiency flp : 0.6583
+proficiency literacy numeracy : 0.6170
+literacy functional numeracy : 0.6053
 functional literacy : 0.6047
-literacy functional : 0.5996
-proficiency literacy : 0.5689
-level proficiency : 0.5379
-proficiency levels : 0.5329
-literacy numeracy : 0.5208
-literacy : 0.5155
+functional literacy functional : 0.5899
 ----------------------------------------------------

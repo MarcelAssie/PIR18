@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+marrie union age : 0.7158
+marriages informal unions : 0.6774
+18 formal marriages : 0.6605
 union age : 0.5953
-marriages informal : 0.5882
+formal marriages informal : 0.5769
+informal unions generally : 0.5691
 informal unions : 0.5465
-formal marriages : 0.5217
-marrie union : 0.4938
-years marrie : 0.4809
-marriages : 0.4726
-18 formal : 0.4268
-marrie : 0.4171
-ceremony cohabitation : 0.4119
+years marrie union : 0.5436
 ----------------------------------------------------

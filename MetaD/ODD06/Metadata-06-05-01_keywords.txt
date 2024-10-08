@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+environment iwrm institutions : 0.6274
+management iwrm scale : 0.6095
+resources management iwrm : 0.6047
+iwrm management instruments : 0.6044
 environment iwrm : 0.5885
 iwrm management : 0.5819
-management iwrm : 0.5724
-concept iwrm : 0.5528
-definition iwrm : 0.5528
-iwrm institutions : 0.5472
-iwrm status : 0.5390
-applicable iwrm : 0.5235
-implement iwrm : 0.5182
-official iwrm : 0.5121
+implementation iwrm management : 0.5800
+integrated water resources : 0.5763
+iwrm institutions participation : 0.5728
 ----------------------------------------------------

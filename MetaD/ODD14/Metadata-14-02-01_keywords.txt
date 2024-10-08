@@ -1,12 +1,8 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-integrated coastal : 0.6372
+integrated coastal zone : 0.7157
+coastal zone management : 0.6896
+regional seas coordinated : 0.6549
+territorial sea eez : 0.6329
 sea territorial : 0.6212
-territorial sea : 0.6036
-coastal zone : 0.6010
-regional seas : 0.5999
-seas coordinated : 0.5397
-maritime spatial : 0.5353
-marine sectors : 0.5171
-economic zone : 0.5139
 ----------------------------------------------------

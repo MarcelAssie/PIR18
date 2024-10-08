@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+odin evaluation coverage : 0.6590
+dataset assessed odin : 0.6439
+data inventory odin : 0.6000
 assessed odin : 0.5646
+sdg odin covera : 0.5395
+assessed odin elements : 0.5253
 odin evaluation : 0.5172
-sdg odin : 0.4878
-odin covera : 0.4750
-inventory odin : 0.4512
-odin elements : 0.4480
-availability data : 0.4479
-openness data : 0.4450
-odin : 0.4413
-data offerings : 0.4235
+coverage openness data : 0.5135
+inventory odin evaluation : 0.5124
+odin covera ge : 0.5045
 ----------------------------------------------------

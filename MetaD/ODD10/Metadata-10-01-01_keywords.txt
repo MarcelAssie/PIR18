@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+growth rate welfare : 0.7143
+rate welfare aggregate : 0.6690
 rate welfare : 0.6129
-welfare aggregate : 0.5906
+boosting shared prosperity : 0.6087
+welfare aggregate computed : 0.5988
+growth rate capita : 0.5925
 income grow : 0.5762
+national average growth : 0.5715
 welfare distribution : 0.5692
-income consumption : 0.5604
-consumption income : 0.5321
-growth rate : 0.5275
-income distribution : 0.5233
-income total : 0.5233
-shared prosperity : 0.5220
 ----------------------------------------------------

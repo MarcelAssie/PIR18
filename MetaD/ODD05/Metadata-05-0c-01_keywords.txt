@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-gender budgeting : 0.5348
-fiscal indicator : 0.5231
-measure government : 0.5019
-government budget : 0.4938
-inform budget : 0.4930
-budget authority : 0.4929
-budget classification : 0.4842
-budget tracking : 0.4814
-policies gender : 0.4808
+budget allocations gender : 0.5668
+objectives gender budget : 0.5645
+ibid gender budgeting : 0.5638
+gender budget statements : 0.5609
+budget statement gender : 0.5588
+budget circulars gender : 0.5420
+seeks measure government : 0.5401
+finance allocated gender : 0.5351
 ----------------------------------------------------

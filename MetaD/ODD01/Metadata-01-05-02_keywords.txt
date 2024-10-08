@@ -1,12 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+economic loss include : 0.6886
+direct economic loss : 0.6734
+economic loss direct : 0.6639
+economic loss attributed : 0.6563
 economic loss : 0.6398
-loss monetary : 0.5063
-economic impact : 0.4834
-loss indirect : 0.4581
-decline economic : 0.4433
-disasters relation : 0.4341
-direct economic : 0.4299
-economic value : 0.4288
-loss decline : 0.4270
+loss direct economic : 0.6293
 ----------------------------------------------------

@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-scale industries : 0.5830
-enterprise smallest : 0.5461
-scale manufacturing : 0.5412
-manufacturing enterprises : 0.5409
-industrial enterprises : 0.5299
-defined enterprise : 0.5274
-industries defined : 0.5202
-production units : 0.5103
-definitions small : 0.4903
+scale manufacturing enterprises : 0.6469
+scale industrial enterprises : 0.6462
+scale industries defined : 0.6300
+small scale industries : 0.6270
+scale industries total : 0.6057
+define enterprise smallest : 0.5954
+small scale manufacturing : 0.5863
 ----------------------------------------------------

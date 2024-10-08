@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+weighted average tariffs : 0.7849
 tariff value : 0.6886
+average tariffs applied : 0.6847
+goods imported tariffs : 0.6794
 average tariffs : 0.6637
-imported tariffs : 0.6227
-considered tariffs : 0.6216
-tariffs tariffs : 0.6073
-tariffs customs : 0.5933
-tariff : 0.5894
-kg tariffs : 0.5893
-tariffs applied : 0.5865
-tariffs used : 0.5790
+imported tariffs tariffs : 0.6500
+aggregate tariff value : 0.6472
+kg tariffs used : 0.6467
+tariff value country : 0.6396
+100 kg tariffs : 0.6254
 ----------------------------------------------------

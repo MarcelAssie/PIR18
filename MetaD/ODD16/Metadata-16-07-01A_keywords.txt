@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+legislatures specifically indicator : 0.6838
+representation national legislatures : 0.6756
+member national legislature : 0.6722
+national legislatures persons : 0.6413
 parliaments legislature : 0.6382
 legislatures members : 0.6379
-national legislature : 0.6256
-legislatures persons : 0.6216
-national parliaments : 0.6151
-country legislature : 0.6060
-legislature legislature : 0.6022
-legislature : 0.5920
-legislature generally : 0.5882
-legislature consist : 0.5880
+population groups legislative : 0.6377
+country legislature prescribed : 0.6280
 ----------------------------------------------------

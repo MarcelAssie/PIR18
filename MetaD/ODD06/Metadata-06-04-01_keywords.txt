@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-industry water : 0.5946
+water use efficiency : 0.6940
+industry water use : 0.6516
+terms water use : 0.6052
+economy seea water : 0.5902
+resources water abstraction : 0.5896
+quantity water used : 0.5855
+services water use : 0.5757
+water received industry : 0.5714
 resources water : 0.5706
-water use : 0.5466
-wastewater sector : 0.5353
-water renewable : 0.5284
-quantity water : 0.5179
-efficiency wue : 0.5051
-services water : 0.5023
-water terms : 0.4945
 ----------------------------------------------------

@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-official flows : 0.5703
+oda official flows : 0.6718
+countries official flows : 0.6223
+resource flows development : 0.5987
+countries type flow : 0.5958
+official flows oof : 0.5766
+grants flows include : 0.5731
+official private flows : 0.5666
 grants flows : 0.5552
-resource flows : 0.5100
-flows development : 0.5092
-flows concessional : 0.5029
-flows official : 0.4920
-development agencies : 0.4818
-private flows : 0.4653
-concessional developing : 0.4596
-donor countries : 0.4566
+flow comprises official : 0.5537
 ----------------------------------------------------

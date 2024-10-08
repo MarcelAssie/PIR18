@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sustainable development : 0.5073
-implementation ocean : 0.4740
-oceans resources : 0.4583
-sdg indicator : 0.4306
-law sea : 0.4207
-sustainable : 0.4206
-conservation sustainable : 0.4197
-development goal : 0.4010
-progress ratification : 0.4008
-goal sdg : 0.3966
+accession implementation ocean : 0.5755
+sustainable development goal : 0.5491
+sustainable use oceans : 0.5191
+development goal sdg : 0.5007
+implementation ocean related : 0.4862
+law sea unclos : 0.4807
+instruments implement international : 0.4770
+unclos conservation sustainable : 0.4627
 ----------------------------------------------------

@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+risk maternal death : 0.7378
 maternal mortality : 0.7376
-maternal deaths : 0.7129
-risk maternal : 0.5944
-obstetric death : 0.5904
-mortality ratio : 0.5698
-mortality : 0.5636
-number maternal : 0.5275
-occurring pregnancy : 0.4988
-death occurring : 0.4986
+maternal death death : 0.7326
+death occurring pregnancy : 0.7159
+maternal deaths given : 0.7144
+number maternal deaths : 0.7124
+pregnancy related death : 0.6821
 ----------------------------------------------------

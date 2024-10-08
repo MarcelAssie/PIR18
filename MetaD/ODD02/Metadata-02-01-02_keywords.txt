@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-food insecurity : 0.5778
-prevalence food : 0.5130
-ag_prd_fiess prevalence : 0.5013
-severity food : 0.4894
-indicators sdg_related_indicators : 0.4704
-sdg_related_indicators : 0.4687
-indicator prevalence : 0.4585
-sdg_custodian_agencies food : 0.4557
+food insecurity measurement : 0.6504
+food insecurity severity : 0.6455
+insecurity severity food : 0.6366
+prevalence food insecurity : 0.6335
+food insecurity population : 0.6259
+severity food insecurity : 0.6224
+food insecurity number : 0.6047
+food insecurity defined : 0.5825
 ----------------------------------------------------

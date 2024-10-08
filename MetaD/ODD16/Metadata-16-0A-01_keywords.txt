@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+human rights nhris : 0.7242
+rights institution nhri : 0.6735
+institution nhri independent : 0.6605
+rights nhris state : 0.6525
+governance positions nhris : 0.6470
 nhris compliance : 0.6440
+accrediting nhris compliance : 0.6388
+principles nhris assessed : 0.6385
+normative standards nhris : 0.6364
 principles nhris : 0.6352
-rights nhris : 0.6277
-institution nhri : 0.6262
-standards nhris : 0.5880
-accrediting nhris : 0.5844
-status nhris : 0.5683
-nhri independent : 0.5628
-determination nhri : 0.5565
 ----------------------------------------------------

@@ -1,10 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+sustainable agriculture sdg : 0.7945
+measure sustainable agriculture : 0.7279
 agriculture sdg : 0.6781
-sustainable agriculture : 0.6270
+agriculture sdg process : 0.6487
+definition sustainable agriculture : 0.6351
 measurement sustainable : 0.5892
-sdg indicators : 0.5715
-agriculture assessed : 0.5647
-sustainable food : 0.5232
-sustainable development : 0.5030
+method measure sustainable : 0.5885
 ----------------------------------------------------

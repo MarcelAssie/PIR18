@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-electricity capacity : 0.5745
-electricity renewable : 0.5250
-renewable energy : 0.5022
-defines renewable : 0.4855
-capacity irena : 0.4688
-capacity power : 0.4538
-energy photovoltaic : 0.4407
-renewable : 0.4294
-energy solar : 0.4188
+electricity capacity defined : 0.6329
+capacity power plants : 0.5750
+concepts electricity capacity : 0.5668
+defines renewable energy : 0.5635
+capacity irena statute : 0.5469
+electricity renewable energy : 0.5343
+electrical capacity : 0.5191
+renewable energy include : 0.5186
 ----------------------------------------------------

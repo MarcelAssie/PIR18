@@ -1,12 +1,8 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+land degradation defined : 0.8066
+definitions land degradation : 0.7958
+land degradation generally : 0.7640
+quantification land degradation : 0.7499
 land degradation : 0.7451
-land degraded : 0.6602
-degraded land : 0.6352
-land productivity : 0.6030
-land use : 0.5531
-quantification land : 0.5515
-land resources : 0.5454
-definitions land : 0.5364
-land area : 0.5002
 ----------------------------------------------------

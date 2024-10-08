@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+eco nomic loss : 0.6449
+sendai framework indicators : 0.5897
+nomic loss monetary : 0.5844
+direct economic loss : 0.5830
+disaster risk reduction : 0.5433
 eco nomic : 0.5238
-economic loss : 0.4993
+indicators termi nology : 0.4944
 direct eco : 0.4902
-indicators termi : 0.4901
-loss monetary : 0.4634
-sendai framework : 0.4394
-risk reduction : 0.4351
-direct economic : 0.4242
-disaster risk : 0.4233
 ----------------------------------------------------

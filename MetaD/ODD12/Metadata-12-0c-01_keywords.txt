@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-fuel subsidies : 0.4686
-fossil fuels : 0.4682
-fuels include : 0.4439
-fuels scope : 0.4371
-international energy : 0.4339
-fuels indicator : 0.4170
-subsidies context : 0.4163
-national expenditure : 0.3991
-subsidies standardised : 0.3981
+fossil fuel subsidies : 0.6141
+expenditure fossil fuels : 0.6080
+fossil fuels indicator : 0.5510
+measure fossil fuel : 0.5495
+fossil fuels include : 0.5427
+fossil fuels scope : 0.5385
+fuel subsidies standardised : 0.5341
+fuel subsidies context : 0.5300
+scope fossil fuels : 0.5298
+fossil fuels international : 0.5254
 ----------------------------------------------------

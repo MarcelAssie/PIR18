@@ -1,12 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-renewable waste : 0.5983
-consumption energy : 0.5818
-energy consumption : 0.5773
-renewable resources : 0.5494
-renewable energy : 0.5478
-specific renewable : 0.5238
-energy renewable : 0.5220
-final consumption : 0.5157
-energy use : 0.5133
+renewable energy consumption : 0.6731
+renewable waste total : 0.6659
+final consumption energy : 0.6657
+energy consumption includes : 0.6292
+consumption energy derived : 0.5951
+total final consumption : 0.5926
 ----------------------------------------------------

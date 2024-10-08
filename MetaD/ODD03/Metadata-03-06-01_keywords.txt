@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+deaths road traffic : 0.6727
+death rate road : 0.6444
+road traffic fatal : 0.6265
+number deaths road : 0.6246
 death rate : 0.6116
-number deaths : 0.6099
-traffic fatal : 0.5754
-traffic injuries : 0.5046
-traffic crashes : 0.4937
-injury deaths : 0.4774
-deaths 100 : 0.4520
-road traffic : 0.4466
-people die : 0.4424
+traffic fatal injury : 0.6104
+numerator number deaths : 0.5757
+number people die : 0.5752
 ----------------------------------------------------

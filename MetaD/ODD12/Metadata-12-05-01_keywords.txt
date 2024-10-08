@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+national recycling rate : 0.7555
+definitions national recycling : 0.7548
+waste material recycled : 0.7281
+recycling total waste : 0.7166
+recycling rate presented : 0.7119
 recycling rate : 0.7033
-national recycling : 0.6823
+composting considered recycling : 0.6708
 recycling defined : 0.6661
-considered recycling : 0.6464
-recycling industrial : 0.6453
-recycling purposes : 0.6395
-intended recycling : 0.6363
-exported recycling : 0.6271
-recycling : 0.6193
-material recycled : 0.6129
 ----------------------------------------------------

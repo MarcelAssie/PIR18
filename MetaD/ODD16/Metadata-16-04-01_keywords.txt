@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-iffs illicit : 0.6337
+illicit financial flows : 0.6973
+financial flows illicit : 0.6916
+outward illicit financial : 0.6561
+iffs illicit tax : 0.6425
+illicit transfer economic : 0.6227
+financial flows iffs : 0.6163
+value considered illicit : 0.6130
+iffs illegal economy : 0.6084
 illicit flows : 0.6058
-flows illicit : 0.5878
-illicit transfer : 0.5799
-illicit financial : 0.5750
-illicit income : 0.5659
-illicit goods : 0.5546
-iffs illegal : 0.5361
-transactions illicit : 0.5291
-illicit exchange : 0.5290
 ----------------------------------------------------

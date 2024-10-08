@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+sendai framework indicators : 0.7710
 sendai framework : 0.6028
-framework indicators : 0.5456
-agreements sendai : 0.5131
-indicators : 0.5038
-implementation sendai : 0.5022
-indicators measure : 0.4855
-indicators eventually : 0.4799
-sendai : 0.4755
-indicators terminology : 0.4602
-disaster risk : 0.4342
+agreements sendai framework : 0.5845
+implementation sendai framework : 0.5699
+reflect agreements sendai : 0.5568
+framework indicators eventually : 0.5476
+disaster risk reduction : 0.5376
+indicators measure global : 0.5061
 ----------------------------------------------------

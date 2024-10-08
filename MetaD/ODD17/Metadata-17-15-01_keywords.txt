@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+objectives results indicators : 0.5913
+country owned results : 0.5447
+country development priorities : 0.5328
 results indicators : 0.5260
-country development : 0.4707
-objectives results : 0.4482
-national development : 0.4272
-assess performance : 0.4232
-goals country : 0.4178
-results frameworks : 0.4142
-definition results : 0.4051
+definition results frameworks : 0.5099
+reflecting country development : 0.5025
+priorities goals country : 0.4920
+frameworks reflecting country : 0.4911
+country approach results : 0.4837
+development priorities goals : 0.4814
 ----------------------------------------------------

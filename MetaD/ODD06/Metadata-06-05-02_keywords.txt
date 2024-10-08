@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-transboundary basin : 0.5981
-basin refers : 0.5655
-basin organization : 0.5581
-basin aquifer : 0.5478
-basin extent : 0.5366
-basin considered : 0.5352
-basins shared : 0.5264
-river basin : 0.5254
-specific basin : 0.5232
+indicator transboundary basin : 0.6881
+basin organization transbounda : 0.6478
+transboundary basin refers : 0.6430
+cooperation transboundary basin : 0.6165
+transboundary basins provides : 0.6033
+basin refers river : 0.6023
+sharing transboundary basins : 0.6022
 ----------------------------------------------------

@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-food losses : 0.6937
-food waste : 0.5701
-loss sdg : 0.5497
-harvest losses : 0.5480
-losses crop : 0.5386
-loss waste : 0.5031
-loss index : 0.4980
-waste index : 0.4830
-efficiency food : 0.4789
+food loss sdg : 0.7654
+food loss index : 0.7440
+definitions food loss : 0.7183
+food loss waste : 0.7013
+production food loss : 0.6994
+food losses crop : 0.6657
+food waste index : 0.6631
 ----------------------------------------------------

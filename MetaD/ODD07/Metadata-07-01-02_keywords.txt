@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+clean cooking fuels : 0.6237
+guidelines household fuel : 0.6164
+fuels considered clean : 0.6055
+polluting fuel home : 0.5982
+quality household fuel : 0.5887
+household fuel combustion : 0.5862
+fuel used cooking : 0.5763
+fuels technologies cooking : 0.5673
 household fuel : 0.5609
-cooking fuels : 0.5452
-clean fuels : 0.5373
-polluting fuel : 0.5222
-fuels considered : 0.4876
-highly polluting : 0.4651
-clean cooking : 0.4604
-household energy : 0.4576
-technology stove : 0.4474
-considered polluting : 0.4359
+fuels considered polluting : 0.5602
 ----------------------------------------------------

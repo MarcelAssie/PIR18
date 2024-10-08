@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-rights agricultural : 0.5793
-indicator agricultural : 0.5668
-land ownership : 0.5501
-land secure : 0.5390
-ownership agricultural : 0.5293
-agricultural land : 0.5248
-land agricultural : 0.5188
-land households : 0.5091
-property rights : 0.5085
+land secure rights : 0.6512
+indicator ownership agricultural : 0.6421
+indicator agricultural land : 0.6380
+agricultural land secure : 0.6374
+rights agricultural land : 0.6361
+secure rights agricultural : 0.6267
+land ownership secure : 0.6190
+ownership agricultural land : 0.6120
+agricultural population ownership : 0.6118
 ----------------------------------------------------

@@ -1,13 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+housing statistics population : 0.6533
+population housing statistics : 0.6492
+population housing census : 0.6305
+detailed population housing : 0.6140
 housing statistics : 0.6096
 housing census : 0.5898
-detailed population : 0.5776
-population housing : 0.5710
-statistics population : 0.5648
-census : 0.5292
-population : 0.5224
-proportion countries : 0.5174
-population registers : 0.4980
-census 10 : 0.4831
+countries conducted population : 0.5632
 ----------------------------------------------------

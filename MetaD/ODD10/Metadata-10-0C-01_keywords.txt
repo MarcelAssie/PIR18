@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+costs migrant remittances : 0.7417
+remittance service price : 0.6909
+remittance prices worldwide : 0.6873
 remittance prices : 0.6861
-international remittance : 0.6579
-remittance transfers : 0.6409
-migrant remittances : 0.6349
-transfers remittance : 0.6348
-costs migrant : 0.6060
-bank remittance : 0.5871
-sending remittance : 0.5815
-remittances : 0.5805
+international remittance transfer : 0.6764
+average international remittance : 0.6575
+transaction costs migrant : 0.6420
 ----------------------------------------------------

@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+classification mht industries : 0.6526
+industry mht value : 0.6458
+manufacturing sector defined : 0.5923
+industry value added : 0.5845
+mht industries isic : 0.5828
 industry mht : 0.5757
-manufacturing sector : 0.5682
-refers industries : 0.5369
-industry value : 0.5364
-manufacturing industries : 0.5140
-mht industries : 0.5124
-industries isic : 0.4996
-industries medium : 0.4996
+industry industry value : 0.5668
+consumption manufacturing sector : 0.5596
+industry net output : 0.5587
 ----------------------------------------------------

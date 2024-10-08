@@ -1,11 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+childbirths attended skilled : 0.6885
+childbirth care proportion : 0.6654
+care proportion childbirths : 0.6627
 childbirth care : 0.6596
-proportion childbirths : 0.6409
-childbirths attended : 0.5841
-maternal newborn : 0.5818
-childbirth : 0.5809
-competent maternal : 0.5778
-women newborns : 0.5636
-viding childbirth : 0.5451
+proportion childbirths attended : 0.6456
+competent maternal newborn : 0.6303
+care women newborns : 0.6118
 ----------------------------------------------------

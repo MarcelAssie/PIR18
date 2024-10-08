@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sanitation management : 0.5725
-sanitation activities : 0.5657
-sanitation includes : 0.5361
-supply sanitation : 0.5117
-participation local : 0.5019
-policy participation : 0.4989
-water sanitation : 0.4922
-sanitation : 0.4896
-local administrative : 0.4820
-sanitation hygiene : 0.4774
+sanitation management indicator : 0.6612
+sanitation activities policy : 0.6391
+sanitation includes areas : 0.6074
+local administrative units : 0.5718
+communities water sanitation : 0.5667
+sanitation management options : 0.5643
+sustainability local administrative : 0.5569
+programs water sanitation : 0.5505
 ----------------------------------------------------

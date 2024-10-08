@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-biodiversity national : 0.6502
-accounting biodiversity : 0.6406
-national biodiversity : 0.6285
-plan biodiversity : 0.6273
-biodiversity target : 0.6253
-biodiversity strategy : 0.6172
-biodiversity 2011 : 0.6135
-integrate biodiversity : 0.6058
+biodiversity national accounting : 0.7266
+policies national biodiversity : 0.6852
+national biodiversity strategy : 0.6796
+plans integrate biodiversity : 0.6697
+biodiversity target aichi : 0.6694
+plan biodiversity 2011 : 0.6679
+accounting biodiversity 1992 : 0.6626
+aichi biodiversity target : 0.6567
 ----------------------------------------------------

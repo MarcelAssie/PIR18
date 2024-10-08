@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-developing countries : 0.5360
-development international : 0.4963
-regions developing : 0.4791
-developing regions : 0.4641
-international institutions : 0.4625
-international organisations : 0.4577
-nations aggregation : 0.4528
-countries international : 0.4341
+developing countries international : 0.5796
+developing countries areas : 0.5623
+development international finance : 0.5374
+developed developing countries : 0.5326
+developing country proportion : 0.5306
+different international institutions : 0.5239
+country area development : 0.5192
+developing country : 0.5169
+developed regions developing : 0.5126
 ----------------------------------------------------

@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+water services refers : 0.5975
+drinking water services1 : 0.5908
+water services1 access : 0.5443
 water services : 0.5383
-water sanitation : 0.4828
-basic sanitation : 0.4803
-sanitation services : 0.4761
-definitions sdg : 0.4740
-sdg indicators : 0.4659
-sanitation facilities : 0.4646
-services indicator : 0.4514
-water available : 0.4430
+basic sanitation services : 0.5352
+basic services indicator : 0.5222
+definitions sdg indicator : 0.5196
+sanitation services refers : 0.5190
 ----------------------------------------------------

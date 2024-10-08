@@ -1,10 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-employment unemployment : 0.6319
+seek employment refers : 0.6797
+definitions employment unemployment : 0.6791
+seek employment specified : 0.6721
+employment refers activity : 0.6696
+employment unemployment refer : 0.6625
 definitions employment : 0.6196
-employment refers : 0.6170
-employment assessed : 0.6044
-employment defined : 0.6040
-available employment : 0.5967
-measure employment : 0.5919
+unemployment information definitions : 0.6123
+available employment given : 0.6104
 ----------------------------------------------------

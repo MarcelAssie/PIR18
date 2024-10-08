@@ -1,11 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+definition given trafficking : 0.6948
 given trafficking : 0.6818
+shall considered trafficking : 0.6813
 trafficking offences : 0.6805
 define trafficking : 0.6805
-considered trafficking : 0.6790
+trafficking persons intended : 0.6724
 trafficking : 0.6700
-trafficking persons : 0.6641
-victims trafficking : 0.6505
-forms trafficking : 0.5443
 ----------------------------------------------------

@@ -1,10 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+completeness death registration : 0.6574
+birth death registration : 0.6518
+death registration according : 0.6411
+civil registration vital : 0.6209
+death registration systems : 0.6161
 vital registration : 0.6153
-registration vital : 0.6103
-death registration : 0.5936
-vital statistics : 0.5626
-completeness birth : 0.4569
-registration systems : 0.4443
-birth death : 0.4417
+concerning death registration : 0.6105
+register based vital : 0.5974
 ----------------------------------------------------

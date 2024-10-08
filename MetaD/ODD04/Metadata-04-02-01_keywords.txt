@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-childhood development : 0.5374
-milestones children : 0.5071
-children age : 0.4694
-measure development : 0.4665
-outcomes children : 0.4207
-milestones expected : 0.4141
-early childhood : 0.4124
-months developmentally : 0.4094
-expected age : 0.4037
+childhood development index : 0.6780
+milestones expected age : 0.5696
+milestones children age : 0.5664
+early childhood development : 0.5283
+outcomes children aged : 0.5247
+sdg early childhood : 0.5166
+development al outcomes : 0.5106
 ----------------------------------------------------

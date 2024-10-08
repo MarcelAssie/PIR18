@@ -1,13 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-international poverty : 0.7054
+international poverty line : 0.7255
+global absolute poverty : 0.7141
+global poverty poverty : 0.7071
 global poverty : 0.7023
-assessing poverty : 0.6662
-defining poverty : 0.6434
-poverty measures : 0.6256
-poverty line : 0.6099
-poverty poverty : 0.6075
-poverty given : 0.6029
-poverty consistently : 0.5974
-world poorest : 0.5948
+defining poverty consistently : 0.6901
+measuring extreme poverty : 0.6857
+population international poverty : 0.6816
 ----------------------------------------------------

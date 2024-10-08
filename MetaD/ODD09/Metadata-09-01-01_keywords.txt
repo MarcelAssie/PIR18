@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-measurement rural : 0.5534
-countries census : 0.5324
-census data : 0.5270
-population data : 0.5096
-geospatial data : 0.4993
-rural mapping : 0.4990
-location data : 0.4931
-rural population : 0.4895
-subnational census : 0.4837
-rural roads : 0.4817
+rural access index : 0.5971
+measurement rural access : 0.5731
+determining urban rural : 0.5700
+correct measurement rural : 0.5636
+countries census data : 0.5617
+access countries census : 0.5611
+subnational census data : 0.5602
+rural access countries : 0.5476
+country rural population : 0.5425
 ----------------------------------------------------

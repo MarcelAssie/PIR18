@@ -1,13 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-genetic resources : 0.5650
-utilization genetic : 0.5032
-crop genetic : 0.4792
-plant genetic : 0.4657
-benefit nagoya : 0.4288
-use genetic : 0.4240
-access genetic : 0.4205
-contribution biodiversity : 0.4163
-biodiversity development : 0.4134
-treaty conservation : 0.4101
+genetic resources multilateral : 0.6300
+genetic resources purposes : 0.6063
+genetic resources conservation : 0.5977
+plant genetic resources : 0.5840
+genetic resources fair : 0.5715
+utilization genetic resources : 0.5677
 ----------------------------------------------------

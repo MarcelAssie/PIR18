@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+revenue taxes gfs : 0.7001
+revenue gfs code : 0.6773
 taxes gfs : 0.6649
-revenue gfs : 0.6599
-revenue government : 0.5665
-revenue general : 0.5510
-tax revenue : 0.5473
-types revenue : 0.5452
-grants gfs : 0.5377
-revenue defined : 0.5366
-particular taxes : 0.5332
+revenue general government : 0.6398
+revenue government units : 0.6318
+revenue gfsm : 0.6237
+tax credits gfsm : 0.6056
 ----------------------------------------------------

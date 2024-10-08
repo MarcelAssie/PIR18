@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+having account bank : 0.6039
+account bank credit : 0.5787
 account financial : 0.5625
+financial institution accounts : 0.5614
 money accounts : 0.5433
 account bank : 0.5429
-institution accounts : 0.5174
-bank credit : 0.5083
-adults financial : 0.5081
-bank financial : 0.4864
-having account : 0.4858
+credit union microfinance : 0.5416
+account financial institution : 0.5351
 ----------------------------------------------------

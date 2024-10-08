@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-plastic pollution : 0.5631
-coastal eutrophication : 0.5174
-measurement plastics : 0.5115
-plastic sea : 0.4995
-coast plastic : 0.4947
-plastic debris : 0.4825
-shorelines litter : 0.4806
-indicator coastal : 0.4793
-marine plastic : 0.4752
-indicators plastic : 0.4739
+plastic pollution 14 : 0.6241
+indicator coastal eutrophication : 0.6204
+plastic pollution understanding : 0.6076
+pollution understanding plastic : 0.5977
+understanding plastic pollution : 0.5943
+littering coast plastic : 0.5781
+plastic debris density : 0.5698
+parameters marine plastic : 0.5637
 ----------------------------------------------------

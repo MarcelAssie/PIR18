@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-electricity percentage : 0.5601
+population access electricity : 0.6854
+electricity percentage population : 0.6677
+access electricity percentage : 0.5857
+global electrification database : 0.5654
+africa poverty database : 0.5118
+electricity expressed percentage : 0.5117
 electricity access : 0.5089
-electrification database : 0.4991
-electricity world : 0.4779
-population access : 0.4721
-access electricity : 0.4642
-poverty database : 0.4549
-global electrification : 0.4512
-household survey : 0.4397
-economic database : 0.4261
+electricity access scenario : 0.5029
 ----------------------------------------------------

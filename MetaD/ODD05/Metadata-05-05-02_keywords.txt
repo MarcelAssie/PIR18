@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-labour statisticians : 0.4915
-women total : 0.4617
-employment series : 0.4529
-proportion females : 0.4435
-employment management : 0.4433
-information women : 0.4316
-women access : 0.4271
-management total : 0.4245
-management positions : 0.4232
-total management : 0.4178
+women total management : 0.6456
+females total management : 0.6281
+management share women : 0.6011
+management share females : 0.5939
+labour statisticians icls : 0.5697
+indicator share females : 0.5262
+icls series employment : 0.4972
+employment management determined : 0.4967
+refers proportion females : 0.4962
 ----------------------------------------------------

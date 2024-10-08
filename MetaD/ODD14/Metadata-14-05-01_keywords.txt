@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-protected areas : 0.6422
+designated protected areas : 0.6884
+oecms protected areas : 0.6877
+protected areas defined : 0.6476
+areas defined iucn : 0.6417
+biodiversity covered designated : 0.6197
+protected areas effective : 0.6143
+conservation measures oecms : 0.6138
 biodiversity covered : 0.5926
-conservation measures : 0.5306
-oecms protected : 0.5125
-designated protected : 0.4999
-marine areas : 0.4982
-marine biodiversity : 0.4858
-defined iucn : 0.4673
-biodiversity : 0.4477
+coverage protected areas : 0.5865
 ----------------------------------------------------

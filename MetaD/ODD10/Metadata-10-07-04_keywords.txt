@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+population recognized refugees : 0.7384
+relating status refugees : 0.7135
+unhcr refugees accordance : 0.7000
 refugees recognized : 0.6950
 status refugees : 0.6930
-recognized refugees : 0.6624
-population refugees : 0.6486
-refugees accordance : 0.6434
-unhcr refugees : 0.6412
-persons refugee : 0.6410
-refugees refers : 0.6398
-refugees proportion : 0.6200
+recognized unhcr refugees : 0.6911
+recognized refugees proportion : 0.6902
+population refugees refers : 0.6871
 ----------------------------------------------------

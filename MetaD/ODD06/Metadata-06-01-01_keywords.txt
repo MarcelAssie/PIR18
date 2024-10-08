@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+water services metadata : 0.5826
+water indicator sdg_indicator : 0.5581
+monitoring programme water : 0.5335
 sdg_related_indicators targets : 0.5317
+drinking water indicator : 0.5249
 indicators sdg_related_indicators : 0.5193
-water indicator : 0.4803
-sdg_indicator_info goal : 0.4754
-management water : 0.4706
-water safety : 0.4427
-water sanitation : 0.4417
-etadata harmonized : 0.4412
-health water : 0.4361
+water quality specified : 0.5038
 ----------------------------------------------------
