@@ -11,10 +11,17 @@ Utilisation d'algorithmes avancés : Implémentation de méthodes pour établir 
 
 
 Structure du dépôt :
-/MetaD/ : Contient les fichiers de données et les textes extraits pour l'analyse.
-/OldScripts/ : Contient tous les anciens codes
-/TestScripts/ : Contient tous les codes de test (modèles, algorithmes,...)
-/KeyWords/ : Contient tous les mots clés de chaque indicateur regroupé dans un fichier cvs
-/requirements.txt/: Fichier texte contenant l'ensembles des modules et bibliothèques pour l'exécution du projet
-/ActivesScript/ : Contient tous les codes utilisés actuellement 
-/start.py/ : Code de lancement
+
+/MetaD/ : Fichiers de données et textes extraits pour analyse.
+
+/OldScripts/ : Anciens codes et scripts qui ne sont plus utilisés mais conservés pour référence.
+
+/TestScripts/ : Codes de test, modèles expérimentaux, et algorithmes en phase d'essai.
+
+/Keywords_odd/ : Fichiers .csv contenant les mots-clés associés à chaque indicateur des ODD.
+
+/ActivesScripts/ : Scripts actifs actuellement utilisés pour l'extraction de données contextuelles et la création des graphes.
+
+/start.py : Script principal pour le lancement du projet. C'est le point d'entrée du programme.
+
+requirements.txt : Liste des modules et bibliothèques nécessaires pour exécuter le projet.
