@@ -15,7 +15,7 @@ models = {
     "distilbert-base-nli-mean-tokens": "distilbert-base-nli-mean-tokens",
     "paraphrase-distilroberta-base-v1": "paraphrase-distilroberta-base-v1",
     # "roberta-large": "roberta-large",
-    # "bert-base-uncased": "bert-base-uncased",
+    "bert-base-uncased": "bert-base-uncased",
     "bert-base-cased": "bert-base-cased",
     # "t5-base": "t5-base",
 }
