@@ -1,0 +1,11 @@
+Mots-clés pour la cible 0A :
+----------------------------------------------------
+aid trade development : 0.6148
+oda flows countries : 0.5823
+trade development assistance : 0.5747
+oda donors aid : 0.5646
+donors aid trade : 0.5357
+aid trade : 0.5235
+assistance oda donors : 0.5194
+organizations aid trade : 0.5022
+----------------------------------------------------

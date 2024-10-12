@@ -1,0 +1,26 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+seats national parliaments : 0.7164
+parliaments seats : 0.7021
+members parliament seats : 0.6909
+parliamentary elections seats : 0.6795
+bicameral parliaments seats : 0.6711
+parliament seats usually : 0.6683
+constitutes local government : 0.6930
+local government consists : 0.6923
+definition local government : 0.6788
+government consists local : 0.6600
+local government expressed : 0.6476
+local government : 0.6460
+members local government : 0.6358
+local government members : 0.6354
+women total management : 0.6456
+females total management : 0.6281
+management share women : 0.6011
+management share females : 0.5939
+labour statisticians icls : 0.5697
+indicator share females : 0.5262
+icls series employment : 0.4972
+employment management determined : 0.4967
+refers proportion females : 0.4962
+----------------------------------------------------

@@ -1,0 +1,33 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+affected number people : 0.5794
+directly affected disasters : 0.5744
+affected disasters : 0.5624
+affected people suffered : 0.5550
+people died disaster : 0.5492
+number people suffered : 0.5382
+indirectly affected people : 0.5362
+number people died : 0.5134
+economic loss include : 0.6886
+direct economic loss : 0.6734
+economic loss direct : 0.6639
+economic loss attributed : 0.6563
+economic loss : 0.6398
+loss direct economic : 0.6293
+sendai framework indicators : 0.7710
+sendai framework : 0.6028
+agreements sendai framework : 0.5845
+implementation sendai framework : 0.5699
+reflect agreements sendai : 0.5568
+framework indicators eventually : 0.5476
+disaster risk reduction : 0.5376
+indicators measure global : 0.5061
+disaster risk reduction : 0.7304
+2030 disaster risk : 0.6567
+relating disaster risk : 0.6478
+policy disaster risk : 0.6332
+global policy disaster : 0.6091
+integrate disaster risk : 0.6025
+2015 2030 disaster : 0.5814
+risk reduction 2015 : 0.5699
+----------------------------------------------------

@@ -1,0 +1,11 @@
+Mots-clés pour la cible 03 :
+----------------------------------------------------
+ocean acidity carbon : 0.7056
+average marine acidity : 0.7011
+ocean acidification provide : 0.6864
+marine acidity expressed : 0.6810
+15 ocean acidification : 0.6798
+ocean acidification decrease : 0.6775
+variability ocean acidity : 0.6757
+ocean acidity : 0.6698
+----------------------------------------------------

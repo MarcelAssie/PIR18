@@ -1,0 +1,13 @@
+Mots-clés pour la cible 15 :
+----------------------------------------------------
+objectives results indicators : 0.5913
+country owned results : 0.5447
+country development priorities : 0.5328
+results indicators : 0.5260
+definition results frameworks : 0.5099
+reflecting country development : 0.5025
+priorities goals country : 0.4920
+frameworks reflecting country : 0.4911
+country approach results : 0.4837
+development priorities goals : 0.4814
+----------------------------------------------------

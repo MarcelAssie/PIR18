@@ -1,0 +1,24 @@
+Mots-clés pour la cible 09 :
+----------------------------------------------------
+exposure air pollution : 0.6440
+air pollution linked : 0.6128
+air pollution : 0.6108
+air pollution polluting : 0.6062
+air pollution results : 0.6036
+mortality resulting exposure : 0.5979
+outdoor air pollution : 0.5958
+air pollution household : 0.5941
+mortality rates : 0.5929
+infections ghe code : 0.5989
+unsafe sanitation lack : 0.5731
+water unsafe sanitation : 0.5623
+unsafe water sanitation : 0.5623
+diarrhoea ghe code : 0.5549
+included diseases diarrhoea : 0.5363
+sanitation hygiene wash : 0.5356
+deaths unintentional poisonings : 0.7535
+unintentional poisoning defined : 0.6856
+number deaths unintentional : 0.6450
+attributed unintentional poisoning : 0.6310
+poisoning defined number : 0.6137
+----------------------------------------------------

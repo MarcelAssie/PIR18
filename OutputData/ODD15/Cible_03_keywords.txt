@@ -1,0 +1,8 @@
+Mots-clés pour la cible 03 :
+----------------------------------------------------
+land degradation defined : 0.8066
+definitions land degradation : 0.7958
+land degradation generally : 0.7640
+quantification land degradation : 0.7499
+land degradation : 0.7451
+----------------------------------------------------

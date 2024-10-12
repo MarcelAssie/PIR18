@@ -1,0 +1,10 @@
+Mots-clés pour la cible 0C :
+----------------------------------------------------
+costs migrant remittances : 0.7417
+remittance service price : 0.6909
+remittance prices worldwide : 0.6873
+remittance prices : 0.6861
+international remittance transfer : 0.6764
+average international remittance : 0.6575
+transaction costs migrant : 0.6420
+----------------------------------------------------

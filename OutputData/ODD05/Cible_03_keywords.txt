@@ -1,0 +1,19 @@
+Mots-clés pour la cible 03 :
+----------------------------------------------------
+marrie union age : 0.7158
+marriages informal unions : 0.6774
+18 formal marriages : 0.6605
+union age : 0.5953
+formal marriages informal : 0.5769
+informal unions generally : 0.5691
+informal unions : 0.5465
+years marrie union : 0.5436
+female genital mutilation : 0.7338
+genital mutilation fgm : 0.7130
+genital mutilation interagency : 0.6814
+genital mutilation updated : 0.6592
+mutilation fgm : 0.6452
+mutilation fgm refers : 0.6094
+mutilation updated 2024 : 0.5785
+undergone female genital : 0.5592
+----------------------------------------------------

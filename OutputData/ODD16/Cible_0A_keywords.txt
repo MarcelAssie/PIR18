@@ -1,0 +1,13 @@
+Mots-clés pour la cible 0A :
+----------------------------------------------------
+human rights nhris : 0.7242
+rights institution nhri : 0.6735
+institution nhri independent : 0.6605
+rights nhris state : 0.6525
+governance positions nhris : 0.6470
+nhris compliance : 0.6440
+accrediting nhris compliance : 0.6388
+principles nhris assessed : 0.6385
+normative standards nhris : 0.6364
+principles nhris : 0.6352
+----------------------------------------------------

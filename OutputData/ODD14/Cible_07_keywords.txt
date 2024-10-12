@@ -1,0 +1,11 @@
+Mots-clés pour la cible 07 :
+----------------------------------------------------
+fisheries measures value : 0.6681
+value fish harvested : 0.6414
+capture fisheries measures : 0.6189
+fisheries proportion gross : 0.6149
+capture fisheries proportion : 0.5908
+fish harvested marine : 0.5776
+capture fisheries : 0.5757
+fisheries : 0.5611
+----------------------------------------------------

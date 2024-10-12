@@ -1,0 +1,12 @@
+Mots-clés pour la cible 06 :
+----------------------------------------------------
+developing countries international : 0.5708
+developing countries areas : 0.5592
+development international finance : 0.5319
+different international institutions : 0.5294
+developed developing countries : 0.5242
+developing country proportion : 0.5186
+developed regions developing : 0.5143
+areas united nations : 0.5067
+countries international organizations : 0.5022
+----------------------------------------------------

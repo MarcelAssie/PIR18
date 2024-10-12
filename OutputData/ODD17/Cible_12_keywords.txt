@@ -1,0 +1,11 @@
+Mots-clés pour la cible 12 :
+----------------------------------------------------
+tariff line codes : 0.7440
+tariffs tariffs customs : 0.7083
+national tariff lines : 0.6963
+tariffs customs : 0.6909
+line national tariff : 0.6871
+tariff line national : 0.6839
+import tariffs : 0.6816
+considered tariffs tariff : 0.6812
+----------------------------------------------------

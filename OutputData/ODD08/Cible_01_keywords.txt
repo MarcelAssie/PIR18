@@ -1,0 +1,12 @@
+Mots-clés pour la cible 01 :
+----------------------------------------------------
+real gdp : 0.7395
+real gdp measured : 0.7374
+real gdp capita : 0.7198
+years real gdp : 0.7185
+data real gdp : 0.6929
+gdp capita calculated : 0.6843
+domestic product gdp : 0.6603
+gdp measured constant : 0.6570
+calculation country growth : 0.6525
+----------------------------------------------------

@@ -1,0 +1,35 @@
+Mots-clés pour la cible 18 :
+----------------------------------------------------
+odin evaluation coverage : 0.6590
+dataset assessed odin : 0.6439
+data inventory odin : 0.6000
+assessed odin : 0.5646
+sdg odin covera : 0.5395
+assessed odin elements : 0.5253
+odin evaluation : 0.5172
+coverage openness data : 0.5135
+inventory odin evaluation : 0.5124
+odin covera ge : 0.5045
+performance indicators spi : 0.5517
+countries new spi : 0.5463
+pillar score measures : 0.5358
+measure countries data : 0.5306
+indicators based countries : 0.5040
+countries data : 0.4940
+data infrastructure spi : 0.4934
+administrative data geospatial : 0.4890
+help countries measure : 0.4838
+countries statistical legislation : 0.7482
+principles official statistics : 0.7096
+official statistics countries : 0.7012
+countries national statistical : 0.6892
+official statistics fundamental : 0.6643
+national statistical plan : 0.6587
+indicator number countries : 0.6450
+countries national statistical : 0.6354
+count countries implementing : 0.6265
+implementing national statistical : 0.5851
+number countries national : 0.5847
+statistical plans indicator : 0.5727
+reports country progress : 0.5524
+----------------------------------------------------

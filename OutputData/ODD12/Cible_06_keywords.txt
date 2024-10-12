@@ -1,0 +1,9 @@
+Mots-clés pour la cible 06 :
+----------------------------------------------------
+sustainability reports purposes : 0.6801
+reporting sustainability information : 0.6668
+examining reporting sustainability : 0.6585
+separate sustainability reports : 0.6575
+definitions sustainability reports : 0.6537
+considered reporting sustainability : 0.6524
+----------------------------------------------------

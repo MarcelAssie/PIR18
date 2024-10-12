@@ -1,0 +1,10 @@
+Mots-clés pour la cible 04 :
+----------------------------------------------------
+unpaid domestic work : 0.6399
+unpaid domestic services : 0.6238
+domestic services unpaid : 0.6024
+day unpaid domestic : 0.6020
+unpaid caregiving services : 0.5873
+unpaid caregiving : 0.5850
+unpaid care work : 0.5845
+----------------------------------------------------

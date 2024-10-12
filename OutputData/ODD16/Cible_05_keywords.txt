@@ -1,0 +1,18 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+bribery defined : 0.7508
+definitions bribery national : 0.7383
+international organisations bribery : 0.6893
+based definitions bribery : 0.6876
+concept bribery : 0.6866
+bribery national public : 0.6860
+officials bribery : 0.6819
+bribe payment transactions : 0.6891
+payment considered bribe : 0.6653
+experiencing bribe payment : 0.6548
+bribe payment reque : 0.6527
+yes bribe payment : 0.5992
+officials transactions respondent : 0.5600
+firms experiencing bribe : 0.5449
+tax officials transactions : 0.5412
+----------------------------------------------------

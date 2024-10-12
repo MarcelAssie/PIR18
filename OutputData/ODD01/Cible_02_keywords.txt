@@ -1,0 +1,19 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+national poverty rate : 0.7651
+rural poverty rate : 0.7424
+poverty rate : 0.7391
+country poverty lines : 0.7333
+poverty line considered : 0.7184
+poverty line assessing : 0.7131
+poverty rate percentage : 0.7099
+line assessing poverty : 0.7026
+multidimensional poverty measure : 0.6724
+measure multidimensional poverty : 0.6553
+poverty measure specifically : 0.6364
+dimensions poverty indicators : 0.6200
+poverty measure : 0.6047
+households multidimensional deprivation : 0.5998
+indicators delimit deprivations : 0.5956
+measure including deprivation : 0.5940
+----------------------------------------------------

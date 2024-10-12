@@ -1,0 +1,9 @@
+Mots-clés pour la cible 04 :
+----------------------------------------------------
+sustainable levels classifying : 0.5562
+sustainable levels nu : 0.5527
+status relative abundance : 0.5117
+fisheries management calculated : 0.5062
+biologically sustainable levels : 0.5050
+fish stock assessment : 0.4976
+----------------------------------------------------

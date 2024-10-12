@@ -1,0 +1,11 @@
+Mots-clés pour la cible 0c :
+----------------------------------------------------
+accession implementation ocean : 0.5755
+sustainable development goal : 0.5491
+sustainable use oceans : 0.5191
+development goal sdg : 0.5007
+implementation ocean related : 0.4862
+law sea unclos : 0.4807
+instruments implement international : 0.4770
+unclos conservation sustainable : 0.4627
+----------------------------------------------------

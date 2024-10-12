@@ -1,0 +1,17 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+childhood development index : 0.6780
+milestones expected age : 0.5696
+milestones children age : 0.5664
+early childhood development : 0.5283
+outcomes children aged : 0.5247
+sdg early childhood : 0.5166
+development al outcomes : 0.5106
+childhood primary education : 0.7275
+early childhood education : 0.6828
+primary education defined : 0.6625
+primary education programmes : 0.6610
+early childhood primary : 0.6581
+childhood education typically : 0.6488
+participation early childhood : 0.6375
+----------------------------------------------------

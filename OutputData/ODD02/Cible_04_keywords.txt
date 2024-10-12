@@ -1,0 +1,16 @@
+Mots-clés pour la cible 04 :
+----------------------------------------------------
+scope indicator agricultural : 0.7242
+farms national criteria : 0.6941
+agriculture areas farm : 0.6285
+agricultural land : 0.6282
+agriculture consider : 0.6205
+indicator agricultural farm : 0.6104
+sustainable agriculture sdg : 0.7945
+measure sustainable agriculture : 0.7279
+agriculture sdg : 0.6781
+agriculture sdg process : 0.6487
+definition sustainable agriculture : 0.6351
+measurement sustainable : 0.5892
+method measure sustainable : 0.5885
+----------------------------------------------------

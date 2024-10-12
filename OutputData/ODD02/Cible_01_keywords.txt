@@ -1,0 +1,17 @@
+Mots-clés pour la cible 01 :
+----------------------------------------------------
+prevalence undernourishment pou : 0.7116
+undernutrition refers : 0.7017
+undernourishment pou : 0.6940
+feeding term undernourishment : 0.6762
+individuals prevalence undernourishment : 0.6750
+related undernourishment defined : 0.6644
+food insecurity measurement : 0.6504
+food insecurity severity : 0.6455
+insecurity severity food : 0.6366
+prevalence food insecurity : 0.6335
+food insecurity population : 0.6259
+severity food insecurity : 0.6224
+food insecurity number : 0.6047
+food insecurity defined : 0.5825
+----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés pour la cible 07 :
+----------------------------------------------------
+sustainable public procurement : 0.6954
+corresponding sustainable procurement : 0.6823
+sustainable procurement criteria : 0.6821
+procurement spp sustainable : 0.6738
+public procurement spp : 0.6322
+spp programme sustainable : 0.6182
+spp sustainable public : 0.5960
+procurement spp policies : 0.5952
+procurement spp action : 0.5938
+----------------------------------------------------

@@ -1,0 +1,17 @@
+Mots-clés pour la cible 01 :
+----------------------------------------------------
+risk maternal death : 0.7378
+maternal mortality : 0.7376
+maternal death death : 0.7326
+death occurring pregnancy : 0.7159
+maternal deaths given : 0.7144
+number maternal deaths : 0.7124
+pregnancy related death : 0.6821
+childbirths attended skilled : 0.6885
+childbirth care proportion : 0.6654
+care proportion childbirths : 0.6627
+childbirth care : 0.6596
+proportion childbirths attended : 0.6456
+competent maternal newborn : 0.6303
+care women newborns : 0.6118
+----------------------------------------------------

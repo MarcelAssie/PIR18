@@ -1,0 +1,10 @@
+Mots-clés pour la cible 0C :
+----------------------------------------------------
+3g population coverage : 0.7600
+population covered mobile : 0.7134
+2g mobile population : 0.6783
+services 3g population : 0.6757
+3g population : 0.6576
+population coverage refers : 0.6340
+inhabitants covered 3g : 0.6305
+----------------------------------------------------

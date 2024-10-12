@@ -3,8 +3,10 @@ from sentence_transformers import SentenceTransformer
 import os
 import re
 import csv
+import pandas as pd
 
 from .filters import txt_to_string, filter_similar_entities
+# from filters import txt_to_string, filter_similar_entities
 
 
 def entities_extractions(dossier):
@@ -24,7 +26,13 @@ def entities_extractions(dossier):
         -------
         None : La fonction ne retourne rien, mais crée des fichiers texte contenant les mots-clés et leurs scores.
     """
+    # Création du dossier de stockage des différentes données
     odd_number = re.search(r'\d+', dossier).group()
+    dossier_path = f"./Keywords_odd/ODD{odd_number}"
+    # dossier_path = f"../Keywords_odd/ODD{odd_number}"
+    if not os.path.exists(dossier_path):
+        os.makedirs(dossier_path)
+
     print("------------------------------------------------------------------------------------------------")
     print(f"Début de traitement de l'ODD {odd_number}...\n")
     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -42,9 +50,11 @@ def entities_extractions(dossier):
         texte = txt_to_string(f"{dossier}/{txt_file}")
         # Ajouter les données extraites dans la liste
         extracted_data.append((txt_file, texte))
+        # print(extracted_data)
         # break
 
     keywords_ODD = []
+    print("Extraction des mots clés...\n")
     for data in extracted_data:
         # Récupérer le fichier texte extrait
         doc = data[1]
@@ -54,42 +64,63 @@ def entities_extractions(dossier):
             doc,
             keyphrase_ngram_range=(1, 3),   # Taille de mots/phrases clé(e)s
             stop_words='english',           # Eliminer les mots usuels en anglais
-            nr_candidates=100,               # Nombre d'éléments à étudier
-            top_n=10                        # Nomnre d'éléments choisis
+            # use_maxsum=True,
+            nr_candidates=20,              # Nombre d'éléments à étudier
+            top_n=10                        # Nombre d'éléments choisis
         )
         # Suppression des entités similaires d'un point de vue orthographique
         entities_filtered = filter_similar_entities(keywords, threshold=80)
 
         # Filtrer les résultats par score
-        filtered_keywords = [kw for kw in entities_filtered if kw[1] > 0.4]
-        # Ajouter les mots-clés extraits et leurs scores dans la liste des mots-clés pour l'ODD'
-        for k in filtered_keywords:
-            keywords_ODD.append((k[0], k[1]))
+        filtered_keywords = [(kw[0], kw[1], data[0][12:14]) for kw in entities_filtered if kw[1] > 0.4]
+        keywords_ODD.extend(filtered_keywords)
         # Chemin de sortie du fichier
         metadata = data[0].replace(".txt","")
-        output_path = f"./{dossier}/{metadata}_keywords.txt"
-        with open(output_path, "w", encoding="utf-8") as f:
+        output_path_file = f"./{dossier}/{metadata}_keywords.txt"
+        with open(output_path_file, "w", encoding="utf-8") as f:
             f.write("Mots-clés extraits et scores :\n")
             f.write("----------------------------------------------------\n")
             for keyword in filtered_keywords:
                 f.write(f"{keyword[0]} : {keyword[1]:.4f}\n")
             f.write("----------------------------------------------------\n")
 
-    output_path = f"./Keywords_odd/ODD{odd_number}.csv"
+
+    print("Regroupement des mots clées par cible...\n")
+    # Stockage des mot-clés dans un dataframe
+    df = pd.DataFrame(keywords_ODD, columns=["Mots-cles", "Scores", "Cibles"])
+    # Grouper les mots-clés par cibles
+    grouped = df.groupby("Cibles")
+    # Créer un fichier texte pour chaque cible
+    for target, group in grouped:
+        # Créer le nom de fichier pour la cible
+        output_filename = f"{dossier_path}/Cible_{target}_keywords.txt"
+
+        # Écrire les mots-clés et leurs scores dans le fichier texte
+        with open(output_filename, "w", encoding="utf-8") as f:
+            f.write(f"Mots-clés pour la cible {target} :\n")
+            f.write("----------------------------------------------------\n")
+            for index, row in group.iterrows():
+                f.write(f"{row['Mots-cles']} : {row['Scores']:.4f}\n")
+            f.write("----------------------------------------------------\n")
+
+
+
+    print("Regroupement des mots-clés par ODD...\n")
+    output_path = f"{dossier_path}/ODD{odd_number}.csv"
     with open(output_path, mode="w", newline='', encoding="utf-8") as f:
         writer = csv.writer(f)
         # Écrire l'en-tête
-        writer.writerow(["Mots-cles", "Scores"])
+        writer.writerow(["Mots-cles", "Scores", "cibles"])
         # Écrire les mots-clés et leurs scores
         for keyword in keywords_ODD:
-            writer.writerow([keyword[0], keyword[1]])
+            writer.writerow([keyword[0], keyword[1],keyword[2]])
 
 
     print(f"...Fin de traitement de l'ODD {odd_number}")
 
     return None
 
-# print(entities_extractions("MetaD/ODD01"))
+# print(entities_extractions("../MetaD/ODD01"))
 
 
 

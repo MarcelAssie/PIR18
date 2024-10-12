@@ -1,0 +1,16 @@
+Mots-clés pour la cible 08 :
+----------------------------------------------------
+statistics occupational injuries : 0.7558
+occupational accidents considered : 0.7473
+number occupational injuries : 0.7406
+occupational accidents : 0.7361
+accident occupational injury : 0.7270
+resulting occupational accident : 0.7201
+occupational accident occupational : 0.7185
+provisions ilo conventions : 0.6826
+established ilo constitution : 0.6816
+ilo declaration fundamental : 0.6812
+ilo conventions ratified : 0.6812
+ilo constitution : 0.6672
+1998 ilo declaration : 0.6605
+----------------------------------------------------

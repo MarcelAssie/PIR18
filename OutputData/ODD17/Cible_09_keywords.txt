@@ -1,0 +1,11 @@
+Mots-clés pour la cible 09 :
+----------------------------------------------------
+oda flows countries : 0.7349
+oda official flows : 0.7077
+defines oda flows : 0.6499
+disbursements total oda : 0.6245
+oda flows : 0.5879
+official flows donors : 0.5774
+total oda official : 0.5617
+flows donors capacity : 0.5469
+----------------------------------------------------

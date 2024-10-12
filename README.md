@@ -18,7 +18,7 @@ Structure du dépôt :
 
 /TestScripts/ : Codes de test, modèles expérimentaux, et algorithmes en phase d'essai.
 
-/Keywords_odd/ : Fichiers .csv contenant les mots-clés associés à chaque indicateur des ODD.
+/OutputData/ : Dossiers de résultats contenant les mots-clés rangés par Cibles et par ODD.
 
 /ActivesScripts/ : Scripts actifs actuellement utilisés pour l'extraction de données contextuelles et la création des graphes.
 

@@ -1,0 +1,8 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+integrated coastal zone : 0.7157
+coastal zone management : 0.6896
+regional seas coordinated : 0.6549
+territorial sea eez : 0.6329
+sea territorial : 0.6212
+----------------------------------------------------

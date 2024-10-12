@@ -1,0 +1,11 @@
+Mots-clés pour la cible 0a :
+----------------------------------------------------
+energy generating river : 0.5757
+geothermal energy generating : 0.5462
+energy generation programmes : 0.5456
+generation renewable sources : 0.5434
+energy generation renewable : 0.5433
+energy use geothermal : 0.5400
+geothermal energy use : 0.5377
+renewable energy generation : 0.5296
+----------------------------------------------------

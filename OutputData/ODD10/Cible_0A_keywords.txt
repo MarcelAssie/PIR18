@@ -1,0 +1,9 @@
+Mots-clés pour la cible 0A :
+----------------------------------------------------
+tariff line codes : 0.7572
+number tariff lines : 0.7280
+line national tariff : 0.6925
+national tariff lines : 0.6905
+tariff line national : 0.6721
+tariff line : 0.6684
+----------------------------------------------------

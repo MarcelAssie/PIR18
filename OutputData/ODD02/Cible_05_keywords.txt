@@ -1,0 +1,24 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+plant genetic resources : 0.6015
+conservation plant genetic : 0.5693
+genetic resources food : 0.5378
+resources genebanks conserve : 0.5315
+agriculture grfa : 0.5293
+plant animal genetic : 0.5276
+animal grfa conserved : 0.5166
+conserving genetic resources : 0.5132
+animal genetic resources : 0.6384
+genetic resources animal : 0.6358
+genetic resources breed : 0.6018
+conserving genetic resources : 0.5794
+genetic resources worldwide : 0.5714
+counted animal genetic : 0.5554
+conservation plant animal : 0.5353
+biodiversity outlook : 0.5766
+biodiversity information : 0.5352
+diversity terrestrial domesticated : 0.5147
+breeds known risk : 0.5141
+local livestock breeds : 0.5116
+biodiversity : 0.5048
+----------------------------------------------------

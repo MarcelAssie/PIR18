@@ -1,0 +1,13 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+gdp real gdp : 0.7511
+real gdp refers : 0.7394
+gdp real : 0.7188
+real gdp employed : 0.7182
+real gdp : 0.7126
+gdp refers gdp : 0.6878
+real gdp real : 0.6815
+domestic product gdp : 0.6804
+gdp calculated : 0.6797
+units real gdp : 0.6788
+----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+species contributing index : 0.6272
+threatened species measures : 0.6161
+extinction risk species : 0.6114
+extinction risk iucn : 0.6089
+extinction risk taxonomic : 0.6017
+species extinction risk : 0.5949
+assessed iucn red : 0.5795
+list threatened species : 0.5769
+iucn red list : 0.5727
+----------------------------------------------------

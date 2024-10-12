@@ -1,0 +1,17 @@
+Mots-clés pour la cible 04 :
+----------------------------------------------------
+age specific mortality : 0.6799
+probability death ages : 0.6772
+mortality rate life : 0.6758
+specific mortality rates : 0.6398
+mortality rate attributed : 0.6320
+disease probability dying : 0.6295
+definitions suicide mortality : 0.7974
+suicide mortality rate : 0.7819
+mortality rate defined : 0.7480
+mortality rate : 0.6543
+definitions suicide : 0.6387
+number suicide deaths : 0.6228
+suicide deaths year : 0.6100
+defined number suicide : 0.5871
+----------------------------------------------------

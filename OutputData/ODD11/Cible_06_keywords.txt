@@ -1,0 +1,19 @@
+Mots-clés pour la cible 06 :
+----------------------------------------------------
+municipal waste collected : 0.6839
+estimated municipal waste : 0.6544
+municipal waste areas : 0.6543
+waste management facilities : 0.6528
+related wastes management : 0.6516
+waste selected municipal : 0.6513
+operating waste management : 0.6502
+refers municipal waste : 0.6465
+air pollution mean : 0.6317
+pollution mean population : 0.5930
+pm common measure : 0.5883
+mean annual concentration : 0.5813
+measure air pollution : 0.5542
+common measure air : 0.5513
+microns diameters pm : 0.5134
+mean population : 0.4806
+----------------------------------------------------

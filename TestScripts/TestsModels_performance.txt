@@ -1,0 +1,14 @@
+Résultats pour le modèle all-MiniLM-L6-v2:
+training : 0.3858
+analyzes training : 0.4396
+generalize training : 0.4517
+task learning : 0.4679
+function labeled : 0.4679
+labeled : 0.4702
+learning algorithm : 0.5549
+learning function : 0.5724
+examples supervised : 0.6063
+signal supervised : 0.6074
+Durée d'exécution : 11.7775 secondes
+------------------------------------------------------------------------------------------------
+

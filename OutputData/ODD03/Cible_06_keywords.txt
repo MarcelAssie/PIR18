@@ -1,0 +1,11 @@
+Mots-clés pour la cible 06 :
+----------------------------------------------------
+deaths road traffic : 0.6727
+death rate road : 0.6444
+road traffic fatal : 0.6265
+number deaths road : 0.6246
+death rate : 0.6116
+traffic fatal injury : 0.6104
+numerator number deaths : 0.5757
+number people die : 0.5752
+----------------------------------------------------

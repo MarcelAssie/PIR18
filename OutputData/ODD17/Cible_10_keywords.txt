@@ -1,0 +1,13 @@
+Mots-clés pour la cible 10 :
+----------------------------------------------------
+weighted average tariffs : 0.7849
+tariff value : 0.6886
+average tariffs applied : 0.6847
+goods imported tariffs : 0.6794
+average tariffs : 0.6637
+imported tariffs tariffs : 0.6500
+aggregate tariff value : 0.6472
+kg tariffs used : 0.6467
+tariff value country : 0.6396
+100 kg tariffs : 0.6254
+----------------------------------------------------

@@ -1,0 +1,9 @@
+Mots-clés pour la cible 0b :
+----------------------------------------------------
+discrimination harassment : 0.6646
+harassment form discrimination : 0.6486
+discrimination intention : 0.6034
+discrimination outlined : 0.5979
+discrimination : 0.5973
+behaviours harassment : 0.5759
+----------------------------------------------------

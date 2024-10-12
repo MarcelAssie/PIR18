@@ -1,0 +1,14 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+improved sanitation facilities : 0.6896
+sanitation facilities designed : 0.6850
+using improved sanitation : 0.6593
+sanitation facility considered : 0.6552
+latrines sanitation facility : 0.6509
+handwashing facility soap : 0.7032
+household handwashing facilities : 0.6697
+designated handwashing soap : 0.6559
+handwashing handwashing facilities : 0.6356
+handwashing facilities located : 0.6265
+handwashing soap includes : 0.6257
+----------------------------------------------------

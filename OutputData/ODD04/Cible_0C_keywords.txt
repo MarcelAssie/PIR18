@@ -1,0 +1,10 @@
+Mots-clés pour la cible 0C :
+----------------------------------------------------
+percentage teachers level : 0.7216
+teachers level education : 0.6442
+teachers level : 0.6257
+teacher training pre : 0.5935
+pedagogical teacher training : 0.5697
+given country teacher : 0.5487
+service required teaching : 0.5478
+----------------------------------------------------

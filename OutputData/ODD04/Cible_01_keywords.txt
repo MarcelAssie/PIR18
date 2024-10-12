@@ -1,0 +1,18 @@
+Mots-clés pour la cible 01 :
+----------------------------------------------------
+proficiency levels mpls : 0.7557
+minimum proficiency levels : 0.6717
+proficiency levels defined : 0.6714
+proficiency level reference : 0.6567
+described minimum proficiency : 0.6499
+education minimum proficiency : 0.6409
+age grade primary : 0.6544
+grades intended age : 0.6367
+education age pupils : 0.6118
+age group calculation : 0.5976
+education years primary : 0.5934
+intended age grade : 0.5828
+age grade level : 0.5744
+age grade : 0.5738
+primary education years : 0.5697
+----------------------------------------------------

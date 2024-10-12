@@ -1,0 +1,9 @@
+Mots-clés pour la cible 06 :
+----------------------------------------------------
+genetic resources multilateral : 0.6300
+genetic resources purposes : 0.6063
+genetic resources conservation : 0.5977
+plant genetic resources : 0.5840
+genetic resources fair : 0.5715
+utilization genetic resources : 0.5677
+----------------------------------------------------

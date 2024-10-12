@@ -1,0 +1,34 @@
+Mots-clés pour la cible 07 :
+----------------------------------------------------
+migrant worker target : 0.6248
+migrant workers employed : 0.6058
+employee migrants proportion : 0.6050
+total migrant workers : 0.6005
+employee migrants : 0.5880
+international migrant workers : 0.5712
+target population immigrant : 0.5709
+migration governance framework : 0.7072
+objectives migration governance : 0.7027
+migration governance defined : 0.6927
+good migration governance : 0.6560
+migration government measures : 0.6557
+principles objectives migration : 0.6387
+ensure migration governed : 0.6315
+migrant death excludes : 0.7157
+cases migrants die : 0.7052
+migrant death : 0.7017
+migrants die : 0.6763
+definition migrant death : 0.6616
+deaths refugee : 0.6590
+migrants die countries : 0.6577
+disappearances migrants : 0.6510
+missing migrants : 0.6495
+population recognized refugees : 0.7384
+relating status refugees : 0.7135
+unhcr refugees accordance : 0.7000
+refugees recognized : 0.6950
+status refugees : 0.6930
+recognized unhcr refugees : 0.6911
+recognized refugees proportion : 0.6902
+population refugees refers : 0.6871
+----------------------------------------------------

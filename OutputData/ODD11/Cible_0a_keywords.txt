@@ -1,0 +1,12 @@
+Mots-clés pour la cible 0a :
+----------------------------------------------------
+urban policy nup : 0.6848
+national urban policies : 0.6673
+plans national urban : 0.6649
+urban policies regional : 0.6193
+nup regional development : 0.6129
+urban plan framework : 0.5926
+urban policy global : 0.5891
+regional development plans : 0.5878
+development plans national : 0.5793
+----------------------------------------------------

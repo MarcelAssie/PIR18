@@ -1,0 +1,11 @@
+Mots-clés pour la cible 06 :
+----------------------------------------------------
+responsible fisheries iuu : 0.7390
+unregulated fishing iuu : 0.7311
+combatting iuu fishing : 0.7275
+iuu fishing undermines : 0.7148
+conduct iuu fishing : 0.7136
+relation iuu fishing : 0.7035
+fisheries iuu fishing : 0.7034
+iuu fishing dealt : 0.6825
+----------------------------------------------------

@@ -1,0 +1,11 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+national recycling rate : 0.7555
+definitions national recycling : 0.7548
+waste material recycled : 0.7281
+recycling total waste : 0.7166
+recycling rate presented : 0.7119
+recycling rate : 0.7033
+composting considered recycling : 0.6708
+recycling defined : 0.6661
+----------------------------------------------------

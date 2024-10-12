@@ -1,0 +1,12 @@
+Mots-clés pour la cible 0b :
+----------------------------------------------------
+vaccines children coverage : 0.6522
+infant vaccination coverage : 0.6397
+vaccination coverage measles : 0.6301
+vaccine dose schedule : 0.6185
+recommended vaccines vary : 0.6140
+number recommended vaccines : 0.6108
+conjugate vaccine dose : 0.6028
+coverage hpv vaccine : 0.6018
+national immunization schedules : 0.5977
+----------------------------------------------------

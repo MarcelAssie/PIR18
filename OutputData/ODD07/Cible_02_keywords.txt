@@ -1,0 +1,9 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+renewable energy consumption : 0.6731
+renewable waste total : 0.6659
+final consumption energy : 0.6657
+energy consumption includes : 0.6292
+consumption energy derived : 0.5951
+total final consumption : 0.5926
+----------------------------------------------------

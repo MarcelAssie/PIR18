@@ -1,0 +1,33 @@
+Mots-clés pour la cible 01 :
+----------------------------------------------------
+intentional homicide defined : 0.7046
+definition intentional homicide : 0.6664
+intentional homicides irrespective : 0.6418
+homicides irrespective definitions : 0.6368
+homicide intentional homicide : 0.6316
+homicide defined : 0.6309
+homicide defined unlawful : 0.6051
+armed conflict population : 0.6670
+international armed conflicts : 0.6559
+armed conflict deaths : 0.6377
+armed conflicts iac : 0.6373
+associated armed conflict : 0.6329
+defined armed conflict : 0.6200
+armed conflict reference : 0.6124
+physical violence defined : 0.7167
+physical violence counts : 0.7082
+physical violence psychological : 0.7023
+physical violence possible : 0.6953
+definition physical violence : 0.6889
+violence respectively physical : 0.6707
+physical sexual assault : 0.6684
+respectively physical violence : 0.6499
+walking neighbourhood dark : 0.6383
+perceptions walking dark : 0.5880
+people dark indicator : 0.5557
+dark indicator : 0.5445
+darkness factors individuals : 0.5373
+neighbourhood indicator aims : 0.5353
+threshold define nighttime : 0.5281
+darkness important according : 0.5127
+----------------------------------------------------

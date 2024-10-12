@@ -1,0 +1,10 @@
+Mots-clés pour la cible 03 :
+----------------------------------------------------
+informal employment comprises : 0.7176
+informal employment indicator : 0.6917
+work informal employment : 0.6910
+employment classified informal : 0.6762
+classified informal employment : 0.6599
+employed informal sector : 0.6500
+informal jobs employed : 0.6487
+----------------------------------------------------

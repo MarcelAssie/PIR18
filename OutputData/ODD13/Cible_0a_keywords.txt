@@ -1,0 +1,11 @@
+Mots-clés pour la cible 0a :
+----------------------------------------------------
+climate finance flows : 0.5950
+reporting climate finance : 0.5834
+commitment data unfccc : 0.5827
+climate specific financial : 0.5571
+definitions climate finance : 0.5441
+overview climate finance : 0.5422
+climate finance decision : 0.5398
+climate finance including : 0.5330
+----------------------------------------------------

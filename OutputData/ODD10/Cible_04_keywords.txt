@@ -1,0 +1,19 @@
+Mots-clés pour la cible 04 :
+----------------------------------------------------
+gdp total compensation : 0.7075
+employed gdp represents : 0.6375
+employees labour income : 0.6129
+compensation employees labour : 0.6103
+employed gdp : 0.6068
+total compensation employees : 0.5948
+employees includes wages : 0.5763
+income gini index : 0.6742
+equivalized income gini : 0.6590
+fiscal policy gini : 0.6279
+income population gini : 0.6222
+fiscal income redistributive : 0.6202
+population income gini : 0.6198
+income gini : 0.6150
+fiscal incomes : 0.6101
+policy gini coefficient : 0.6043
+----------------------------------------------------

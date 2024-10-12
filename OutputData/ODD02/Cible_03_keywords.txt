@@ -1,0 +1,19 @@
+Mots-clés pour la cible 03 :
+----------------------------------------------------
+volume agricultural production : 0.6092
+scale food producers : 0.5717
+measurement agriculture : 0.5553
+number livestock production : 0.5525
+volume agricultural : 0.5418
+agricultural production small : 0.5403
+measurement number livestock : 0.5376
+land livestock revenues : 0.5323
+production small scale : 0.5307
+income crop production : 0.5934
+includes income crop : 0.5889
+measures income farm : 0.5870
+land livestock revenues : 0.5864
+economic revenues agricultural : 0.5805
+revenues agricultural activities : 0.5684
+income crop : 0.5668
+----------------------------------------------------

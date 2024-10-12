@@ -1,0 +1,12 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+designated protected areas : 0.6884
+oecms protected areas : 0.6877
+protected areas defined : 0.6476
+areas defined iucn : 0.6417
+biodiversity covered designated : 0.6197
+protected areas effective : 0.6143
+conservation measures oecms : 0.6138
+biodiversity covered : 0.5926
+coverage protected areas : 0.5865
+----------------------------------------------------

@@ -1,0 +1,20 @@
+Mots-clés pour la cible 03 :
+----------------------------------------------------
+measures volumes wastewater : 0.6921
+wastewater flows figure : 0.6773
+total volume wastewater : 0.6725
+total wastewater flows : 0.6718
+total wastewater generated : 0.6670
+wastewater generated total : 0.6640
+taken proportion wastewater : 0.6605
+proportion wastewater flow : 0.6590
+wastewater statistics commonly : 0.6560
+water quality index : 0.7363
+water quality assessed : 0.7329
+monitoring water quality : 0.7303
+water quality status : 0.7245
+water quality monitoring : 0.7240
+measured water quality : 0.7157
+water quality parameter : 0.6982
+parameter water quality : 0.6882
+----------------------------------------------------

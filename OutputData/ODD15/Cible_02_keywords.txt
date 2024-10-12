@@ -1,0 +1,11 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+sustainable forest management : 0.6836
+sustainable forest : 0.6621
+forest management environmental : 0.6593
+environmental values forests : 0.6446
+forest management sfm : 0.6434
+forest areas assessing : 0.6323
+dimensions sustainable forest : 0.5915
+management forest areas : 0.5913
+----------------------------------------------------

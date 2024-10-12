@@ -1,0 +1,21 @@
+Mots-clés pour la cible 07 :
+----------------------------------------------------
+indicator contraceptive prevalence : 0.5230
+information sdg_indicator_info goal : 0.5065
+family planning information : 0.5020
+family planning survey : 0.4993
+sdg_indicator_info goal : 0.4989
+family planning includes : 0.4913
+family planning satisfied : 0.4900
+sdg_related_indicators : 0.4897
+provision family planning : 0.4895
+adolescent birth rate : 0.7499
+birth rate women : 0.7067
+specific fertility rate : 0.6994
+fertility rate : 0.6939
+birth rate : 0.6915
+number births females : 0.6624
+age specific fertility : 0.6561
+childbearing females particular : 0.6349
+childbearing females : 0.6306
+----------------------------------------------------

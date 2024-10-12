@@ -1,0 +1,12 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+assets regulatory tier : 0.5847
+financial soundness indicators : 0.5734
+basel iii leverage : 0.5643
+weighted assets regulatory : 0.5599
+capital regulatory tier : 0.5551
+leverage ratio indicator : 0.5462
+iii leverage ratio : 0.5182
+regulatory tier capital : 0.5072
+assets fsi calculated : 0.5037
+----------------------------------------------------

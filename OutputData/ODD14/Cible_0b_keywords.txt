@@ -1,0 +1,10 @@
+Mots-clés pour la cible 0b :
+----------------------------------------------------
+fisheries national statistical : 0.7932
+fishery statistical standards : 0.7764
+fisheries statistics : 0.7685
+fisheries relevant data : 0.7459
+handbook fishery statistical : 0.7184
+fisheries : 0.6836
+fisheries national : 0.6772
+----------------------------------------------------

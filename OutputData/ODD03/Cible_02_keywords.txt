@@ -1,0 +1,16 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+mortality rate probability : 0.6920
+nder mortality rate : 0.6889
+mortality rate defined : 0.6857
+births mortality rate : 0.6706
+specific mortality rates : 0.6598
+rate number deaths : 0.6427
+neonatal mortality rate : 0.8077
+births neonatal deaths : 0.7241
+neonatal deaths deaths : 0.7049
+early neonatal deaths : 0.6936
+neonatal deaths occurring : 0.6894
+life late neonatal : 0.6815
+live births neonatal : 0.6660
+----------------------------------------------------

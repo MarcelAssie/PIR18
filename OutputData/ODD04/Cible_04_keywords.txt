@@ -1,0 +1,13 @@
+Mots-clés pour la cible 04 :
+----------------------------------------------------
+measure ict skills : 0.7709
+proportion individuals ict : 0.7291
+ict skills current : 0.6919
+activities measure ict : 0.6830
+measure ict : 0.6808
+individuals ict skills : 0.6703
+ict skills : 0.6701
+ict skills skill : 0.6642
+ict skills type : 0.6641
+technology ict skills : 0.6640
+----------------------------------------------------

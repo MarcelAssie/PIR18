@@ -1,0 +1,33 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+prevalence stunting height : 0.6101
+child malnutrition estimates : 0.5962
+stunting height age : 0.5793
+child growth standards : 0.5518
+29 prevalence stunting : 0.5446
+child malnutrition : 0.5422
+estándares crecimiento infantil : 0.5210
+malnutrition estimates unicef : 0.5209
+growth standards children : 0.5175
+child malnutrition estimates : 0.6345
+malnutrition estimates unicef : 0.5716
+child malnutrition official : 0.5666
+child malnutrition : 0.5301
+child growth standards : 0.4910
+prevalence overweight : 0.4846
+height wasting assessed : 0.6220
+prevalence wasting weight : 0.6215
+weight height wasting : 0.6021
+29 prevalence wasting : 0.5811
+wasting weight height : 0.5685
+height wasting : 0.5432
+wasting weight : 0.4781
+wasting assessed mid : 0.4773
+assessed using weight : 0.4772
+iron deficiency anaemia : 0.7242
+iron deficiency : 0.6882
+deficiency iron deficiency : 0.6770
+deficiency iron : 0.6472
+anaemia condition concentration : 0.6434
+anaemia blood haemoglobin : 0.6304
+----------------------------------------------------

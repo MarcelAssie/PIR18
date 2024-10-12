@@ -1,0 +1,9 @@
+Mots-clés pour la cible 0a :
+----------------------------------------------------
+smokeless tobacco product : 0.6918
+tobacco use means : 0.6556
+smokeless tobacco daily : 0.6492
+tobacco product consumed : 0.6327
+tobacco daily non : 0.6270
+tobacco product : 0.6237
+----------------------------------------------------

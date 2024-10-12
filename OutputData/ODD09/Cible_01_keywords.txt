@@ -1,0 +1,20 @@
+Mots-clés pour la cible 01 :
+----------------------------------------------------
+rural access index : 0.5971
+measurement rural access : 0.5731
+determining urban rural : 0.5700
+correct measurement rural : 0.5636
+countries census data : 0.5617
+access countries census : 0.5611
+subnational census data : 0.5602
+rural access countries : 0.5476
+country rural population : 0.5425
+kilometres freight volumes : 0.6696
+freight volumes measured : 0.6695
+freight volume data : 0.6661
+freight measured metric : 0.6602
+passenger freight volumes : 0.6476
+passenger volumes measured : 0.6449
+volumes measured passenger : 0.6278
+passenger kilometres freight : 0.6219
+----------------------------------------------------

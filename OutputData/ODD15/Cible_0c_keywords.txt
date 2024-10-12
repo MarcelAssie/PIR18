@@ -1,0 +1,12 @@
+Mots-clés pour la cible 0c :
+----------------------------------------------------
+illegal trade wildlife : 0.7807
+share trade wildlife : 0.7169
+trade wildlife detected : 0.7044
+trade wildlife sum : 0.7016
+wildlife detected illegal : 0.6110
+legal illegal trade : 0.5978
+illegal trade legal : 0.5943
+trade endangered species : 0.5687
+trade legal : 0.5653
+----------------------------------------------------

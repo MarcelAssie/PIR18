@@ -1,0 +1,17 @@
+Mots-clés pour la cible 05 :
+----------------------------------------------------
+experimental development expenditure : 0.6463
+experimental development gross : 0.6093
+development expenditure : 0.5800
+development oecd frascati : 0.5615
+domestic expenditure research : 0.5592
+development gross domestic : 0.5364
+development oecd frascati : 0.6772
+frascati manual oecd : 0.6057
+oecd frascati manual : 0.6056
+frascati manual developing : 0.5742
+oecd frascati : 0.5646
+frascati manual relevant : 0.5179
+development researchers : 0.5168
+experimental development comprise : 0.5130
+----------------------------------------------------

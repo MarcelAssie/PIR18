@@ -1,0 +1,16 @@
+Mots-clés pour la cible 04 :
+----------------------------------------------------
+rotterdam convention designation : 0.5722
+basel convention rotterdam : 0.5656
+pollutants stockholm convention : 0.5519
+reports rotterdam convention : 0.5503
+meas basel convention : 0.5414
+basel convention1 designation : 0.5385
+submitted minamata convention : 0.5369
+minam ata convention : 0.5332
+hazardous waste generated : 0.7423
+waste hazardous waste : 0.7358
+hazardous waste definition : 0.7171
+waste considered hazardous : 0.6993
+environment hazardous waste : 0.6815
+----------------------------------------------------

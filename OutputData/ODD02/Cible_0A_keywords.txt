@@ -1,0 +1,20 @@
+Mots-clés pour la cible 0A :
+----------------------------------------------------
+expenditure divided agriculture : 0.6082
+gdp agriculture refers : 0.6048
+government expenditure comprise : 0.5693
+aoi government expenditures : 0.5672
+index aoi government : 0.5535
+government cofog agriculture : 0.5491
+agriculture share government : 0.5461
+defined agriculture share : 0.5409
+oda flows countries : 0.7245
+oda official flows : 0.7024
+defines oda flows : 0.6548
+disbursements total oda : 0.6224
+oda flows : 0.5913
+agriculture sector oda : 0.5735
+flows donors agriculture : 0.5661
+total oda official : 0.5481
+official flows donors : 0.5477
+----------------------------------------------------

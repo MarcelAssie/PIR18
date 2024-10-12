@@ -1,0 +1,21 @@
+Mots-clés pour la cible 02 :
+----------------------------------------------------
+material economy mf : 0.7013
+material footprint mf : 0.6982
+material consumption dmc : 0.6782
+countries material footprint : 0.6594
+consumption dmc mf : 0.6544
+production consumption dmc : 0.6096
+total material footprint : 0.6047
+domestic material consumption : 0.5979
+footprint mf : 0.5961
+material consumption dmc : 0.7390
+consumption dmc standard : 0.6644
+production consumption dmc : 0.6632
+economy dmc measures : 0.6475
+consumption dmc : 0.6437
+consumption dmc reports : 0.6266
+dmc material footprint : 0.6152
+domestic material consumption : 0.6070
+national economy dmc : 0.6057
+----------------------------------------------------

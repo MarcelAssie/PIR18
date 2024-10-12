@@ -1,0 +1,13 @@
+Mots-clés pour la cible 01 :
+----------------------------------------------------
+gender equality indicator : 0.6478
+gender equality assessment : 0.6116
+monitor gender equality : 0.6048
+framework gender equality : 0.5873
+equality assessment carried : 0.5873
+gender equality particular : 0.5803
+discrimination based sex : 0.5760
+women act discrimination : 0.5699
+prohibiting discrimination women : 0.5692
+discrimination women forms : 0.5668
+----------------------------------------------------

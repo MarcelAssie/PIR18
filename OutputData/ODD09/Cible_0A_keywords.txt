@@ -1,0 +1,11 @@
+Mots-clés pour la cible 0A :
+----------------------------------------------------
+oda flows countries : 0.7471
+oda official flows : 0.7381
+defines oda flows : 0.6947
+oda flows : 0.6195
+disbursements total oda : 0.6068
+official flows oof : 0.5907
+infrastructure oda dac : 0.5817
+flows oof official : 0.5769
+----------------------------------------------------

@@ -1,0 +1,21 @@
+Mots-clés pour la cible 0D :
+----------------------------------------------------
+health regulations ihr : 0.6770
+regulations ihr adopted : 0.5986
+regulations 2005 ihr : 0.5856
+assessment ihr : 0.5787
+health assembly ihr : 0.5648
+advocacy ihr implementation : 0.5542
+international health regulations : 0.5536
+ihr states states : 0.5498
+health capacities states : 0.5478
+cephalosporins coli isolates : 0.6341
+cephalosporin esbl coli : 0.6105
+resistant generation cephalosporins : 0.6029
+resistant aureus mrsa : 0.5962
+methicillin resistant aureus : 0.5842
+methicillin resistant staphylococcus : 0.5841
+mrsa escherichia coli : 0.5835
+infection methicillin resistant : 0.5805
+mrsa isolates defined : 0.5712
+----------------------------------------------------
