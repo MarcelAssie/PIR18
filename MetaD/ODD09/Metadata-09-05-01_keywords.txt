@@ -1,9 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-experimental development expenditure : 0.6463
-experimental development gross : 0.6093
-development expenditure : 0.5800
-development oecd frascati : 0.5615
-domestic expenditure research : 0.5592
+experimental development researchers : 0.4699
+oecd frascati manual : 0.4751
+research experimental development : 0.4755
+domestic expenditure : 0.4759
+gdp research experimental : 0.4838
+frascati manual oecd : 0.4842
+expenditures intramural research : 0.5200
 development gross domestic : 0.5364
+development expenditure divided : 0.5523
 ----------------------------------------------------

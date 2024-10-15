@@ -1,130 +1,75 @@
 Mots-cles,Scores,cibles
-prevalence undernourishment pou,0.7116,01
-undernutrition refers,0.7017,01
-undernourishment pou,0.694,01
-feeding term undernourishment,0.6762,01
-individuals prevalence undernourishment,0.675,01
-related undernourishment defined,0.6644,01
-food insecurity measurement,0.6504,01
-food insecurity severity,0.6455,01
-insecurity severity food,0.6366,01
-prevalence food insecurity,0.6335,01
-food insecurity population,0.6259,01
-severity food insecurity,0.6224,01
-food insecurity number,0.6047,01
-food insecurity defined,0.5825,01
-prevalence stunting height,0.6101,02
-child malnutrition estimates,0.5962,02
-stunting height age,0.5793,02
-child growth standards,0.5518,02
-29 prevalence stunting,0.5446,02
-child malnutrition,0.5422,02
-estándares crecimiento infantil,0.521,02
-malnutrition estimates unicef,0.5209,02
-growth standards children,0.5175,02
-child malnutrition estimates,0.6345,02
-malnutrition estimates unicef,0.5716,02
-child malnutrition official,0.5666,02
-child malnutrition,0.5301,02
-child growth standards,0.491,02
-prevalence overweight,0.4846,02
-height wasting assessed,0.622,02
-prevalence wasting weight,0.6215,02
-weight height wasting,0.6021,02
-29 prevalence wasting,0.5811,02
-wasting weight height,0.5685,02
-height wasting,0.5432,02
-wasting weight,0.4781,02
-wasting assessed mid,0.4773,02
-assessed using weight,0.4772,02
-iron deficiency anaemia,0.7242,02
-iron deficiency,0.6882,02
-deficiency iron deficiency,0.677,02
-deficiency iron,0.6472,02
-anaemia condition concentration,0.6434,02
-anaemia blood haemoglobin,0.6304,02
-volume agricultural production,0.6092,03
-scale food producers,0.5717,03
-measurement agriculture,0.5553,03
-number livestock production,0.5525,03
-volume agricultural,0.5418,03
-agricultural production small,0.5403,03
-measurement number livestock,0.5376,03
-land livestock revenues,0.5323,03
-production small scale,0.5307,03
-income crop production,0.5934,03
-includes income crop,0.5889,03
-measures income farm,0.587,03
-land livestock revenues,0.5864,03
-economic revenues agricultural,0.5805,03
-revenues agricultural activities,0.5684,03
-income crop,0.5668,03
-scope indicator agricultural,0.7242,04
-farms national criteria,0.6941,04
-agriculture areas farm,0.6285,04
-agricultural land,0.6282,04
-agriculture consider,0.6205,04
-indicator agricultural farm,0.6104,04
-sustainable agriculture sdg,0.7945,04
-measure sustainable agriculture,0.7279,04
-agriculture sdg,0.6781,04
-agriculture sdg process,0.6487,04
-definition sustainable agriculture,0.6351,04
-measurement sustainable,0.5892,04
-method measure sustainable,0.5885,04
-plant genetic resources,0.6015,05
-conservation plant genetic,0.5693,05
-genetic resources food,0.5378,05
-resources genebanks conserve,0.5315,05
-agriculture grfa,0.5293,05
-plant animal genetic,0.5276,05
-animal grfa conserved,0.5166,05
-conserving genetic resources,0.5132,05
-animal genetic resources,0.6384,05
-genetic resources animal,0.6358,05
-genetic resources breed,0.6018,05
-conserving genetic resources,0.5794,05
-genetic resources worldwide,0.5714,05
-counted animal genetic,0.5554,05
-conservation plant animal,0.5353,05
-biodiversity outlook,0.5766,05
-biodiversity information,0.5352,05
-diversity terrestrial domesticated,0.5147,05
-breeds known risk,0.5141,05
-local livestock breeds,0.5116,05
-biodiversity,0.5048,05
-expenditure divided agriculture,0.6082,0A
-gdp agriculture refers,0.6048,0A
-government expenditure comprise,0.5693,0A
-aoi government expenditures,0.5672,0A
-index aoi government,0.5535,0A
-government cofog agriculture,0.5491,0A
-agriculture share government,0.5461,0A
-defined agriculture share,0.5409,0A
-oda flows countries,0.7245,0A
-oda official flows,0.7024,0A
-defines oda flows,0.6548,0A
-disbursements total oda,0.6224,0A
-oda flows,0.5913,0A
-agriculture sector oda,0.5735,0A
-flows donors agriculture,0.5661,0A
-total oda official,0.5481,0A
-official flows donors,0.5477,0A
-agricultural export subsidies,0.6855,0B
-defined export subsidies,0.6683,0B
-subsidies defined export,0.6643,0B
-export subsidies defined,0.6628,0B
-notifications export subsidies,0.6519,0B
-export subsidies tifications,0.65,0B
-export subsidies provisions,0.6422,0B
-export subsidy reduction,0.6373,0B
-export subsidy,0.6314,0B
-export subsidies budgetary,0.63,0B
-price growth indicator,0.5983,0C
-rate growth cgr,0.5501,0C
-growth rate cagr,0.548,0C
-price anomalies ifpa,0.5381,0C
-cgr growth,0.5368,0C
-cgr growth random,0.5316,0C
-changes cgr growth,0.5254,0C
-growth cgr,0.5246,0C
+undernutrition refers,0.7185,01
+undernourishment pou,0.7129,01
+term undernourishment,0.712,01
+prevalence undernourishment,0.7111,01
+undernourishment defined,0.7027,01
+undernutrition,0.6556,01
+undernourishment condition,0.6508,01
+food insecurity,0.7094,01
+prevalence food,0.5875,01
+severity food,0.5585,01
+prevalence stunting,0.5187,02
+malnutrition estimates,0.5052,02
+child malnutrition,0.5049,02
+malnutrition estimates,0.5685,02
+child malnutrition,0.5344,02
+prevalence overweight,0.5127,02
+height wasting,0.5539,02
+iron deficiency,0.6627,02
+haemoglobin concentration,0.6477,02
+deficiency iron,0.6235,02
+deficiency anaemia,0.6232,02
+concentration haemoglobin,0.612,02
+anaemia condition,0.5986,02
+blood haemoglobin,0.549,02
+years haemoglobin,0.541,02
+haemoglobin blood,0.5394,02
+anaemia,0.5389,02
+measurement agriculture,0.581,03
+agricultural production,0.55,03
+volume agricultural,0.5313,03
+livestock revenues,0.5253,03
+livestock production,0.5188,03
+revenues agricultural,0.5117,03
+income crop,0.5706,03
+revenues agricultural,0.5575,03
+livestock revenues,0.5418,03
+measures income,0.5283,03
+food agricultural,0.5045,03
+agricultural land,0.6502,04
+agriculture considered,0.6439,04
+agriculture areas,0.6166,04
+indicator agricultural,0.6116,04
+agriculture,0.5955,04
+subsistence agriculture,0.5876,04
+crops livestock,0.5861,04
+agriculture outcomes,0.5534,04
+agriculture sdg,0.7002,04
+sustainable agriculture,0.6327,04
+sdg indicators,0.5824,04
+measurement sustainable,0.5813,04
+agriculture assessed,0.5655,04
+sustainable food,0.5227,04
+sdg monitoring,0.5124,04
+agriculture grfa,0.5366,05
+genetic resources,0.5199,05
+genetic resources,0.5642,05
+biodiversity indicators,0.6401,05
+biodiversity outlook,0.5697,05
+biodiversity information,0.5279,05
+biodiversity,0.5066,05
+livestock breeds,0.5044,05
+gdp agriculture,0.5408,0A
+government expenditure,0.5384,0A
+oda flows,0.5613,0A
+defines oda,0.5338,0A
+oda official,0.5111,0A
+export subsidy,0.5939,0B
+agricultural export,0.5206,0B
+agriculture wto,0.5103,0B
+cgr growth,0.5548,0C
+cgr quarterly,0.539,0C
+growth cgr,0.5347,0C
+cqgr annual,0.5336,0C
+growth indicator,0.5133,0C

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+ilo constitution : 0.6923
+ilo declaration : 0.6702
+ilo conventions : 0.6213
+provisions ilo : 0.6043
+established ilo : 0.5977
+ilo normative : 0.5530
+obligation ilo : 0.5520
+ilo supervisory : 0.5472
+ilo member : 0.5408
+supervisory ilo : 0.5403
+----------------------------------------------------

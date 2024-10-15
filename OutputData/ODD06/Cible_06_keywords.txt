@@ -1,18 +1,17 @@
 Mots-clés pour la cible 06 :
 ----------------------------------------------------
-wetlands sdg indicator : 0.6664
-freshwater ecosystems measure : 0.6132
-ecosystem indicator : 0.5881
-ecosystem indicator methodology : 0.5753
-inland wetlands sdg : 0.5479
-earth observations ecosystem : 0.5465
-ecosystem measured : 0.5424
-sdg indicator data : 0.5405
-extent wetlands term : 0.7218
-wetlands term defined : 0.7111
-ramsar classifying wetland : 0.7081
-definitions classifications wetlands : 0.6943
-wetlands ramsar classifying : 0.6834
-area wetlands measured : 0.6832
-wetlands term : 0.6777
+ecosystem indicator : 0.5895
+wetlands sdg : 0.5426
+sdg indicator : 0.5287
+ecosystem measured : 0.5270
+water ecosystems : 0.5185
+extent wetlands : 0.6797
+wetlands term : 0.6739
+wetlands ramsar : 0.6658
+wetlands measured : 0.6639
+definition wetlands : 0.6515
+classifications wetlands : 0.6388
+wetlands baseline : 0.6378
+size wetlands : 0.6262
+wetlands categories : 0.6239
 ----------------------------------------------------

@@ -1,17 +1,20 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-scale manufacturing enterprises : 0.6469
-scale industrial enterprises : 0.6462
-scale industries defined : 0.6300
-small scale industries : 0.6270
-scale industries total : 0.6057
-define enterprise smallest : 0.5954
-small scale manufacturing : 0.5863
-define enterprise smallest : 0.6898
-scale industrial enterprises : 0.6108
-defined enterprise : 0.5933
-small scale industries : 0.5890
-scale industries defined : 0.5734
-defined enterprise enterprise : 0.5619
-units generally enterprises : 0.5586
+defined enterprise : 0.6114
+enterprise smallest : 0.5545
+businesses enterprise : 0.5249
+enterprise enterprise : 0.5217
+industrial enterprises : 0.5127
+industries defined : 0.5109
+manufacturing enterprises : 0.5084
+scale industries : 0.5048
+definitions small : 0.5022
+defined enterprise : 0.6178
+enterprise smallest : 0.5592
+businesses enterprise : 0.5359
+enterprise enterprise : 0.5316
+enterprise establishment : 0.5133
+generally enterprises : 0.5108
+enterprises : 0.5092
+industrial enterprises : 0.5058
 ----------------------------------------------------

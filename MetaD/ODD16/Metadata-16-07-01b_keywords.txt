@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-governments sdg proportion : 0.5909
-definitions sdg proportion : 0.5511
-representation various demographic : 0.5199
-general government sector : 0.5072
-sector general government : 0.5057
-government units defined : 0.5016
+population group status : 0.4691
+national occupation classifications : 0.4703
+public servants assesses : 0.4723
+general government employment : 0.4759
+definitions sdg : 0.4781
+society specifically indicator : 0.4826
 sdg proportion women : 0.4992
-governments sdg : 0.4912
-government units : 0.4851
+government units defined : 0.5016
+representation various demographic : 0.5199
+definitions sdg proportion : 0.5511
 ----------------------------------------------------

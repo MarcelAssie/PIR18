@@ -1,18 +1,12 @@
 Mots-clés pour la cible 0b :
 ----------------------------------------------------
-sendai framework indicators : 0.7741
-sendai framework : 0.5793
-ework indicators : 0.5684
-reflect agreements sendai : 0.5637
-implementation sendai framework : 0.5537
-indicators measure : 0.5474
-indicators : 0.5408
-disaster risk reduction : 0.7212
-2030 disaster risk : 0.6412
-relating disaster risk : 0.6356
-integrate disaster risk : 0.6016
-risk reduction 2015 : 0.5788
-2015 2030 disaster : 0.5530
-framework disaster risk : 0.5310
-local disaster risk : 0.5264
+sendai framework : 0.6154
+framework indicators : 0.5400
+agreements sendai : 0.5217
+implementation sendai : 0.5128
+disaster risk : 0.6066
+integrate disaster : 0.5333
+policy disaster : 0.5330
+relating disaster : 0.5180
+2030 disaster : 0.5038
 ----------------------------------------------------

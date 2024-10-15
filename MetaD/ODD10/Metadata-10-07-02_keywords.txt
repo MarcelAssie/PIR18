@@ -1,10 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-migration governance framework : 0.7072
-objectives migration governance : 0.7027
-migration governance defined : 0.6927
-good migration governance : 0.6560
-migration government measures : 0.6557
+management migration governance : 0.6116
+national migration policy : 0.6121
+migration governed : 0.6141
+implement national migration : 0.6142
+objectives ensure migration : 0.6177
+aimed regulating migration : 0.6195
 principles objectives migration : 0.6387
-ensure migration governed : 0.6315
+migration government measures : 0.6557
+migration governance defined : 0.6927
 ----------------------------------------------------

@@ -1,8 +1,7 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-non formal education : 0.6188
-education non formal : 0.6062
-formal education training : 0.5948
-education children young : 0.5832
-education training defined : 0.5571
+formal education : 0.6062
+education training : 0.5605
+education non : 0.5237
+educational programmes : 0.5235
 ----------------------------------------------------

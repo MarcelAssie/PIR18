@@ -1,20 +1,13 @@
 Mots-clés pour la cible 10 :
 ----------------------------------------------------
-journalists trade unionists : 0.6439
-journalists refers : 0.6056
-share journalistic : 0.5859
-citizen journalists : 0.5841
-journalists : 0.5762
-journalists refers observes : 0.5687
-journalists trade : 0.5625
-journalistic functions : 0.5615
-information implementation country : 0.5856
-countries adopt implement : 0.5800
-information limited exemptions : 0.5686
-implementation country level : 0.5586
-institutions access information : 0.5582
-countries oversight : 0.5476
-compliance access information : 0.5316
-information globally : 0.5280
-countries oversight institutions : 0.5251
+citizen journalists : 0.6030
+journalists refers : 0.6004
+share journalistic : 0.5813
+journalists : 0.5698
+journalistic functions : 0.5591
+journalists trade : 0.5580
+committed journalists : 0.5240
+survey countries : 0.5355
+countries oversight : 0.5103
+information globally : 0.5095
 ----------------------------------------------------

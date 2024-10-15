@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+malnutrition estimates : 0.5685
+child malnutrition : 0.5344
+prevalence overweight : 0.5127
+----------------------------------------------------

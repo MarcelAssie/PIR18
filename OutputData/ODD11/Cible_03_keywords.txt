@@ -1,18 +1,10 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-measure land consumption : 0.7235
-land consumption rate : 0.6803
-estimating land consumption : 0.6658
-available land consumption : 0.6433
-growth land consumption : 0.6409
-constitutes consumption land : 0.6122
-functions land consumption : 0.6110
-participation civil society : 0.6599
-civil society participation : 0.6562
-civil society urban : 0.6385
-civil society organizations : 0.6232
-proposals civil society : 0.6152
-civil society include : 0.6053
-independent civil society : 0.6053
-encourage civil society : 0.5977
+land consumption : 0.6132
+consumption land : 0.5438
+estimating land : 0.5321
+percentage land : 0.5242
+civil society : 0.5450
+participation urban : 0.5222
+participation civil : 0.5177
 ----------------------------------------------------

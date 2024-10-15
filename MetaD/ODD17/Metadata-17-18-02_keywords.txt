@@ -1,8 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-countries statistical legislation : 0.7482
-principles official statistics : 0.7096
-official statistics countries : 0.7012
-countries national statistical : 0.6892
+statistical legislation complies : 0.6242
+statistical agencies country : 0.6311
+nations statistical commission : 0.6424
+official statistics refers : 0.6441
+nations statistical : 0.6456
 official statistics fundamental : 0.6643
+principle official statistics : 0.6992
 ----------------------------------------------------

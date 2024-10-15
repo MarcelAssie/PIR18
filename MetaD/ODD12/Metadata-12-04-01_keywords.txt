@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-rotterdam convention designation : 0.5722
-basel convention rotterdam : 0.5656
-pollutants stockholm convention : 0.5519
-reports rotterdam convention : 0.5503
-meas basel convention : 0.5414
+rotterdam convention prior : 0.5025
+agreements basel convention : 0.5059
+convention mercury minamata : 0.5152
+mercury minamata convention : 0.5224
+disposal basel convention : 0.5241
 basel convention1 designation : 0.5385
-submitted minamata convention : 0.5369
-minam ata convention : 0.5332
+responses rotterdam convention : 0.5421
+pollutants stockholm convention : 0.5519
 ----------------------------------------------------

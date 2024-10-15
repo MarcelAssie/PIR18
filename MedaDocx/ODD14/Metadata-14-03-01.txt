@@ -1,0 +1,9 @@
+Definitions:
+Ocean acidification is the decrease of seawater pH over an extended period, typically of decades or longer, which is caused primarily by the uptake of carbon dioxide from the atmosphere. 
+This indicator is based on observations that constrain the ocean carbon system and which are required to describe the variability in ocean acidity. The carbon system in this context mainly refers to the four measurable parameters: pH (the concentration of hydrogen ions on a logarithmic scale), DIC (CT; total dissolved inorganic carbon), pCO2 (carbon dioxide partial pressure), and TA (AT, total alkalinity). Average, as used here, is the equally weighed annual mean. 
+
+An agreed suite of representative sampling stations are sites that have a measurement frequency that is adequate for describing variability and trends in carbonate chemistry in order to deliver critical information on the exposure of and impacts on marine systems to ocean acidification, and which provide data of sufficient quality and with comprehensive metadata information to enable integration with data from other sites in the country. 
+
+
+Ocean acidification is caused by an increase in the amount of dissolved atmospheric CO2 in the seawater. The average marine acidity is expressed as pH, the concentration of hydrogen ions on a logarithmic scale. In order to be able to constrain the carbonate chemistry of seawater, it is necessary to measure at least two of the four parameters, i.e. pH, pCO2, DIC (CT), and TA (AT). pH (the concentration of hydrogen ions on a logarithmic scale, expressed on total scale), DIC (total dissolved inorganic carbon, in μmol kg-1), pCO2 (carbon dioxide partial pressure, in ppt or μatm), and TA (AT, total alkalinity, in μmol kg-1).
+

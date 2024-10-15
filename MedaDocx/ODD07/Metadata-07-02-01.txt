@@ -1,0 +1,11 @@
+The renewable energy share in total final consumption is the percentage of final consumption of energy that is derived from renewable resources.
+
+
+Renewable energy consumption includes consumption of energy derived from: hydro, wind, solar, solid biofuels, liquid biofuels, biogas, geothermal, marine and renewable waste. Total final energy consumption is calculated from balances as total final consumption minus non-energy use. 
+
+Comments regarding specific renewable energy sources: 
+Solar energy includes solar PV and solar thermal. 
+Liquid biofuels include biogasoline, biodiesels and other liquid biofuels. 
+Solid biofuels include fuelwood, animal waste, vegetable waste, black liquor, bagasse and charcoal. 
+Renewable waste energy covers energy from renewable municipal waste.
+

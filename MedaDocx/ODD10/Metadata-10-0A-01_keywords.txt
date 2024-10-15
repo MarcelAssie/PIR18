@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+tariff lines : 0.6991
+number tariff : 0.6868
+distinctions tariffs : 0.6746
+tariffs customs : 0.6654
+tariff : 0.6452
+tariff rate : 0.6451
+national tariff : 0.6450
+considered tariffs : 0.6429
+tariffs tariffs : 0.6260
+----------------------------------------------------

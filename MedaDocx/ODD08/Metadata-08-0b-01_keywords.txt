@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+youth employment : 0.5887
+youth labour : 0.5745
+international labour : 0.5215
+----------------------------------------------------

@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-arms include firearms : 0.6827
-arms light weapons : 0.6472
-weapons defined : 0.6242
-firearms defined : 0.6055
-weapons defined portable : 0.5906
-arms illicit origin : 0.5842
+light machine guns : 0.5456
+arms refer small : 0.5460
+antique small arms : 0.5483
+1899 arms include : 0.5581
+weapons replicas defined : 0.5646
+include firearms defined : 0.5697
 arms illicitly manufactured : 0.5793
-weapons individual use : 0.5707
-international instruments arms : 0.5706
+light weapons defined : 0.5834
+arms illicit origin : 0.5842
+weapons defined portable : 0.5906
 ----------------------------------------------------

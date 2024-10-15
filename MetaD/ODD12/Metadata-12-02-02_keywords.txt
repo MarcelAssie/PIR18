@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-material consumption dmc : 0.7390
-consumption dmc standard : 0.6644
-production consumption dmc : 0.6632
-economy dmc measures : 0.6475
-consumption dmc : 0.6437
-consumption dmc reports : 0.6266
-dmc material footprint : 0.6152
-domestic material consumption : 0.6070
+dmc outsourced material : 0.5506
+apparent consumption materials : 0.5526
+dmc standard material : 0.5597
+exports dmc : 0.5630
+countries material footprint : 0.5781
+material footprint mf : 0.6032
 national economy dmc : 0.6057
+domestic material consumption : 0.6070
+economy dmc measures : 0.6475
 ----------------------------------------------------

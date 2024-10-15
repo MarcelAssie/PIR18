@@ -1,10 +1,12 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-income consumption distribution : 0.7268
-measure consumption income : 0.7103
-household income consumption : 0.7054
-consumption income indicator : 0.6986
-consumption income level : 0.6930
-capita income consumption : 0.6878
-income consumption estimated : 0.6790
+income consumption : 0.6937
+consumption income : 0.6873
+household income : 0.6286
+consumption distributions : 0.6125
+income distributions : 0.6109
+household expenditure : 0.5996
+income indicator : 0.5944
+distribution income : 0.5639
+median income : 0.5601
 ----------------------------------------------------

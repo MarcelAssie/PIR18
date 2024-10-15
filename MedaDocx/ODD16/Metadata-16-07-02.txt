@@ -1,0 +1,8 @@
+This survey-based indicator measures self-reported levels of ‘external political efficacy’, that is, the extent to which people think that politicians and/or political institutions will listen to, and act on, the opinions of ordinary citizens. 
+To address both dimensions covered by this indicator, SDG indicator 16.7.2 uses two well-established survey questions, namely: 1) one question measuring the extent to which people feel they have a say in what the government does (focus on inclusive participation in decision-making) and 2) another question measuring the extent to which people feel the political system allows them to have an influence on politics (focus on responsive decision-making).
+All efforts should be made to disaggregate survey results on these two questions by sex, age group, income level, education level, place of residence (administrative region e.g. province, state, district; urban/rural), disability status, and nationally relevant population groups. A detailed questionnaire and implementation manual to produce the indicator is defined in the SDG 16 Survey Initiative   
+Concepts
+Decision-making: It is implicit in indicator 16.7.2 that ‘decision-making’ refers to decision-making in the public governance realm (and not all decision-making). 
+Inclusive decision-making: Decision-making processes which provide people with an opportunity to ‘have a say’, that is, to voice their demands, opinions and/or preferences to decision-makers. 
+Responsive decision-making: Decision-making processes where politicians and/or political institutions listen to and act on the stated demands, opinions and/or preferences of people.
+

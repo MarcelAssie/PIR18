@@ -1,12 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-reproductive health decision : 0.6526
-autonomy reproductive health : 0.5984
-reproductive rights decide : 0.5587
-women autonomy decision : 0.5467
-decide use contraception : 0.5202
-decisions health care : 0.5191
-husbands partners decide : 0.5074
-exercise reproductive rights : 0.5045
-health care decide : 0.5039
+cohabiting marriage : 0.4122
+women autonomy : 0.4283
+decide health : 0.4453
 ----------------------------------------------------

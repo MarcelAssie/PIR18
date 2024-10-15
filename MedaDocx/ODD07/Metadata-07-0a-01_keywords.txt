@@ -1,0 +1,7 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+generation renewable : 0.5292
+geothermal energy : 0.5104
+renewable sources : 0.5074
+renewable energy : 0.5068
+----------------------------------------------------

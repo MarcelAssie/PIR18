@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+hbsag hepatitis : 0.6745
+hepatitis test : 0.6030
+antigen hbsag : 0.5930
+immunity hbv : 0.5905
+differentiate hepatitis : 0.5671
+hbv infection : 0.5613
+hepatitis hepatitis : 0.5450
+test hbsag : 0.5411
+hepatitis surface : 0.5403
+hepatitis : 0.5283
+----------------------------------------------------

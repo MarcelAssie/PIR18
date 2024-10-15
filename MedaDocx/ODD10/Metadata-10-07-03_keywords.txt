@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+migrant death : 0.7090
+migrants die : 0.6773
+deaths refugee : 0.6335
+disappearances migrants : 0.6292
+missing migrants : 0.6281
+migrants status : 0.6055
+incidents migrants : 0.5798
+cases migrants : 0.5661
+migrants : 0.5577
+connected migrants : 0.5402
+----------------------------------------------------

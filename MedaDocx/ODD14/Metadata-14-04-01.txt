@@ -1,0 +1,28 @@
+The indicator, "Proportion of marine fish stocks within biologically sustainable levels", measures the sustainability of the world's marine capture fisheries by the abundance of the exploited fish stocks with respect to MSY levels.
+
+For each level of reporting (National, Regional, Global) the indicator is calculated as the ratio between the number of exploited fish stocks classified as "within biologically sustainable levels" and the total number of stocks in the reference list that were classified with a determined status (within/not within "biologically sustainable levels").
+
+where Ps is the percentage of stocks classified as "within biologically sustainable levels" for the reference list of stocks. Ns is the number of stocks in the reference list classified as "within biologically sustainable levels", Nu is the number of stocks in the reference list classified as "outside biologically sustainable levels" and N = Ns + Nu is the total number of stocks in the reference list that have been classified as within or outside "biologically sustainable levels".
+Classifying individual stocks as within/outside "biologically sustainable levels":
+In order to keep consistency with the 14.4 target ("at least to levels that can produce maximum sustainable yield as determined by their biological characteristics" and other earlier international agreements, including the United Nations Convention on the Law of the Sea (UNCLOS), a fish stock is classified as "within biologically sustainable levels" if its abundance is estimated (considering uncertainty) to be equal to or greater than the level that can produce the Maximum Sustainable Yield (MSY). In contrast, when abundance falls below the MSY level, the stock is classified as "outside biologically sustainable levels".
+A wide array of methods and approaches (including documented expert opinion) is used to classify stock status relative to the abundance producing MSY. This varies among countries, regions and stocks. Nevertheless, the reliability of the classification is assessed by FAO as part of the process of producing the index.
+
+Maximum Sustainable Yield (MSY) is commonly defined as the greatest average amount of catch that can be harvested in the long-term from a stock under constant and current environmental conditions (e.g., habitat, water conditions, species composition and interactions, and anything that could affect birth, growth, or death rates of the stock), without affecting the long-term productivity of the stock. A stock can produce MSY if its abundance is above a certain level, usually around 50% of its unexploited abundance (but actual value can vary around that level, depending on the biological characteristics of the stock).  See more at https://www.fao.org/faoterm/en/?defaultCollId=21
+
+MSY-based reference points are the most common type of reference points used in fisheries management today. This is primarily because, for decades, reference points from surplus production models have most often been set based on the concept of MSY and they are the basic benchmarks for the sustainability of fisheries set by the UN Convention on the Law of the Sea (UNCLOS, Article 61(3)). For more on Reference Points in Fish Stock Assessment, see Caddy and Mahon (1995), Cadima (2003) or Haddon (2011).
+
+BMSY: Biomass corresponding to Maximum Sustainable Yield from a production model or from an age-based analysis using a stock recruitment model. Often used as a biological reference point in fisheries management, it is the calculated long-term average biomass value expected if fishing at FMSY.
+
+A population is:  “A group of individuals of the same species living in the same area at the same time and sharing a common gene pool, with little or no immigration or emigration.”
+
+A biological stock is:  “A subpopulation of a species inhabiting a particular geographic area, having  similar biological characteristics  (e.g. growth, reproduction, mortality) and negligible genetic mixing with other adjacent subpopulations  of the same species." (FAO, 2004-2021).
+
+The reference list of Stocks: it is not possible to classify the sustainability of exploitation for all the exploited stocks from a country, region or the world. Therefore, the indicator must be calculated based on a subset of these stocks. The list of the stocks that are classified for status and used to calculate the indicators is called the "reference list of Stocks".
+
+The reference list of Stocks is built differently for the Regional/Global and the National levels.  The process of building the reference list of Stocks for regional and global level are described in FAO (2011). At National level, countries are requested to define a list of stocks, based on an agreed set of criteria (Appendix 1). National and shared stocks can be included, but not straddling stocks (stocks that are distributed both in national EEZ and Areas Beyond National Jurisdiction).
+At this moment, there is not a direct correspondence between the national level reference lists (that are defined by each country) and the regional and global Reference lists (that are defined by FAO).
+
+FAO is working on an update of its methodology at global/regional level (FAO, 2024) which also addresses needs for convergence with the national level. Full results of the application of this updated methodology are planned to be published in 2026.
+
+The detailed description of all necessary concepts can be found in the e-learning course (FAO 2019-2021).
+

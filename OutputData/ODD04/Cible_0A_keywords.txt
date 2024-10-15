@@ -1,11 +1,12 @@
 Mots-clés pour la cible 0A :
 ----------------------------------------------------
-pedagogical purposes internet : 0.6935
-internet pedagogical purposes : 0.6810
-purposes internet pedagogical : 0.6703
-using computers internet : 0.6265
-purposes internet available : 0.6259
-pupils internet defined : 0.6141
-purposes internet : 0.5936
-use ict infrastructure : 0.5935
+internet pedagogical : 0.6230
+computers internet : 0.5944
+purposes internet : 0.5879
+use ict : 0.5737
+computers pedagogical : 0.5459
+ict infrastructure : 0.5398
+ict : 0.5379
+use computers : 0.5360
+internet defined : 0.5297
 ----------------------------------------------------

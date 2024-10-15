@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-national statistical plan : 0.6587
-indicator number countries : 0.6450
-countries national statistical : 0.6354
-count countries implementing : 0.6265
-implementing national statistical : 0.5851
-number countries national : 0.5847
+countries implementing strategy : 0.4992
+statistics nsds collaboration : 0.5026
+status report national : 0.5055
+countries national : 0.5128
+number countries : 0.5312
+statistics nsds : 0.5375
+plans indicator count : 0.5429
+development statistics nsds : 0.5449
 statistical plans indicator : 0.5727
-reports country progress : 0.5524
 ----------------------------------------------------

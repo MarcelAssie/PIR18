@@ -1,9 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-prevalence undernourishment pou : 0.7116
-undernutrition refers : 0.7017
-undernourishment pou : 0.6940
-feeding term undernourishment : 0.6762
-individuals prevalence undernourishment : 0.6750
-related undernourishment defined : 0.6644
+food consumption : 0.4259
+food insufficient : 0.4556
+nutritional status : 0.4850
+terms nutritional : 0.4895
+malnutrition : 0.4982
+29 undernourishment : 0.5182
+undernourishment estimate : 0.5351
+indicator undernourishment : 0.5736
 ----------------------------------------------------

@@ -1,0 +1,7 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sanitation activities : 0.5553
+sanitation management : 0.5535
+participation local : 0.5183
+sanitation includes : 0.5042
+----------------------------------------------------

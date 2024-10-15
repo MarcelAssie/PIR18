@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-women land rights : 0.5957
-land rights women : 0.5858
-rights women proxy : 0.5612
-women proxy mandatory : 0.5322
-instruments governing land : 0.5310
-women participation land : 0.5299
-protection land rights : 0.5185
-guarantee women land : 0.5183
-land rights including : 0.5147
+policy instruments : 0.4145
+rights proxy : 0.4187
+land countries : 0.4240
+women land : 0.4254
+land tenure : 0.4270
+regulations : 0.4300
+discrimination women : 0.4300
+entitlements property : 0.4331
+women proxy : 0.4553
 national regulations : 0.5112
 ----------------------------------------------------

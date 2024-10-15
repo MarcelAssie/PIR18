@@ -8,6 +8,10 @@ import pandas as pd
 from .filters import txt_to_string, filter_similar_entities
 # from filters import txt_to_string, filter_similar_entities
 
+# Création du dossier des résultats
+results_path = "./OutputData"
+# results_path = "../OutputData"
+os.makedirs(results_path, exist_ok=True)
 
 def entities_extractions(dossier):
     """
@@ -24,14 +28,12 @@ def entities_extractions(dossier):
 
         Retour:
         -------
-        None : La fonction ne retourne rien, mais crée des fichiers texte contenant les mots-clés et leurs scores.
+        None : La fonction ne retourne rien, mais crée des fichiers texte et csv contenant les mots-clés et leurs scores de façon ordonnée.
     """
     # Création du dossier de stockage des différentes données
-    odd_number = re.search(r'\d+', dossier).group()
-    dossier_path = f"./Keywords_odd/ODD{odd_number}"
-    # dossier_path = f"../Keywords_odd/ODD{odd_number}"
-    if not os.path.exists(dossier_path):
-        os.makedirs(dossier_path)
+    odd_number = dossier[-2:]
+    dossier_path = f"{results_path}/ODD{odd_number}"
+    os.makedirs(dossier_path, exist_ok=True)
 
     print("------------------------------------------------------------------------------------------------")
     print(f"Début de traitement de l'ODD {odd_number}...\n")
@@ -62,17 +64,17 @@ def entities_extractions(dossier):
         kw_model = KeyBERT(model=sentence_model)
         keywords = kw_model.extract_keywords(
             doc,
-            keyphrase_ngram_range=(1, 3),   # Taille de mots/phrases clé(e)s
+            keyphrase_ngram_range=(1, 2),   # Taille de mots/phrases clé(e)s
             stop_words='english',           # Eliminer les mots usuels en anglais
-            # use_maxsum=True,
-            nr_candidates=20,              # Nombre d'éléments à étudier
+            use_maxsum=True,                #
+            nr_candidates=20,               # Nombre d'éléments à étudier
             top_n=10                        # Nombre d'éléments choisis
         )
         # Suppression des entités similaires d'un point de vue orthographique
         entities_filtered = filter_similar_entities(keywords, threshold=80)
 
         # Filtrer les résultats par score
-        filtered_keywords = [(kw[0], kw[1], data[0][12:14]) for kw in entities_filtered if kw[1] > 0.4]
+        filtered_keywords = [(kw[0], kw[1], data[0][12:14]) for kw in entities_filtered if kw[1] > 0.5]
         keywords_ODD.extend(filtered_keywords)
         # Chemin de sortie du fichier
         metadata = data[0].replace(".txt","")
@@ -121,6 +123,4 @@ def entities_extractions(dossier):
     return None
 
 # print(entities_extractions("../MetaD/ODD01"))
-
-
 

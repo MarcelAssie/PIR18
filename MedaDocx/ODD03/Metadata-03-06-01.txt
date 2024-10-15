@@ -1,0 +1,13 @@
+ 
+ 
+Death rate due to road traffic injuries as defined as the number of road traffic fatal injury deaths per 100,000 population. 
+ 
+ 
+ 
+Numerator: Number of deaths due to road traffic crashes 
+ 
+Absolute figure indicating the number of people who die as a result of a road traffic crash. 
+ 
+Denominator: Population (number of people by country) 
+
+

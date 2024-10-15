@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+defined poor : 0.5019
+income : 0.5342
+international poverty : 0.6303
+poverty line : 0.6564
+poverty rate : 0.7192
+----------------------------------------------------

@@ -1,0 +1,18 @@
+ 
+  This indicator is defined as gross disbursements and commitments of total Official Development Assistance (ODA) from all donors for aid for trade.
+ 
+ 
+The Development Assistance Committee (DAC) defines Official Development Assistance (ODA) as “those flows to countries and territories on the DAC List of ODA Recipients and to multilateral institutions which are i) provided by official agencies, including state and local governments, or by their executive agencies; and ii) concessional (i.e. grants and soft loans) and administered with the promotion of the economic development and welfare of developing countries as the main objective.
+For more details see here: https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/officialdevelopmentassistancedefinitionandcoverage.htm
+
+ 
+All donors refer to DAC donors, other bilateral providers of development cooperation and multilateral organizations.  
+
+Aid for Trade is captured in the OECD’s Creditor Reporting System (CRS) under four categories:
+Economic infrastructure: Amounts relating to trade-related infrastructure are provided in the CRS by data under the sector code heading “Economic Infrastructure and Services” and cover the sectors transport and storage, communications and energy generation and supply.
+Trade policy and regulations: In the CRS, five sector codes (in the 331xx series) are used to capture trade policy and regulations activities: trade policy and administrative management; trade facilitation; regional trade agreements; multilateral trade negotiations; and trade education/training.
+Trade-related adjustment: this sector code (33150) was introduced in the CRS as a separate data item in 2007 to track flows corresponding to trade-related adjustment. This category identifies contributions to developing country budgets to assist the implementation of trade reforms and adjustments to trade policy measures by other countries and alleviate shortfalls in balance-of-payments due to changes in the world trading environment.
+Building Productive capacity (BPC), including trade development: The CRS captures full data on all activities in the productive and services sectors, such as agriculture; industry; mineral resources and mining; business; and banking. 
+
+See for reference: http://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/dacandcrscodelists.htm
+ 

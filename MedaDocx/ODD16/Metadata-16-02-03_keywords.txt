@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sexual violence : 0.6702
+violence child : 0.5841
+violence icvac : 0.5786
+violence age : 0.5747
+sexual assault : 0.5668
+icvac sexual : 0.5602
+violence defined : 0.5284
+classification violence : 0.5005
+----------------------------------------------------

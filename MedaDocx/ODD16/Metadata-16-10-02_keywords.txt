@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+survey countries : 0.5355
+countries oversight : 0.5103
+information globally : 0.5095
+----------------------------------------------------

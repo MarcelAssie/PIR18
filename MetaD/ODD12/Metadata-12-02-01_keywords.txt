@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-material economy mf : 0.7013
-material footprint mf : 0.6982
-material consumption dmc : 0.6782
-countries material footprint : 0.6594
-consumption dmc mf : 0.6544
-production consumption dmc : 0.6096
-total material footprint : 0.6047
+footprint mf attribution : 0.5354
+consumption dmc : 0.5423
+economy mf : 0.5432
+sum material footprint : 0.5606
+material footprint biomass : 0.5633
+definitions material footprint : 0.5819
 domestic material consumption : 0.5979
-footprint mf : 0.5961
+production consumption dmc : 0.6096
+countries material footprint : 0.6594
 ----------------------------------------------------

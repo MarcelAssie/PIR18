@@ -1,10 +1,12 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-water services metadata : 0.5826
-water indicator sdg_indicator : 0.5581
-monitoring programme water : 0.5335
-sdg_related_indicators targets : 0.5317
-drinking water indicator : 0.5249
-indicators sdg_related_indicators : 0.5193
-water quality specified : 0.5038
+water sources : 0.6449
+water collected : 0.5598
+water sanitation : 0.5414
+water reservoir : 0.5290
+water term : 0.5286
+rivers reservoirs : 0.5258
+collect water : 0.5228
+water supplied : 0.5221
+water rivers : 0.5168
 ----------------------------------------------------

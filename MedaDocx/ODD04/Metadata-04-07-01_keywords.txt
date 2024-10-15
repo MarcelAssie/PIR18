@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+education sustainable : 0.5681
+global indicators : 0.5249
+indicators sdgs : 0.5005
+----------------------------------------------------

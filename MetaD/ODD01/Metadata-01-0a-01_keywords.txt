@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-assistance oda grants : 0.6778
-oda grants donors : 0.6687
-oda grants : 0.6632
-development assistance oda : 0.6450
-income oecd development : 0.5979
-national income oecd : 0.5703
-aid focus poverty : 0.5615
-oda flows countries : 0.5600
-assistance oda : 0.5575
+poverty : 0.4216
+assistance committee : 0.4238
+focus poverty : 0.4239
+grants : 0.4261
+grants donors : 0.4502
+welfare developing : 0.4557
+oecd dac : 0.4635
+oecd development : 0.4692
+defined oda : 0.5147
 ----------------------------------------------------

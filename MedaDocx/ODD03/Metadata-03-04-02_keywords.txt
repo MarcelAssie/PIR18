@@ -1,0 +1,9 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+suicide mortality : 0.7060
+mortality rate : 0.6647
+definitions suicide : 0.6437
+suicide deaths : 0.5726
+number suicide : 0.5297
+mortality : 0.5294
+----------------------------------------------------

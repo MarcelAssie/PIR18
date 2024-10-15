@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-real gdp : 0.7395
-real gdp measured : 0.7374
-real gdp capita : 0.7198
-years real gdp : 0.7185
-data real gdp : 0.6929
-gdp capita calculated : 0.6843
-domestic product gdp : 0.6603
-gdp measured constant : 0.6570
+product gdp capita : 0.6031
+dividing gdp constant : 0.6161
+growth rate real : 0.6165
+country growth rates : 0.6214
+annual growth rate : 0.6325
+change real gdp : 0.6488
 calculation country growth : 0.6525
+gdp measured constant : 0.6570
+domestic product gdp : 0.6603
+data real gdp : 0.6929
 ----------------------------------------------------

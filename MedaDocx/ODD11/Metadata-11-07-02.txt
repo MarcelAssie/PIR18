@@ -1,0 +1,21 @@
+Number of persons who have been victims of non-sexual harassment or sexual harassment, as a percentage of the total population of the relevant area.
+
+
+The operational definitions of non-sexual and sexual harassment are based on the International Classification of Crime for Statistical Purposes (ICCS). While sexual harassment refers to a non-physical behaviour with a sexual connotation that is suitable to intimidate the victim, non-sexual harassment refers to all other non-sexual harassing behaviours that can cause fear for physical integrity and/or emotional distress. This type of non-sexual harassment formulated by the indicator overlaps to some extent with psychological violence.  
+
+The internationally standardized and tested SDG 16 Survey questionnaire and the accompanying Implementation Manual, which can be used by countries for collecting data SDG indicator 11.7.2 on non-sexual and sexual harassment, provide a core set of questions about specific behaviours that allow for the measurement of the prevalence of sexual and non-sexual harassment in the population (see Figures 1 and 2 below). In addition, the regionally standardized and tested methodology, the Latin America and the Caribbean Crime Victimization Survey Initiative (LACSI), offers a standardised methodology the measurement of indicator 11.7.2 and uses the same types of behaviours, both for non-sexual harassment and sexual harassment, but considering one additional behaviour indicative of sexual harassment: Somebody followed you and made you feel uncomfortable with sexual intentions.
+
+While the precise formulation and wording of the pertinent survey questions may need national customization, a core set of behaviours have been identified as forms of sexual and non-sexual harassment exercised towards a person: 
+
+Figure 1: Types of non-sexual harassment included in the SDG 16 survey questionnaire
+
+
+Source: SDG 16 Survey questionnaire
+Figure 2: Types of sexual harassment included in the SDG 16 survey questionnaire
+
+
+Source: SDG 16 Survey questionnaire. Note: In relation to item E. "inappropriately close" means that the perpetrator is at a distance where he/she can touch the victim, but where physical contact does not take place.
+
+The SDG 16 survey instrument, developed by the United Nations Office on Drugs and Crime (UNODC), the United Nations Development Program (UNDP) and the Office of the United Nations High Commissioner for Human Rights (OHCHR), is designed as a flexible tool that can be adapted to national needs. It can either be applied as a standalone population survey or, if necessary, countries can implement selected modules as part of other ongoing survey operations.
+
+The LACSI survey instrument, developed by the United Nations Office on Drugs and Crime (UNODC) with the support of the Inter-American Development Bank (IADB), Organization of American States (OAS) and the United Nations Development Program (UNDP), is designed as an independent crime victimization survey that can be adapted to the national needs and covers a wide range of criminal behaviors, including sexual and non-sexual harassment.  

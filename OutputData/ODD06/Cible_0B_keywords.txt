@@ -1,11 +1,7 @@
 Mots-clés pour la cible 0B :
 ----------------------------------------------------
-sanitation management indicator : 0.6612
-sanitation activities policy : 0.6391
-sanitation includes areas : 0.6074
-local administrative units : 0.5718
-communities water sanitation : 0.5667
-sanitation management options : 0.5643
-sustainability local administrative : 0.5569
-programs water sanitation : 0.5505
+sanitation activities : 0.5553
+sanitation management : 0.5535
+participation local : 0.5183
+sanitation includes : 0.5042
 ----------------------------------------------------

@@ -1,22 +1,6 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-ndcs paris agreement : 0.6656
-definitions ndcs paris : 0.6056
-contributions ndcs intends : 0.5770
-ndcs intends achieve : 0.5679
-ndcs including mitigation : 0.5351
-ndcs accordance article : 0.5307
-ndcs intends : 0.5246
-measures paris agreement : 0.5188
-strategies paris agreement : 0.5148
-ghg inventories climate : 0.5797
-climate change convention : 0.5657
-climate change secretariat : 0.5470
-nhouse gas ghg : 0.5406
-submit national ghg : 0.5298
-provided annual ghg : 0.5264
-gas ghg emissions : 0.5235
-national ghg inventories : 0.5210
-greenhouse gas inventories : 0.5196
-greenhouse gas : 0.5171
+greenhouse gas : 0.5192
+ghg emissions : 0.5186
+convention unfccc : 0.5028
 ----------------------------------------------------

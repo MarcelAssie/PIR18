@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-rural access index : 0.5971
-measurement rural access : 0.5731
-determining urban rural : 0.5700
+available geospatial data : 0.5149
+data available geospatially : 0.5194
+census data various : 0.5233
+rural population lives : 0.5288
+countries census : 0.5324
+measures share country : 0.5357
+countries level spatial : 0.5372
+data determining urban : 0.5411
 correct measurement rural : 0.5636
-countries census data : 0.5617
-access countries census : 0.5611
-subnational census data : 0.5602
-rural access countries : 0.5476
-country rural population : 0.5425
+rural access index : 0.5971
 ----------------------------------------------------

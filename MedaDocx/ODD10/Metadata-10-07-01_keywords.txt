@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+employee migrants : 0.5914
+migrant workers : 0.5895
+migrants proportion : 0.5587
+total migrant : 0.5417
+migrants : 0.5331
+target population : 0.5234
+population immigrant : 0.5183
+international migrant : 0.5023
+----------------------------------------------------

@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-atms scaled 100 : 0.6106
-number atms scaled : 0.6099
-atms refers number : 0.6044
-number atms country : 0.5968
-atms country types : 0.5927
-teller machines atms : 0.5862
+machines atms : 0.5231
+commercial bank branches : 0.5267
+machines atms refers : 0.5488
+bank branches scaled : 0.5494
+bank branches 100 : 0.5513
+comparison number atms : 0.5521
 atms 100 000 : 0.5682
-refers number atms : 0.5640
-atms refers : 0.5604
+atms country types : 0.5927
+number atms country : 0.5968
+number atms scaled : 0.6099
 ----------------------------------------------------

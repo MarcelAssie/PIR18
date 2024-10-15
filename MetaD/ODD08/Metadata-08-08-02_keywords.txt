@@ -1,9 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-provisions ilo conventions : 0.6826
-established ilo constitution : 0.6816
-ilo declaration fundamental : 0.6812
+obligation ilo member : 0.6021
+standards backed ilo : 0.6055
+constitution 1919 ilo : 0.6201
+ilo member states : 0.6236
+foundations established ilo : 0.6253
+ilo normative foundations : 0.6280
+implement provisions ilo : 0.6282
+98 ilo declaration : 0.6289
 ilo conventions ratified : 0.6812
-ilo constitution : 0.6672
-1998 ilo declaration : 0.6605
 ----------------------------------------------------

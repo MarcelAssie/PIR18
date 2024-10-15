@@ -1,11 +1,7 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-service coverage reproductive : 0.6131
-health service coverage : 0.5836
-coverage reproductive maternal : 0.5799
-coverage essential health : 0.5787
-health family planning : 0.5376
-coverage essential services : 0.5207
-child immunization percentage : 0.5105
-average coverage essential : 0.4835
+immunization percentage : 0.4211
+average coverage : 0.4234
+child immunization : 0.4314
+diseases service : 0.4419
 ----------------------------------------------------

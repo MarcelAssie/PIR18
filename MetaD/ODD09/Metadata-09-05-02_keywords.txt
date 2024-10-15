@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-development oecd frascati : 0.6772
-frascati manual oecd : 0.6057
-oecd frascati manual : 0.6056
-frascati manual developing : 0.5742
-oecd frascati : 0.5646
+research experimental development : 0.4557
+manual developing country : 0.4576
+edition frascati : 0.4795
+development researchers updated : 0.4818
+development oecd manual : 0.4836
+frascati manual : 0.4984
+experimental development gross : 0.5124
 frascati manual relevant : 0.5179
-development researchers : 0.5168
-experimental development comprise : 0.5130
+oecd frascati : 0.5646
 ----------------------------------------------------

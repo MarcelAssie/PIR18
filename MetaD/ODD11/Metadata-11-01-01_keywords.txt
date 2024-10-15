@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-housing sustainable urban : 0.6861
-housing urban prosperity : 0.6760
-housing urban : 0.6517
-inadequate housing globally : 0.6484
-provision adequate housing : 0.6476
-inadequate housing slums : 0.6260
-urban contexts housing : 0.6213
+living inadequate housing : 0.5999
+vulnerable inadequate housing : 0.6089
+housing sector : 0.6126
+housing conditions homelessness : 0.6191
 housing globally : 0.6193
+urban contexts housing : 0.6213
+inadequate housing slums : 0.6260
+provision adequate housing : 0.6476
+housing urban prosperity : 0.6760
+housing sustainable urban : 0.6861
 ----------------------------------------------------

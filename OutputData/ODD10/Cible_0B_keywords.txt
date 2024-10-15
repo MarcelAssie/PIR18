@@ -1,12 +1,9 @@
 Mots-clés pour la cible 0B :
 ----------------------------------------------------
-oda official flows : 0.6718
-countries official flows : 0.6223
-resource flows development : 0.5987
-countries type flow : 0.5958
-official flows oof : 0.5766
-grants flows include : 0.5731
-official private flows : 0.5666
-grants flows : 0.5552
-flow comprises official : 0.5537
+grants flows : 0.5806
+official flows : 0.5779
+resource flows : 0.5342
+flows concessional : 0.5282
+flows development : 0.5194
+flows official : 0.5020
 ----------------------------------------------------

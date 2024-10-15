@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+neonatal mortality : 0.8005
+neonatal deaths : 0.7106
+births neonatal : 0.6291
+mortality rate : 0.6171
+mortality : 0.6060
+specific mortality : 0.6053
+live births : 0.5772
+early neonatal : 0.5636
+neonatal : 0.5629
+----------------------------------------------------

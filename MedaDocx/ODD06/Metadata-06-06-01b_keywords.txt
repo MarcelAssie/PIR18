@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+extent wetlands : 0.6797
+wetlands term : 0.6739
+wetlands ramsar : 0.6658
+wetlands measured : 0.6639
+definition wetlands : 0.6515
+classifications wetlands : 0.6388
+wetlands baseline : 0.6378
+size wetlands : 0.6262
+wetlands categories : 0.6239
+----------------------------------------------------

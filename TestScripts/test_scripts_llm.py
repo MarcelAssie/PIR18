@@ -1,20 +1,52 @@
-from transformers import pipeline
+import openai
 
-# Créer un pipeline de génération de texte avec Bloom
-bloom_pipeline = pipeline("text-generation", model="bigscience/bloom-560m")
+openai.api_key = 'sk-RRUCt8US4zOeFD_h1UTgs0TBePYFQ2SuVo4iH3hsvIT3BlbkFJpSnIydfVvhVxDMTgaIh83xpPdrj4BZLf8BFW5-3HEA'
 
-# Indicateurs à tester (par exemple, indicateur 11.7.1 de l'ODD 11)
-indicators_text = """
-L'indicateur 11.7.1 mesure la proportion de la population ayant un accès facile aux espaces verts et aux espaces publics, y compris les jeunes, les personnes âgées et les personnes en situation de handicap. 
-Cet indicateur fait partie des Objectifs de Développement Durable de l'ONU, plus précisément l'ODD 11, qui concerne les villes et les communautés durables.
-"""
 
-# Formulation du prompt pour extraire les mots-clés ou analyser l'indicateur
-prompt = f"Quels sont les mots-clés les plus importants de ce texte sur les ODD : {indicators_text}"
+def extract_keywords_with_gpt3(doc):
+    prompt = f"Extract keywords from the following document: {doc}"
 
-# Générer les mots-clés en passant directement le prompt
-response = bloom_pipeline(prompt, max_length=100, num_return_sequences=1, truncation=True)
+    response = openai.Completion.create(
+        engine="text-davinci-003",
+        prompt=prompt,
+        max_tokens=50,
+        n=1,
+        stop=None,
+        temperature=0.5
+    )
 
-# Afficher la réponse générée par Bloom
-generated_text = response[0]['generated_text']
-print("Mots-clés extraits :", generated_text)
+    keywords = response.choices[0].text.strip()
+    return [keyword.strip() for keyword in keywords.split(',')]
+
+
+
+
+doc = """
+The indicator “proportion of the population below the international poverty line” is defined as the
+percentage of the population living on less than $ 2.15 a day at 201 7 international prices.
+
+
+In assessing poverty in a given  country, and how best to reduce poverty, one naturally focuses on a
+poverty line that is considered appropriate for that country. But how do we talk meaningfully about Last updated:  2024 -07-29
+“global poverty?” Poverty lines across countries vary in terms of their purchasing powe r, and they have a
+strong economic gradient, such that richer countries tend to adopt higher standards of living in defining
+poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat
+two people with the same purc hasing power over commodities the same way —both are either poor or
+not poor —even if they live in different countries.
+
+Since World Development Report 1990, the World Bank has aimed to apply a common standard in
+measuring extreme poverty, anchored to what p overty means in the world's poorest countries. The
+welfare of people living in different countries can be measured on a common scale by adjusting for
+differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in
+1985 i nternational prices and adjusted to local currency using purchaing power parity (PPP) exchange
+rates , was chosen for World Development Report 1990 because it was typical of the poverty lines in low -
+income countries at the time. As differences in the cost o f living across the world evolve, the
+international poverty line has to be periodically updated using new PPP price data to reflect these
+changes. The last change was in September  2022, when the World Bank adopted $ 2.15 as the
+international poverty line us ing the 201 7 PPP. Prior to that, the 20 15 update set the international poverty
+line at $1. 90 using the 20 11 PPP. Poverty measures based on international poverty lines attempt to hold
+the real value of the poverty line constant across countries  and over time"""
+
+
+keywords = extract_keywords_with_gpt3(doc)
+print(keywords)

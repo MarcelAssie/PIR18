@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-oda flows comprise : 0.5517
-water sanitation oda : 0.5472
-oda disbursements included : 0.5337
-official financing administered : 0.5281
-development assistance government : 0.5231
-institutions oda receipts : 0.5227
-oda disbursements : 0.5222
-assistance oda disbursements : 0.5195
+defined financing : 0.4266
+agencies water : 0.4283
+oda receipts : 0.4285
+government budget : 0.4313
+oda multilateral : 0.4326
+oda defined : 0.4376
+donors multilateral : 0.4416
+supply sanitation : 0.4427
+lending export : 0.4503
+oda flows : 0.4575
 ----------------------------------------------------

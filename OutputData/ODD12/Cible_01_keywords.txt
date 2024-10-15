@@ -1,9 +1,6 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-policy instruments sustainable : 0.6739
-instruments sustainable consumption : 0.6472
-sustainable consumption produ : 0.6178
-consumption production policy : 0.6058
-consumption production sustainable : 0.5949
-production sustainable consumption : 0.5919
+sustainable consumption : 0.5577
+policy instruments : 0.5467
+consumption production : 0.5018
 ----------------------------------------------------

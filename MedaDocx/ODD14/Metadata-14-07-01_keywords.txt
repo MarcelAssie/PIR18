@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+fisheries measures : 0.5815
+fish harvested : 0.5647
+capture fisheries : 0.5573
+fisheries : 0.5524
+fisheries management : 0.5447
+sustainable marine : 0.5406
+value fish : 0.5371
+preserving fish : 0.5367
+responsible fisheries : 0.5251
+fisheries proportion : 0.5242
+----------------------------------------------------

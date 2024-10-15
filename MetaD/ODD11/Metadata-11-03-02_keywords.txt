@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-participation civil society : 0.6599
-civil society participation : 0.6562
-civil society urban : 0.6385
-civil society organizations : 0.6232
-proposals civil society : 0.6152
-civil society include : 0.6053
+civil society accessing : 0.5197
+people participation civic : 0.5249
+society organizations csos : 0.5288
+allows participation civil : 0.5355
+structures civil society : 0.5453
+encourage participation civil : 0.5665
+civil society represen : 0.5812
+society participation urban : 0.5848
 independent civil society : 0.6053
-encourage civil society : 0.5977
+proposals civil society : 0.6152
 ----------------------------------------------------

@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+citizen journalists : 0.6030
+journalists refers : 0.6004
+share journalistic : 0.5813
+journalists : 0.5698
+journalistic functions : 0.5591
+journalists trade : 0.5580
+committed journalists : 0.5240
+----------------------------------------------------

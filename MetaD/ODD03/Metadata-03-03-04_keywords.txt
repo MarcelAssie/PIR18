@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-antigen hbsag hepatitis : 0.7117
-hbsag hepatitis surface : 0.7029
-hbsag hepatitis : 0.6702
-positive test hbsag : 0.6606
-hbv infection measurement : 0.6442
-immunity hbv hbsag : 0.6406
+hbsag positivity : 0.4737
+hbsag indicates : 0.4801
+common hepatitis : 0.4928
+measurement hbsag : 0.4940
+hbv viral : 0.5042
+hbsag levels : 0.5066
+chronic hbv : 0.5292
+hepatitis surface : 0.5497
+differentiate hepatitis : 0.5712
 hepatitis test : 0.6208
-hepatitis surface antigen : 0.6117
-surface antigen hbsag : 0.6071
 ----------------------------------------------------

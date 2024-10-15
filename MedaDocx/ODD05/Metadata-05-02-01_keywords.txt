@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sexual violence : 0.6440
+partner violence : 0.6056
+violence women : 0.6055
+violence intimate : 0.5976
+violence defined : 0.5617
+physical violence : 0.5561
+violence ipv : 0.5454
+psychological violence : 0.5425
+statistics violence : 0.5226
+----------------------------------------------------

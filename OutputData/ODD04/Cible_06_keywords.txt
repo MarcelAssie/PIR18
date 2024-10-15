@@ -1,8 +1,11 @@
 Mots-clés pour la cible 06 :
 ----------------------------------------------------
-level proficiency flp : 0.6583
-proficiency literacy numeracy : 0.6170
-literacy functional numeracy : 0.6053
-functional literacy : 0.6047
-functional literacy functional : 0.5899
+proficiency flp : 0.6204
+functional literacy : 0.6009
+literacy functional : 0.5957
+proficiency literacy : 0.5741
+level proficiency : 0.5662
+proficiency levels : 0.5469
+literacy numeracy : 0.5371
+literacy required : 0.5159
 ----------------------------------------------------

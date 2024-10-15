@@ -1,9 +1,9 @@
 Mots-clés pour la cible 07 :
 ----------------------------------------------------
-environmentally sound technologies : 0.6499
-investment environmentally sound : 0.6400
-technologies trade environmentally : 0.5734
-countries environmentally sound : 0.5441
-promoting environmental : 0.5330
-use resources sustainable : 0.5323
+investment environmentally : 0.5953
+promoting environmental : 0.5418
+environmental impacts : 0.5292
+environmentally sound : 0.5264
+resources sustainable : 0.5196
+wastes environmentally : 0.5080
 ----------------------------------------------------

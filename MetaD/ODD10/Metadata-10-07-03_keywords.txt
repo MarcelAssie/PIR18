@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-migrant death excludes : 0.7157
-cases migrants die : 0.7052
-migrant death : 0.7017
-migrants die : 0.6763
-definition migrant death : 0.6616
-deaths refugee : 0.6590
+cases migrants : 0.5957
+missing migrants project : 0.6024
+migrants status means : 0.6063
+incidents migrants regardless : 0.6153
+residence deaths refugee : 0.6253
+iom missing migrants : 0.6290
+care disappearances migrants : 0.6396
 migrants die countries : 0.6577
-disappearances migrants : 0.6510
-missing migrants : 0.6495
+deaths refugee : 0.6590
+definition migrant death : 0.6616
 ----------------------------------------------------

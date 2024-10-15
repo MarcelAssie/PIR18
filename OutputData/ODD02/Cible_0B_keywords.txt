@@ -1,13 +1,6 @@
 Mots-clés pour la cible 0B :
 ----------------------------------------------------
-agricultural export subsidies : 0.6855
-defined export subsidies : 0.6683
-subsidies defined export : 0.6643
-export subsidies defined : 0.6628
-notifications export subsidies : 0.6519
-export subsidies tifications : 0.6500
-export subsidies provisions : 0.6422
-export subsidy reduction : 0.6373
-export subsidy : 0.6314
-export subsidies budgetary : 0.6300
+export subsidy : 0.5939
+agricultural export : 0.5206
+agriculture wto : 0.5103
 ----------------------------------------------------

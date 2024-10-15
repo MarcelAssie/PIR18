@@ -1,17 +1,19 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-revenue taxes gfs : 0.7001
-revenue gfs code : 0.6773
-taxes gfs : 0.6649
-revenue general government : 0.6398
-revenue government units : 0.6318
-revenue gfsm : 0.6237
-tax credits gfsm : 0.6056
-budgetary central government : 0.7479
-central government expenditure : 0.6636
-domestic budgetary central : 0.6411
-central government revenue : 0.6188
-central government encompasses : 0.6086
-budgetary central : 0.5989
-main general budget : 0.5933
+taxes gfs : 0.6401
+revenue gfs : 0.6309
+types revenue : 0.5649
+revenue government : 0.5459
+tax revenue : 0.5415
+revenue defined : 0.5402
+taxes social : 0.5389
+revenue general : 0.5339
+revenue taxes : 0.5300
+government expenditure : 0.5686
+domestic budgetary : 0.5414
+budgetary central : 0.5287
+central government : 0.5148
+entities budgetary : 0.5101
+government finance : 0.5098
+general budget : 0.5066
 ----------------------------------------------------

@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+greenhouse gas : 0.5192
+ghg emissions : 0.5186
+convention unfccc : 0.5028
+----------------------------------------------------

@@ -1,9 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-discrimination harassment : 0.6646
-harassment form discrimination : 0.6486
-discrimination intention : 0.6034
-discrimination outlined : 0.5979
-discrimination : 0.5973
-behaviours harassment : 0.5759
+harassment form words : 0.5199
+discrimination distinction exclusion : 0.5255
+pattern behaviours harassment : 0.5266
+nations discrimination : 0.5273
+grounds discrimination intention : 0.5325
+nations discrimination distinction : 0.5363
+discrimination based prohibited : 0.5503
+behaviours harassment form : 0.5588
 ----------------------------------------------------

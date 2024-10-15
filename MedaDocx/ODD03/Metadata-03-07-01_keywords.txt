@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+contraceptive prevalence : 0.7196
+contraception modern : 0.7096
+contraceptive methods : 0.7096
+methods contraception : 0.6917
+planning contraceptive : 0.6658
+contraceptive : 0.6576
+contraception standard : 0.6561
+contraception include : 0.6233
+----------------------------------------------------

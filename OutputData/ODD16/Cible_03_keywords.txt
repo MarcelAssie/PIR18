@@ -1,29 +1,29 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-victims report violence : 0.6694
-report violence : 0.6369
-report violence experienced : 0.6360
-violence defined iccs : 0.6244
-indicators violence physical : 0.6156
-violence indicators : 0.6078
-psychological violence indicators : 0.6068
-measure psychological violence : 0.6032
-violence perpetrated : 0.6016
-held detention sentenced : 0.7541
-sentenced persons held : 0.7313
-persons held prison : 0.7308
-persons held detention : 0.7279
-held prisons penal : 0.6967
-detention sentenced percentage : 0.6962
-detention refers persons : 0.6955
-prison sentenced refers : 0.6881
-disputes vary countries : 0.6840
-problems disputes : 0.6719
-dealing disputes : 0.6592
-disputes : 0.6577
-countries problems disputes : 0.6449
-dispute resolution mechanisms : 0.6344
-informal dispute resolution : 0.6339
-persons experienced dispute : 0.6263
-accessing dispute resolution : 0.6174
+report violence : 0.6347
+violence indicators : 0.6131
+victims violence : 0.5999
+indicators violence : 0.5908
+violence perpetrated : 0.5897
+violence psychological : 0.5696
+physical violence : 0.5686
+psychological violence : 0.5619
+violence physical : 0.5602
+detention sentenced : 0.6951
+sentenced persons : 0.6452
+held prisons : 0.6284
+held detention : 0.6200
+prisons penal : 0.6130
+prisoners held : 0.6105
+detention specified : 0.5925
+disputes related : 0.6792
+problems disputes : 0.6515
+dealing disputes : 0.6369
+disputes : 0.6336
+experience disputes : 0.5865
+dispute resolution : 0.5862
+categories disputes : 0.5696
+disputes vary : 0.5603
+disputes civil : 0.5471
+accessing dispute : 0.5263
 ----------------------------------------------------

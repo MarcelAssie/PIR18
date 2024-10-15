@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-exports goods services : 0.6746
-global exports goods : 0.6570
-exports goods : 0.6347
-exports developing countries : 0.5909
-exports : 0.5785
-merchandise trade balance : 0.5759
-exports developing : 0.5586
-developing countries ldcs : 0.5557
+hs international classification : 0.4733
+categorize products traded : 0.4757
+goods services : 0.4833
+harmonized hs international : 0.4961
+payments bop services : 0.5000
+balance payments bop : 0.5091
+trade balance payments : 0.5275
 countries ldcs share : 0.5498
+developing countries ldcs : 0.5557
+exports developing : 0.5586
 ----------------------------------------------------

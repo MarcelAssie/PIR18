@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-renewable energy consumption : 0.6731
-renewable waste total : 0.6659
-final consumption energy : 0.6657
-energy consumption includes : 0.6292
-consumption energy derived : 0.5951
-total final consumption : 0.5926
+biofuels biogas : 0.4351
+charcoal renewable : 0.4415
+biofuel include : 0.4474
+energy includes : 0.4574
+consumption calculated : 0.4747
+consumption percentage : 0.4935
+derived renewable : 0.4974
+energy share : 0.5037
+final consumption : 0.5157
+renewable waste : 0.5983
 ----------------------------------------------------

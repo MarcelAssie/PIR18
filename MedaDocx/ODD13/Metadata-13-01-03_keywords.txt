@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+disaster risk : 0.6066
+integrate disaster : 0.5333
+policy disaster : 0.5330
+relating disaster : 0.5180
+2030 disaster : 0.5038
+----------------------------------------------------

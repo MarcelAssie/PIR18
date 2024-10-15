@@ -1,20 +1,17 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-food loss sdg : 0.7654
-food loss index : 0.7440
-definitions food loss : 0.7183
-food loss waste : 0.7013
-production food loss : 0.6994
-food losses crop : 0.6657
-food waste index : 0.6631
-food waste measurement : 0.7783
-measurement food waste : 0.7752
-food waste indicator : 0.7619
-definitions food waste : 0.7390
-food waste estimates : 0.7377
-indicator food waste : 0.7170
-waste food associated : 0.6981
-food waste : 0.6882
-food waste food : 0.6783
-food waste generation : 0.6616
+food losses : 0.6755
+food waste : 0.5849
+loss sdg : 0.5394
+harvest losses : 0.5236
+losses crop : 0.5116
+monitoring food : 0.5061
+loss waste : 0.5037
+food waste : 0.6997
+waste food : 0.6487
+waste indicator : 0.6054
+waste defined : 0.5653
+food loss : 0.5301
+efficiency food : 0.5183
+food value : 0.5039
 ----------------------------------------------------

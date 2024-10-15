@@ -1,0 +1,9 @@
+The maternal mortality ratio (MMR) is defined as the number of maternal deaths during a given time period per 100,000 live births during the same time period. It depicts the risk of maternal death relative to the number of live births and essentially captures the risk of death in a single pregnancy (proxied by a single live birth).
+
+
+In the International statistical classification of diseases and related health problems (ICD) WHO defines the following:
+
+Maternal death: The death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management (from direct or indirect obstetric death), but not from unintentional or incidental causes.
+
+A death occurring during pregnancy, childbirth and puerperium (also known as a pregnancy-related death): The death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the cause of death.
+

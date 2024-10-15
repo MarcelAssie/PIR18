@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-development cooperation monitoring : 0.6160
-multi stakeholder monitoring : 0.5970
-stakeholder monitoring frameworks : 0.5938
-global partnership monitoring : 0.5862
-development effectiveness monitoring : 0.5666
-stakeholder development effectiveness : 0.5635
+frameworks indicators agreed : 0.5064
+partnership monitoring framework : 0.5084
+global partnership effective : 0.5109
+progress multi stakeholder : 0.5222
+sustainable development goals : 0.5385
+stakeholder monitoring : 0.5386
+development effectiveness commitments : 0.5455
 development cooperation global : 0.5523
-multi stakeholder development : 0.5500
-development partners global : 0.5473
-stakeholder partnerships development : 0.5466
+global partnership monitoring : 0.5862
 ----------------------------------------------------

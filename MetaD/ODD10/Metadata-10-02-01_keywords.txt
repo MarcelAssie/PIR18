@@ -1,10 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-income consumption distribution : 0.7268
-measure consumption income : 0.7103
-household income consumption : 0.7054
-consumption income indicator : 0.6986
-consumption income level : 0.6930
+goods income distributions : 0.6094
+welfare measure consumption : 0.6105
+total household income : 0.6108
+capture household expenditure : 0.6207
+consumer goods income : 0.6284
+income distributions used : 0.6323
+median income consumption : 0.6793
 capita income consumption : 0.6878
-income consumption estimated : 0.6790
+consumption income indicator : 0.6986
 ----------------------------------------------------

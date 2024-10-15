@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-age specific mortality : 0.6799
-probability death ages : 0.6772
-mortality rate life : 0.6758
-specific mortality rates : 0.6398
-mortality rate attributed : 0.6320
-disease probability dying : 0.6295
+causes death : 0.4204
+age calculated : 0.4309
+individual die : 0.4321
+die ages : 0.4324
+called mortality : 0.4465
+disease probability : 0.4791
+mortality experience : 0.5268
+rate life : 0.5381
+probability dying : 0.5712
+current mortality : 0.5987
 ----------------------------------------------------

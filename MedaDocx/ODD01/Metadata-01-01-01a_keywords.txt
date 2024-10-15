@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+poverty terms : 0.5230
+poverty means : 0.5273
+typical poverty : 0.5326
+absolute poverty : 0.5376
+income countries : 0.5408
+poverty lines : 0.5427
+ppp poverty : 0.5500
+world poorest : 0.5524
+----------------------------------------------------

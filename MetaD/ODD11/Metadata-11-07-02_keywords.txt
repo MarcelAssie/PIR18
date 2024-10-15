@@ -1,9 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sexual harassment percentage : 0.5940
-sexual harassment population : 0.5897
-non sexual harassment : 0.5763
-sexual harassing behaviours : 0.5685
+harassment population figures : 0.5078
+harassment formulated indicator : 0.5170
+sexual harassment refers : 0.5178
+victims non sexual : 0.5206
 harassment percentage total : 0.5395
-indicative sexual harassment : 0.5341
+iccs sexual harassment : 0.5465
+sexual harassing behaviours : 0.5685
+non sexual harassing : 0.5707
 ----------------------------------------------------

@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-species contributing index : 0.6272
-threatened species measures : 0.6161
-extinction risk species : 0.6114
-extinction risk iucn : 0.6089
-extinction risk taxonomic : 0.6017
-species extinction risk : 0.5949
-assessed iucn red : 0.5795
-list threatened species : 0.5769
+proportion threatened species : 0.5372
+categories vulnerable endangered : 0.5393
+aggregate extinction risk : 0.5455
+category extinction risk : 0.5510
+threatened species listed : 0.5521
+species measures change : 0.5529
+extinction risk : 0.5544
 iucn red list : 0.5727
+assessed iucn red : 0.5795
+species contributing index : 0.6272
 ----------------------------------------------------

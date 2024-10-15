@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-income crop production : 0.5934
-includes income crop : 0.5889
-measures income farm : 0.5870
-land livestock revenues : 0.5864
-economic revenues agricultural : 0.5805
-revenues agricultural activities : 0.5684
-income crop : 0.5668
+agricultural products : 0.4370
+production food : 0.4466
+income computed : 0.4579
+production indicator : 0.4597
+livestock units : 0.4668
+land livestock : 0.4696
+agricultural activities : 0.4696
+crop production : 0.4797
+computation income : 0.4831
+measures income : 0.5169
 ----------------------------------------------------

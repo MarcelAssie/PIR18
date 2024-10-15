@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+neighbourhood dark : 0.5749
+dark indicator : 0.5396
+dark neighbourhood : 0.5212
+walking dark : 0.5195
+darkness factors : 0.5130
+nighttime : 0.5116
+darkness important : 0.5102
+define nighttime : 0.5086
+----------------------------------------------------

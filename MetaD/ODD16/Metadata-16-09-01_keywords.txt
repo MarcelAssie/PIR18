@@ -1,8 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-certificate birth certifica : 0.7627
-birth certificate : 0.7273
-certificate birth : 0.7149
-births registered civil : 0.7035
+registration birth registration : 0.6112
+certifica te vital : 0.6114
+term birth certificate : 0.6313
+authority birth registration : 0.6326
+birth registration defined : 0.6379
+age births registered : 0.6477
 certifying circumstances birth : 0.6702
+births registered civil : 0.7035
 ----------------------------------------------------

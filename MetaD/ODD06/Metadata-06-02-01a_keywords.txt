@@ -1,8 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-improved sanitation facilities : 0.6896
-sanitation facilities designed : 0.6850
-using improved sanitation : 0.6593
-sanitation facility considered : 0.6552
-latrines sanitation facility : 0.6509
+guidelines sanitation : 0.5521
+wet sanitation : 0.5523
+toilets latrines : 0.5538
+sanitation service : 0.5603
+toilets improved : 0.5646
+types sanitation : 0.5708
+based sanitation : 0.5864
+dry sanitation : 0.5938
+latrines sanitation : 0.6122
+sanitation facility : 0.6204
 ----------------------------------------------------

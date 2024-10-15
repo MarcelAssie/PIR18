@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-mountain ecosystem degradation : 0.5739
-cover index mgci : 0.5245
-land considered degradation : 0.5206
-defines land degradation : 0.5199
-2021 mountain ecosystem : 0.5171
-degraded mountain land : 0.5138
-loss biodiversity mountain : 0.5112
-indicator adapted land : 0.5095
-conservation mountain ecosystems : 0.5086
+ecosystems sub indicator : 0.4787
+land cover transitions : 0.4789
+green cover index : 0.4796
+mountain areas mgci : 0.4811
+progress conservation mountain : 0.4843
+mountain ecosystem functions : 0.5047
 assess status conservation : 0.5060
+defines land degradation : 0.5199
+land considered degradation : 0.5206
+cover index mgci : 0.5245
 ----------------------------------------------------

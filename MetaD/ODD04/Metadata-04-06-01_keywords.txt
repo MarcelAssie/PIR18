@@ -1,8 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-level proficiency flp : 0.6583
-proficiency literacy numeracy : 0.6170
-literacy functional numeracy : 0.6053
-functional literacy : 0.6047
-functional literacy functional : 0.5899
+assessments currently : 0.4082
+youth aged : 0.4141
+continuum proficiency : 0.4163
+competencies piaac : 0.4296
+assessment : 0.4389
+proportion youth : 0.4425
+literate : 0.4465
+literate engage : 0.4767
+literacy numeracy : 0.5208
+proficiency flp : 0.6241
 ----------------------------------------------------

@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-air pollution mean : 0.6317
-pollution mean population : 0.5930
-pm common measure : 0.5883
-mean annual concentration : 0.5813
-measure air pollution : 0.5542
-common measure air : 0.5513
-microns diameters pm : 0.5134
+average : 0.4393
+particles microns : 0.4400
+measure air : 0.4467
+annual concentration fine : 0.4520
+suspended particles microns : 0.4607
+mean annual : 0.4658
+diameters pm : 0.4686
+diameters pm common : 0.4690
 mean population : 0.4806
+air pollution : 0.4907
 ----------------------------------------------------

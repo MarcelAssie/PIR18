@@ -1,12 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-indicator contraceptive prevalence : 0.5230
-information sdg_indicator_info goal : 0.5065
-family planning information : 0.5020
-family planning survey : 0.4993
-sdg_indicator_info goal : 0.4989
-family planning includes : 0.4913
-family planning satisfied : 0.4900
-sdg_related_indicators : 0.4897
-provision family planning : 0.4895
+sdg_indicator indicator : 0.4042
+related indicators : 0.4067
+sdg_indicator_info : 0.4087
+etadata : 0.4440
+etadata harmonized : 0.4570
+family planning : 0.4693
 ----------------------------------------------------

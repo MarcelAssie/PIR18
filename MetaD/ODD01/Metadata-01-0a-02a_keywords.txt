@@ -1,10 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-indicators iaeg sdgs : 0.5706
-global sdg indicators : 0.5642
-sdg indicators iaeg : 0.5498
-education mponent indicator : 0.5470
-associated indicator expenditure : 0.5051
-indicator total sd_xpd_esed : 0.4858
+datasets sg_xpd_educ : 0.4084
 expenditure cofog : 0.4837
+sdg indicators : 0.5121
 ----------------------------------------------------

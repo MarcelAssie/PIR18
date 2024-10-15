@@ -1,0 +1,7 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+energy intensity : 0.6088
+total energy : 0.5475
+defined energy : 0.5382
+energy supply : 0.5357
+----------------------------------------------------

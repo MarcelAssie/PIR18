@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+gender discrimination : 0.5363
+gender equality : 0.5331
+equality assessment : 0.5131
+----------------------------------------------------

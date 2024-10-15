@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-biodiversity outlook : 0.5766
-biodiversity information : 0.5352
-diversity terrestrial domesticated : 0.5147
-breeds known risk : 0.5141
-local livestock breeds : 0.5116
-biodiversity : 0.5048
+domesticatedanimals furthe : 0.4049
+local livestock : 0.4146
+livestock : 0.4155
+risk extinctions : 0.4177
+genetic diversity : 0.4288
+extinctions certain : 0.4290
+diversity terrestrial : 0.4537
+biodiversit indicators : 0.4786
+breeds known : 0.4812
+date biodiversity : 0.4852
 ----------------------------------------------------

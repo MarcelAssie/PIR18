@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-handwashing facility soap : 0.7032
-household handwashing facilities : 0.6697
-designated handwashing soap : 0.6559
-handwashing handwashing facilities : 0.6356
-handwashing facilities located : 0.6265
-handwashing soap includes : 0.6257
+handwashing national : 0.4882
+hygiene services : 0.4887
+detergent soapy : 0.4996
+soap water : 0.5028
+water soap : 0.5050
+tools handwashing : 0.5099
+handwashing behaviour : 0.5246
+population handwashing : 0.5428
+facility soap : 0.5509
+sand handwashing : 0.5534
 ----------------------------------------------------

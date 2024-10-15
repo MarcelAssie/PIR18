@@ -1,9 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-child malnutrition estimates : 0.6345
-malnutrition estimates unicef : 0.5716
-child malnutrition official : 0.5666
-child malnutrition : 0.5301
-child growth standards : 0.4910
-prevalence overweight : 0.4846
+malnutrition html : 0.4073
+estimates unicef : 0.4186
+growth standards : 0.4261
 ----------------------------------------------------

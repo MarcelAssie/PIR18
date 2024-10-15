@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+employment seek : 0.6452
+employment unemployment : 0.6212
+definitions employment : 0.6115
+employment defined : 0.5934
+unemployment refer : 0.5878
+available employment : 0.5825
+measure employment : 0.5818
+----------------------------------------------------

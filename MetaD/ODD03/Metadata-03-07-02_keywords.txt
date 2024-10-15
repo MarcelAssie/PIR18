@@ -1,12 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-adolescent birth rate : 0.7499
-birth rate women : 0.7067
-specific fertility rate : 0.6994
+15 19 : 0.4105
+births : 0.4539
+rate women : 0.4571
+level childbearing : 0.4950
+specific fertility : 0.5320
 fertility rate : 0.6939
-birth rate : 0.6915
-number births females : 0.6624
-age specific fertility : 0.6561
-childbearing females particular : 0.6349
-childbearing females : 0.6306
 ----------------------------------------------------

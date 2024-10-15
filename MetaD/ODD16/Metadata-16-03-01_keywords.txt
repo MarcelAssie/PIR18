@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-victims report violence : 0.6694
-report violence : 0.6369
-report violence experienced : 0.6360
+physical violence concept : 0.5720
+iccs sexual violence : 0.5786
+sexual violence perpetrated : 0.5808
+psychological violence consensus : 0.5857
+indicators violence : 0.5929
+incident psychological violence : 0.5958
+victims violence : 0.6002
 violence defined iccs : 0.6244
-indicators violence physical : 0.6156
-violence indicators : 0.6078
-psychological violence indicators : 0.6068
-measure psychological violence : 0.6032
-violence perpetrated : 0.6016
 ----------------------------------------------------

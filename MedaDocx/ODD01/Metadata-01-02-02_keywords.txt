@@ -1,0 +1,5 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+poverty headcount : 0.5024
+households multidimensional : 0.5076
+----------------------------------------------------

@@ -1,12 +1,13 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-growth rate welfare : 0.7143
-rate welfare aggregate : 0.6690
-rate welfare : 0.6129
-boosting shared prosperity : 0.6087
-welfare aggregate computed : 0.5988
-growth rate capita : 0.5925
-income grow : 0.5762
-national average growth : 0.5715
-welfare distribution : 0.5692
+rate welfare : 0.6590
+percent welfare : 0.6257
+welfare distribution : 0.6109
+welfare aggregate : 0.6070
+income growth : 0.6010
+income consumption : 0.5373
+consumption income : 0.5131
+depending welfare : 0.5119
+shared prosperity : 0.5023
+income distribution : 0.5018
 ----------------------------------------------------

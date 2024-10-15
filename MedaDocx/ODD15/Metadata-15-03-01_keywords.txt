@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+land degradation : 0.6963
+land degraded : 0.6055
+degraded land : 0.5844
+land productivity : 0.5717
+quantification land : 0.5455
+land use : 0.5170
+land resources : 0.5079
+----------------------------------------------------

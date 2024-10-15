@@ -1,44 +1,30 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-number new hiv : 0.7325
-000 uninfected population : 0.6632
-hiv infections 000 : 0.6357
-new hiv infections : 0.6350
-new hiv : 0.5982
-hiv : 0.5564
-000 person uninfected : 0.5413
-tb disease dynamic : 0.6263
-tb incidence : 0.6171
-tuberculosis tb incidence : 0.6163
-prevalence tb disease : 0.6040
-tb incidence defined : 0.5950
-prevalence tb : 0.5931
-surveys prevalence tb : 0.5887
-relapse tb cases : 0.5296
-disease dynamic models : 0.5263
-tb diagnosis : 0.5094
-incidence malaria defined : 0.8801
-malaria defined occurrence : 0.7680
-defined occurrence malaria : 0.7606
-case malaria defined : 0.7278
-occurrence malaria infection : 0.7258
-cases malaria : 0.6571
-antigen hbsag hepatitis : 0.7117
-hbsag hepatitis surface : 0.7029
-hbsag hepatitis : 0.6702
-positive test hbsag : 0.6606
-hbv infection measurement : 0.6442
-immunity hbv hbsag : 0.6406
-hepatitis test : 0.6208
-hepatitis surface antigen : 0.6117
-surface antigen hbsag : 0.6071
-treatment care ntds : 0.6164
-tropical diseases ntds : 0.5880
-interventions ntds : 0.5728
-diseases ntds targeted : 0.5637
-people requiring treatment : 0.5487
-diseases ntds : 0.5449
-treatment care particular : 0.5378
-requiring treatment care : 0.5353
-requiring individual treatment : 0.5344
+uninfected population : 0.6034
+new hiv : 0.6023
+hiv infections : 0.5944
+hiv : 0.5525
+tb incidence : 0.5985
+prevalence tb : 0.5778
+incidence malaria : 0.7863
+occurrence malaria : 0.7038
+malaria defined : 0.6711
+cases malaria : 0.6539
+malaria infection : 0.6457
+malaria : 0.6105
+presence malaria : 0.5906
+malaria parasites : 0.5395
+malaria 000 : 0.5335
+hbsag hepatitis : 0.6745
+hepatitis test : 0.6030
+antigen hbsag : 0.5930
+immunity hbv : 0.5905
+differentiate hepatitis : 0.5671
+hbv infection : 0.5613
+hepatitis hepatitis : 0.5450
+test hbsag : 0.5411
+hepatitis surface : 0.5403
+hepatitis : 0.5283
+interventions ntds : 0.5779
+diseases ntds : 0.5550
 ----------------------------------------------------

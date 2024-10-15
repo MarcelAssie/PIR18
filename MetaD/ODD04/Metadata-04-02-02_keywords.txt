@@ -1,10 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-childhood primary education : 0.7275
-early childhood education : 0.6828
-primary education defined : 0.6625
-primary education programmes : 0.6610
-early childhood primary : 0.6581
-childhood education typically : 0.6488
-participation early childhood : 0.6375
+sequence educational : 0.4417
+children early : 0.4510
+education care : 0.4546
+learning programmes : 0.4673
+participation early : 0.4712
+education defined : 0.5066
+childhood primary : 0.5538
+early childhood : 0.5601
 ----------------------------------------------------

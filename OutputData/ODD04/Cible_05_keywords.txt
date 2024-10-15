@@ -1,12 +1,7 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
 parity indices : 0.7383
-parity indices require : 0.7085
 indicates parity : 0.6606
-exactly indicates parity : 0.6482
 parity groups : 0.5249
-parity groups metadata : 0.5156
 parity : 0.5057
-represent ratio indicator : 0.4112
-ratio indicator value : 0.4097
 ----------------------------------------------------

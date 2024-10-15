@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-definitions cities : 0.5818
-area cities conventionally : 0.5524
-urbanisation degurba workable : 0.5467
-definitions cities metropolitan : 0.5400
-cities implemented : 0.5375
-degree urbanisation degurba : 0.5366
-accepted definitions city : 0.5343
+delineate cities : 0.4986
+recognizes different cities : 0.4989
+areas international statistical : 0.4999
+categories national metropolitan : 0.5161
+definitions city exist : 0.5202
+sdgs definitions cities : 0.5240
+urbanisation degurba : 0.5301
 urbanisation define analysis : 0.5335
-delineate cities urban : 0.5307
 ----------------------------------------------------

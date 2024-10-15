@@ -1,9 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-environmentally sound technologies : 0.6499
-investment environmentally sound : 0.6400
-technologies trade environmentally : 0.5734
-countries environmentally sound : 0.5441
-promoting environmental : 0.5330
-use resources sustainable : 0.5323
+polluting use resources : 0.5015
+resources sustainable : 0.5018
+procedures promoting environmental : 0.5037
+technologies globally appropriat : 0.5054
+technologies ests technologies : 0.5129
+technologies purpose indicator : 0.5265
+environmental impacts determined : 0.5284
+environmentally sound : 0.5432
+data investment environmentally : 0.5884
 ----------------------------------------------------

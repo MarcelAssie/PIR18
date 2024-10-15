@@ -1,12 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-global sdg indicators : 0.5607
-education component indicator : 0.5470
-indicator total sd_xpd_esed : 0.5381
-expenditure education current : 0.5355
-sdg indicators database : 0.5344
-sdg indicators : 0.5241
-sd_xpd_esed provided unesco : 0.5175
-includes expenditure core : 0.5111
-expenditure education includes : 0.5087
+country expenditure : 0.4009
+datasets sg_xpd_educ : 0.4210
+total sd_xpd_esed : 0.4336
 ----------------------------------------------------

@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+fertility rate : 0.6939
+birth rate : 0.6915
+childbearing females : 0.6306
+number births : 0.5843
+births females : 0.5758
+childbearing : 0.5539
+fertility : 0.5356
+specific fertility : 0.5320
+adolescent birth : 0.5270
+----------------------------------------------------

@@ -1,0 +1,11 @@
+Definitions:
+In order to measure fossil fuel subsidies at the national, regional and global level, three sub-indicators are recommended for reporting on this indicator: 1) direct transfer of government funds; 2) induced transfers (price support); and as an optional sub-indicator 3) tax expenditure, other revenue foregone, and under-pricing of goods and services. The definitions of the International Energy Agency (IEA) Statistical Manual (IEA, 2005) and the Agreement on Subsidies and Countervailing Measures (ASCM) under the World Trade Organization (WTO) (WTO, 1994) are used to define fossil fuel subsidies. Standardised descriptions from the United Nations Statistical Office’s Central Product Classification should be used to classify individual energy products. It is proposed to drop the wording “as a proportion of total national expenditure on fossil fuels” and thus this indicator is effectively "Amount of fossil fuel subsidies per unit of GDP (production and consumption)".
+
+
+The concepts and definitions used in the methodology have been based on existing international frameworks and glossaries.
+Use definition of fossil fuels from the International Energy Agency (IEA) Statistics Manual, “Fossil fuels are taken from natural resources which were formed from biomass in the geological past. By extension, the term fossil is also applied to any secondary fuel manufactured from a fossil fuel.”
+Use the terms set out in the Central Product Classification (CPC), Rev. 2.1 for the statistical classification of the individual products. No other commonly accepted definition identified.
+Include electricity and heat generated from fossil fuels in the scope of fossil fuels. 
+Include non-energy uses with monitoring optional	for the measuring of this indicator.
+Additional details are provided in the methodological document entitled, Measuring Fossil Fuel Subsidies in the Context of the Sustainable Development Goals.
+

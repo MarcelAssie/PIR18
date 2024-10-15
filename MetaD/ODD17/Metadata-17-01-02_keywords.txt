@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-budgetary central government : 0.7479
-central government expenditure : 0.6636
-domestic budgetary central : 0.6411
-central government revenue : 0.6188
+general budget : 0.5595
+funded taxes budgetary : 0.5601
+government expenditure funded : 0.5741
+central government described : 0.5754
+general government sector : 0.5809
+described government finance : 0.5811
+make budgetary central : 0.5816
+entities th budgetary : 0.5832
+unit central government : 0.5994
 central government encompasses : 0.6086
-budgetary central : 0.5989
-main general budget : 0.5933
 ----------------------------------------------------

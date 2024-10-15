@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-disaster risk reduction : 0.7212
-2030 disaster risk : 0.6412
-relating disaster risk : 0.6356
-integrate disaster risk : 0.6016
-risk reduction 2015 : 0.5788
-2015 2030 disaster : 0.5530
-framework disaster risk : 0.5310
+sendai framework disaster : 0.4817
+national local disaster : 0.4944
+2030 disaster : 0.5043
+terminology relating disaster : 0.5183
+risk reduction existing : 0.5187
+risk reduction targets : 0.5203
+risk reduction sectors : 0.5234
 local disaster risk : 0.5264
 ----------------------------------------------------

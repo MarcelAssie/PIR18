@@ -1,12 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-treatment care ntds : 0.6164
-tropical diseases ntds : 0.5880
-interventions ntds : 0.5728
-diseases ntds targeted : 0.5637
-people requiring treatment : 0.5487
-diseases ntds : 0.5449
-treatment care particular : 0.5378
-requiring treatment care : 0.5353
-requiring individual treatment : 0.5344
+care particular : 0.4065
+public health : 0.4077
+chemotherapy pc : 0.4152
+care ntds : 0.4296
+health coverage : 0.4351
+tropical diseases : 0.4632
+preventive chemotherapy : 0.4638
 ----------------------------------------------------

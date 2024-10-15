@@ -1,0 +1,5 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+development expenditure : 0.5656
+expenditure research : 0.5447
+----------------------------------------------------

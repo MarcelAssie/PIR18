@@ -1,0 +1,15 @@
+The indicator is defined as the total count of population who have been recognized as refugees as a proportion of the total population of their country of origin, expressed per 100,000 population. 
+Refugees refers to persons recognized by the Government and/or UNHCR, those in a refugee-like situation and other persons in need of international protection. 
+Population refers to total resident population in a given country in a given year.
+
+
+Refugees recognized by the Government and/or UNHCR include: 
+(a) persons recognized as refugees by Governments having ratified the 1951 United Nations Convention Relating to the Status of Refugees, and/or its 1967 Protocol; 
+(b) persons recognized as refugees under the 1969 Organization of African Unity (OAU) Convention Governing the Specific Aspects of Refugee Problems in Africa; 
+(c) those recognized in accordance with the principles enshrined in the Cartagena Declaration; 
+(d) persons recognized by UNHCR as refugees in accordance with its Statute (otherwise referred to as “mandate” refugees); 
+(e) those who have been granted a complementary form of protection (i.e. non-Convention); 
+(f) persons who have been granted temporary protection on a group basis; 
+Persons in a refugee-like situation refer to those outside their territory of origin who face protection risks similar to those of refugees, but who, for practical or other reasons, have not been formally recognized or issued documentation to that effect. 
+Other persons in need of international protection are defined as people who are outside their country or territory of origin, typically because they have been forcibly displaced across international borders, who have not been reported under other categories (asylum-seekers, refugees, people in refugee-like situations) but who likely need international protection, including protection against forced return, as well as access to basic services on a temporary or longer-term basis.
+

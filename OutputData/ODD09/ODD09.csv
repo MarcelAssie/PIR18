@@ -1,97 +1,82 @@
 Mots-cles,Scores,cibles
-rural access index,0.5971,01
-measurement rural access,0.5731,01
-determining urban rural,0.57,01
-correct measurement rural,0.5636,01
-countries census data,0.5617,01
-access countries census,0.5611,01
-subnational census data,0.5602,01
-rural access countries,0.5476,01
-country rural population,0.5425,01
-kilometres freight volumes,0.6696,01
-freight volumes measured,0.6695,01
-freight volume data,0.6661,01
-freight measured metric,0.6602,01
-passenger freight volumes,0.6476,01
-passenger volumes measured,0.6449,01
-volumes measured passenger,0.6278,01
-passenger kilometres freight,0.6219,01
-mva gdp,0.7025,02
-countries mva gdp,0.6886,02
-mva gdp estimated,0.6813,02
-ratio mva gdp,0.6662,02
-gdp ratio mva,0.6626,02
-mva gdp reported,0.6505,02
-product gdp,0.619,02
-domestic product gdp,0.6132,02
-gross domestic product,0.5836,02
-manufacturing employment total,0.6289,02
-series employment defined,0.617,02
-employment total employment,0.617,02
-labour statisticians icls,0.6168,02
-total employment concept,0.6047,02
-employment comprises,0.6038,02
-define employment series,0.5862,02
-total employment,0.5848,02
-scale manufacturing enterprises,0.6469,03
-scale industrial enterprises,0.6462,03
-scale industries defined,0.63,03
-small scale industries,0.627,03
-scale industries total,0.6057,03
-define enterprise smallest,0.5954,03
-small scale manufacturing,0.5863,03
-define enterprise smallest,0.6898,03
-scale industrial enterprises,0.6108,03
-defined enterprise,0.5933,03
-small scale industries,0.589,03
-scale industries defined,0.5734,03
-defined enterprise enterprise,0.5619,03
-units generally enterprises,0.5586,03
-manufacturing sector emissions,0.6023,04
-emissions manufacturing industries,0.5854,04
-sector emissions manufacturing,0.5783,04
-economy total emissions,0.5654,04
-total emissions economy,0.5576,04
-carbon dioxide emissions,0.5499,04
-estimates emissions,0.5362,04
-total emissions,0.5348,04
-emissions economy estimated,0.5339,04
-sector emissions,0.5301,04
-experimental development expenditure,0.6463,05
-experimental development gross,0.6093,05
-development expenditure,0.58,05
-development oecd frascati,0.5615,05
-domestic expenditure research,0.5592,05
-development gross domestic,0.5364,05
-development oecd frascati,0.6772,05
-frascati manual oecd,0.6057,05
-oecd frascati manual,0.6056,05
-frascati manual developing,0.5742,05
-oecd frascati,0.5646,05
-frascati manual relevant,0.5179,05
-development researchers,0.5168,05
-experimental development comprise,0.513,05
-oda flows countries,0.7471,0A
-oda official flows,0.7381,0A
-defines oda flows,0.6947,0A
-oda flows,0.6195,0A
-disbursements total oda,0.6068,0A
-official flows oof,0.5907,0A
-infrastructure oda dac,0.5817,0A
-flows oof official,0.5769,0A
-classification mht industries,0.6526,0B
-industry mht value,0.6458,0B
-manufacturing sector defined,0.5923,0B
-industry value added,0.5845,0B
-mht industries isic,0.5828,0B
-industry mht,0.5757,0B
-industry industry value,0.5668,0B
-consumption manufacturing sector,0.5596,0B
-industry net output,0.5587,0B
-3g population coverage,0.76,0C
-population covered mobile,0.7134,0C
-2g mobile population,0.6783,0C
-services 3g population,0.6757,0C
-3g population,0.6576,0C
-population coverage refers,0.634,0C
-inhabitants covered 3g,0.6305,0C
+measurement rural,0.575,01
+census data,0.5363,01
+rural mapping,0.5356,01
+rural population,0.5237,01
+countries census,0.5142,01
+geospatial data,0.5125,01
+population data,0.5087,01
+location data,0.5039,01
+freight measured,0.6295,01
+transport reporting,0.6193,01
+freight volumes,0.601,01
+kilometres freight,0.5723,01
+transport standards,0.5684,01
+traffic measured,0.5677,01
+glossary_for_transport_statistics_en,0.5613,01
+freight indicator,0.5577,01
+passenger km,0.5496,01
+mva gdp,0.6474,02
+manufacturing value,0.5944,02
+product gdp,0.5887,02
+gdp,0.5582,02
+gdp represents,0.5404,02
+manufacturing refers,0.5389,02
+definitions manufacturing,0.5347,02
+gdp estimated,0.5303,02
+gross value,0.5015,02
+employment defined,0.6036,02
+manufacturing employment,0.597,02
+employment comprises,0.5924,02
+define employment,0.5753,02
+employment employment,0.5503,02
+total employment,0.5479,02
+employment total,0.5359,02
+work distinction,0.5342,02
+labour statisticians,0.5268,02
+defined enterprise,0.6114,03
+enterprise smallest,0.5545,03
+businesses enterprise,0.5249,03
+enterprise enterprise,0.5217,03
+industrial enterprises,0.5127,03
+industries defined,0.5109,03
+manufacturing enterprises,0.5084,03
+scale industries,0.5048,03
+definitions small,0.5022,03
+defined enterprise,0.6178,03
+enterprise smallest,0.5592,03
+businesses enterprise,0.5359,03
+enterprise enterprise,0.5316,03
+enterprise establishment,0.5133,03
+generally enterprises,0.5108,03
+enterprises,0.5092,03
+industrial enterprises,0.5058,03
+co2 emissions,0.6089,04
+emissions manufacturing,0.5517,04
+emissions economy,0.5415,04
+emissions gdp,0.529,04
+sector co2,0.528,04
+refers industries,0.5091,04
+estimates co2,0.5028,04
+development expenditure,0.5656,05
+expenditure research,0.5447,05
+oecd frascati,0.5513,05
+development researchers,0.5466,05
+oda flows,0.583,0A
+infrastructure oda,0.5662,0A
+defines oda,0.5406,0A
+oda official,0.519,0A
+industry mht,0.5976,0B
+technology sectors,0.5658,0B
+industry value,0.5646,0B
+manufacturing sector,0.5605,0B
+refers industries,0.5439,0B
+mht industry,0.5391,0B
+manufacturing industries,0.5157,0B
+mobile population,0.6493,0C
+3g population,0.646,0C
+covered 3g,0.6081,0C
+population coverage,0.579,0C
+3g mobile,0.5235,0C
+mobile cellular,0.5157,0C
+range 3g,0.511,0C

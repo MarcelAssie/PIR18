@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-bribe payment transactions : 0.6891
-payment considered bribe : 0.6653
-experiencing bribe payment : 0.6548
-bribe payment reque : 0.6527
-yes bribe payment : 0.5992
-officials transactions respondent : 0.5600
-firms experiencing bribe : 0.5449
+bribe : 0.4815
+informal payment : 0.4912
+informal payment considered : 0.4925
+yes bribe : 0.5142
+transactions enterprise surveys : 0.5274
+indicated yes bribe : 0.5304
 tax officials transactions : 0.5412
+firms experiencing bribe : 0.5449
+officials transactions respondent : 0.5600
 ----------------------------------------------------

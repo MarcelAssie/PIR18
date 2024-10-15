@@ -20,7 +20,7 @@ def txt_to_string(txt_file):
 
 
 
-def filter_similar_entities(entities, threshold=80):
+def filter_similar_entities(entities, threshold=60):
     """
         Filtrer les entités similaires à partir du seuil de similarité donné.
 

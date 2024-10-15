@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+specific mortality : 0.6716
+mortality rate : 0.6639
+definitions mortality : 0.6478
+probability death : 0.6476
+mortality : 0.6368
+current mortality : 0.6201
+probability dying : 0.6167
+mortality experience : 0.5755
+rate life : 0.5568
+----------------------------------------------------

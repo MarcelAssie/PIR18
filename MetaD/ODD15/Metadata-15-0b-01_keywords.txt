@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-oda donors biodiversity : 0.6667
-biodiversity development assistance : 0.5738
-instruments finance biodiversity : 0.5508
-donors biodiversity revenue : 0.5460
-development assistance oda : 0.5458
-finance biodiversity : 0.5323
+development assistance conservation : 0.5031
+oda recipients multilateral : 0.5066
+defines oda : 0.5088
+biodiversity relevant economic : 0.5124
+ecosystem services biodiversity : 0.5136
+biodiversity defined gross : 0.5168
+assistance oda donors : 0.5210
 biodiversity revenue generated : 0.5321
-finance mobilised biodiversity : 0.5298
 ----------------------------------------------------

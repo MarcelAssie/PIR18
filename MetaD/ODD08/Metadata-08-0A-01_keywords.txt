@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-aid trade development : 0.6148
-oda flows countries : 0.5823
-trade development assistance : 0.5747
-oda donors aid : 0.5646
-donors aid trade : 0.5357
-aid trade : 0.5235
-assistance oda donors : 0.5194
+development cooperation multilateral : 0.4651
+olicy measures countries : 0.4655
+dac financing sustainable : 0.4674
+contributions developing country : 0.4704
+countries territories dac : 0.4729
+assistance oda flows : 0.4763
+oda donors : 0.4822
+donors refer dac : 0.4986
+official development assistance : 0.5002
 organizations aid trade : 0.5022
 ----------------------------------------------------

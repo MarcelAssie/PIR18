@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-measures volumes wastewater : 0.6921
-wastewater flows figure : 0.6773
-total volume wastewater : 0.6725
-total wastewater flows : 0.6718
-total wastewater generated : 0.6670
-wastewater generated total : 0.6640
-taken proportion wastewater : 0.6605
-proportion wastewater flow : 0.6590
-wastewater statistics commonly : 0.6560
+domestic wastewater : 0.5635
+wastewater treatment : 0.5696
+wastewater include : 0.5720
+wastewater runoff : 0.5941
+wastewater conveyed : 0.5988
+wastewater flows : 0.6216
+volume wastewater : 0.6440
+wastewater statistics : 0.6532
 ----------------------------------------------------

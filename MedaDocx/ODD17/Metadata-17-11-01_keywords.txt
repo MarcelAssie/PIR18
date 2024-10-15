@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+exports goods : 0.5944
+global exports : 0.5340
+exports : 0.5337
+trade balance : 0.5217
+exports developing : 0.5007
+----------------------------------------------------

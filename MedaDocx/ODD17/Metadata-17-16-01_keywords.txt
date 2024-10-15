@@ -1,0 +1,5 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+stakeholder monitoring : 0.5506
+frameworks indicators : 0.5062
+----------------------------------------------------

@@ -1,11 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-food insecurity measurement : 0.6504
-food insecurity severity : 0.6455
-insecurity severity food : 0.6366
-prevalence food insecurity : 0.6335
-food insecurity population : 0.6259
-severity food insecurity : 0.6224
-food insecurity number : 0.6047
-food insecurity defined : 0.5825
+ag_prd_fiesmsn population : 0.4037
+sdg_related_indicators comments : 0.4062
+malnutrition target : 0.4132
+sdg_indicator_info goal : 0.4182
+insecurity population : 0.4194
+sdg_custodian_agencies food : 0.4557
+indicator prevalence : 0.4585
 ----------------------------------------------------

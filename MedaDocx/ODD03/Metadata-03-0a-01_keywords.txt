@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+tobacco product : 0.6449
+smokeless tobacco : 0.6256
+tobacco use : 0.6021
+tobacco consumed : 0.5948
+tobacco daily : 0.5948
+tobacco : 0.5822
+use tobacco : 0.5597
+smoking smokeless : 0.5539
+form tobacco : 0.5370
+----------------------------------------------------

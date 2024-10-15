@@ -1,11 +1,12 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-debt services principle : 0.6810
-goods services debt : 0.6657
-services debt services : 0.6656
-services percentag debt : 0.6597
-debt service proportion : 0.6582
-percentag debt services : 0.6443
-debt services : 0.6409
-debt data accordance : 0.6205
+services debt : 0.6545
+debt services : 0.6438
+debt concepts : 0.6058
+external debt : 0.6025
+debt data : 0.5919
+debt : 0.5574
+payments exports : 0.5307
+guaranteed debt : 0.5253
+percentage debt : 0.5191
 ----------------------------------------------------

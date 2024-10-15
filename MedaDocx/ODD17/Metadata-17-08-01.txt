@@ -1,0 +1,5 @@
+The indicator proportion of individuals using the Internet is defined as the proportion of individuals who used the Internet from any location in the last three months.
+
+
+The Internet is a worldwide public computer network. It provides access to a number of communication services including the World Wide Web and carries e-mail, news, entertainment and data files, irrespective of the device used (not assumed to be only via a computer - it may also be by mobile telephone, tablet, PDA, games machine, digital TV etc.). Access can be via a fixed or mobile network.
+

@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-constitutes local government : 0.6930
-local government consists : 0.6923
-definition local government : 0.6788
-government consists local : 0.6600
-local government expressed : 0.6476
-local government : 0.6460
-members local government : 0.6358
-local government members : 0.6354
+fiscal administrative : 0.4166
+women legislative : 0.4185
+administrative territorial : 0.4430
+typically government : 0.4514
+state local : 0.4527
+local elections : 0.4602
+government functions : 0.4669
+constitutes local : 0.4804
+government consists : 0.5092
 ----------------------------------------------------

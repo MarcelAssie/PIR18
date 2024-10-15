@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+sustainable consumption : 0.5577
+policy instruments : 0.5467
+consumption production : 0.5018
+----------------------------------------------------

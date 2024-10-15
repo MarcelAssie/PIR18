@@ -1,19 +1,15 @@
 from keybert import KeyBERT
 from sentence_transformers import SentenceTransformer
 import time
-
+from ActivesScripts.filters import filter_similar_entities
 # Texte à analyser
 doc = """
-Supervised learning is the machine learning task of learning a function that
-         maps an input to an output based on example input-output pairs.[1] It infers a
-         function from labeled training data consisting of a set of training examples.[2]
-         In supervised learning, each example is a pair consisting of an input object
-         (typically a vector) and a desired output value (also called the supervisory signal).
-         A supervised learning algorithm analyzes the training data and produces an inferred function,
-         which can be used for mapping new examples. An optimal scenario will allow for the
-         algorithm to correctly determine the class labels for unseen instances. This requires
-         the learning algorithm to generalize from the training data to unseen situations in a
-         'reasonable' way (see inductive bias)."""
+Expenditure is defined in Chapter 4 (paragraphs 4.24 and 6.1) of the Government Finance Statistics Manual 2014 (GFSM 2014) as a decrease in net worth resulting from a transaction. It is a fiscal indicator for assessing the sustainability of fiscal activities. The GFSM 2014 presents expense according to the economic classification (paragraphs 6.8-6.11) and as functions of government (paragraphs 6.126-6.132). General government units have ten distinct types of expense according to functions of government. Among them there are expense on health (code 707), on education (code 709) and on social protection (code 710). 
+The key concepts and terms associated with the indicator are outlined in Government Finance Statistics Manual (GFSM) 2014, as are the associated classifications. As stated in paragraph 6.126, the Classification of Functions of Government (COFOG) is a detailed classification of the functions, or socioeconomic objectives, that general government units aim to achieve through various kinds of expenditure. While the COFOG as used in the GFSM 2014 fully agrees with the The Organisation for Economic Co-operation and Development (OECD)/UN classification, the concept is applied slightly differently in government finance statistics (GFS). Final outlays are referred to in a general sense by the OECD/UN, and therefore include grants, loans, and/or subsidies. In GFS, COFOG is applied only to expenditure, comprising expense and the net investment in nonfinancial assets. Transactions in financial assets and liabilities, such as loans, are excluded when compiling COFOG data for GFS reporting purposes.
+Government expenditure on health includes expenditure on services provided to individual persons and services provided on a collective basis. Collective health services are concerned with matters such as formulation and administration of government policy; setting and enforcement of standards for medical and paramedical personnel and for hospitals, clinics, surgeries, etc.; regulation and licensing of providers of health services; and applied research and experimental development into medical and health-related matters. However, overhead expenditure connected with administration or functioning of a group of hospitals, clinics, surgeries, etc. is considered to be individual expenditure.
+Government expenditure on education includes expenditure on services provided to individual pupils and students and expenditure on services provided on a collective basis. Collective educational services are concerned with matters such as formulation and administration of government policy; setting and enforcement of standards; regulation, licensing, and supervision of educational establishments; and applied research and experimental development into education affairs and services. However, overhead expenditure connected with administration or functioning of a group of schools, colleges, etc. is considered to be individual expenditure.
+Government expenditure on social protection includes expenditure on services and transfers provided to individual persons and households and expenditure on services provided on a collective basis. Collective social protection services are concerned with matters such as formulation and administration of government policy; formulation and enforcement of legislation and standards for providing social protection; and applied research and experimental development into social protection affairs and services. Expenditure on individual services and transfers are allocated to sickness and disability, old age, survivors, family and children, unemployment, housing and social exclusion. 
+"""
 
 # Modèles à tester
 models = {
@@ -28,7 +24,7 @@ models = {
 }
 
 # Ouvrir le fichier en mode écriture (append) pour stocker les résultats
-with open("TestsModels_performance.txt", "a", encoding="utf-8") as result_file:
+with open("TestsModels_performance.txt", "w", encoding="utf-8") as result_file:
     # Tester chaque modèle
     for model_name, model_path in models.items():
         print(f"Test du modèle {model_name}...")
@@ -51,6 +47,9 @@ with open("TestsModels_performance.txt", "a", encoding="utf-8") as result_file:
             nr_candidates=20,
             top_n=10
         )
+        entities_filtered = filter_similar_entities(keywords, threshold=80)
+        filtered_keywords = [(kw[0], kw[1]) for kw in entities_filtered if kw[1] > 0.4]
+
 
         # Enregistrer l'heure de fin et calculer la durée d'exécution
         end_time = time.time()
@@ -58,7 +57,7 @@ with open("TestsModels_performance.txt", "a", encoding="utf-8") as result_file:
 
         # Écrire les résultats dans le fichier
         result_file.write(f"Résultats pour le modèle {model_name}:\n")
-        for keyword in keywords:
+        for keyword in filtered_keywords:
             result_file.write(f"{keyword[0]} : {keyword[1]:.4f}\n")
 
         result_file.write(f"Durée d'exécution : {duree:.4f} secondes\n")
@@ -66,3 +65,5 @@ with open("TestsModels_performance.txt", "a", encoding="utf-8") as result_file:
 
         # Afficher les résultats
         print(f"Résultats de {model_name} enregistrés dans le fichier.")
+
+

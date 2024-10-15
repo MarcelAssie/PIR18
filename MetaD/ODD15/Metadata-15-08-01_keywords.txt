@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-invasive alien species : 0.7236
-control invasive alien : 0.7088
-efforts invasive alien : 0.7037
-invasive alien : 0.6831
-relevant invasive alien : 0.6820
-invasive species include : 0.6669
-invasive species management : 0.6504
+alien species intentional : 0.5697
+alien species targets : 0.5820
+alien species established : 0.5838
+include alien species : 0.5961
+impact invasive species : 0.6056
+policy relevant invasive : 0.6209
+adoption invasive alien : 0.6224
 species relevant policy : 0.6471
+invasive species management : 0.6504
 ----------------------------------------------------

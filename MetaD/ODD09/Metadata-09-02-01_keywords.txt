@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-mva gdp : 0.7025
-countries mva gdp : 0.6886
-mva gdp estimated : 0.6813
-ratio mva gdp : 0.6662
-gdp ratio mva : 0.6626
-mva gdp reported : 0.6505
-product gdp : 0.6190
-domestic product gdp : 0.6132
+manufacturing value : 0.5365
+revision gdp represents : 0.5385
+mva capita calculated : 0.5466
+mva proportion gross : 0.5470
+country gross value : 0.5517
+gdp represents sum : 0.5680
+product gdp ratio : 0.5708
+gdp estimated terms : 0.5721
 gross domestic product : 0.5836
+countries mva gdp : 0.6886
 ----------------------------------------------------

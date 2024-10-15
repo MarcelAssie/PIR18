@@ -1,11 +1,13 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-housing sustainable urban : 0.6861
-housing urban prosperity : 0.6760
-housing urban : 0.6517
-inadequate housing globally : 0.6484
-provision adequate housing : 0.6476
-inadequate housing slums : 0.6260
-urban contexts housing : 0.6213
-housing globally : 0.6193
+housing urban : 0.6300
+housing sector : 0.6061
+housing inadequate : 0.6000
+housing globally : 0.5998
+housing neighbourhoods : 0.5984
+slums housing : 0.5914
+inadequate housing : 0.5852
+housing housing : 0.5834
+housing definition : 0.5719
+housing conditions : 0.5654
 ----------------------------------------------------

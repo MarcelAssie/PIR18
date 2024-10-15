@@ -1,18 +1,9 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-coverage social protection : 0.6844
-social protection floors : 0.6639
-social protection measured : 0.6379
-social protection systems : 0.6139
-protection including social : 0.6112
-social protection including : 0.6086
-defined social protection : 0.6068
-effective coverage social : 0.5835
-social protection indicators : 0.6886
-estimated social protection : 0.6379
-social protection : 0.6117
-social protection programs : 0.6055
-coverage social protection : 0.6028
-performance social protection : 0.5842
-developed social protection : 0.5740
+social protection : 0.6254
+coverage social : 0.5864
+social insurance : 0.5758
+social protection : 0.6265
+social insurance : 0.5443
+insurance social : 0.5235
 ----------------------------------------------------

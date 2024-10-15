@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+ndcs intends : 0.5547
+ndcs accordance : 0.5367
+contributions ndcs : 0.5142
+----------------------------------------------------

@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-age grade primary : 0.6544
-grades intended age : 0.6367
-education age pupils : 0.6118
-age group calculation : 0.5976
-education years primary : 0.5934
-intended age grade : 0.5828
-age grade level : 0.5744
-age grade : 0.5738
-primary education years : 0.5697
+grade started : 0.4259
+cohort children : 0.4292
+reference age : 0.4430
+official age : 0.4508
+percentage cohort : 0.4596
+grades intended : 0.4689
+entrance age : 0.4762
+years primary : 0.4859
+age pupils : 0.5111
+education grades : 0.5231
 ----------------------------------------------------

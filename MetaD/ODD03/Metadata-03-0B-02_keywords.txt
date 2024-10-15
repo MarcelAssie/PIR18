@@ -1,13 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-health sectors oda : 0.6696
-oda donors medical : 0.6046
-total oda donors : 0.5718
-dac defines oda : 0.5603
-oda flows countries : 0.5473
-disbursements total oda : 0.5455
-oda recipients multilateral : 0.5362
-oda dac defines : 0.5327
-dac stats officialdevelopmentassistancedefinitionandcoverage : 0.5310
-oda donors : 0.5264
+dac stats : 0.4069
+territories dac : 0.4078
+donors medical : 0.4149
+defined dac : 0.4185
+health sectors : 0.4585
+oda recipients : 0.4764
 ----------------------------------------------------

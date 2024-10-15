@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+report violence : 0.6347
+violence indicators : 0.6131
+victims violence : 0.5999
+indicators violence : 0.5908
+violence perpetrated : 0.5897
+violence psychological : 0.5696
+physical violence : 0.5686
+psychological violence : 0.5619
+violence physical : 0.5602
+----------------------------------------------------

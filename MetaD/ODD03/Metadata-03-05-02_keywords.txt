@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-tourist alcohol consumption : 0.7165
-alcohol consumed tourists : 0.6945
-alcohol consumption refers : 0.6899
-alcohol consumed : 0.6880
-alcohol consumption inbound : 0.6635
-amounts alcohol tourists : 0.6611
-alcohol consumption statistics : 0.6571
-specific alcohol consumption : 0.6517
+alcohol total : 0.5186
+consumption apc : 0.5193
+countries alcohol : 0.5222
+alcohol taxed : 0.5448
+alcohol legal : 0.5662
+alcohol calculated : 0.5720
+alcohol defined : 0.5840
+alcohol visiting : 0.5843
+alcohol tourists : 0.5940
 ----------------------------------------------------

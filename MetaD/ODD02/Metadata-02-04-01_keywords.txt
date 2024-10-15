@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-scope indicator agricultural : 0.7242
-farms national criteria : 0.6941
-agriculture areas farm : 0.6285
-agricultural land : 0.6282
-agriculture consider : 0.6205
-indicator agricultural farm : 0.6104
+agriculture outcomes : 0.5201
+precisely agricultural : 0.5206
+food crops : 0.5221
+farm income : 0.5310
+agriculture recognition : 0.5349
+livestock production : 0.5461
+farms national : 0.5468
+subsistence agriculture : 0.5745
+agriculture areas : 0.5985
+indicator agricultural : 0.6031
 ----------------------------------------------------

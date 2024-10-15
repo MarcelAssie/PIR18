@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+ecosystem indicator : 0.5895
+wetlands sdg : 0.5426
+sdg indicator : 0.5287
+ecosystem measured : 0.5270
+water ecosystems : 0.5185
+----------------------------------------------------

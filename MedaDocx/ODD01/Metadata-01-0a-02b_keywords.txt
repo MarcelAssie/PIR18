@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+educational expenditure : 0.7062
+expenditure education : 0.6466
+government expenditure : 0.6141
+includes expenditure : 0.5868
+expenditure funded : 0.5380
+country expenditure : 0.5363
+education includes : 0.5298
+expenditure : 0.5296
+expenditure levels : 0.5038
+----------------------------------------------------

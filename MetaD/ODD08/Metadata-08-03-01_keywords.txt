@@ -1,10 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-informal employment comprises : 0.7176
-informal employment indicator : 0.6917
-work informal employment : 0.6910
-employment classified informal : 0.6762
+informal sector fulfils : 0.5603
+enterprises informal sector : 0.5781
+informal sector enterprises : 0.5783
+cooperatives employed informal : 0.5795
+employees considered informal : 0.5806
+considered informal jobs : 0.6115
+formal informal employment : 0.6225
+informal employment total : 0.6544
 classified informal employment : 0.6599
-employed informal sector : 0.6500
-informal jobs employed : 0.6487
 ----------------------------------------------------

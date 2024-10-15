@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-food loss sdg : 0.7654
-food loss index : 0.7440
-definitions food loss : 0.7183
-food loss waste : 0.7013
-production food loss : 0.6994
-food losses crop : 0.6657
+losses crop livestock : 0.5533
+losses include commodity : 0.5617
+food waste : 0.5701
+loss sdg monitoring : 0.5714
+year food loss : 0.5761
+ratio food loss : 0.5779
+24 food losses : 0.6022
+changes food loss : 0.6050
 food waste index : 0.6631
+food loss sdg : 0.7654
 ----------------------------------------------------

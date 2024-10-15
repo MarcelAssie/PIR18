@@ -1,11 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-expenditure divided agriculture : 0.6082
-gdp agriculture refers : 0.6048
-government expenditure comprise : 0.5693
-aoi government expenditures : 0.5672
-index aoi government : 0.5535
-government cofog agriculture : 0.5491
-agriculture share government : 0.5461
-defined agriculture share : 0.5409
+government expenditures : 0.4513
+aoi government : 0.4551
+expenditure classified : 0.4604
+expenditure divided : 0.4643
+government finance : 0.4697
+agriculture share : 0.4728
+gdp according : 0.4866
+defined agriculture : 0.4887
 ----------------------------------------------------

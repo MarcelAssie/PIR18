@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+electricity percentage : 0.5707
+electrification database : 0.5209
+electricity access : 0.5033
+----------------------------------------------------

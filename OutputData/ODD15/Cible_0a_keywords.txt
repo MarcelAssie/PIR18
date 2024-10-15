@@ -1,11 +1,5 @@
 Mots-clés pour la cible 0a :
 ----------------------------------------------------
-oda donors biodiversity : 0.6687
-biodiversity development assistance : 0.5740
-instruments finance biodiversity : 0.5498
-development assistance oda : 0.5470
-donors biodiversity revenue : 0.5391
-finance biodiversity : 0.5293
-finance mobilised biodiversity : 0.5266
-biodiversity revenue generated : 0.5235
+biodiversity revenue : 0.5239
+finance biodiversity : 0.5040
 ----------------------------------------------------

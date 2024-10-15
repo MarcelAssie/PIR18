@@ -1,8 +1,8 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-non formal education : 0.6188
-education non formal : 0.6062
-formal education training : 0.5948
-education children young : 0.5832
-education training defined : 0.5571
+youth adults : 0.4021
+educational institutions : 0.4225
+cover educational : 0.4345
+time education : 0.4437
+formal education : 0.5676
 ----------------------------------------------------

@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sexual violence defined : 0.6950
-intimate partner violence : 0.6707
-relationships sexual violence : 0.6632
-violence women prevalence : 0.6621
-partner violence women : 0.6618
-statistics violence women : 0.6568
-partner sexual violence : 0.6558
-violence women vaw : 0.6484
+life violence : 0.4795
+violence consists : 0.4859
+efinition violence : 0.4874
+2015 violence : 0.5015
+abusive sexual : 0.5164
+statistics violence : 0.5221
+violence ipv : 0.5322
+violence defined : 0.5623
+partner violence : 0.6032
+violence women : 0.6096
 ----------------------------------------------------

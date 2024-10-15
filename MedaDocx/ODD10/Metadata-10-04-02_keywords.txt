@@ -1,0 +1,7 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+fiscal incomes : 0.6086
+income gini : 0.5844
+income redistributive : 0.5707
+inequality income : 0.5116
+----------------------------------------------------

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+earnings employees : 0.6542
+earnings used : 0.6031
+earnings refer : 0.5998
+gross remuneration : 0.5748
+hourly earnings : 0.5711
+earnings paid : 0.5632
+earnings : 0.5557
+remuneration total : 0.5490
+statistics earnings : 0.5383
+earnings exclude : 0.5381
+----------------------------------------------------

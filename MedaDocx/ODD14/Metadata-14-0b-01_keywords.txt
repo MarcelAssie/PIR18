@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+fisheries statistics : 0.7691
+fisheries : 0.6818
+fisheries national : 0.6765
+handbook fishery : 0.6535
+fishery : 0.6308
+fisheries relevant : 0.6276
+scale fisheries : 0.6256
+party fisheries : 0.5344
+----------------------------------------------------

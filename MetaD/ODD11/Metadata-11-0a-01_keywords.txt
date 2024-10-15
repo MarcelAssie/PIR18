@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-urban policy nup : 0.6848
-national urban policies : 0.6673
-plans national urban : 0.6649
-urban policies regional : 0.6193
-nup regional development : 0.6129
-urban plan framework : 0.5926
-urban policy global : 0.5891
-regional development plans : 0.5878
+urban policy consider : 0.5527
+urban agenda revised : 0.5545
+agendas regional development : 0.5574
+does national urban : 0.5599
+urban policy process : 0.5739
 development plans national : 0.5793
+regional development plans : 0.5878
+urban plan framework : 0.5926
 ----------------------------------------------------

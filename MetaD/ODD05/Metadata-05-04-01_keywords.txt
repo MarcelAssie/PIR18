@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-unpaid domestic work : 0.6399
-unpaid domestic services : 0.6238
-domestic services unpaid : 0.6024
-day unpaid domestic : 0.6020
-unpaid caregiving services : 0.5873
-unpaid caregiving : 0.5850
-unpaid care work : 0.5845
+activities related : 0.4139
+listed unpaid : 0.4147
+activities time : 0.4149
+household goods : 0.4168
+disabled household : 0.4291
+caregiving services : 0.4364
+domestic care : 0.4632
+domestic work : 0.4709
+day unpaid : 0.4729
+services unpaid : 0.4887
 ----------------------------------------------------

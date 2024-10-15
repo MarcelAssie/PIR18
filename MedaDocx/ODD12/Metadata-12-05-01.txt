@@ -1,0 +1,17 @@
+Definitions:
+National Recycling Rate is defined as the quantity of material recycled in the country plus quantities exported for recycling minus material imported intended for recycling out of total waste generated in the country. Note that recycling includes codigestion/anaerobic digestion and composting/aerobic process, but not controlled combustion (incineration) or land application.
+
+National recycling rate can be presented by type of waste, including e-waste, plastic waste, municipal waste, and others.
+
+ 
+Material recycled expressed in tons, reported at the last entity in the recycling chain, preferably when tons of material is bought as secondary resource to be used in production facilities during the course of the reporting year; Secondary mineral materials used in the construction sector are excluded; composting is considered recycling for the purposes of this indicator.
+
+Recycling is defined under the UNSD/UNEP Questionnaire on Environment Statistics and further for the purpose of these indicators as “Any reprocessing of waste material […] that diverts it from the waste stream, except reuse as fuel. Both reprocessing as the same type of product, and for different purposes should be included. Recycling within industrial plants i.e., at the place of generation should be excluded.”
+
+For the purpose of consistency with the Basel Convention reporting and correspondence with EUROSTAT reporting system, Recovery operations R2 to R12 listed in Basel Convention Annex IV, are to be considered as ‘Recycling’ under the UNSD reporting for hazardous waste. 
+
+Total waste generated is the total amount of waste (both hazardous and non-hazardous) generated in the country during the year. 
+Municipal Solid Waste (MSW) includes waste originating from households, commerce and trade, small businesses, office buildings and institutions (schools, hospitals, government buildings). It also includes bulky waste (e.g., old furniture, mattresses) and waste from selected municipal services, e.g., waste from park and garden maintenance, waste from street cleaning services (street sweepings, the content of litter containers, market cleansing waste), if managed as waste. Further information on MSW is defined in the SDG indicator methodology for 11.6.1. 
+
+Electronic waste, or e-waste, refers to all items of electrical and electronic equipment (EEE) and its parts that have been discarded by its owner as waste without the intent of re-use.
+

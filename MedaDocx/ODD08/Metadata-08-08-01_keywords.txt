@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+occupational accidents : 0.7408
+accident occupational : 0.7217
+occupational injuries : 0.7061
+injury occupational : 0.6904
+fatal occupational : 0.6281
+accident workers : 0.6224
+occupational disease : 0.5987
+----------------------------------------------------

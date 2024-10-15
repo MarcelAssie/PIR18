@@ -1,13 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-tb disease dynamic : 0.6263
-tb incidence : 0.6171
-tuberculosis tb incidence : 0.6163
-prevalence tb disease : 0.6040
-tb incidence defined : 0.5950
-prevalence tb : 0.5931
-surveys prevalence tb : 0.5887
-relapse tb cases : 0.5296
-disease dynamic models : 0.5263
-tb diagnosis : 0.5094
+tuberculosis : 0.4117
+recapture modelling : 0.4197
+relapse tb : 0.4403
 ----------------------------------------------------

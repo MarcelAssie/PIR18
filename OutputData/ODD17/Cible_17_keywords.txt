@@ -1,11 +1,10 @@
 Mots-clés pour la cible 17 :
 ----------------------------------------------------
-infrastructure indicator : 0.6157
-term infrastructure refers : 0.6123
-infrastructure refers energy : 0.6050
-responsibility term infrastructure : 0.5963
-ppps defined : 0.5853
-private partnership ppps : 0.5585
-partnerships infrastructure indicator : 0.5577
-partnership ppps : 0.5386
+infrastructure indicator : 0.6316
+infrastructure refers : 0.6237
+ppps defined : 0.6011
+infrastructure : 0.5495
+partnership ppps : 0.5389
+infrastructure transport : 0.5058
+ppps contractual : 0.5054
 ----------------------------------------------------

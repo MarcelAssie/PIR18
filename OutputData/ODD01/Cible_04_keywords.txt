@@ -1,20 +1,12 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-water services refers : 0.5975
-drinking water services1 : 0.5908
-water services1 access : 0.5443
-water services : 0.5383
-basic sanitation services : 0.5352
-basic services indicator : 0.5222
-definitions sdg indicator : 0.5196
-sanitation services refers : 0.5190
-land tenure security : 0.6405
-tenure secure landholder : 0.6015
-land tenure types : 0.5934
-land rights documentation : 0.5857
-tenure security refers : 0.5803
-recognition tenure rights : 0.5655
-understanding land tenure : 0.5548
-land tenure : 0.5411
-land rights counted : 0.5343
+water services : 0.5502
+water sanitation : 0.5024
+land tenure : 0.5982
+tenure land : 0.5825
+secure landholder : 0.5751
+tenure rights : 0.5526
+tenure security : 0.5319
+land rights : 0.5311
+secure tenure : 0.5130
 ----------------------------------------------------

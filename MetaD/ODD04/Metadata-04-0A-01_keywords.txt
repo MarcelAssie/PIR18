@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-pedagogical purposes internet : 0.6935
-internet pedagogical purposes : 0.6810
-purposes internet pedagogical : 0.6703
-using computers internet : 0.6265
-purposes internet available : 0.6259
-pupils internet defined : 0.6141
-purposes internet : 0.5936
-use ict infrastructure : 0.5935
+education access : 0.4298
+educational purposes : 0.4433
+pedagogical purposes : 0.4441
+computer network : 0.4711
+internet available : 0.4976
+using computers : 0.5015
+ict infrastructure : 0.5442
+internet defined : 0.5632
+pupils internet : 0.5635
 ----------------------------------------------------

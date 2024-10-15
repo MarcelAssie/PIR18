@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-gender equality indicator : 0.6478
-gender equality assessment : 0.6116
-monitor gender equality : 0.6048
-framework gender equality : 0.5873
-equality assessment carried : 0.5873
-gender equality particular : 0.5803
-discrimination based sex : 0.5760
-women act discrimination : 0.5699
-prohibiting discrimination women : 0.5692
-discrimination women forms : 0.5668
+discrimination basis : 0.4397
+condemn discrimination : 0.4412
+framework gender : 0.4436
+gender statistics : 0.4483
+monitor gender : 0.4527
+women equal : 0.4567
+gender nationa : 0.4593
+prohibiting discrimination : 0.4601
+equality assessment : 0.5309
 ----------------------------------------------------

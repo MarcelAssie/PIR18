@@ -1,17 +1,12 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-water use efficiency : 0.6940
-industry water use : 0.6516
-terms water use : 0.6052
-economy seea water : 0.5902
-resources water abstraction : 0.5896
-quantity water used : 0.5855
-services water use : 0.5757
-water received industry : 0.5714
-resources water : 0.5706
-resources freshwater withdrawal : 0.7090
-renewable water resources : 0.6430
-terms water resources : 0.6369
-freshwater resources ratio : 0.6245
-total renewable freshwater : 0.6152
+industry water : 0.5627
+resources water : 0.5567
+water use : 0.5538
+wastewater sector : 0.5220
+water renewable : 0.5155
+renewable freshwater : 0.6043
+resources freshwater : 0.5945
+freshwater resources : 0.5817
+freshwater withdrawal : 0.5741
 ----------------------------------------------------

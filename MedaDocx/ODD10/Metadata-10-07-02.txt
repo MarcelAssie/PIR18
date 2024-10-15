@@ -1,0 +1,30 @@
+Definitions:
+SDG Indicator 10.7.2 aims to describe the state of national migration policies and how such policies change over time. The information collected seeks to identify both progress made and gaps, thus contributing to the evidence base for actionable recommendations for the implementation of SDG target 10.7. The indicator also serves for the future thematic reviews at the High-level Political Forum on Sustainable Development (HLPF). 
+
+The conceptual framework for indicator 10.7.2 is IOM´s Migration Governance Framework (MiGOF), which was welcomed by 157 countries (IOM Council Resolution C/106/RES/1310). The MiGOF has three principles and three objectives (figure 1). 
+
+Figure 1. Principles and objectives of the Migration Governance Framework
+
+
+
+
+
+
+
+
+
+The three principles propose the necessary conditions for migration to be well-managed by creating a more effective environment for maximized results for migration to be beneficial to all. These represent the means through which a State can ensure that the systemic requirements for good migration governance are in place. 
+
+The three objectives are specific and do not require any further conventions, laws or practices than the ones that are already existing. Taken together, these objectives ensure that migration is governed in an integrated and holistic way, responding to the need to consider mobile categories of people and address their needs for assistance in the event of an emergency, building resilience of individuals and communities, as well as ensuring opportunities for the economic and social health of the State.
+
+In line with the MiGOF, the proposed methodology for SDG indicator 10.7.2 is comprised of six policy domains, with one proxy measure for each domain (table 1). 
+Table 1. Domains and proxy measures for SDG indicator 10.7.2
+
+For each of the domains and corresponding proxy measures, one question was specified, each one of them informed by five sub-categories or responses (table 2), to capture key aspects of the range of migration policies at the national level, while allowing the indicator to detect relevant variations across countries and over time.
+Table 2. Questions and sub-categories for SDG indicator 10.7.2
+
+
+SDG target 10.7 is broad in scope and many, but not all, of the terms are well defined. The IOM Glossary on Migration provides a definition of key concepts such as orderly and regular migration, but not others such as safe and responsible migration. According to the Glossary, orderly migration refers to “the movement of a person from his/her usual place of residence, in keeping with the laws and regulations governing exit of the country of origin and travel, transit and entry into the host country”. Regular is defined as “migration that occurs through recognized, legal channels”. 
+
+While the concept of “well-managed migration policies” is not explicitly defined, according to the IOM Glossary, it is included in references to migration management, migration governance and facilitated migration. Migration management refers to the planned approach to the development of policy, and legislative and administrative responses to key migration issues. Migration governance is defined as a system of institutions, legal frameworks, mechanisms and practices aimed at regulating migration and protecting migrants. Facilitated migration refers to fostering or encouraging regular migration, for example through streamlined visa application process.
+

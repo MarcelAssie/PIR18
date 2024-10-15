@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+prevalence stunting : 0.5187
+malnutrition estimates : 0.5052
+child malnutrition : 0.5049
+----------------------------------------------------

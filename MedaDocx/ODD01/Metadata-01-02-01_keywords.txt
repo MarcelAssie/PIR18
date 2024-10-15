@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+focuses poverty : 0.5553
+defining poverty : 0.6229
+assessing poverty : 0.6347
+national poverty : 0.6481
+poverty rate : 0.7206
+----------------------------------------------------

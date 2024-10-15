@@ -1,11 +1,5 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-education related indicators : 0.6417
-education sustainable development : 0.6397
-education 2030 tcg : 0.6210
-education sustainable : 0.6135
-education systems indicator : 0.6089
-indicators sdg education : 0.6043
-sdg education 2030 : 0.5566
-education student assessment : 0.5479
+education sustainable : 0.5693
+global indicators : 0.5241
 ----------------------------------------------------

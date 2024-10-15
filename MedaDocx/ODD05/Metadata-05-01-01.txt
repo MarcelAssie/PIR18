@@ -1,0 +1,76 @@
+Definitions:
+Indicator 5.1.1 measures Government efforts to put in place legal frameworks that promote, enforce and monitor gender equality.   
+
+The indicator is based on an assessment of legal frameworks that promote, enforce and monitor gender equality. The assessment is carried out by national counterparts, including National Statistical Offices (NSOs) and/or National Women’s Machinery (NWMs), and legal practitioners/researchers on gender equality, using a questionnaire comprising 42 yes/no questions under four areas of law: (i) overarching legal frameworks and public life; (ii) violence against women; (iii) employment and economic benefits; and (iv) marriage and family. The areas of law and questions are drawn from the international legal and policy framework on gender equality, in particular the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), which has 189 States parties, and the Beijing Platform for Action. As such, no new internationally agreed standard on equality and non-discrimination on the basis of sex was needed. The primary sources of information relevant for indicator 5.1.1 are legislation and policy/action plans.
+
+The 42 questions in the questionnaire are:
+
+Area 1: Overarching legal frameworks and public life
+Promote
+If customary law is a valid source of law under the constitution, is it invalid if it violates constitutional provisions on equality or non-discrimination? 
+If personal law is a valid source of law under the constitution, is it invalid if it violates constitutional provisions on equality or non-discrimination? 
+Is there a discrimination law that prohibits both direct and indirect discrimination against women? 
+Do women and men enjoy equal rights and access to hold public and political office (legislature, executive, judiciary)? 
+Are there quotas for women (reserved seats) in, or quotas for women in candidate lists for, national parliament?
+Do women and men have equal rights to confer citizenship to their spouses and their children?
+
+Enforce and monitor   
+Does the law establish a specialized independent body tasked with receiving complaints of discrimination based on gender (e.g., national human rights institution, women’s commission, ombudsperson)? 
+Is legal aid mandated in criminal matters? 
+Is legal aid mandated in civil/family matters?
+Does a woman’s testimony carry the same evidentiary weight in court as a man’s? 
+Are there laws that explicitly require the production and/or dissemination of gender statistics?
+Are there sanctions for noncompliance with mandated candidate list quotas, or incentives for political parties to field women candidates in national parliamentary elections? 
+
+Area 2: Violence against women
+Promote
+Is there legislation specifically addressing domestic violence?
+Have provisions exempting perpetrators from facing charges for rape if the perpetrator marries the victim after the crime been removed, or never existed in legislation? 
+Have provisions reducing penalties in cases of so-called honor crimes been removed, or never existed in legislation?
+Are laws on rape based on lack of consent, without requiring proof of physical force or penetration? 
+Does legislation explicitly criminalize marital rape or does legislation entitle a woman to file a complaint about rape against her husband or partner?
+Is there legislation that specifically addresses sexual harassment?  
+
+Enforce and monitor
+Are there budgetary commitments provided for by government entities for the implementation of legislation addressing violence against women by creating an obligation on the government to provide a budget or allocation of funding for the implementation of relevant programs or activities? 
+Are there budgetary commitments provided by government entities for the implementation of legislation addressing violence against women by allocating a specific budget, funding, and/or incentives to support non-governmental organizations for activities to address violence against women? 
+Is there a national action plan or policy to address violence against women that is overseen by a national mechanism with the mandate to monitor and review implementation? 
+
+Area 3: Employment and economic benefits
+Promote
+Does the law mandate non-discrimination based on gender in employment?
+Does the law mandate equal remuneration for work of equal value? 
+Can women work in jobs deemed hazardous, arduous, or morally inappropriate in the same way as men?
+Are women able to work in the same industries as men?
+Are women able to perform the same tasks as men?
+Does the law allow women to work the same night hours as men? 
+Does the law provide for maternity or parental leave available to mothers in accordance with the ILO standards? 
+Does the law provide for paid paternity or parental leave available to fathers or partners?
+
+Enforce and monitor
+Is there a public entity that can receive complaints on gender discrimination in employment? 
+Is childcare publicly provided or subsidized?
+
+Area 4: Marriage and family
+Promote
+Is the minimum age of marriage at least 18, with no legal exceptions, for both women and men?
+Do women and men have equal rights to enter marriage (i.e., consent) and initiate divorce? 
+Do women and men have equal rights to be the legal guardian of their children during and after marriage? 
+Do women and men have equal rights to be recognized as head of household or head of the family?
+Do women and men have equal rights to choose where to live? 
+Do women and men have equal rights to choose a profession?
+Do women and men have equal rights to obtain an identity card?
+Do women and men have equal rights to apply for passports? 
+Do women and men have equal rights to own, access, and control marital property including upon divorce?
+
+Enforce and monitor 
+Is marriage under the legal age void or voidable?
+Are there dedicated and specialized family courts? 
+
+ 
+Article 1 of CEDAW provides a comprehensive definition of discrimination against women covering direct and indirect discrimination and article 2 sets out general obligations for States, in particular on required legal frameworks, to eliminate discrimination against women.  Article 1 of CEDAW states: “… the term "discrimination against women" shall mean any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women, irrespective of their marital status, on a basis of equality of men and women, of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field”. Article 2 of CEDAW states: States Parties condemn discrimination against women in all its forms, agree to pursue by all appropriate means and without delay a policy of eliminating discrimination against women and, to this end, undertake: (a) To embody the principle of the equality of men and women in their national constitutions or other appropriate legislation if not yet incorporated therein and to ensure, through law and other appropriate means, the practical realization of this principle; (b) To adopt appropriate legislative and other measures, including sanctions where appropriate, prohibiting all discrimination against women; (c) To establish legal protection of the rights of women on an equal basis with men and to ensure through competent national tribunals and other public institutions the effective protection of women against any act of discrimination; (d) To refrain from engaging in any act or practice of discrimination against women and to ensure that public authorities and institutions shall act in conformity with this obligation; (e) To take all appropriate measures to eliminate discrimination against women by any person, organization or enterprise; (f) To take all appropriate measures, including legislation, to modify or abolish existing laws, regulations, customs and practices which constitute discrimination against women; (g) To repeal all national penal provisions which constitute discrimination against women”. 
+
+The term “legal frameworks” is defined broadly to encompass laws, mechanisms, and policies/plans to ‘promote, enforce and monitor’ gender equality.  
+
+Legal frameworks that “promote” are those that establish women’s equal rights with men and enshrine non-discrimination based on sex. Legal frameworks that “enforce and monitor’ are directed to the realization of equality and non-discrimination and implementation of laws, such as policies/plans, the establishment of enforcement and monitoring mechanisms, and allocation of financial resources.
+

@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-gdp real gdp : 0.7511
-real gdp refers : 0.7394
-gdp real : 0.7188
-real gdp employed : 0.7182
-real gdp : 0.7126
-gdp refers gdp : 0.6878
-real gdp real : 0.6815
-domestic product gdp : 0.6804
-gdp calculated : 0.6797
+estimates gdp calculated : 0.6415
+according sna gdp : 0.6437
+gdp main measure : 0.6471
+gdp calculated constant : 0.6480
+gdp refers : 0.6523
+output gdp equal : 0.6635
+refers gdp calculated : 0.6678
 units real gdp : 0.6788
+domestic product gdp : 0.6804
+real gdp real : 0.6815
 ----------------------------------------------------

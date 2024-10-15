@@ -1,97 +1,86 @@
 Mots-cles,Scores,cibles
-water services metadata,0.5826,01
-water indicator sdg_indicator,0.5581,01
-monitoring programme water,0.5335,01
-sdg_related_indicators targets,0.5317,01
-drinking water indicator,0.5249,01
-indicators sdg_related_indicators,0.5193,01
-water quality specified,0.5038,01
-improved sanitation facilities,0.6896,02
-sanitation facilities designed,0.685,02
-using improved sanitation,0.6593,02
-sanitation facility considered,0.6552,02
-latrines sanitation facility,0.6509,02
-handwashing facility soap,0.7032,02
-household handwashing facilities,0.6697,02
-designated handwashing soap,0.6559,02
-handwashing handwashing facilities,0.6356,02
-handwashing facilities located,0.6265,02
-handwashing soap includes,0.6257,02
-measures volumes wastewater,0.6921,03
-wastewater flows figure,0.6773,03
-total volume wastewater,0.6725,03
-total wastewater flows,0.6718,03
-total wastewater generated,0.667,03
-wastewater generated total,0.664,03
-taken proportion wastewater,0.6605,03
-proportion wastewater flow,0.659,03
-wastewater statistics commonly,0.656,03
-water quality index,0.7363,03
-water quality assessed,0.7329,03
-monitoring water quality,0.7303,03
-water quality status,0.7245,03
-water quality monitoring,0.724,03
-measured water quality,0.7157,03
-water quality parameter,0.6982,03
-parameter water quality,0.6882,03
-water use efficiency,0.694,04
-industry water use,0.6516,04
-terms water use,0.6052,04
-economy seea water,0.5902,04
-resources water abstraction,0.5896,04
-quantity water used,0.5855,04
-services water use,0.5757,04
-water received industry,0.5714,04
-resources water,0.5706,04
-resources freshwater withdrawal,0.709,04
-renewable water resources,0.643,04
-terms water resources,0.6369,04
-freshwater resources ratio,0.6245,04
-total renewable freshwater,0.6152,04
-environment iwrm institutions,0.6274,05
-management iwrm scale,0.6095,05
-resources management iwrm,0.6047,05
-iwrm management instruments,0.6044,05
-environment iwrm,0.5885,05
-iwrm management,0.5819,05
-implementation iwrm management,0.58,05
-integrated water resources,0.5763,05
-iwrm institutions participation,0.5728,05
-indicator transboundary basin,0.6881,05
-basin organization transbounda,0.6478,05
-transboundary basin refers,0.643,05
-cooperation transboundary basin,0.6165,05
-transboundary basins provides,0.6033,05
-basin refers river,0.6023,05
-sharing transboundary basins,0.6022,05
-wetlands sdg indicator,0.6664,06
-freshwater ecosystems measure,0.6132,06
-ecosystem indicator,0.5881,06
-ecosystem indicator methodology,0.5753,06
-inland wetlands sdg,0.5479,06
-earth observations ecosystem,0.5465,06
-ecosystem measured,0.5424,06
-sdg indicator data,0.5405,06
-extent wetlands term,0.7218,06
-wetlands term defined,0.7111,06
-ramsar classifying wetland,0.7081,06
-definitions classifications wetlands,0.6943,06
-wetlands ramsar classifying,0.6834,06
-area wetlands measured,0.6832,06
-wetlands term,0.6777,06
-oda flows comprise,0.5517,0A
-water sanitation oda,0.5472,0A
-oda disbursements included,0.5337,0A
-official financing administered,0.5281,0A
-development assistance government,0.5231,0A
-institutions oda receipts,0.5227,0A
-oda disbursements,0.5222,0A
-assistance oda disbursements,0.5195,0A
-sanitation management indicator,0.6612,0B
-sanitation activities policy,0.6391,0B
-sanitation includes areas,0.6074,0B
-local administrative units,0.5718,0B
-communities water sanitation,0.5667,0B
-sanitation management options,0.5643,0B
-sustainability local administrative,0.5569,0B
-programs water sanitation,0.5505,0B
+water sources,0.6449,01
+water collected,0.5598,01
+water sanitation,0.5414,01
+water reservoir,0.529,01
+water term,0.5286,01
+rivers reservoirs,0.5258,01
+collect water,0.5228,01
+water supplied,0.5221,01
+water rivers,0.5168,01
+sanitation facilities,0.6847,02
+improved sanitation,0.6657,02
+sanitation technologies,0.6474,02
+latrines sanitation,0.6178,02
+sanitation,0.6174,02
+flushed sanitation,0.6135,02
+health sanitation,0.6054,02
+handwashing facilities,0.6755,02
+handwashing soap,0.6067,02
+facilitate handwashing,0.5967,02
+designated handwashing,0.5928,02
+handwashing agents,0.5897,02
+household handwashing,0.5738,02
+population handwashing,0.566,02
+sand handwashing,0.5637,02
+facility soap,0.563,02
+proportion wastewater,0.6604,03
+wastewater statistics,0.6559,03
+total wastewater,0.6492,03
+wastewater flow,0.6444,03
+volume wastewater,0.6416,03
+flow wastewater,0.611,03
+wastewater conveyed,0.6029,03
+include wastewater,0.5965,03
+water quality,0.6566,03
+assessed water,0.6057,03
+monitoring water,0.6026,03
+status water,0.5327,03
+pollution water,0.5082,03
+industry water,0.5627,04
+resources water,0.5567,04
+water use,0.5538,04
+wastewater sector,0.522,04
+water renewable,0.5155,04
+renewable freshwater,0.6043,04
+resources freshwater,0.5945,04
+freshwater resources,0.5817,04
+freshwater withdrawal,0.5741,04
+environment iwrm,0.576,05
+iwrm management,0.5615,05
+management iwrm,0.5503,05
+iwrm institutions,0.549,05
+concept iwrm,0.5459,05
+definition iwrm,0.5424,05
+iwrm status,0.5336,05
+applicable iwrm,0.5244,05
+implement iwrm,0.504,05
+transboundary basin,0.6109,05
+basin refers,0.5706,05
+basin organization,0.5685,05
+basin aquifer,0.558,05
+basin considered,0.549,05
+basin extent,0.5446,05
+basins shared,0.5352,05
+river basin,0.5305,05
+specific basin,0.5302,05
+ecosystem indicator,0.5895,06
+wetlands sdg,0.5426,06
+sdg indicator,0.5287,06
+ecosystem measured,0.527,06
+water ecosystems,0.5185,06
+extent wetlands,0.6797,06
+wetlands term,0.6739,06
+wetlands ramsar,0.6658,06
+wetlands measured,0.6639,06
+definition wetlands,0.6515,06
+classifications wetlands,0.6388,06
+wetlands baseline,0.6378,06
+size wetlands,0.6262,06
+wetlands categories,0.6239,06
+sanitation oda,0.5177,0A
+oda disbursements,0.5082,0A
+sanitation activities,0.5553,0B
+sanitation management,0.5535,0B
+participation local,0.5183,0B
+sanitation includes,0.5042,0B

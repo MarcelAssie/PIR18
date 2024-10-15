@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-physical violence defined : 0.7167
-physical violence counts : 0.7082
-physical violence psychological : 0.7023
-physical violence possible : 0.6953
-definition physical violence : 0.6889
-violence respectively physical : 0.6707
-physical sexual assault : 0.6684
-respectively physical violence : 0.6499
+psychological violence defined : 0.6192
+sexual violence defined : 0.6211
+incident psychological violence : 0.6244
+violence indicator measures : 0.6255
+component physical violence : 0.6265
+physical violence punching : 0.6403
+physical assault : 0.6460
+corresponds physical assault : 0.6473
+bodily injury iccs : 0.6474
 ----------------------------------------------------

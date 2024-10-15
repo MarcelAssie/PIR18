@@ -1,18 +1,8 @@
 Mots-clés pour la cible 07 :
 ----------------------------------------------------
-definitions cities : 0.5818
-area cities conventionally : 0.5524
-urbanisation degurba workable : 0.5467
-definitions cities metropolitan : 0.5400
-cities implemented : 0.5375
-degree urbanisation degurba : 0.5366
-accepted definitions city : 0.5343
-urbanisation define analysis : 0.5335
-delineate cities urban : 0.5307
-sexual harassment percentage : 0.5940
-sexual harassment population : 0.5897
-non sexual harassment : 0.5763
-sexual harassing behaviours : 0.5685
-harassment percentage total : 0.5395
-indicative sexual harassment : 0.5341
+definitions cities : 0.5631
+urbanisation degurba : 0.5295
+cities implemented : 0.5093
+harassment percentage : 0.5467
+harassment sexual : 0.5025
 ----------------------------------------------------

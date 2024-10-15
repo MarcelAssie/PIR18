@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-forest area proportion : 0.6983
-forest land area : 0.6697
-trees area hectares : 0.6566
-forest defined land : 0.6289
-land uses trees : 0.6123
-trees area : 0.5900
-forest management : 0.5875
-forest management practice : 0.5697
+forest determined presence : 0.5311
+components forest land : 0.5371
+classified forest land : 0.5435
+hectares trees higher : 0.5442
+tree height mete : 0.5485
+percent tree height : 0.5502
+areas young trees : 0.5524
 land use height : 0.5578
+forest management practice : 0.5697
+forest defined : 0.5829
 ----------------------------------------------------

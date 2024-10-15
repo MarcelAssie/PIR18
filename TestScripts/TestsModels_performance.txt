@@ -1,14 +1,13 @@
 Résultats pour le modèle all-MiniLM-L6-v2:
-training : 0.3858
-analyzes training : 0.4396
-generalize training : 0.4517
-task learning : 0.4679
-function labeled : 0.4679
-labeled : 0.4702
-learning algorithm : 0.5549
-learning function : 0.5724
-examples supervised : 0.6063
-signal supervised : 0.6074
-Durée d'exécution : 11.7775 secondes
+functions government : 0.4721
+expenditure health : 0.4736
+sustainability fiscal : 0.4756
+includes expenditure : 0.4807
+services expenditure : 0.4817
+government cofog : 0.4981
+fiscal indicator : 0.5226
+government finance : 0.5280
+expenditure defined : 0.5646
+Durée d'exécution : 11.7155 secondes
 ------------------------------------------------------------------------------------------------
 

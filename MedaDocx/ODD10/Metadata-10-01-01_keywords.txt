@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+rate welfare : 0.6590
+percent welfare : 0.6257
+welfare distribution : 0.6109
+welfare aggregate : 0.6070
+income growth : 0.6010
+income consumption : 0.5373
+consumption income : 0.5131
+depending welfare : 0.5119
+shared prosperity : 0.5023
+income distribution : 0.5018
+----------------------------------------------------

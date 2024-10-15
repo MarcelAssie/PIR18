@@ -1,0 +1,16 @@
+Definitions:
+The Open Data Inventory (ODIN) is an evaluation of the coverage and openness of data provided on the websites maintained by national statistical offices (NSOs) and any official government website that is accessible from the NSO site, as well as a country’s official SDG portal. 
+
+Capacity to produce a set of official statistics from national databases to support the SDGs: The ODIN Coverage Index refers to the availability of important statistical indicators in 22 categories of social, economic, and environmental statistics. Each data category is assessed on five elements of coverage (see below) that measure how complete the country’s data offerings are. 
+
+Information on all elements are collected for each dataset assessed in ODIN, except for elements 4 and 5 (see below) that are not included for some data categories or for small countries.
+ 
+The five coverage elements (further described in 4.c) are:
+Availability of indicators and disaggregations
+Availability of data in the last five years
+Availability of data in the last ten years
+Availability of data at the first administrative geographic level
+Availability of data at the second administrative geographic level
+
+Scores are assigned for each element of each data category, not indicator. In addition, each data category cannot score higher on coverage elements 2-5 than coverage element 1. Aggregate scores are computed across categories and elements.
+

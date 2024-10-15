@@ -1,11 +1,10 @@
 Mots-clés pour la cible 0B :
 ----------------------------------------------------
-oda donors cholarships : 0.7414
-total oda donors : 0.6925
-cholarships oda dac : 0.6700
-disbursements total oda : 0.6585
-oda donors : 0.6307
-countries financial aid : 0.5843
-financial aid awards : 0.5677
-oda recipients multilateral : 0.5524
+scholarships oda : 0.7029
+donors scholarships : 0.6064
+oda donors : 0.5861
+financial aid : 0.5669
+scholarships financial : 0.5504
+grants students : 0.5269
+oda recipients : 0.5026
 ----------------------------------------------------

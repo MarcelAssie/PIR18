@@ -1,10 +1,7 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-social protection indicators : 0.6886
-estimated social protection : 0.6379
-social protection : 0.6117
-social protection programs : 0.6055
-coverage social protection : 0.6028
-performance social protection : 0.5842
-developed social protection : 0.5740
+spl data : 0.4095
+protection indicators : 0.4270
+spl percentage : 0.4292
+social insurance : 0.5370
 ----------------------------------------------------

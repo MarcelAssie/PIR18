@@ -1,12 +1,10 @@
 Mots-clés pour la cible 0B :
 ----------------------------------------------------
-classification mht industries : 0.6526
-industry mht value : 0.6458
-manufacturing sector defined : 0.5923
-industry value added : 0.5845
-mht industries isic : 0.5828
-industry mht : 0.5757
-industry industry value : 0.5668
-consumption manufacturing sector : 0.5596
-industry net output : 0.5587
+industry mht : 0.5976
+technology sectors : 0.5658
+industry value : 0.5646
+manufacturing sector : 0.5605
+refers industries : 0.5439
+mht industry : 0.5391
+manufacturing industries : 0.5157
 ----------------------------------------------------

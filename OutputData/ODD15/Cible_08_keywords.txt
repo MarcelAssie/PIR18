@@ -1,11 +1,12 @@
 Mots-clés pour la cible 08 :
 ----------------------------------------------------
-invasive alien species : 0.7236
-control invasive alien : 0.7088
-efforts invasive alien : 0.7037
-invasive alien : 0.6831
-relevant invasive alien : 0.6820
-invasive species include : 0.6669
-invasive species management : 0.6504
-species relevant policy : 0.6471
+invasive alien : 0.7002
+invasive species : 0.6788
+efforts invasive : 0.5708
+alien species : 0.5630
+controlling invasive : 0.5438
+invasive : 0.5428
+relevant invasive : 0.5359
+known invasive : 0.5293
+species relevant : 0.5126
 ----------------------------------------------------

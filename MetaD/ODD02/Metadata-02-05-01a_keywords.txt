@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-plant genetic resources : 0.6015
-conservation plant genetic : 0.5693
-genetic resources food : 0.5378
-resources genebanks conserve : 0.5315
-agriculture grfa : 0.5293
-plant animal genetic : 0.5276
-animal grfa conserved : 0.5166
-conserving genetic resources : 0.5132
+genebank standards : 0.4021
+diversity conserved : 0.4024
+conserved genebank : 0.4111
+agriculture fourteenth : 0.4150
+breeding programmes : 0.4246
+planting materials : 0.4249
+farm measure : 0.4253
+grfa conserved : 0.4255
+plant genetic : 0.4673
 ----------------------------------------------------

@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+disputes related : 0.6792
+problems disputes : 0.6515
+dealing disputes : 0.6369
+disputes : 0.6336
+experience disputes : 0.5865
+dispute resolution : 0.5862
+categories disputes : 0.5696
+disputes vary : 0.5603
+disputes civil : 0.5471
+accessing dispute : 0.5263
+----------------------------------------------------

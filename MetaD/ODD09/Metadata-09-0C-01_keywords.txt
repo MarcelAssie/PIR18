@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-3g population coverage : 0.7600
-population covered mobile : 0.7134
-2g mobile population : 0.6783
-services 3g population : 0.6757
-3g population : 0.6576
+proportion population covered : 0.5447
+technologies total population : 0.5453
+range 3g mobile : 0.5536
+signal total population : 0.5537
+population number covered : 0.5701
+lte population : 0.5964
+covered 3g : 0.6003
+inhabitants range 3g : 0.6055
+covered 3g mobile : 0.6252
 population coverage refers : 0.6340
-inhabitants covered 3g : 0.6305
 ----------------------------------------------------

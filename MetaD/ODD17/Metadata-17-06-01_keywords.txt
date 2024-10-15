@@ -1,10 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-broadband subscriptions speed : 0.7313
-subscriptions speed refers : 0.6813
-speed fixed broadband : 0.6624
-indicator fixed broadband : 0.6504
-broadband total : 0.6217
-fixed broadband subscriptions : 0.6162
+advertised downstream speeds : 0.5648
+internet broadband subscriptions : 0.5731
+subscriptions speed : 0.5887
+broadband total measured : 0.6075
+following subscription speeds : 0.6134
 number fixed broadband : 0.6157
+indicator fixed broadband : 0.6504
 ----------------------------------------------------

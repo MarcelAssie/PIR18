@@ -1,13 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-manufacturing sector emissions : 0.6023
-emissions manufacturing industries : 0.5854
-sector emissions manufacturing : 0.5783
-economy total emissions : 0.5654
-total emissions economy : 0.5576
-carbon dioxide emissions : 0.5499
-estimates emissions : 0.5362
-total emissions : 0.5348
+calculate total emissions : 0.5087
+dioxide emissions : 0.5091
+emissions unit value : 0.5127
+estimates emissions based : 0.5229
 emissions economy estimated : 0.5339
-sector emissions : 0.5301
+sector emissions manufacturing : 0.5783
+emissions manufacturing industries : 0.5854
+manufacturing sector emissions : 0.6023
 ----------------------------------------------------

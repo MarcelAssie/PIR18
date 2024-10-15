@@ -1,10 +1,6 @@
 Mots-clés pour la cible 0b :
 ----------------------------------------------------
-youth employment crisis : 0.6101
-global jobs pact : 0.6044
-resolution youth employment : 0.5776
-crisis global jobs : 0.5568
-employment crisis resolution : 0.5553
-matching youth labour : 0.5500
-international labour conference : 0.5475
+youth employment : 0.5887
+youth labour : 0.5745
+international labour : 0.5215
 ----------------------------------------------------

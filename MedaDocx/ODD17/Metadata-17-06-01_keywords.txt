@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+broadband total : 0.6311
+fixed broadband : 0.6076
+broadband subscriptions : 0.6028
+subscription speeds : 0.5955
+broadband : 0.5943
+broadband internet : 0.5807
+satellite broadband : 0.5028
+wireless broadband : 0.5014
+----------------------------------------------------

@@ -1,90 +1,75 @@
 Mots-cles,Scores,cibles
-proficiency levels mpls,0.7557,01
-minimum proficiency levels,0.6717,01
-proficiency levels defined,0.6714,01
-proficiency level reference,0.6567,01
-described minimum proficiency,0.6499,01
-education minimum proficiency,0.6409,01
-age grade primary,0.6544,01
-grades intended age,0.6367,01
-education age pupils,0.6118,01
-age group calculation,0.5976,01
-education years primary,0.5934,01
-intended age grade,0.5828,01
-age grade level,0.5744,01
-age grade,0.5738,01
-primary education years,0.5697,01
-childhood development index,0.678,02
-milestones expected age,0.5696,02
-milestones children age,0.5664,02
-early childhood development,0.5283,02
-outcomes children aged,0.5247,02
-sdg early childhood,0.5166,02
-development al outcomes,0.5106,02
-childhood primary education,0.7275,02
-early childhood education,0.6828,02
-primary education defined,0.6625,02
-primary education programmes,0.661,02
-early childhood primary,0.6581,02
-childhood education typically,0.6488,02
-participation early childhood,0.6375,02
-non formal education,0.6188,03
-education non formal,0.6062,03
-formal education training,0.5948,03
-education children young,0.5832,03
-education training defined,0.5571,03
-measure ict skills,0.7709,04
-proportion individuals ict,0.7291,04
-ict skills current,0.6919,04
-activities measure ict,0.683,04
-measure ict,0.6808,04
-individuals ict skills,0.6703,04
-ict skills,0.6701,04
-ict skills skill,0.6642,04
-ict skills type,0.6641,04
-technology ict skills,0.664,04
+proficiency levels,0.6032,01
+minimum proficiency,0.5873,01
+levels mpls,0.534,01
+learning assessments,0.5016,01
+age grade,0.5735,01
+education age,0.5462,01
+grade primary,0.5295,01
+age pupils,0.5085,01
+age entry,0.5044,01
+measure developmental,0.5628,02
+developmental outcomes,0.5518,02
+milestones children,0.5506,02
+childhood development,0.5322,02
+primary education,0.6714,02
+childhood education,0.6553,02
+childhood primary,0.5648,02
+learning educational,0.5641,02
+early childhood,0.5517,02
+educational activities,0.5428,02
+education defined,0.512,02
+education programmes,0.511,02
+learning programme,0.503,02
+educational tasks,0.5015,02
+formal education,0.6062,03
+education training,0.5605,03
+education non,0.5237,03
+educational programmes,0.5235,03
+measure ict,0.6951,04
+ict skills,0.6793,04
+ict related,0.6682,04
+technology ict,0.6327,04
+ict,0.6259,04
+certain ict,0.6253,04
+assessment ict,0.6216,04
+individuals ict,0.6187,04
+basic ict,0.5715,04
+level ict,0.563,04
 parity indices,0.7383,05
-parity indices require,0.7085,05
 indicates parity,0.6606,05
-exactly indicates parity,0.6482,05
 parity groups,0.5249,05
-parity groups metadata,0.5156,05
 parity,0.5057,05
-represent ratio indicator,0.4112,05
-ratio indicator value,0.4097,05
-level proficiency flp,0.6583,06
-proficiency literacy numeracy,0.617,06
-literacy functional numeracy,0.6053,06
-functional literacy,0.6047,06
-functional literacy functional,0.5899,06
-education related indicators,0.6633,07
-education systems indicator,0.6293,07
-indicators sdg education,0.6234,07
-education sustainable development,0.5827,07
-global indicators 12,0.5771,07
-education 2030 tcg,0.5657,07
-education sustainable,0.5638,07
-education student assessment,0.5266,07
-pedagogical purposes internet,0.6935,0A
-internet pedagogical purposes,0.681,0A
-purposes internet pedagogical,0.6703,0A
-using computers internet,0.6265,0A
-purposes internet available,0.6259,0A
-pupils internet defined,0.6141,0A
-purposes internet,0.5936,0A
-use ict infrastructure,0.5935,0A
-oda donors cholarships,0.7414,0B
-total oda donors,0.6925,0B
-cholarships oda dac,0.67,0B
-disbursements total oda,0.6585,0B
-oda donors,0.6307,0B
-countries financial aid,0.5843,0B
-financial aid awards,0.5677,0B
-oda recipients multilateral,0.5524,0B
-percentage teachers level,0.7216,0C
-teachers level education,0.6442,0C
-teachers level,0.6257,0C
-teacher training pre,0.5935,0C
-pedagogical teacher training,0.5697,0C
-given country teacher,0.5487,0C
-service required teaching,0.5478,0C
+proficiency flp,0.6204,06
+functional literacy,0.6009,06
+literacy functional,0.5957,06
+proficiency literacy,0.5741,06
+level proficiency,0.5662,06
+proficiency levels,0.5469,06
+literacy numeracy,0.5371,06
+literacy required,0.5159,06
+education sustainable,0.5681,07
+global indicators,0.5249,07
+indicators sdgs,0.5005,07
+internet pedagogical,0.623,0A
+computers internet,0.5944,0A
+purposes internet,0.5879,0A
+use ict,0.5737,0A
+computers pedagogical,0.5459,0A
+ict infrastructure,0.5398,0A
+ict,0.5379,0A
+use computers,0.536,0A
+internet defined,0.5297,0A
+scholarships oda,0.7029,0B
+donors scholarships,0.6064,0B
+oda donors,0.5861,0B
+financial aid,0.5669,0B
+scholarships financial,0.5504,0B
+grants students,0.5269,0B
+oda recipients,0.5026,0B
+percentage teachers,0.6762,0C
+teachers level,0.6372,0C
+teacher training,0.5604,0C
+required teaching,0.5467,0C
+teachers,0.5141,0C
+pedagogical teacher,0.5054,0C

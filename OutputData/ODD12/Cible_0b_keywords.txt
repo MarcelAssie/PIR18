@@ -1,11 +1,7 @@
 Mots-clés pour la cible 0b :
 ----------------------------------------------------
-economic environmental accounting : 0.6149
-environmental economic accounting : 0.6145
-environmental accounting 2012 : 0.5834
-expenditure tsa table : 0.5821
-consumption tsa table : 0.5779
-sustainability tourism tab : 0.5633
-tourism satellite accounts : 0.5588
-economic accounting : 0.5524
+environmental accounting : 0.5680
+tourism tables : 0.5535
+economic accounting : 0.5276
+tsa tables : 0.5007
 ----------------------------------------------------

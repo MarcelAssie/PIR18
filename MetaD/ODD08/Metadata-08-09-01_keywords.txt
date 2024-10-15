@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-tourism direct gdp : 0.7241
-tourism consumption gross : 0.6734
-output gdp : 0.6260
-valuation output gdp : 0.6217
-gdp sum gross : 0.6182
+tourism consumption : 0.5488
+tdgva gross value : 0.5499
+gdp sum : 0.5582
+direct gross value : 0.5610
+domestic product gdp : 0.5822
+direct gdp tdgdp : 0.5853
 gdp tdgdp defined : 0.5984
-output gdp equal : 0.5898
-gdp tdgdp : 0.5880
-gdp : 0.5867
+valuation output gdp : 0.6217
+tourism direct gross : 0.6593
 ----------------------------------------------------

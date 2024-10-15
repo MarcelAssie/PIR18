@@ -1,10 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-infections ghe code : 0.5989
-unsafe sanitation lack : 0.5731
-water unsafe sanitation : 0.5623
-unsafe water sanitation : 0.5623
-diarrhoea ghe code : 0.5549
-included diseases diarrhoea : 0.5363
-sanitation hygiene wash : 0.5356
+number deaths : 0.4020
+deaths unsafe : 0.4024
+hygiene focusing : 0.4171
+diarrhoea ghe : 0.4197
+hygiene wash : 0.4281
+mortality rate : 0.4349
+infections ghe : 0.4569
+diseases diarrhoea : 0.4955
+sanitation lack : 0.5038
 ----------------------------------------------------

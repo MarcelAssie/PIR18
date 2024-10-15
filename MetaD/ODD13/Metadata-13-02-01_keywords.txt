@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-ndcs paris agreement : 0.6656
-definitions ndcs paris : 0.6056
-contributions ndcs intends : 0.5770
-ndcs intends achieve : 0.5679
-ndcs including mitigation : 0.5351
-ndcs accordance article : 0.5307
-ndcs intends : 0.5246
-measures paris agreement : 0.5188
+agreement nationally determined : 0.4743
+climate fund readiness : 0.4783
+contributions ndcs including : 0.4814
+determined contributions ndcs : 0.4855
+ndcs ndc interim : 0.4889
+definitions ndcs : 0.5052
 strategies paris agreement : 0.5148
+purpose paris agreement : 0.5155
+ndcs including mitigation : 0.5351
 ----------------------------------------------------

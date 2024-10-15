@@ -1,8 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-integrated coastal zone : 0.7157
+coastal state outlined : 0.5577
+marine spatial planning : 0.5638
+territorial sea belt : 0.5649
+law sea territorial : 0.5762
+entire coastal zone : 0.6083
+territorial sea measured : 0.6196
+integrated coastal : 0.6372
 coastal zone management : 0.6896
-regional seas coordinated : 0.6549
-territorial sea eez : 0.6329
-sea territorial : 0.6212
 ----------------------------------------------------

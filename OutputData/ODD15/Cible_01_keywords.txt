@@ -1,21 +1,19 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-forest area proportion : 0.6983
-forest land area : 0.6697
-trees area hectares : 0.6566
-forest defined land : 0.6289
-land uses trees : 0.6123
-trees area : 0.5900
-forest management : 0.5875
-forest management practice : 0.5697
-land use height : 0.5578
-protected areas ecosystem : 0.7531
-areas defined iucn : 0.6865
-designated protected areas : 0.6581
-conservation measures oecms : 0.6438
-biodiversity covered designated : 0.6433
-biodiversity covered : 0.6235
-oecms protected areas : 0.6150
-protected areas defined : 0.6024
-area based conservation : 0.5931
+forest defined : 0.6263
+forest management : 0.6149
+trees area : 0.5826
+forest area : 0.5580
+areas forest : 0.5552
+forest land : 0.5344
+hectares trees : 0.5226
+tree height : 0.5136
+includes forest : 0.5014
+biodiversity covered : 0.6073
+conservation measures : 0.5878
+protected areas : 0.5804
+areas ecosystem : 0.5714
+persistence biodiversity : 0.5210
+biodiversity : 0.5173
+defined iucn : 0.5032
 ----------------------------------------------------

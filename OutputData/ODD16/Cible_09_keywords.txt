@@ -1,8 +1,11 @@
 Mots-clés pour la cible 09 :
 ----------------------------------------------------
-certificate birth certifica : 0.7627
-birth certificate : 0.7273
-certificate birth : 0.7149
-births registered civil : 0.7035
-certifying circumstances birth : 0.6702
+birth certificate : 0.7154
+certificate birth : 0.6903
+births registered : 0.6560
+birth registration : 0.6394
+registration birth : 0.6004
+vital record : 0.5796
+documents birth : 0.5765
+births accordance : 0.5686
 ----------------------------------------------------

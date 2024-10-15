@@ -1,11 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-disaster risk reduction : 0.7304
-2030 disaster risk : 0.6567
-relating disaster risk : 0.6478
-policy disaster risk : 0.6332
-global policy disaster : 0.6091
-integrate disaster risk : 0.6025
-2015 2030 disaster : 0.5814
-risk reduction 2015 : 0.5699
+risk strengthening : 0.4371
+local disaster : 0.4474
+environmental resilience : 0.4560
 ----------------------------------------------------

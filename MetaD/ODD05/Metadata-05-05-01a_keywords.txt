@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-seats national parliaments : 0.7164
-parliaments seats : 0.7021
-members parliament seats : 0.6909
-parliamentary elections seats : 0.6795
-bicameral parliaments seats : 0.6711
-parliament seats usually : 0.6683
+seats national : 0.4734
+parliaments lower : 0.4982
+unicameral parliaments : 0.5066
+parliaments bicameral : 0.5069
+parliamentary mandates : 0.5080
+number seats : 0.5360
+parliamentary elections : 0.5601
+proportion seats : 0.5645
+elections seats : 0.6009
+number parliamentary : 0.6222
 ----------------------------------------------------

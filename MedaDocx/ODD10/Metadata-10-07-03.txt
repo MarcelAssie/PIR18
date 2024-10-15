@@ -1,0 +1,13 @@
+Definitions:
+Data on SDG 10.7.3 are currently based on the International Organization for Migration (IOM)’s Missing Migrants Project (MMP) dataset, which since 2014 has documented incidents in which migrants (regardless of legal status) have died or are presumed to have died in the process of migration towards an international destination. This selection of data is based on the currently available sources and can provide some insight into the risks of migration routes.
+
+The MMP aims to provide information on the risks linked to unsafe and irregular international migration movements along key routes and corridors, and thus its definition of a migrant death excludes cases of migrants who die in countries where they have established residence. Deaths in refugee housing, immigration detention centres or camps are similarly excluded unless the death can clearly be linked to a hazard of the journey, e.g. a sickness contracted en route. MMP data also exclude deaths that occur after return to a migrant’s homeland or third country, as well as deaths more loosely connected with migrants’ precarious or irregular status, such as those resulting from labour exploitation, occupational illness or accidents Ior resulting from lack of access to health care. Disappearances of migrants en route in which there is no presumption of death (i.e. excluding shipwrecks and potential drownings) are also excluded.
+
+Data on SDG 10.7.3 are organized by the country in which the incidents occurred. If the incident took place at an international border or in international waters the country of departure is used.
+
+
+(based on the IOM Glossary on Migration, 2019)
+Migrant: An umbrella term, not defined under international law, reflecting the common lay understanding of a person who moves away from his or her place of usual residence, whether within a country or across an international border, temporarily or permanently, and for a variety of reasons. The term includes a number of well-defined legal categories of people, such as migrant workers; persons whose particular types of movements are legally-defined, such as smuggled migrants; as well as those whose status or means of movement are not specifically defined under international law, such as international students.
+
+Irregular migration: Movement of persons that takes place outside the laws, regulations, or international agreements governing the entry into or exit from the State of origin, transit or destination.
+

@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+income crop : 0.5706
+revenues agricultural : 0.5575
+livestock revenues : 0.5418
+measures income : 0.5283
+food agricultural : 0.5045
+----------------------------------------------------

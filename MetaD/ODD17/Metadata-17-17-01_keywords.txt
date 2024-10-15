@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-infrastructure indicator : 0.6157
-term infrastructure refers : 0.6123
-infrastructure refers energy : 0.6050
-responsibility term infrastructure : 0.5963
+ppps contractual arrangement : 0.4775
+infrastructure transport : 0.4934
+treatment ppps defined : 0.4948
+partnership ppps contractual : 0.5053
+private partnerships infrastructure : 0.5211
+ict backbone infrastructure : 0.5222
 ppps defined : 0.5853
-private partnership ppps : 0.5585
-partnerships infrastructure indicator : 0.5577
-partnership ppps : 0.5386
+infrastructure indicator world : 0.5926
+infrastructure refers energy : 0.6050
 ----------------------------------------------------

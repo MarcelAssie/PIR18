@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-poverty line threshold : 0.6938
-expenditure poverty line : 0.6904
-defined poor income : 0.6695
-income internationa poverty : 0.6638
-international poverty line : 0.6259
-consumptio expenditure poverty : 0.6238
-consumption levels poverty : 0.6188
-poverty line used : 0.6135
+considered poor : 0.4762
+non poor : 0.4781
+working poor : 0.4926
+households capita : 0.5100
+income internationa : 0.5163
+income consumptio : 0.5244
+consumption income : 0.5254
+international poverty : 0.5750
+levels poverty : 0.5820
+poverty line : 0.5920
 ----------------------------------------------------

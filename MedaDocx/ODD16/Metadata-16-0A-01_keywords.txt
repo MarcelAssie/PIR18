@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+nhris compliance : 0.6254
+principles nhris : 0.6116
+rights nhris : 0.6107
+institution nhri : 0.6016
+accrediting nhris : 0.5586
+standards nhris : 0.5566
+nhri independent : 0.5446
+national institutions : 0.5351
+----------------------------------------------------

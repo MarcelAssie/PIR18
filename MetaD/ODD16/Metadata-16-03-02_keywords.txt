@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-held detention sentenced : 0.7541
-sentenced persons held : 0.7313
-persons held prison : 0.7308
-persons held detention : 0.7279
-held prisons penal : 0.6967
-detention sentenced percentage : 0.6962
+sentenced persons : 0.6520
+sentenced national definitions : 0.6579
+definitions sentenced detainees : 0.6642
+criminal prisoners held : 0.6710
+held detention specified : 0.6787
+held detention refers : 0.6860
 detention refers persons : 0.6955
-prison sentenced refers : 0.6881
+detention sentenced percentage : 0.6962
+persons held prisons : 0.7085
 ----------------------------------------------------

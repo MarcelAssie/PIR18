@@ -1,18 +1,18 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
-interventions substance use : 0.6529
-treatment interventions substance : 0.6417
-treatment substance use : 0.6102
-substance use disorders : 0.5729
-substance abuse defined : 0.5525
-provide treatment substance : 0.5464
-drug use disorders : 0.5434
-tourist alcohol consumption : 0.7165
-alcohol consumed tourists : 0.6945
-alcohol consumption refers : 0.6899
-alcohol consumed : 0.6880
-alcohol consumption inbound : 0.6635
-amounts alcohol tourists : 0.6611
-alcohol consumption statistics : 0.6571
-specific alcohol consumption : 0.6517
+interventions substance : 0.6043
+psychoactive substance : 0.5507
+substance abuse : 0.5476
+treatment substance : 0.5418
+drug use : 0.5209
+substance dependence : 0.5090
+alcohol consumption : 0.7019
+alcohol consumed : 0.6862
+consumption alcohol : 0.6531
+tourist alcohol : 0.6435
+alcohol tourists : 0.6266
+alcohol visiting : 0.5924
+alcohol defined : 0.5729
+refers alcohol : 0.5694
+alcohol content : 0.5590
 ----------------------------------------------------

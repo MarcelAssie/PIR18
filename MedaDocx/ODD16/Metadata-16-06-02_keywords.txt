@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+disability status : 0.5364
+citizen satisfaction : 0.5265
+survey health : 0.5067
+----------------------------------------------------

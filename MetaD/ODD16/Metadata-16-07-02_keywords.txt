@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-survey based indicator : 0.5289
-participation decision making : 0.4516
-survey initiative1 concepts : 0.4508
-political efficacy extent : 0.4425
-16 survey initiative1 : 0.4379
+decision making public : 0.4041
+established survey questions : 0.4062
+indicator defined sdg : 0.4087
+politicians political : 0.4087
+political : 0.4153
+levels external political : 0.4187
+inclusive participation decision : 0.4220
+efforts disaggregate survey : 0.4233
 uses established survey : 0.4344
-survey based : 0.4235
+political efficacy extent : 0.4425
 ----------------------------------------------------

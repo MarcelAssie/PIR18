@@ -1,25 +1,17 @@
 Mots-clés pour la cible 19 :
 ----------------------------------------------------
-indicator dollar value : 0.5207
-statistical support developing : 0.5205
-capacity developing countries : 0.5102
-dollar value resources : 0.5093
-statistical support : 0.4934
-support statistics : 0.4886
-available strengthen statistical : 0.4878
-housing statistics population : 0.6533
-population housing statistics : 0.6492
-population housing census : 0.6305
-detailed population housing : 0.6140
-housing statistics : 0.6096
-housing census : 0.5898
-countries conducted population : 0.5632
-completeness death registration : 0.6574
-birth death registration : 0.6518
-death registration according : 0.6411
-civil registration vital : 0.6209
-death registration systems : 0.6161
-vital registration : 0.6153
-concerning death registration : 0.6105
-register based vital : 0.5974
+housing statistics : 0.5942
+housing census : 0.5895
+detailed population : 0.5805
+statistics population : 0.5700
+population housing : 0.5546
+census : 0.5497
+proportion countries : 0.5233
+population : 0.5142
+population registers : 0.5098
+census 10 : 0.5034
+vital registration : 0.6481
+registration vital : 0.6448
+death registration : 0.6225
+vital statistics : 0.5652
 ----------------------------------------------------

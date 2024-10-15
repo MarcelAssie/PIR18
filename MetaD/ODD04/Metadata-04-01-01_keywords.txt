@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-proficiency levels mpls : 0.7557
-minimum proficiency levels : 0.6717
-proficiency levels defined : 0.6714
-proficiency level reference : 0.6567
-described minimum proficiency : 0.6499
-education minimum proficiency : 0.6409
+descriptor grades : 0.4297
+education minimum : 0.4312
+assessments verbal : 0.4423
+assessment ensure : 0.4644
+mpl definitions : 0.4738
+mpls outcomes : 0.4911
+level reading : 0.4942
+level mpl : 0.4986
+proficiency : 0.5078
+minimum proficiency : 0.6179
 ----------------------------------------------------

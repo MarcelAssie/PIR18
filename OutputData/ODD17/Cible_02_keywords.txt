@@ -1,12 +1,5 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-national income gni : 0.5891
-net oda disbursements : 0.5603
-oecd development assistance : 0.5487
-income gni defined : 0.5447
-dac oecd measures : 0.5412
-development assistance total : 0.5392
-cooperation development oecd : 0.5283
-oda flows countries : 0.5199
-dac stats icialdevelopmentassistancedefinitionandcoverage : 0.5116
+oda disbursements : 0.5218
+national income : 0.5135
 ----------------------------------------------------

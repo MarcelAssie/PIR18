@@ -1,0 +1,18 @@
+The proportion of the population using safely managed drinking water services is defined as the proportion of population using an improved drinking water source which is accessible on premises, available when needed and free from faecal and priority chemical contamination. ‘Improved’ drinking water sources include: piped supplies, boreholes and tubewells, protected dug wells, protected springs, rainwater, water kiosks, and packaged and delivered water. 
+
+
+The term ‘drinking water source’ refers to the point where people collect water for drinking and not the origin of the water supplied. For example, water collected from a distribution network that draws water from a surface water reservoir would be classified as piped water, while water collected directly from a lake or river would be classified as surface water.
+
+‘Improved’ drinking water sources include the following: piped water, boreholes or tubewells, protected dug wells, protected springs, rainwater, water kiosks, and packaged or delivered water. 
+
+‘Unimproved’ drinking water sources include: unprotected dug wells, unprotected springs, and surface water (rivers, reservoirs, lakes, ponds, streams, canals, and irrigation channels), all of which are by nature of their design and construction unlikely to deliver safe water.
+
+A water source is ‘accessible on premises’ if the point of collection is within the dwelling, compound, yard or plot, or water is delivered to the household.
+
+Drinking water is ‘available when needed’ if households report having ‘sufficient’ water, or water is available ‘most of the time’ (i.e. at least 12 hours per day or 4 days per week).
+
+‘Free from faecal and priority chemical contamination’ requires that drinking water meets international standards for microbiological and chemical water quality specified in the WHO Guidelines for Drinking Water Quality. For the purposes of global monitoring the priority indicator of microbiological contamination is E. coli (or thermotolerant coliforms), and the priority chemical contaminants are arsenic and fluoride.
+
+For detailed guidance on water quality, please refer to the most recent version of the WHO Guidelines for drinking water quality:
+https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/water-safety-and-quality/drinking-water-quality-guidelines 
+

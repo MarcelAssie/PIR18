@@ -1,0 +1,5 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+biodiversity revenue : 0.5239
+finance biodiversity : 0.5040
+----------------------------------------------------

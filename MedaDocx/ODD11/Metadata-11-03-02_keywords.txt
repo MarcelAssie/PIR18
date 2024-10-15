@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+civil society : 0.5450
+participation urban : 0.5222
+participation civil : 0.5177
+----------------------------------------------------

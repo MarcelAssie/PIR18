@@ -1,9 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-genetic resources multilateral : 0.6300
-genetic resources purposes : 0.6063
+protocol covers genetic : 0.5130
+exchanges plant genetic : 0.5269
+use plant genetic : 0.5294
+genetic resources enhances : 0.5301
+genetic resources food : 0.5540
+crop genetic resources : 0.5718
 genetic resources conservation : 0.5977
-plant genetic resources : 0.5840
-genetic resources fair : 0.5715
-utilization genetic resources : 0.5677
 ----------------------------------------------------

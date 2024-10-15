@@ -1,11 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-tariff line codes : 0.7440
-tariffs tariffs customs : 0.7083
-national tariff lines : 0.6963
-tariffs customs : 0.6909
-line national tariff : 0.6871
-tariff line national : 0.6839
+average import tariffs : 0.6535
+national distinction tariffs : 0.6550
+tariffs tariff hs : 0.6693
+tariff lines ntl : 0.6786
+tariffs customs duties : 0.6807
 import tariffs : 0.6816
-considered tariffs tariff : 0.6812
+tariff line code : 0.7284
 ----------------------------------------------------

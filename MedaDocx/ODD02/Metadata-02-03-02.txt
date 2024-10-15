@@ -1,0 +1,14 @@
+SDG indicator 2.3.2 measures income from on-farm production activities, which is related to the production of food and agricultural products. This includes income from crop production, livestock production, fisheries and aquaculture production, and from forestry production. 
+The indicator is computed as annual income. 
+
+FAO proposes to define small-scale food producers as producers who: 
+operate an amount of land falling in the first two quintiles (the bottom 40 percent) of the cumulative distribution of land size at national level (measured in hectares); and 
+operate a number of livestock falling in the first two quintiles (the bottom 40 percent) of the cumulative distribution of the number of livestock per production unit at national level (measured in Tropical Livestock Units – TLUs); and 
+obtain an annual economic revenue from agricultural activities falling in the first two quintiles (the bottom 40 percent) of the cumulative distribution of economic revenues from agricultural activities per production unit at national level (measured in Purchasing Power Parity Dollars) not exceeding 34,387 Purchasing Power Parity Dollars.
+
+
+The following concepts are adopted for the computation of indicators 2.3.2:
+Small-scale food producers are defined as those falling in the intersection of the bottom 40 percent of the cumulative distribution of land, livestock and revenues.
+Tropical Livestock Units are a conversion scale used for standardization and measurement of the number of livestock heads. One TLU is the metabolic weight equivalent of one cattle in North America. The complete list of conversion factors can be found in the Guidelines for the preparation of livestock sector Reviews  
+The computation of income is based on the resolution adopted by the 17th International Conference of Labour Statisticians (ICLS). Income should be computed by deducting from revenues the operating costs and the depreciation of assets.
+

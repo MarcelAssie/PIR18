@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+water sources : 0.6449
+water collected : 0.5598
+water sanitation : 0.5414
+water reservoir : 0.5290
+water term : 0.5286
+rivers reservoirs : 0.5258
+collect water : 0.5228
+water supplied : 0.5221
+water rivers : 0.5168
+----------------------------------------------------

@@ -1,0 +1,9 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+national statistical : 0.5615
+statistics nsds : 0.5603
+countries implementing : 0.5419
+number countries : 0.5184
+countries national : 0.5157
+plans indicator : 0.5008
+----------------------------------------------------

@@ -1,10 +1,11 @@
 Mots-clés pour la cible 06 :
 ----------------------------------------------------
-broadband subscriptions speed : 0.7313
-subscriptions speed refers : 0.6813
-speed fixed broadband : 0.6624
-indicator fixed broadband : 0.6504
-broadband total : 0.6217
-fixed broadband subscriptions : 0.6162
-number fixed broadband : 0.6157
+broadband total : 0.6311
+fixed broadband : 0.6076
+broadband subscriptions : 0.6028
+subscription speeds : 0.5955
+broadband : 0.5943
+broadband internet : 0.5807
+satellite broadband : 0.5028
+wireless broadband : 0.5014
 ----------------------------------------------------

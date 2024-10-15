@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-earnings paid employment : 0.6974
-earnings employees : 0.6239
-earnings used relate : 0.6084
-status earnings refer : 0.5985
-earnings used : 0.5924
-mean hourly earnings : 0.5872
-disability status earnings : 0.5801
-hourly earnings paid : 0.5761
+employees stated indicator : 0.5485
+gross remuneration total : 0.5496
+employees gross remuneration : 0.5505
+status earnings : 0.5573
+earnings refer : 0.5667
+purposes statistics earnings : 0.5688
 statistics earnings used : 0.5744
+hourly earnings paid : 0.5761
+disability status earnings : 0.5801
+mean hourly earnings : 0.5872
 ----------------------------------------------------

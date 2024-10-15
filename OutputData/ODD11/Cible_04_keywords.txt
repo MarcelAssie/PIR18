@@ -1,11 +1,10 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-heritage expenditure refers : 0.6293
-ppps rates currency : 0.6245
-expenditure heritage : 0.6161
-purchasing power parities : 0.6121
-heritage total expenditure : 0.6080
-expenditure heritage consolidat : 0.6021
-total heritage expenditure : 0.5969
-refers spending heritage : 0.5824
+expenditure heritage : 0.5895
+heritage expenditure : 0.5667
+currency : 0.5381
+currencies : 0.5261
+national currency : 0.5127
+rates currency : 0.5097
+currency conversion : 0.5036
 ----------------------------------------------------

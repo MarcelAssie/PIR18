@@ -1,17 +1,16 @@
 Mots-clés pour la cible 06 :
 ----------------------------------------------------
-primary government expenditures : 0.6735
-aggregate budget expenditure : 0.6695
-expenditures financed exter : 0.6395
-aggregate budget : 0.6388
-budget expenditure : 0.6290
-aggregate expenditure includes : 0.6225
-government budget : 0.6224
-service recommended survey : 0.6114
-services focus respondents : 0.5725
-survey based indicator : 0.5711
-satisfaction level service : 0.5706
-measuring public service : 0.5598
-public services empirical : 0.5529
-respondents overall satisfaction : 0.5504
+government expenditures : 0.6089
+government budget : 0.6086
+aggregate budget : 0.6070
+budget indicator : 0.6024
+budget contingency : 0.6018
+budget expenditure : 0.5966
+expenditure outturns : 0.5734
+measures budget : 0.5682
+expenditures incorporating : 0.5531
+aggregate expenditure : 0.5440
+disability status : 0.5364
+citizen satisfaction : 0.5265
+survey health : 0.5067
 ----------------------------------------------------

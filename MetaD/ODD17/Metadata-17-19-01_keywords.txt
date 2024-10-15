@@ -1,10 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-indicator dollar value : 0.5207
-statistical support developing : 0.5205
-capacity developing countries : 0.5102
-dollar value resources : 0.5093
-statistical support : 0.4934
-support statistics : 0.4886
-available strengthen statistical : 0.4878
+developing countries based : 0.4204
+strengthen statistical capacity : 0.4262
+resources available strengthen : 0.4531
+dollar value : 0.4555
+statistical capacity developing : 0.4618
+support statistics press : 0.4635
+report support statistics : 0.4696
+indicator dollar : 0.4772
 ----------------------------------------------------

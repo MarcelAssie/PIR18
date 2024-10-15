@@ -1,11 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-definitions suicide mortality : 0.7974
-suicide mortality rate : 0.7819
-mortality rate defined : 0.7480
-mortality rate : 0.6543
+deaths year : 0.4216
+suicide deaths : 0.5688
 definitions suicide : 0.6387
-number suicide deaths : 0.6228
-suicide deaths year : 0.6100
-defined number suicide : 0.5871
 ----------------------------------------------------

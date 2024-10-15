@@ -1,9 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-incidence malaria defined : 0.8801
-malaria defined occurrence : 0.7680
-defined occurrence malaria : 0.7606
-case malaria defined : 0.7278
-occurrence malaria infection : 0.7258
-cases malaria : 0.6571
+incidence : 0.5136
+malaria parasites : 0.5409
+malaria defined : 0.6722
 ----------------------------------------------------

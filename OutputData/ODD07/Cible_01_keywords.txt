@@ -1,21 +1,8 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-population access electricity : 0.6854
-electricity percentage population : 0.6677
-access electricity percentage : 0.5857
-global electrification database : 0.5654
-africa poverty database : 0.5118
-electricity expressed percentage : 0.5117
-electricity access : 0.5089
-electricity access scenario : 0.5029
-clean cooking fuels : 0.6237
-guidelines household fuel : 0.6164
-fuels considered clean : 0.6055
-polluting fuel home : 0.5982
-quality household fuel : 0.5887
-household fuel combustion : 0.5862
-fuel used cooking : 0.5763
-fuels technologies cooking : 0.5673
-household fuel : 0.5609
-fuels considered polluting : 0.5602
+electricity percentage : 0.5707
+electrification database : 0.5209
+electricity access : 0.5033
+household fuel : 0.5240
+cooking fuels : 0.5160
 ----------------------------------------------------

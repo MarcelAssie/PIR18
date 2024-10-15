@@ -1,11 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-national poverty rate : 0.7651
-rural poverty rate : 0.7424
+line rural : 0.4255
+rural population : 0.4582
+focuses poverty : 0.5563
+defining poverty : 0.6255
+assessing poverty : 0.6418
+national poverty : 0.6532
 poverty rate : 0.7391
-country poverty lines : 0.7333
-poverty line considered : 0.7184
-poverty line assessing : 0.7131
-poverty rate percentage : 0.7099
-line assessing poverty : 0.7026
 ----------------------------------------------------

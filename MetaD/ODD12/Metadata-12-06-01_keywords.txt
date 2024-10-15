@@ -1,9 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sustainability reports purposes : 0.6801
-reporting sustainability information : 0.6668
-examining reporting sustainability : 0.6585
-separate sustainability reports : 0.6575
+reporting sustainability practices : 0.6049
+indicators entity reporting : 0.6059
+sustainability counted indicator : 0.6066
+sustainability reports ensures : 0.6146
+sustainability reports limited : 0.6194
+produce sustainability reports : 0.6289
 definitions sustainability reports : 0.6537
-considered reporting sustainability : 0.6524
 ----------------------------------------------------

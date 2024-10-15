@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-land tenure security : 0.6405
-tenure secure landholder : 0.6015
-land tenure types : 0.5934
-land rights documentation : 0.5857
-tenure security refers : 0.5803
-recognition tenure rights : 0.5655
-understanding land tenure : 0.5548
-land tenure : 0.5411
-land rights counted : 0.5343
+landholder reports : 0.4402
+definition indicator : 0.4405
+land policy : 0.4427
+recognition tenure : 0.4431
+rights documentation : 0.4447
+security refers : 0.4449
+land governance : 0.4480
+freehold rights : 0.4524
+tenure secure : 0.4586
+rights measures : 0.4769
 ----------------------------------------------------

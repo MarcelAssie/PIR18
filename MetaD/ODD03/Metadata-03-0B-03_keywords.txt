@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-proportion health facilities : 0.5649
-medicines available affordable : 0.5627
-cost medicines core : 0.5573
-cost effectiveness medicines : 0.5429
-availability medicine affordability : 0.5415
-medicine affordability : 0.5242
-medicines core set : 0.5153
-proportion facilities pharmacies : 0.5086
+poverty indicators : 0.4101
+health facilities : 0.4163
+essential medicines : 0.4171
+affordable sustainable : 0.4204
+affordability measured : 0.4288
+proportion facilities : 0.4337
+cost effectiveness : 0.4423
+medicines selected : 0.4438
+medicines core : 0.4771
+health metric : 0.4771
 ----------------------------------------------------

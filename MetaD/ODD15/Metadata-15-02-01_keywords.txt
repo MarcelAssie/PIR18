@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sustainable forest management : 0.6836
-sustainable forest : 0.6621
-forest management environmental : 0.6593
-environmental values forests : 0.6446
-forest management sfm : 0.6434
-forest areas assessing : 0.6323
+environmental values sustainable : 0.5349
+management environmental values : 0.5371
+forest area protection : 0.5373
+values forests covered : 0.5419
+biomass forest area : 0.5447
+verified forest management : 0.5462
+forest area biomass : 0.5657
+forest management certification : 0.5678
 dimensions sustainable forest : 0.5915
-management forest areas : 0.5913
+forest management sfm : 0.6434
 ----------------------------------------------------

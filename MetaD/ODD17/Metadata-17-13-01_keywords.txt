@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-account deficits flows : 0.5771
-gdp current account : 0.5662
-measuring countries financial : 0.5608
-sector gdp measures : 0.5590
-fiscal balance : 0.5499
-gdp measures : 0.5465
-balance proportion gdp : 0.5462
-gdp monitor trade : 0.5439
+gdp indicator used : 0.5254
+financial sector indicators : 0.5276
+current imbalances capital : 0.5282
+balance exports : 0.5286
+capital financial flows : 0.5329
+gdp cash surplus : 0.5339
+current account deficits : 0.5353
 account balance import : 0.5396
-gdp indicator : 0.5377
+gdp monitor trade : 0.5439
+measuring countries financial : 0.5608
 ----------------------------------------------------

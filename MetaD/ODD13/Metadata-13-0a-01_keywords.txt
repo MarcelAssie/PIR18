@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-climate finance flows : 0.5950
-reporting climate finance : 0.5834
-commitment data unfccc : 0.5827
-climate specific financial : 0.5571
-definitions climate finance : 0.5441
-overview climate finance : 0.5422
+unfccc secretariat refers : 0.4583
+scf prepare biennial : 0.4609
+commitment functions scf : 0.4798
+obligated report financial : 0.4864
+unfccc count assessing : 0.4948
+finance scf prepare : 0.5046
+data unfccc secretariat : 0.5094
 climate finance decision : 0.5398
-climate finance including : 0.5330
+definitions climate finance : 0.5441
+tracking climate finance : 0.5499
 ----------------------------------------------------

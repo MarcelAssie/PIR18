@@ -1,20 +1,8 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-key biodiversity areas : 0.5530
-indicators sdg_related_indicators : 0.5503
-conservation mountain ecosystems : 0.5451
-sdg_related_indicators : 0.5410
-protected areas ecosystem : 0.5405
-biodiversity covered designated : 0.5390
-mountain biodiversity contribute : 0.5329
-mountain ecosystem degradation : 0.5739
-cover index mgci : 0.5245
-land considered degradation : 0.5206
-defines land degradation : 0.5199
-2021 mountain ecosystem : 0.5171
-degraded mountain land : 0.5138
-loss biodiversity mountain : 0.5112
-indicator adapted land : 0.5095
-conservation mountain ecosystems : 0.5086
-assess status conservation : 0.5060
+mountain biodiversity : 0.5934
+protected areas : 0.5927
+biodiversity covered : 0.5646
+conservation measures : 0.5557
+mountain ecosystem : 0.5006
 ----------------------------------------------------

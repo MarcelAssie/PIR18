@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+medicine affordability : 0.5338
+cost medicines : 0.5188
+proportion health : 0.5058
+----------------------------------------------------

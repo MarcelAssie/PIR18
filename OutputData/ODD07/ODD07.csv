@@ -1,51 +1,26 @@
 Mots-cles,Scores,cibles
-population access electricity,0.6854,01
-electricity percentage population,0.6677,01
-access electricity percentage,0.5857,01
-global electrification database,0.5654,01
-africa poverty database,0.5118,01
-electricity expressed percentage,0.5117,01
-electricity access,0.5089,01
-electricity access scenario,0.5029,01
-clean cooking fuels,0.6237,01
-guidelines household fuel,0.6164,01
-fuels considered clean,0.6055,01
-polluting fuel home,0.5982,01
-quality household fuel,0.5887,01
-household fuel combustion,0.5862,01
-fuel used cooking,0.5763,01
-fuels technologies cooking,0.5673,01
-household fuel,0.5609,01
-fuels considered polluting,0.5602,01
-renewable energy consumption,0.6731,02
-renewable waste total,0.6659,02
-final consumption energy,0.6657,02
-energy consumption includes,0.6292,02
-consumption energy derived,0.5951,02
-total final consumption,0.5926,02
-energy intensity defined,0.6352,03
-output total energy,0.5816,03
-defined energy supplied,0.5801,03
-total energy supply,0.5797,03
-energy intensity,0.5795,03
-energy supply defined,0.5752,03
-energy supplied economy,0.5742,03
-energy statistics ires,0.5615,03
-intensity defined energy,0.5485,03
-measure economic output,0.5371,03
-energy generating river,0.5757,0a
-geothermal energy generating,0.5462,0a
-energy generation programmes,0.5456,0a
-generation renewable sources,0.5434,0a
-energy generation renewable,0.5433,0a
-energy use geothermal,0.54,0a
-geothermal energy use,0.5377,0a
-renewable energy generation,0.5296,0a
-electricity capacity defined,0.6329,0b
-capacity power plants,0.575,0b
-concepts electricity capacity,0.5668,0b
-defines renewable energy,0.5635,0b
-capacity irena statute,0.5469,0b
-electricity renewable energy,0.5343,0b
-electrical capacity,0.5191,0b
-renewable energy include,0.5186,0b
+electricity percentage,0.5707,01
+electrification database,0.5209,01
+electricity access,0.5033,01
+household fuel,0.524,01
+cooking fuels,0.516,01
+renewable waste,0.6202,02
+waste energy,0.5947,02
+consumption energy,0.5846,02
+energy consumption,0.5737,02
+renewable resources,0.5295,02
+renewable energy,0.5227,02
+energy use,0.5139,02
+final consumption,0.509,02
+energy intensity,0.6088,03
+total energy,0.5475,03
+defined energy,0.5382,03
+energy supply,0.5357,03
+generation renewable,0.5292,0a
+geothermal energy,0.5104,0a
+renewable sources,0.5074,0a
+renewable energy,0.5068,0a
+electricity renewable,0.5546,0b
+electricity capacity,0.5472,0b
+renewable energy,0.5314,0b
+defines renewable,0.5112,0b

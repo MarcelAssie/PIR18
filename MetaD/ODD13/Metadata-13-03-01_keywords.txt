@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-education related indicators : 0.6417
-education sustainable development : 0.6397
-education 2030 tcg : 0.6210
-education sustainable : 0.6135
-education systems indicator : 0.6089
+sdg tcg education : 0.4724
+sustainable development : 0.4726
+global citizenship education : 0.4760
+student assessment : 0.4853
+student assessment reported : 0.5019
+global indicators 12 : 0.5021
+citizenship education gced : 0.5086
+education policies curricula : 0.5138
+education 2030 : 0.5479
 indicators sdg education : 0.6043
-sdg education 2030 : 0.5566
-education student assessment : 0.5479
 ----------------------------------------------------

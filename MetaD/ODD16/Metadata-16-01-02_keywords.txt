@@ -1,10 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-armed conflict population : 0.6670
+conflict defined armed : 0.5785
+conflict related deaths : 0.5787
+conflict population : 0.5799
+armed conflicts types : 0.5843
+armed conflict killings : 0.5885
+armed conflicts niac : 0.5965
 international armed conflicts : 0.6559
-armed conflict deaths : 0.6377
-armed conflicts iac : 0.6373
-associated armed conflict : 0.6329
-defined armed conflict : 0.6200
-armed conflict reference : 0.6124
 ----------------------------------------------------

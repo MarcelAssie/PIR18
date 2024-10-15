@@ -1,0 +1,7 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+indicator agricultural : 0.5399
+land tenure : 0.5389
+land ownership : 0.5192
+rights agricultural : 0.5156
+----------------------------------------------------

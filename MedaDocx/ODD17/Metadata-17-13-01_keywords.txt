@@ -1,0 +1,12 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+account deficits : 0.5929
+fiscal balance : 0.5395
+gdp measures : 0.5303
+account balances : 0.5269
+financial flows : 0.5247
+gdp portfolio : 0.5206
+balance exports : 0.5193
+countries financial : 0.5155
+gdp indicator : 0.5151
+----------------------------------------------------

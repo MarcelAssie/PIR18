@@ -1,0 +1,21 @@
+Definitions:
+This metadata is focused only on the public service sub-component of indicator 16.7.1. It measures representation in the public service with respect to the sex, age, disability and population group status of public servants, and assesses how these correspond to the proportion of these groups in society as a whole. 
+More specifically, this indicator measures the proportional representation of various demographic groups (women, youth, persons with disability, and nationally relevant population groups) across various occupational categories as well as across two administrative levels (national and sub-national).
+
+
+This indicator builds on various concepts and terms from international statistical standards and classifications as well as normative frameworks:
+Institutional units covered: The concepts of ‘General Government Sector’ and ‘General Government Employment’, as found in the 2008 System of National Accounts (SNA) but with some minor modifications, define the boundaries of the institutional units covered under this indicator. 
+The following institutional units should be included: All units of central and “state” (or equivalent sub-central level) government, i.e. all ministries, agencies, departments and non-profit institutions that are controlled by public authorities.
+The following institutional units should be excluded: local government units, the military, social security funds, public corporations and quasi-corporations that are owned and controlled by government units.
+
+Administrative levels: As outlined above, this indicator covers employment at both central and sub-central levels of government (but excludes local government). Employment data will therefore be collected at two levels: 
+Employment in national/central government; and 
+Employment in ‘state government units’, described in the 2008 SNA as “institutional units whose fiscal, legislative and executive authority extends only over the individual ‘states’ into which the country as a whole may be divided”. 
+
+Occupational categories in the public service: Target 16.7 calls for responsive, inclusive, participatory and representative decision-making at all levels. As such, reporting on indicator 16.7.1(b) needs to be done separately for various levels of decision-making. Since there is no international definition of ‘positions’ in the public service and therefore most countries have their own national classification for public service positions, a harmonized set of occupational categories in the public service is needed to ensure the comparability of data reported for this indicator.   
+The International Standard Classification of Occupations (ISCO-08) was used to identify four ‘core’ occupational categories in the public service found to be relatively typical in every government, namely Managers (ISCO-08 Major Group 1), Professionals (ISCO-08 Major Group 2), Technicians and Associate Professionals (ISCO-08 Major Group 3) and Clerical Support Workers (ISCO-08 Major Group 4). 
+Moreover, the rationale of this indicator places a particular focus on ‘front-line service workers’ which frequently interact directly with the public, such as police personnel, education personnel, health personnel and front-desk administrative personnel. While this list of front-line public service jobs is not exhaustive, these four categories were selected given the substantial portion of public service jobs they account for, and the frequent direct interaction these public servants have with the public. 
+
+Appointed/elected positions: In order to ensure consistent reporting, it is important to distinguish positions that are appointed (or elected) by the government or the head of government, and career public servant positions obtained on the basis of merit and seniority. This indicator only considers the latter – i.e. positions held by career public servants, obtained on the basis of merit and seniority. NB: This consideration is most likely to affect positions in the ‘managers’ occupational category.  
+
+Disability status: To disaggregate public servant data by disability status, it is recommended that countries use the Short Set of Questions on Disability elaborated by the Washington Group. 

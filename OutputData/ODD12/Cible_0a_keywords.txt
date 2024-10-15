@@ -1,11 +1,7 @@
 Mots-clés pour la cible 0a :
 ----------------------------------------------------
-capacity power plants : 0.5832
-electricity capacity def : 0.5816
-concepts electricity capacity : 0.5716
-defines renewable energy : 0.5685
-capacity irena statute : 0.5665
-rated capacity irena : 0.5431
-electricity renewable energy : 0.5407
-electrical capacity : 0.5327
+electricity renewable : 0.5546
+electricity capacity : 0.5472
+renewable energy : 0.5314
+defines renewable : 0.5112
 ----------------------------------------------------

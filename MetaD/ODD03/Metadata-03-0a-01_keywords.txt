@@ -1,9 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-smokeless tobacco product : 0.6918
-tobacco use means : 0.6556
-smokeless tobacco daily : 0.6492
-tobacco product consumed : 0.6327
-tobacco daily non : 0.6270
-tobacco product : 0.6237
+tobacco raw : 0.4704
+smokeless : 0.4716
+leaf tobacco : 0.4751
+cigarettes : 0.4823
+smoked smokeless : 0.4975
+roll tobacco : 0.5031
+consumption smoking : 0.5097
+basis tobacco : 0.5126
+consumed smoking : 0.5201
+tobacco consumed : 0.5793
 ----------------------------------------------------

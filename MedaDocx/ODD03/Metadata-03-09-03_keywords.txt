@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+unintentional poisonings : 0.6478
+poisoning defined : 0.6064
+deaths unintentional : 0.6064
+mortality rate : 0.5801
+poisonings year : 0.5722
+poisoning : 0.5434
+mortality : 0.5431
+number deaths : 0.5171
+----------------------------------------------------

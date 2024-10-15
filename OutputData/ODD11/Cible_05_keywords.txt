@@ -1,25 +1,9 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
-affected number people : 0.5859
-directly affected disasters : 0.5793
-affected disasters : 0.5790
-affected people suffered : 0.5698
-people died disaster : 0.5599
-indirectly affected people : 0.5519
-number people suffered : 0.5416
-death number people : 0.5115
-economic loss include : 0.6885
-direct economic loss : 0.6728
-economic loss direct : 0.6635
-economic loss attributed : 0.6571
-economic loss : 0.6402
-loss direct economic : 0.6286
-eco nomic loss : 0.6449
-sendai framework indicators : 0.5897
-nomic loss monetary : 0.5844
-direct economic loss : 0.5830
-disaster risk reduction : 0.5433
-eco nomic : 0.5238
-indicators termi nology : 0.4944
-direct eco : 0.4902
+affected disasters : 0.5608
+affected people : 0.5360
+economic loss : 0.6234
+loss monetary : 0.5053
+economic loss : 0.5910
+loss monetary : 0.5439
 ----------------------------------------------------

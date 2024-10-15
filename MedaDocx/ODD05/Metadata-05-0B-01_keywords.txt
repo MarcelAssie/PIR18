@@ -1,0 +1,10 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+mobile cellular : 0.6365
+mobile telephone : 0.6157
+cellular phone : 0.6155
+sim card : 0.5968
+phone mobile : 0.5814
+active sim : 0.5570
+card sim : 0.5546
+----------------------------------------------------

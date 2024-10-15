@@ -1,0 +1,7 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+vital registration : 0.6481
+registration vital : 0.6448
+death registration : 0.6225
+vital statistics : 0.5652
+----------------------------------------------------

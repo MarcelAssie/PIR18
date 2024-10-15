@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+legislatures members : 0.6093
+national legislature : 0.6072
+legislatures persons : 0.5967
+parliaments legislature : 0.5966
+country legislature : 0.5894
+representation national : 0.5711
+legislature legislature : 0.5669
+legislature : 0.5615
+legislature metadata : 0.5579
+legislature generally : 0.5577
+----------------------------------------------------

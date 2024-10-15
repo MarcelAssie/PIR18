@@ -1,20 +1,19 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-sexual violence defined : 0.6950
-intimate partner violence : 0.6707
-relationships sexual violence : 0.6632
-violence women prevalence : 0.6621
-partner violence women : 0.6618
-statistics violence women : 0.6568
-partner sexual violence : 0.6558
-violence women vaw : 0.6484
-sexual violence defined : 0.7509
-definition sexual violence : 0.6979
-sexual violence : 0.6581
-sexual psychological violence : 0.6279
-statistics violence women : 0.6233
-experienced sexual violence : 0.6171
-violence women girls : 0.6098
-gender based violence : 0.6007
-sexual violence persons : 0.5996
+sexual violence : 0.6440
+partner violence : 0.6056
+violence women : 0.6055
+violence intimate : 0.5976
+violence defined : 0.5617
+physical violence : 0.5561
+violence ipv : 0.5454
+psychological violence : 0.5425
+statistics violence : 0.5226
+sexual violence : 0.6595
+violence defined : 0.5977
+violence women : 0.5834
+statistics violence : 0.5205
+abuse sexual : 0.5152
+violence occurring : 0.5143
+sexual abuse : 0.5051
 ----------------------------------------------------

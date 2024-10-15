@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-volume agricultural production : 0.6092
-scale food producers : 0.5717
-measurement agriculture : 0.5553
-number livestock production : 0.5525
+represent aggregated : 0.4241
+annual output : 0.4254
+food producers : 0.4255
+crop livestock : 0.4264
+production small : 0.4290
+number livestock : 0.4515
+production units : 0.4657
+numeraire aggregating : 0.5055
 volume agricultural : 0.5418
-agricultural production small : 0.5403
-measurement number livestock : 0.5376
-land livestock revenues : 0.5323
-production small scale : 0.5307
+measurement agriculture : 0.5553
 ----------------------------------------------------

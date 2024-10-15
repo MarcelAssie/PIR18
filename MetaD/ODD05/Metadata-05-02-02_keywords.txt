@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sexual violence defined : 0.7509
-definition sexual violence : 0.6979
-sexual violence : 0.6581
-sexual psychological violence : 0.6279
-statistics violence women : 0.6233
-experienced sexual violence : 0.6171
-violence women girls : 0.6098
-gender based violence : 0.6007
-sexual violence persons : 0.5996
+unwanted sexual : 0.4300
+sexual harassment : 0.4404
+force sexual : 0.4421
+definition sexual : 0.4424
+violence persons : 0.4429
+sexual psychological : 0.4458
+violence results : 0.4569
+forced prostitution : 0.4677
+statistics violence : 0.5162
+violence defined : 0.5944
 ----------------------------------------------------

@@ -1,0 +1,11 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+proportion wastewater : 0.6604
+wastewater statistics : 0.6559
+total wastewater : 0.6492
+wastewater flow : 0.6444
+volume wastewater : 0.6416
+flow wastewater : 0.6110
+wastewater conveyed : 0.6029
+include wastewater : 0.5965
+----------------------------------------------------

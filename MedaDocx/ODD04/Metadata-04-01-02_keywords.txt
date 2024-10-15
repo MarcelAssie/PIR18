@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+age grade : 0.5735
+education age : 0.5462
+grade primary : 0.5295
+age pupils : 0.5085
+age entry : 0.5044
+----------------------------------------------------

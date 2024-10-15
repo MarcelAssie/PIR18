@@ -1,128 +1,96 @@
 Mots-cles,Scores,cibles
-international poverty line,0.7255,01
-global absolute poverty,0.7141,01
-global poverty poverty,0.7071,01
-global poverty,0.7023,01
-defining poverty consistently,0.6901,01
-measuring extreme poverty,0.6857,01
-population international poverty,0.6816,01
-poverty line threshold,0.6938,01
-expenditure poverty line,0.6904,01
-defined poor income,0.6695,01
-income internationa poverty,0.6638,01
-international poverty line,0.6259,01
-consumptio expenditure poverty,0.6238,01
-consumption levels poverty,0.6188,01
-poverty line used,0.6135,01
-national poverty rate,0.7651,02
-rural poverty rate,0.7424,02
-poverty rate,0.7391,02
-country poverty lines,0.7333,02
-poverty line considered,0.7184,02
-poverty line assessing,0.7131,02
-poverty rate percentage,0.7099,02
-line assessing poverty,0.7026,02
-multidimensional poverty measure,0.6724,02
-measure multidimensional poverty,0.6553,02
-poverty measure specifically,0.6364,02
-dimensions poverty indicators,0.62,02
-poverty measure,0.6047,02
-households multidimensional deprivation,0.5998,02
-indicators delimit deprivations,0.5956,02
-measure including deprivation,0.594,02
-coverage social protection,0.6844,03
-social protection floors,0.6639,03
-social protection measured,0.6379,03
-social protection systems,0.6139,03
-protection including social,0.6112,03
-social protection including,0.6086,03
-defined social protection,0.6068,03
-effective coverage social,0.5835,03
-social protection indicators,0.6886,03
-estimated social protection,0.6379,03
-social protection,0.6117,03
-social protection programs,0.6055,03
-coverage social protection,0.6028,03
-performance social protection,0.5842,03
-developed social protection,0.574,03
-water services refers,0.5975,04
-drinking water services1,0.5908,04
-water services1 access,0.5443,04
-water services,0.5383,04
-basic sanitation services,0.5352,04
-basic services indicator,0.5222,04
-definitions sdg indicator,0.5196,04
-sanitation services refers,0.519,04
-land tenure security,0.6405,04
-tenure secure landholder,0.6015,04
-land tenure types,0.5934,04
-land rights documentation,0.5857,04
-tenure security refers,0.5803,04
-recognition tenure rights,0.5655,04
-understanding land tenure,0.5548,04
-land tenure,0.5411,04
-land rights counted,0.5343,04
-affected number people,0.5794,05
-directly affected disasters,0.5744,05
-affected disasters,0.5624,05
-affected people suffered,0.555,05
-people died disaster,0.5492,05
-number people suffered,0.5382,05
-indirectly affected people,0.5362,05
-number people died,0.5134,05
-economic loss include,0.6886,05
-direct economic loss,0.6734,05
-economic loss direct,0.6639,05
-economic loss attributed,0.6563,05
-economic loss,0.6398,05
-loss direct economic,0.6293,05
-sendai framework indicators,0.771,05
-sendai framework,0.6028,05
-agreements sendai framework,0.5845,05
-implementation sendai framework,0.5699,05
-reflect agreements sendai,0.5568,05
-framework indicators eventually,0.5476,05
-disaster risk reduction,0.5376,05
-indicators measure global,0.5061,05
-disaster risk reduction,0.7304,05
-2030 disaster risk,0.6567,05
-relating disaster risk,0.6478,05
-policy disaster risk,0.6332,05
-global policy disaster,0.6091,05
-integrate disaster risk,0.6025,05
-2015 2030 disaster,0.5814,05
-risk reduction 2015,0.5699,05
-assistance oda grants,0.6778,0a
-oda grants donors,0.6687,0a
-oda grants,0.6632,0a
-development assistance oda,0.645,0a
-income oecd development,0.5979,0a
-national income oecd,0.5703,0a
-aid focus poverty,0.5615,0a
-oda flows countries,0.56,0a
-assistance oda,0.5575,0a
-indicators iaeg sdgs,0.5706,0a
-global sdg indicators,0.5642,0a
-sdg indicators iaeg,0.5498,0a
-education mponent indicator,0.547,0a
-associated indicator expenditure,0.5051,0a
-indicator total sd_xpd_esed,0.4858,0a
-expenditure cofog,0.4837,0a
-global sdg indicators,0.5607,0a
-education component indicator,0.547,0a
-indicator total sd_xpd_esed,0.5381,0a
-expenditure education current,0.5355,0a
-sdg indicators database,0.5344,0a
-sdg indicators,0.5241,0a
-sd_xpd_esed provided unesco,0.5175,0a
-includes expenditure core,0.5111,0a
-expenditure education includes,0.5087,0a
-directly monetary poor,0.6902,0b
-poor monetary poverty,0.6671,0b
-monetary poverty determined,0.6638,0b
-definition monetary poor,0.6437,0b
-monetary poor follows,0.6409,0b
-monetary poor,0.6316,0b
-monetary poor health,0.6047,0b
-transfers poor monetary,0.5886,0b
-cash transfers poor,0.5825,0b
+international poverty,0.6882,01
+global poverty,0.6793,01
+assessing poverty,0.6189,01
+defining poverty,0.6014,01
+poverty measures,0.5812,01
+poverty line,0.5672,01
+poverty poverty,0.5667,01
+value poverty,0.5537,01
+poverty given,0.5527,01
+world poorest,0.5524,01
+poverty rate,0.7192,01
+poverty line,0.6564,01
+household poverty,0.6523,01
+poverty households,0.6446,01
+levels poverty,0.6398,01
+expenditure poverty,0.6379,01
+working poverty,0.6322,01
+international poverty,0.6303,01
+poor income,0.6109,01
+poverty,0.5981,01
+poverty rate,0.7206,02
+poverty line,0.6732,02
+national poverty,0.6481,02
+country poverty,0.6478,02
+assessing poverty,0.6347,02
+defining poverty,0.6229,02
+rural poverty,0.6204,02
+poverty according,0.5986,02
+multidimensional poverty,0.6296,02
+poverty measure,0.6171,02
+multidimensional deprivation,0.6111,02
+deprivations measured,0.5865,02
+poverty indicators,0.5822,02
+weighted deprivations,0.5437,02
+households multidimensional,0.5076,02
+poverty headcount,0.5024,02
+social protection,0.6254,03
+coverage social,0.5864,03
+social insurance,0.5758,03
+social protection,0.6265,03
+social insurance,0.5443,03
+insurance social,0.5235,03
+water services,0.5502,04
+water sanitation,0.5024,04
+land tenure,0.5982,04
+tenure land,0.5825,04
+secure landholder,0.5751,04
+tenure rights,0.5526,04
+tenure security,0.5319,04
+land rights,0.5311,04
+secure tenure,0.513,04
+affected disasters,0.5608,05
+affected people,0.536,05
+economic loss,0.6234,05
+loss monetary,0.5053,05
+sendai framework,0.6154,05
+framework indicators,0.54,05
+agreements sendai,0.5217,05
+implementation sendai,0.5128,05
+disaster risk,0.6066,05
+integrate disaster,0.5333,05
+policy disaster,0.533,05
+relating disaster,0.518,05
+2030 disaster,0.5038,05
+oda grants,0.6402,0a
+income oecd,0.5559,0a
+assistance oda,0.5364,0a
+defines oda,0.5157,0a
+development welfare,0.5157,0a
+poverty reduction,0.5094,0a
+expenditure cofog,0.6398,0a
+government expenditure,0.6178,0a
+expenditure government,0.6007,0a
+expenditure defined,0.5646,0a
+government finance,0.528,0a
+fiscal activities,0.5239,0a
+fiscal indicator,0.5226,0a
+kinds expenditure,0.519,0a
+expenditure services,0.513,0a
+educational expenditure,0.7062,0a
+expenditure education,0.6466,0a
+government expenditure,0.6141,0a
+includes expenditure,0.5868,0a
+expenditure funded,0.538,0a
+country expenditure,0.5363,0a
+education includes,0.5298,0a
+expenditure,0.5296,0a
+expenditure levels,0.5038,0a
+monetary poverty,0.6687,0b
+poor monetary,0.571,0b
+consumption poverty,0.527,0b
+poverty determined,0.5266,0b
+poverty levels,0.5135,0b
+expenditures governments,0.5055,0b
+poverty,0.5002,0b

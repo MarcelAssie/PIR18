@@ -1,0 +1,6 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+definitions cities : 0.5631
+urbanisation degurba : 0.5295
+cities implemented : 0.5093
+----------------------------------------------------

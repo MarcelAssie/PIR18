@@ -1,0 +1,8 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+internet worldwide : 0.6136
+using internet : 0.6107
+internet defined : 0.5877
+internet : 0.5461
+internet location : 0.5108
+----------------------------------------------------

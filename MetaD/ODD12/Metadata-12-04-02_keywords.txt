@@ -1,8 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-hazardous waste generated : 0.7423
-waste hazardous waste : 0.7358
+waste waste electronic : 0.6539
+law hazardous waste : 0.6580
+hazardous waste included : 0.6609
+waste electronic waste : 0.6613
+electronic waste waste : 0.6641
+waste municipal waste : 0.6646
+waste definition generated : 0.6653
+quantity hazardous waste : 0.6793
 hazardous waste definition : 0.7171
-waste considered hazardous : 0.6993
-environment hazardous waste : 0.6815
 ----------------------------------------------------

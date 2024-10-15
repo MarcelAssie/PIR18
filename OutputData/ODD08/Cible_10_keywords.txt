@@ -1,20 +1,18 @@
 Mots-clés pour la cible 10 :
 ----------------------------------------------------
-atms scaled 100 : 0.6106
-number atms scaled : 0.6099
-atms refers number : 0.6044
-number atms country : 0.5968
-atms country types : 0.5927
-teller machines atms : 0.5862
-atms 100 000 : 0.5682
-refers number atms : 0.5640
-atms refers : 0.5604
-having account bank : 0.6039
-account bank credit : 0.5787
-account financial : 0.5625
-financial institution accounts : 0.5614
-money accounts : 0.5433
-account bank : 0.5429
-credit union microfinance : 0.5416
-account financial institution : 0.5351
+atms scaled : 0.5999
+number atms : 0.5808
+atms refers : 0.5784
+machines atms : 0.5437
+atms country : 0.5364
+atms 100 : 0.5332
+atms : 0.5270
+commercial banks : 0.5144
+account financial : 0.5783
+money accounts : 0.5749
+account bank : 0.5523
+institution accounts : 0.5281
+definition account : 0.5233
+having account : 0.5086
+adults financial : 0.5068
 ----------------------------------------------------

@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-measure land consumption : 0.7235
-land consumption rate : 0.6803
-estimating land consumption : 0.6658
-available land consumption : 0.6433
-growth land consumption : 0.6409
+growth rate indicator : 0.5333
+population growth land : 0.5424
+percentage land occupied : 0.5505
+estimating land : 0.5525
+expressed percentage land : 0.5550
+consumption land : 0.5593
+measure land developed : 0.5662
+rate urbanized land : 0.5741
 constitutes consumption land : 0.6122
-functions land consumption : 0.6110
+city land consumption : 0.6215
 ----------------------------------------------------

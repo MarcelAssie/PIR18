@@ -1,0 +1,10 @@
+ 
+The annual growth rate of real Gross Domestic Product (GDP) per employed person conveys the annual percentage change in real GDP per employed person. 
+ 
+ 
+GDP: It is the main measure of national output, representing the total value of all final goods and services within the System of National Accounts (SNA) production boundary produced in a particular economy (that is, the dollar value of all goods and services within the SNA production boundary produced within a country’s borders in a given year). According to the SNA, “GDP is the sum of gross value added of all resident producer units plus that part (possibly the total) of taxes on products, less subsidies on products, that is not included in the valuation of output … GDP is also equal to the sum of the final uses of goods and services (all uses except intermediate consumption) measured at purchasers’ prices, less the value of imports of goods and services GDP is also equal to the sum of primary incomes distributed by resident producer units.” 
+ 
+Real GDP: Real GDP refers to GDP calculated at constant prices, that is, the volume level of GDP, excluding the effect of inflation and favouring comparisons of quantities beyond price changes. Constant price estimates of GDP are calculated by expressing values in terms of a base period. In theory, the price and quantity components of a value are identified and the price in the base period is substituted for that in the current period. 
+ 
+Employment: All persons of working age who, during a short reference period (one week), were engaged in any activity to produce goods or provide services for pay or profit. 
+

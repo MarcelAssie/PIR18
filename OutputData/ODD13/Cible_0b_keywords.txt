@@ -1,11 +1,6 @@
 Mots-clés pour la cible 0b :
 ----------------------------------------------------
-contributions ndcs intends : 0.6095
-ndcs intends achieve : 0.5906
-ndcs accordance article : 0.5802
-ndcs including mitigation : 0.5734
-ndcs intends : 0.5494
-ndcs accordance : 0.5316
-determined contributions ndcs : 0.5193
-org ldcs ndcs : 0.5117
+ndcs intends : 0.5547
+ndcs accordance : 0.5367
+contributions ndcs : 0.5142
 ----------------------------------------------------

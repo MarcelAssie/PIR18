@@ -1,11 +1,7 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-affected number people : 0.5794
-directly affected disasters : 0.5744
-affected disasters : 0.5624
-affected people suffered : 0.5550
-people died disaster : 0.5492
-number people suffered : 0.5382
-indirectly affected people : 0.5362
-number people died : 0.5134
+hazardous event : 0.4060
+death number : 0.4235
+disaster directly : 0.4382
+population death : 0.4791
 ----------------------------------------------------

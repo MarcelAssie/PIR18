@@ -1,10 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-primary government expenditures : 0.6735
-aggregate budget expenditure : 0.6695
-expenditures financed exter : 0.6395
-aggregate budget : 0.6388
-budget expenditure : 0.6290
+expenditures incorporating incurred : 0.5966
+actual expenditure outturns : 0.6001
+defined government budget : 0.6029
+expenditures financed windfall : 0.6048
+budget indicator measures : 0.6138
 aggregate expenditure includes : 0.6225
-government budget : 0.6224
+extent aggregate budget : 0.6353
+expenditures financed exter : 0.6395
+primary government expenditures : 0.6735
 ----------------------------------------------------

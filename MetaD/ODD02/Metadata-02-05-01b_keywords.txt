@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-animal genetic resources : 0.6384
-genetic resources animal : 0.6358
-genetic resources breed : 0.6018
-conserving genetic resources : 0.5794
-genetic resources worldwide : 0.5714
-counted animal genetic : 0.5554
-conservation plant animal : 0.5353
+collection genetic : 0.4016
+maintain genetic : 0.4033
+animal grfa : 0.4037
+resources breed : 0.4174
+livestock definable : 0.4273
+breeding regenerating : 0.4296
+conservation includes : 0.4297
+extinction information : 0.4435
+conservation plant : 0.4455
+agriculture grfa : 0.4903
 ----------------------------------------------------

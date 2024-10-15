@@ -1,10 +1,8 @@
 Mots-clés pour la cible 08 :
 ----------------------------------------------------
-internet defined proportion : 0.7237
-internet users : 0.5989
-individuals using internet : 0.5812
-internet worldwide public : 0.5450
-using internet : 0.5178
-indicator proportion individuals : 0.5169
-months internet worldwide : 0.5050
+internet worldwide : 0.6136
+using internet : 0.6107
+internet defined : 0.5877
+internet : 0.5461
+internet location : 0.5108
 ----------------------------------------------------

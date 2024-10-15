@@ -1,13 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-food waste measurement : 0.7783
-measurement food waste : 0.7752
-food waste indicator : 0.7619
-definitions food waste : 0.7390
-food waste estimates : 0.7377
-indicator food waste : 0.7170
-waste food associated : 0.6981
-food waste : 0.6882
+waste retail food : 0.5914
+food waste retail : 0.6026
+measure efficiency food : 0.6035
+food wasted tonnes : 0.6038
+12 food waste : 0.6107
+waste estimates sector : 0.6160
+waste measurement level : 0.6292
+waste indicator calculated : 0.6334
 food waste food : 0.6783
-food waste generation : 0.6616
 ----------------------------------------------------

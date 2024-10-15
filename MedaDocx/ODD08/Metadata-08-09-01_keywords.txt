@@ -1,0 +1,13 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+output gdp : 0.6394
+gdp : 0.5971
+product gdp : 0.5876
+gdp tdgdp : 0.5829
+direct gdp : 0.5782
+gdp sum : 0.5620
+tourism consumption : 0.5489
+gdp equal : 0.5329
+national output : 0.5141
+gross value : 0.5082
+----------------------------------------------------

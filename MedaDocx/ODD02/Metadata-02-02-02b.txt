@@ -1,0 +1,7 @@
+Prevalence of wasting (weight for height <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.
+(French: pourcentage de émaciation (i.e. poids pour longueur/taille < -2 écarts-types par rapport à la médiane des normes de croissance de l'enfant de l'Organisation Mondiale de la Santé (OMS)) chez les enfants de moins de cinq ans; Spanish: porcentaje de emaciación (i.e. peso para longitud/estatura < -2 desviaciones estándar de la mediana de los estándares de crecimiento infantil de la Organización Mundial de la Salud (OMS)) en niños y niñas menores de cinco años de edad.)
+
+
+
+The official SDG indicator is wasting as assessed using weight for height.  Wasting can however also be assessed with mid upper arm circumference (MUAC). Estimates of wasting based on MUAC are not considered for the JME joint database.  In addition, while wasting constitutes the major form of moderate acute malnutrition (MAM), there are acutely malnourished children who would not be picked up with weight-for-height or MUAC, namely those presenting bilateral pitting oedema (characterized by swollen feet, face and limbs).  For surveys that report wasting including oedema cases, these are included in the prevalence of low weight-for-height in the JME database unless raw data are available for re-analysis. 
+

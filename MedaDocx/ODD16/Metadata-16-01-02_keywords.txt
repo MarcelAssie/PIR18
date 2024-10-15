@@ -1,0 +1,9 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+armed conflict : 0.6172
+conflict population : 0.6134
+conflict deaths : 0.5548
+population conflict : 0.5545
+international armed : 0.5453
+conflict killings : 0.5163
+----------------------------------------------------

@@ -1,18 +1,13 @@
 Mots-clés pour la cible 06 :
 ----------------------------------------------------
-reproductive health decision : 0.6526
-autonomy reproductive health : 0.5984
-reproductive rights decide : 0.5587
-women autonomy decision : 0.5467
-decide use contraception : 0.5202
-decisions health care : 0.5191
-husbands partners decide : 0.5074
-exercise reproductive rights : 0.5045
-health care decide : 0.5039
-laws regulations indicator : 0.6296
-regulations indicator measures : 0.6235
-national laws regulations : 0.6018
-regulations national level : 0.5947
-regulations ordinances : 0.5756
-laws regulations exist : 0.5597
+contraception jointly : 0.5129
+contraception respondent : 0.5084
+regulations indicator : 0.5849
+regulations national : 0.5749
+regulations ordinances : 0.5642
+regulations : 0.5419
+regulations exist : 0.5392
+regulations called : 0.5293
+laws governing : 0.5140
+ordinances regulations : 0.5131
 ----------------------------------------------------

@@ -1,0 +1,9 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+investment environmentally : 0.5953
+promoting environmental : 0.5418
+environmental impacts : 0.5292
+environmentally sound : 0.5264
+resources sustainable : 0.5196
+wastes environmentally : 0.5080
+----------------------------------------------------

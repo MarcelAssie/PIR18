@@ -1,0 +1,5 @@
+Mots-clés extraits et scores :
+----------------------------------------------------
+contraception jointly : 0.5129
+contraception respondent : 0.5084
+----------------------------------------------------

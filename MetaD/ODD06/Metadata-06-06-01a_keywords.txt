@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-wetlands sdg indicator : 0.6664
-freshwater ecosystems measure : 0.6132
-ecosystem indicator : 0.5881
-ecosystem indicator methodology : 0.5753
-inland wetlands sdg : 0.5479
-earth observations ecosystem : 0.5465
-ecosystem measured : 0.5424
-sdg indicator data : 0.5405
+ecosystem unit : 0.4251
+earth observations : 0.4269
+wetlands areas : 0.4281
+rivers wetlands : 0.4313
+world freshwater : 0.4318
+statistics sdg : 0.4320
+different freshwater : 0.4378
+environment sdg : 0.4599
+sdg indicator : 0.4625
+mangroves data : 0.4725
 ----------------------------------------------------

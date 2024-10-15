@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sim card mobile : 0.7010
-device active sim : 0.6978
-active sim card : 0.6682
-mobile cellular telephone : 0.6477
-sim card personal : 0.6438
-phone mobile cellular : 0.6355
-cellular phone mobile : 0.6317
-sim card used : 0.6303
+sim : 0.4987
+individuals mobile : 0.5070
+phone device : 0.5242
+cellular technology : 0.5277
+digital cellular : 0.5277
+card mobile : 0.5298
+using cellular : 0.5454
+mobil cellular : 0.5495
+card sim : 0.5709
+active sim : 0.5870
 ----------------------------------------------------

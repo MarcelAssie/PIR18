@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-oda flows countries : 0.7349
-oda official flows : 0.7077
-defines oda flows : 0.6499
-disbursements total oda : 0.6245
-oda flows : 0.5879
-official flows donors : 0.5774
-total oda official : 0.5617
+total oda : 0.4934
+flows donors : 0.5020
+oda dac defines : 0.5022
+eligibility oda primarily : 0.5124
+national planning oda : 0.5226
+dac defines oda : 0.5321
 flows donors capacity : 0.5469
+official flows oof : 0.5572
+disbursements total oda : 0.6245
 ----------------------------------------------------

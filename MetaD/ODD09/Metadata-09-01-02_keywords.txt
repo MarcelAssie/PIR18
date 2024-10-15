@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-kilometres freight volumes : 0.6696
-freight volumes measured : 0.6695
-freight volume data : 0.6661
-freight measured metric : 0.6602
-passenger freight volumes : 0.6476
-passenger volumes measured : 0.6449
+maritime freight indicator : 0.5792
+freight volume : 0.5861
+transport statistics consulted : 0.5871
+measured passenger kilometres : 0.5923
+passenger km data : 0.5939
+transport reporting : 0.5967
+transport purposes monitoring : 0.6101
 volumes measured passenger : 0.6278
-passenger kilometres freight : 0.6219
+freight measured metric : 0.6602
 ----------------------------------------------------

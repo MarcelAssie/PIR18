@@ -1,11 +1,10 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-coverage social protection : 0.6844
-social protection floors : 0.6639
-social protection measured : 0.6379
-social protection systems : 0.6139
-protection including social : 0.6112
-social protection including : 0.6086
-defined social protection : 0.6068
-effective coverage social : 0.5835
+receiving benefits : 0.4047
+disabilities social : 0.4098
+insurance scheme : 0.4116
+protection measured : 0.4183
+protection floors : 0.4350
+maternity benefits : 0.4357
+coverage distinctions : 0.4584
 ----------------------------------------------------

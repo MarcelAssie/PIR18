@@ -1,13 +1,10 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-manufacturing sector emissions : 0.6023
-emissions manufacturing industries : 0.5854
-sector emissions manufacturing : 0.5783
-economy total emissions : 0.5654
-total emissions economy : 0.5576
-carbon dioxide emissions : 0.5499
-estimates emissions : 0.5362
-total emissions : 0.5348
-emissions economy estimated : 0.5339
-sector emissions : 0.5301
+co2 emissions : 0.6089
+emissions manufacturing : 0.5517
+emissions economy : 0.5415
+emissions gdp : 0.5290
+sector co2 : 0.5280
+refers industries : 0.5091
+estimates co2 : 0.5028
 ----------------------------------------------------

@@ -1,28 +1,27 @@
 Mots-clés pour la cible 0a :
 ----------------------------------------------------
-assistance oda grants : 0.6778
-oda grants donors : 0.6687
-oda grants : 0.6632
-development assistance oda : 0.6450
-income oecd development : 0.5979
-national income oecd : 0.5703
-aid focus poverty : 0.5615
-oda flows countries : 0.5600
-assistance oda : 0.5575
-indicators iaeg sdgs : 0.5706
-global sdg indicators : 0.5642
-sdg indicators iaeg : 0.5498
-education mponent indicator : 0.5470
-associated indicator expenditure : 0.5051
-indicator total sd_xpd_esed : 0.4858
-expenditure cofog : 0.4837
-global sdg indicators : 0.5607
-education component indicator : 0.5470
-indicator total sd_xpd_esed : 0.5381
-expenditure education current : 0.5355
-sdg indicators database : 0.5344
-sdg indicators : 0.5241
-sd_xpd_esed provided unesco : 0.5175
-includes expenditure core : 0.5111
-expenditure education includes : 0.5087
+oda grants : 0.6402
+income oecd : 0.5559
+assistance oda : 0.5364
+defines oda : 0.5157
+development welfare : 0.5157
+poverty reduction : 0.5094
+expenditure cofog : 0.6398
+government expenditure : 0.6178
+expenditure government : 0.6007
+expenditure defined : 0.5646
+government finance : 0.5280
+fiscal activities : 0.5239
+fiscal indicator : 0.5226
+kinds expenditure : 0.5190
+expenditure services : 0.5130
+educational expenditure : 0.7062
+expenditure education : 0.6466
+government expenditure : 0.6141
+includes expenditure : 0.5868
+expenditure funded : 0.5380
+country expenditure : 0.5363
+education includes : 0.5298
+expenditure : 0.5296
+expenditure levels : 0.5038
 ----------------------------------------------------
