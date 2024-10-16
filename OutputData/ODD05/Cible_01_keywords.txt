@@ -1,6 +1,0 @@
-Mots-clés pour la cible 01 :
-----------------------------------------------------
-gender discrimination : 0.5363
-gender equality : 0.5331
-equality assessment : 0.5131
-----------------------------------------------------

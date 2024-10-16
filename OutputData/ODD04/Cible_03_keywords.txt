@@ -1,7 +1,4 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
 formal education : 0.6062
-education training : 0.5605
-education non : 0.5237
-educational programmes : 0.5235
 ----------------------------------------------------

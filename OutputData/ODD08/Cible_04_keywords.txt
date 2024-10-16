@@ -1,20 +1,7 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-material consumption : 0.6231
-footprint mf : 0.5983
-material footprint : 0.5909
-material economy : 0.5817
-economy mf : 0.5308
-consumption dmc : 0.5144
 footprint biomass : 0.5006
-consumption dmc : 0.6098
-material consumption : 0.6017
-material economy : 0.5669
-economy dmc : 0.5616
-consumption materials : 0.5478
-exports dmc : 0.5473
-material footprint : 0.5239
-footprint mf : 0.5153
+economy mf : 0.5308
 dmc measures : 0.5084
-dmc material : 0.5036
+footprint mf : 0.5153
 ----------------------------------------------------

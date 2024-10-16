@@ -1,17 +1,8 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-food losses : 0.6755
-food waste : 0.5849
-loss sdg : 0.5394
 harvest losses : 0.5236
-losses crop : 0.5116
-monitoring food : 0.5061
-loss waste : 0.5037
-food waste : 0.6997
-waste food : 0.6487
-waste indicator : 0.6054
-waste defined : 0.5653
-food loss : 0.5301
-efficiency food : 0.5183
+loss sdg : 0.5394
 food value : 0.5039
+food loss : 0.5301
+waste indicator : 0.6054
 ----------------------------------------------------

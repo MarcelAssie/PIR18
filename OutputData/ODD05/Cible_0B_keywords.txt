@@ -1,10 +1,13 @@
 Mots-clés pour la cible 0B :
 ----------------------------------------------------
-mobile cellular : 0.6365
-mobile telephone : 0.6157
-cellular phone : 0.6155
-sim card : 0.5968
-phone mobile : 0.5814
-active sim : 0.5570
+cellular : 0.5030
+individuals mobile : 0.5099
+public mobile : 0.5208
+use mobile : 0.5216
+phone device : 0.5236
+card mobile : 0.5246
+digital cellular : 0.5327
+cellular technology : 0.5394
 card sim : 0.5546
+active sim : 0.5570
 ----------------------------------------------------

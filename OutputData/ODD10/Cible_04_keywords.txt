@@ -1,17 +1,11 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-employed gdp : 0.5974
-employer compensation : 0.5719
-labour income : 0.5567
-compensation employees : 0.5550
-employee accounting : 0.5460
-salary payroll : 0.5422
-gdp measure : 0.5323
-total compensation : 0.5281
+wages salaries : 0.5136
 gdp represents : 0.5178
-gdp total : 0.5172
-fiscal incomes : 0.6086
-income gini : 0.5844
-income redistributive : 0.5707
+total compensation : 0.5281
+gdp measure : 0.5323
+employee accounting : 0.5460
+labour income : 0.5567
 inequality income : 0.5116
+income redistributive : 0.5707
 ----------------------------------------------------

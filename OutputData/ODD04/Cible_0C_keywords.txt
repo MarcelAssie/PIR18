@@ -1,9 +1,5 @@
 Mots-clés pour la cible 0C :
 ----------------------------------------------------
-percentage teachers : 0.6762
-teachers level : 0.6372
-teacher training : 0.5604
-required teaching : 0.5467
-teachers : 0.5141
 pedagogical teacher : 0.5054
+percentage teachers : 0.6762
 ----------------------------------------------------

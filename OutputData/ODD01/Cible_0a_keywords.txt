@@ -1,27 +1,10 @@
 Mots-clés pour la cible 0a :
 ----------------------------------------------------
-oda grants : 0.6402
-income oecd : 0.5559
-assistance oda : 0.5364
-defines oda : 0.5157
-development welfare : 0.5157
-poverty reduction : 0.5094
-expenditure cofog : 0.6398
-government expenditure : 0.6178
-expenditure government : 0.6007
-expenditure defined : 0.5646
-government finance : 0.5280
-fiscal activities : 0.5239
+defined oda : 0.5103
 fiscal indicator : 0.5226
-kinds expenditure : 0.5190
-expenditure services : 0.5130
-educational expenditure : 0.7062
-expenditure education : 0.6466
-government expenditure : 0.6141
-includes expenditure : 0.5868
-expenditure funded : 0.5380
-country expenditure : 0.5363
-education includes : 0.5298
-expenditure : 0.5296
+government finance : 0.5280
+expenditure defined : 0.5646
 expenditure levels : 0.5038
+country expenditure : 0.5363
+government expenditure : 0.6141
 ----------------------------------------------------

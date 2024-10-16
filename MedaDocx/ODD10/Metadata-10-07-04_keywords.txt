@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-refugees recognized : 0.6824
-status refugees : 0.6711
-unhcr refugees : 0.6510
-recognized refugees : 0.6492
-persons refugee : 0.6266
-population refugees : 0.6183
-refugees refers : 0.6175
-refugees accordance : 0.6171
+mandate refugees : 0.5464
+refugees granted : 0.5515
+refugees people : 0.5561
+refugees 1967 : 0.5637
+refugees practical : 0.5713
 refugees proportion : 0.6019
+refugees refers : 0.6175
+unhcr refugee : 0.6263
 ----------------------------------------------------

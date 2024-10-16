@@ -1,10 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-countries investment : 0.6324
-foreign investment : 0.5744
-outward investment : 0.5717
-investment facilitation : 0.5280
-investment developing : 0.5098
-investment ldcs : 0.5027
 investment promotion : 0.5013
+investment ldcs : 0.5027
+countries investors : 0.5588
 ----------------------------------------------------

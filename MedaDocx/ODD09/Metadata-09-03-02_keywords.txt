@@ -1,11 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-defined enterprise : 0.6178
 enterprise smallest : 0.5592
-businesses enterprise : 0.5359
-enterprise enterprise : 0.5316
-enterprise establishment : 0.5133
-generally enterprises : 0.5108
-enterprises : 0.5092
-industrial enterprises : 0.5058
+define enterprise : 0.5611
 ----------------------------------------------------

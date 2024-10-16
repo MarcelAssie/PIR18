@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-detention sentenced : 0.6951
-sentenced persons : 0.6452
-held prisons : 0.6284
-held detention : 0.6200
-prisons penal : 0.6130
-prisoners held : 0.6105
+penal institutions : 0.5285
+held convicted : 0.5302
+sentenced detainees : 0.5604
+prison population : 0.5721
+arrest persons : 0.5854
+detention refers : 0.5886
+sentenced refers : 0.5899
 detention specified : 0.5925
+prisoners held : 0.6105
+definitions sentenced : 0.6359
 ----------------------------------------------------

@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-remittance prices : 0.6701
-international remittance : 0.6543
-migrant remittances : 0.6455
-remittance transfers : 0.6360
-transfers remittance : 0.6277
-costs migrant : 0.6168
-payments migrant : 0.5881
-remittances : 0.5757
+remittances 2030 : 0.5192
+service remittance : 0.5330
+term remittance : 0.5397
+remittance senders : 0.5581
+sending remittance : 0.5634
 bank remittance : 0.5693
+payments migrant : 0.5881
+costs migrant : 0.6168
+migrant remittances : 0.6455
+remittance prices : 0.6701
 ----------------------------------------------------

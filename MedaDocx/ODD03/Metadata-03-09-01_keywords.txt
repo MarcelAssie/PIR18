@@ -1,10 +1,8 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-air pollution : 0.6160
-mortality rates : 0.5517
-health polluting : 0.5312
-pollution polluting : 0.5235
-specific mortality : 0.5086
-pollution expressed : 0.5051
 pollution household : 0.5034
+pollution expressed : 0.5051
+specific mortality : 0.5086
+air pollutants : 0.5477
+mortality rate : 0.5508
 ----------------------------------------------------

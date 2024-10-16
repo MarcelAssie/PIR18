@@ -1,12 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-mva gdp : 0.6474
-manufacturing value : 0.5944
-product gdp : 0.5887
-gdp : 0.5582
-gdp represents : 0.5404
-manufacturing refers : 0.5389
-definitions manufacturing : 0.5347
-gdp estimated : 0.5303
 gross value : 0.5015
+gdp estimated : 0.5303
+definitions manufacturing : 0.5347
 ----------------------------------------------------

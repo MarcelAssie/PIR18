@@ -1,20 +1,14 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-measurement rural : 0.5750
-census data : 0.5363
-rural mapping : 0.5356
-rural population : 0.5237
-countries census : 0.5142
-geospatial data : 0.5125
-population data : 0.5087
 location data : 0.5039
-freight measured : 0.6295
-transport reporting : 0.6193
-freight volumes : 0.6010
-kilometres freight : 0.5723
-transport standards : 0.5684
-traffic measured : 0.5677
-glossary_for_transport_statistics_en : 0.5613
+population data : 0.5087
+geospatial data : 0.5125
+countries census : 0.5142
+rural population : 0.5237
+passenger volumes : 0.5048
+tonne kilometres : 0.5150
+measured passenger : 0.5261
 freight indicator : 0.5577
-passenger km : 0.5496
+traffic measured : 0.5677
+transport standards : 0.5684
 ----------------------------------------------------

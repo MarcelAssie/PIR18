@@ -1,8 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-unsafe sanitation : 0.5745
-sanitation hygiene : 0.5452
-sanitation : 0.5207
-sanitation lack : 0.5193
 water sanitation : 0.5016
 ----------------------------------------------------

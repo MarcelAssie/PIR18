@@ -1,7 +1,0 @@
-Mots-clés pour la cible 0a :
-----------------------------------------------------
-urban development : 0.5506
-urban policies : 0.5420
-national urban : 0.5049
-urban plan : 0.5013
-----------------------------------------------------

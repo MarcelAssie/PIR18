@@ -1,6 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-export subsidy : 0.5939
-agricultural export : 0.5206
 agriculture wto : 0.5103
 ----------------------------------------------------

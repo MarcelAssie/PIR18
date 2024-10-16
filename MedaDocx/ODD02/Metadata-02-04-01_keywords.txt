@@ -1,11 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-agricultural land : 0.6502
-agriculture considered : 0.6439
-agriculture areas : 0.6166
-indicator agricultural : 0.6116
-agriculture : 0.5955
-subsistence agriculture : 0.5876
-crops livestock : 0.5861
+extensive crops : 0.5234
+grow crops : 0.5272
+livestock production : 0.5332
+place agricultural : 0.5339
+sustainable agriculture : 0.5436
+agriculture recognition : 0.5450
+agro forestry : 0.5509
 agriculture outcomes : 0.5534
+subsistence agriculture : 0.5876
+indicator agricultural : 0.6116
 ----------------------------------------------------

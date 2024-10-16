@@ -1,7 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-oda flows : 0.5830
-infrastructure oda : 0.5662
 defines oda : 0.5406
-oda official : 0.5190
 ----------------------------------------------------

@@ -1,7 +1,0 @@
-Mots-clés pour la cible 0b :
-----------------------------------------------------
-environmental accounting : 0.5680
-tourism tables : 0.5535
-economic accounting : 0.5276
-tsa tables : 0.5007
-----------------------------------------------------

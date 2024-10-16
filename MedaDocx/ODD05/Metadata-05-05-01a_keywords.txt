@@ -1,11 +1,8 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-parliaments seats : 0.6792
-number parliamentary : 0.5964
-elections seats : 0.5932
-national parliaments : 0.5596
-proportion seats : 0.5495
-members parliament : 0.5435
-parliamentary elections : 0.5359
 number seats : 0.5265
+parliamentary elections : 0.5359
+proportion seats : 0.5495
+elections seats : 0.5932
+number parliamentary : 0.5964
 ----------------------------------------------------

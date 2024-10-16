@@ -1,21 +1,9 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-mva gdp : 0.6474
-manufacturing value : 0.5944
-product gdp : 0.5887
-gdp : 0.5582
-gdp represents : 0.5404
-manufacturing refers : 0.5389
-definitions manufacturing : 0.5347
-gdp estimated : 0.5303
 gross value : 0.5015
-employment defined : 0.6036
-manufacturing employment : 0.5970
-employment comprises : 0.5924
-define employment : 0.5753
-employment employment : 0.5503
-total employment : 0.5479
-employment total : 0.5359
-work distinction : 0.5342
+gdp estimated : 0.5303
+definitions manufacturing : 0.5347
 labour statisticians : 0.5268
+work distinction : 0.5342
+employment total : 0.5359
 ----------------------------------------------------

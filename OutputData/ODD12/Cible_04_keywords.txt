@@ -1,13 +1,13 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-hazardous waste : 0.6864
-waste hazardous : 0.6791
-electronic waste : 0.6477
-municipal waste : 0.6448
-waste refers : 0.6291
-waste electronic : 0.6214
-waste definition : 0.6209
-waste generated : 0.6160
-waste waste : 0.6115
+quantities waste : 0.5357
+chemicals waste : 0.5358
+waste breakdown : 0.5446
+waste originating : 0.5563
+type waste : 0.5811
+waste municipal : 0.5970
 waste indicator : 0.6034
+waste electronic : 0.6214
+municipal waste : 0.6448
+waste hazardous : 0.6791
 ----------------------------------------------------

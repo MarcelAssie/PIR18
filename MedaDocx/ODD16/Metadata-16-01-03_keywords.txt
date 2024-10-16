@@ -1,12 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-physical violence : 0.6687
-physical assault : 0.6245
-violence psychological : 0.6081
-psychological violence : 0.5897
-victimization physical : 0.5865
-violence defined : 0.5828
-violence indicator : 0.5702
-violence concept : 0.5661
+assault excluding : 0.5116
+assault sexual : 0.5296
+violence perpetrated : 0.5311
+violence counts : 0.5391
+bodily injury : 0.5397
 assault defined : 0.5594
+violence indicator : 0.5702
+violence defined : 0.5828
+victim physical : 0.5839
 ----------------------------------------------------

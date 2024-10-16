@@ -1,10 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-account financial : 0.5783
-money accounts : 0.5749
-account bank : 0.5523
-institution accounts : 0.5281
-definition account : 0.5233
-having account : 0.5086
 adults financial : 0.5068
+institution account : 0.5186
 ----------------------------------------------------

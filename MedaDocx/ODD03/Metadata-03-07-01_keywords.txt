@@ -1,11 +1,12 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+childbearing using : 0.5242
+contraceptive patch : 0.5310
+contraception numerator : 0.5676
+purposes contraceptive : 0.5761
+separately contraceptive : 0.5797
+contraception desire : 0.5929
+indicator contraceptive : 0.6031
+method contraception : 0.6716
 contraceptive prevalence : 0.7196
-contraception modern : 0.7096
-contraceptive methods : 0.7096
-methods contraception : 0.6917
-planning contraceptive : 0.6658
-contraceptive : 0.6576
-contraception standard : 0.6561
-contraception include : 0.6233
 ----------------------------------------------------

@@ -1,8 +1,4 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-plastic pollution : 0.5806
-coastal eutrophication : 0.5314
 measurement plastics : 0.5180
-plastic sea : 0.5109
-coast plastic : 0.5072
 ----------------------------------------------------

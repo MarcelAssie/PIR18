@@ -1,13 +1,7 @@
 Mots-clés pour la cible 10 :
 ----------------------------------------------------
-citizen journalists : 0.6030
-journalists refers : 0.6004
-share journalistic : 0.5813
-journalists : 0.5698
+media workers : 0.5124
+journalist trade : 0.5502
 journalistic functions : 0.5591
-journalists trade : 0.5580
-committed journalists : 0.5240
-survey countries : 0.5355
-countries oversight : 0.5103
-information globally : 0.5095
+journalists refers : 0.6004
 ----------------------------------------------------

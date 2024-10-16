@@ -1,11 +1,7 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-regulations indicator : 0.5849
-regulations national : 0.5749
-regulations ordinances : 0.5642
-regulations : 0.5419
-regulations exist : 0.5392
-regulations called : 0.5293
-laws governing : 0.5140
+national laws : 0.5016
 ordinances regulations : 0.5131
+laws governing : 0.5140
+regulations indicator : 0.5849
 ----------------------------------------------------

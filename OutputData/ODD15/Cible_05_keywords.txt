@@ -1,10 +1,6 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
-iucn red : 0.5435
-extinction risk : 0.5377
-threatened extinction : 0.5251
-species measures : 0.5174
-assessed iucn : 0.5168
-endangered species : 0.5088
 risk extinction : 0.5014
+species measures : 0.5174
+iucn red : 0.5435
 ----------------------------------------------------

@@ -1,8 +1,4 @@
 Mots-clés pour la cible 07 :
 ----------------------------------------------------
-definitions cities : 0.5631
 urbanisation degurba : 0.5295
-cities implemented : 0.5093
-harassment percentage : 0.5467
-harassment sexual : 0.5025
 ----------------------------------------------------

@@ -1,14 +1,6 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-union age : 0.6306
-marriages informal : 0.6155
-informal unions : 0.6148
-formal marriages : 0.5195
-married union : 0.5122
-genital mutilation : 0.6665
-mutilation female : 0.6645
-mutilation interagency : 0.5571
-mutilation : 0.5397
 mutilation indicator : 0.5220
-female genital : 0.5018
+mutilation interagency : 0.5571
+mutilation fgm : 0.6599
 ----------------------------------------------------

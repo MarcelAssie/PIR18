@@ -1,8 +1,0 @@
-Mots-clés pour la cible 01 :
-----------------------------------------------------
-electricity percentage : 0.5707
-electrification database : 0.5209
-electricity access : 0.5033
-household fuel : 0.5240
-cooking fuels : 0.5160
-----------------------------------------------------

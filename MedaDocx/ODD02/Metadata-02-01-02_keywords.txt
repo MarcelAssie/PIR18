@@ -1,6 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-food insecurity : 0.7094
 prevalence food : 0.5875
-severity food : 0.5585
 ----------------------------------------------------

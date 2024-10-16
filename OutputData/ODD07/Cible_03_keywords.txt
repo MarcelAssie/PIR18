@@ -1,7 +1,5 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-energy intensity : 0.6088
-total energy : 0.5475
-defined energy : 0.5382
 energy supply : 0.5357
+defined energy : 0.5382
 ----------------------------------------------------

@@ -1,7 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-government units : 0.5712
-institutional units : 0.5346
 national indicator : 0.5182
-government sector : 0.5103
+institutional units : 0.5346
 ----------------------------------------------------

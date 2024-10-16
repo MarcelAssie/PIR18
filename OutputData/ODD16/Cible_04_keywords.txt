@@ -1,23 +1,17 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-iffs illicit : 0.6212
-illicit flows : 0.5814
-illicit transfer : 0.5741
-flows illicit : 0.5676
-illicit goods : 0.5656
-illicit income : 0.5600
-illicit financial : 0.5551
-transactions illicit : 0.5330
-illicit exchange : 0.5321
+outward illicit : 0.5033
+borders illicit : 0.5078
+meaning illicit : 0.5078
+illicit enrichment : 0.5103
+illicit tax : 0.5240
 iffs illegal : 0.5290
-weapons defined : 0.6468
-firearms defined : 0.6448
-arms illicit : 0.5578
-firearms : 0.5484
-pistols rifles : 0.5471
-rifles carbines : 0.5373
-1899 arms : 0.5365
+iffs illicit : 0.6212
+recoilless rifles : 0.5010
+arms illicitly : 0.5078
+considered arms : 0.5098
+arms refer : 0.5195
 rifles portable : 0.5337
-guns portable : 0.5296
-carbines shotguns : 0.5264
+1899 arms : 0.5365
+firearms defined : 0.6448
 ----------------------------------------------------

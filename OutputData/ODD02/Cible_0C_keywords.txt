@@ -1,8 +1,0 @@
-Mots-clés pour la cible 0C :
-----------------------------------------------------
-cgr growth : 0.5548
-cgr quarterly : 0.5390
-growth cgr : 0.5347
-cqgr annual : 0.5336
-growth indicator : 0.5133
-----------------------------------------------------

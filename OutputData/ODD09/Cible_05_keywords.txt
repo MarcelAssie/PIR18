@@ -1,7 +1,4 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
-development expenditure : 0.5656
-expenditure research : 0.5447
 oecd frascati : 0.5513
-development researchers : 0.5466
 ----------------------------------------------------

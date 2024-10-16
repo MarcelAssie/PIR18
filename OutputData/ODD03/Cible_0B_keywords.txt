@@ -1,13 +1,12 @@
 Mots-clés pour la cible 0b :
 ----------------------------------------------------
-vaccination coverage : 0.6215
-vaccine dose : 0.5850
-recommended vaccines : 0.5691
-vaccine measure : 0.5397
-vaccine according : 0.5389
-coverage measles : 0.5343
-vaccines year : 0.5318
-vaccines children : 0.5304
-containing vaccines : 0.5264
+immunization recommendations : 0.5011
+primary vaccination : 0.5043
+conjugate vaccine : 0.5079
+immunization schedules : 0.5083
 infant vaccination : 0.5235
+vaccines year : 0.5318
+coverage measles : 0.5343
+vaccine measure : 0.5397
+vaccine dose : 0.5850
 ----------------------------------------------------

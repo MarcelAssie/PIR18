@@ -1,9 +1,4 @@
 Mots-clés pour la cible 14 :
 ----------------------------------------------------
-coherence sustainable : 0.6338
-policy coherence : 0.6109
-policy sustainable : 0.6048
-coherence policy : 0.5776
-sustainable development : 0.5578
 2030 sustainable : 0.5073
 ----------------------------------------------------

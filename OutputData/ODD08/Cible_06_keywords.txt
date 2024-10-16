@@ -1,10 +1,5 @@
 Mots-clés pour la cible 06 :
 ----------------------------------------------------
-education formal : 0.6795
-formal education : 0.6475
-education defined : 0.6137
-considered education : 0.5367
-informal learning : 0.5288
 isced education : 0.5285
-education employment : 0.5050
+informal learning : 0.5288
 ----------------------------------------------------

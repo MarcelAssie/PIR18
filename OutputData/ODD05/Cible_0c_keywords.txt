@@ -1,9 +1,6 @@
 Mots-clés pour la cible 0c :
 ----------------------------------------------------
-assesses government : 0.5454
-gender budget : 0.5395
-policies gender : 0.5274
-allocations government : 0.5203
-measure government : 0.5163
 fiscal indicator : 0.5050
+measure government : 0.5163
+assesses government : 0.5454
 ----------------------------------------------------

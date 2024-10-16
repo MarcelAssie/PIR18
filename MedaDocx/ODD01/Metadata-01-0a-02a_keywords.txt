@@ -1,12 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-expenditure cofog : 0.6398
-government expenditure : 0.6178
-expenditure government : 0.6007
-expenditure defined : 0.5646
-government finance : 0.5280
-fiscal activities : 0.5239
 fiscal indicator : 0.5226
-kinds expenditure : 0.5190
-expenditure services : 0.5130
+government finance : 0.5280
+expenditure defined : 0.5646
 ----------------------------------------------------

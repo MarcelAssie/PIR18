@@ -1,13 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-real gdp : 0.7395
-gdp measured : 0.6705
-gdp constant : 0.6530
-gdp : 0.6343
-gdp capita : 0.6243
+growth rates : 0.5526
 dividing gdp : 0.5910
-annual growth : 0.5868
-product gdp : 0.5808
-country growth : 0.5744
-growth rate : 0.5548
 ----------------------------------------------------

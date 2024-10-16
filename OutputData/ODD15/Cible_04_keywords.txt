@@ -1,8 +1,5 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-mountain biodiversity : 0.5934
 protected areas : 0.5927
-biodiversity covered : 0.5646
-conservation measures : 0.5557
-mountain ecosystem : 0.5006
+mountain biodiversity : 0.5934
 ----------------------------------------------------

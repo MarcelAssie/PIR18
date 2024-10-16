@@ -1,7 +1,6 @@
 Mots-clés pour la cible 0a :
 ----------------------------------------------------
-indicator agricultural : 0.5399
-land tenure : 0.5389
-land ownership : 0.5192
+land secure : 0.5141
 rights agricultural : 0.5156
+indicator agricultural : 0.5399
 ----------------------------------------------------

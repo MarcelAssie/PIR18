@@ -1,10 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-undernutrition refers : 0.7185
-undernourishment pou : 0.7129
-term undernourishment : 0.7120
-prevalence undernourishment : 0.7111
-undernourishment defined : 0.7027
-undernutrition : 0.6556
-undernourishment condition : 0.6508
+fact undernourished : 0.5328
+conditions malnutrition : 0.5448
+undernourishment estimate : 0.5640
+undernourishment long : 0.5816
+indicator undernourishment : 0.5996
+percentage undernourishment : 0.6515
 ----------------------------------------------------

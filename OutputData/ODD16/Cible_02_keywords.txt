@@ -1,27 +1,13 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-violent discipline : 0.6058
-aggression caregivers : 0.5915
-corporal punishment : 0.5791
-psychological aggression : 0.5719
-physical punishment : 0.5672
-punishment psychological : 0.5200
-aggression : 0.5057
 physical corporal : 0.5005
+aggression refers : 0.5183
+punishment psychological : 0.5200
+sexual exploitation : 0.5054
+forms trafficking : 0.5462
+trafficking offence : 0.6629
 define trafficking : 0.6828
-given trafficking : 0.6824
-considered trafficking : 0.6803
-trafficking offences : 0.6782
-trafficking : 0.6709
-trafficking persons : 0.6590
-victims trafficking : 0.6508
-exploitation prostitution : 0.5530
-sexual violence : 0.6702
-violence child : 0.5841
-violence icvac : 0.5786
-violence age : 0.5747
-sexual assault : 0.5668
-icvac sexual : 0.5602
-violence defined : 0.5284
 classification violence : 0.5005
+violence defined : 0.5284
+violence age : 0.5747
 ----------------------------------------------------

@@ -1,12 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sustainable procurement : 0.6598
-procurement spp : 0.5540
-programme sustainable : 0.5524
-public procurement : 0.5522
-implementing sustainable : 0.5419
-spp sustainable : 0.5153
-procurement action : 0.5148
-procurement process : 0.5141
 sustainable public : 0.5003
+procurement process : 0.5141
+procurement action : 0.5148
 ----------------------------------------------------

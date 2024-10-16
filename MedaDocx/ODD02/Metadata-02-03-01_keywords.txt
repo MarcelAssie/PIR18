@@ -1,9 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-measurement agriculture : 0.5810
-agricultural production : 0.5500
-volume agricultural : 0.5313
 livestock revenues : 0.5253
-livestock production : 0.5188
-revenues agricultural : 0.5117
+measurement agriculture : 0.5810
 ----------------------------------------------------

@@ -1,12 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-municipal waste : 0.6804
-waste management : 0.6661
-waste municipal : 0.6441
-waste collected : 0.6416
-collected waste : 0.6267
-disposal waste : 0.5782
-waste generation : 0.5750
+transported waste : 0.5437
+operating waste : 0.5458
+refers waste : 0.5504
+carrying waste : 0.5520
+waste generated : 0.5535
+local waste : 0.5586
+waste areas : 0.5618
+waste polluting : 0.5651
 waste disposal : 0.5741
-waste related : 0.5704
+waste municipal : 0.6441
 ----------------------------------------------------

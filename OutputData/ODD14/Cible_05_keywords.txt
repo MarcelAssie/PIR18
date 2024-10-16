@@ -1,7 +1,5 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
-protected areas : 0.6190
-biodiversity covered : 0.5907
-conservation measures : 0.5429
 marine biodiversity : 0.5093
+protected areas : 0.6190
 ----------------------------------------------------

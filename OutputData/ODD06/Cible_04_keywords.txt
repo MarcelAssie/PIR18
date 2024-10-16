@@ -1,12 +1,6 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-industry water : 0.5627
-resources water : 0.5567
-water use : 0.5538
 wastewater sector : 0.5220
-water renewable : 0.5155
-renewable freshwater : 0.6043
-resources freshwater : 0.5945
-freshwater resources : 0.5817
-freshwater withdrawal : 0.5741
+stress freshwater : 0.5130
+resources water : 0.5249
 ----------------------------------------------------

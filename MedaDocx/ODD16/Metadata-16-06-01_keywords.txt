@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-government expenditures : 0.6089
-government budget : 0.6086
-aggregate budget : 0.6070
-budget indicator : 0.6024
-budget contingency : 0.6018
-budget expenditure : 0.5966
-expenditure outturns : 0.5734
-measures budget : 0.5682
-expenditures incorporating : 0.5531
+supporting fiscal : 0.5140
+fiscal reports : 0.5164
+coverage budgetary : 0.5166
+annual budgets : 0.5226
+debt expenditure : 0.5286
+covers fiscal : 0.5345
+expenditure outturn : 0.5373
 aggregate expenditure : 0.5440
+budget contingency : 0.6018
+budget indicator : 0.6024
 ----------------------------------------------------

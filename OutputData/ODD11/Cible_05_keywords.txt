@@ -1,9 +1,0 @@
-Mots-clés pour la cible 05 :
-----------------------------------------------------
-affected disasters : 0.5608
-affected people : 0.5360
-economic loss : 0.6234
-loss monetary : 0.5053
-economic loss : 0.5910
-loss monetary : 0.5439
-----------------------------------------------------

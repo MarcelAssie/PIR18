@@ -1,7 +1,5 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
-parity indices : 0.7383
-indicates parity : 0.6606
-parity groups : 0.5249
 parity : 0.5057
+parity groups : 0.5249
 ----------------------------------------------------

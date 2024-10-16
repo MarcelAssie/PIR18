@@ -1,21 +1,14 @@
 Mots-clés pour la cible 18 :
 ----------------------------------------------------
-odin coverage : 0.6795
-assessed odin : 0.5923
-odin evaluation : 0.5484
-statistics countries : 0.6480
-nations statistical : 0.6322
-statistical legislation : 0.6296
-official statistical : 0.5844
-statistics adopted : 0.5807
-countries statistical : 0.5760
-statistics fundamental : 0.5530
+principle statistical : 0.5180
+legislation statistics : 0.5198
+agencies statistical : 0.5265
+statistics principle : 0.5337
+statistical purposes : 0.5385
+statistical agencies : 0.5392
 statistics refers : 0.5505
-statistics law : 0.5477
-national statistical : 0.5615
-statistics nsds : 0.5603
+countries statistical : 0.5760
+nations statistical : 0.6322
 countries implementing : 0.5419
-number countries : 0.5184
-countries national : 0.5157
-plans indicator : 0.5008
+statistics nsds : 0.5603
 ----------------------------------------------------

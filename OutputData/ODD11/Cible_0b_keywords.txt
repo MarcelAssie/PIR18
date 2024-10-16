@@ -1,12 +1,5 @@
 Mots-clés pour la cible 0b :
 ----------------------------------------------------
-sendai framework : 0.6154
-framework indicators : 0.5400
-agreements sendai : 0.5217
 implementation sendai : 0.5128
-disaster risk : 0.6066
-integrate disaster : 0.5333
-policy disaster : 0.5330
-relating disaster : 0.5180
 2030 disaster : 0.5038
 ----------------------------------------------------

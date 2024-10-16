@@ -1,19 +1,13 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-sexual violence : 0.6440
-partner violence : 0.6056
-violence women : 0.6055
-violence intimate : 0.5976
-violence defined : 0.5617
-physical violence : 0.5561
-violence ipv : 0.5454
-psychological violence : 0.5425
+2015 violence : 0.5039
+abusive sexual : 0.5072
+definition violence : 0.5216
 statistics violence : 0.5226
-sexual violence : 0.6595
-violence defined : 0.5977
-violence women : 0.5834
+violence ipv : 0.5454
+violence defined : 0.5617
+violence women : 0.6055
+partner violence : 0.6056
 statistics violence : 0.5205
-abuse sexual : 0.5152
-violence occurring : 0.5143
-sexual abuse : 0.5051
+violence defined : 0.5977
 ----------------------------------------------------

@@ -1,13 +1,9 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-employed gdp : 0.5974
-employer compensation : 0.5719
-labour income : 0.5567
-compensation employees : 0.5550
-employee accounting : 0.5460
-salary payroll : 0.5422
-gdp measure : 0.5323
-total compensation : 0.5281
+wages salaries : 0.5136
 gdp represents : 0.5178
-gdp total : 0.5172
+total compensation : 0.5281
+gdp measure : 0.5323
+employee accounting : 0.5460
+labour income : 0.5567
 ----------------------------------------------------

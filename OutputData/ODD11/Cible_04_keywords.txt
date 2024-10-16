@@ -1,10 +1,4 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-expenditure heritage : 0.5895
-heritage expenditure : 0.5667
-currency : 0.5381
-currencies : 0.5261
-national currency : 0.5127
 rates currency : 0.5097
-currency conversion : 0.5036
 ----------------------------------------------------

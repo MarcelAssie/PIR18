@@ -1,10 +1,4 @@
 Mots-clés pour la cible 0C :
 ----------------------------------------------------
-pharmacists density : 0.6009
 dentists density : 0.5612
-density pharmacists : 0.5411
-density dentists : 0.5392
-doctors density : 0.5355
-occupation density : 0.5241
-personnel density : 0.5015
 ----------------------------------------------------

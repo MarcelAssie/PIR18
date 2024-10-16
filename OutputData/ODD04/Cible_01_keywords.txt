@@ -1,12 +1,6 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-proficiency levels : 0.6032
 minimum proficiency : 0.5873
-levels mpls : 0.5340
-learning assessments : 0.5016
-age grade : 0.5735
-education age : 0.5462
-grade primary : 0.5295
 age pupils : 0.5085
-age entry : 0.5044
+education grades : 0.5193
 ----------------------------------------------------

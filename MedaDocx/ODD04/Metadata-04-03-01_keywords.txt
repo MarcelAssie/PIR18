@@ -1,7 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
 formal education : 0.6062
-education training : 0.5605
-education non : 0.5237
-educational programmes : 0.5235
 ----------------------------------------------------

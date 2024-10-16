@@ -1,10 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-occupational accidents : 0.7408
-accident occupational : 0.7217
-occupational injuries : 0.7061
-injury occupational : 0.6904
-fatal occupational : 0.6281
-accident workers : 0.6224
+personal injury : 0.5180
+injuries definitions : 0.5247
+statistics occupational : 0.5271
+incurring occupational : 0.5338
+workers injured : 0.5366
+number occupational : 0.5385
+death occupational : 0.5482
+traffic accidents : 0.5695
+accidents considered : 0.5953
 occupational disease : 0.5987
 ----------------------------------------------------

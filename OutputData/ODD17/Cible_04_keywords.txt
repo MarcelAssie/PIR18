@@ -1,12 +1,6 @@
 Mots-clés pour la cible 04 :
 ----------------------------------------------------
-services debt : 0.6545
-debt services : 0.6438
-debt concepts : 0.6058
-external debt : 0.6025
-debt data : 0.5919
-debt : 0.5574
-payments exports : 0.5307
-guaranteed debt : 0.5253
 percentage debt : 0.5191
+guaranteed debt : 0.5253
+debt data : 0.5919
 ----------------------------------------------------

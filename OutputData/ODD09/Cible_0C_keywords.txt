@@ -1,10 +1,6 @@
 Mots-clés pour la cible 0C :
 ----------------------------------------------------
-mobile population : 0.6493
-3g population : 0.6460
-covered 3g : 0.6081
-population coverage : 0.5790
-3g mobile : 0.5235
-mobile cellular : 0.5157
 range 3g : 0.5110
+population covered : 0.5227
+lte population : 0.5735
 ----------------------------------------------------

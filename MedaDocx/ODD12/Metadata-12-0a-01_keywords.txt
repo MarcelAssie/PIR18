@@ -1,7 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-electricity renewable : 0.5546
-electricity capacity : 0.5472
-renewable energy : 0.5314
 defines renewable : 0.5112
 ----------------------------------------------------

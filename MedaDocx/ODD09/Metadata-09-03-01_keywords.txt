@@ -1,12 +1,7 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-defined enterprise : 0.6114
-enterprise smallest : 0.5545
-businesses enterprise : 0.5249
-enterprise enterprise : 0.5217
-industrial enterprises : 0.5127
-industries defined : 0.5109
-manufacturing enterprises : 0.5084
-scale industries : 0.5048
 definitions small : 0.5022
+industries defined : 0.5109
+enterprise smallest : 0.5545
+define enterprise : 0.5564
 ----------------------------------------------------

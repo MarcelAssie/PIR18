@@ -1,9 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-interventions substance : 0.6043
-psychoactive substance : 0.5507
-substance abuse : 0.5476
-treatment substance : 0.5418
-drug use : 0.5209
 substance dependence : 0.5090
 ----------------------------------------------------

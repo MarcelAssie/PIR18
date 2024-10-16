@@ -1,10 +1,7 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-biodiversity covered : 0.6073
-conservation measures : 0.5878
-protected areas : 0.5804
-areas ecosystem : 0.5714
-persistence biodiversity : 0.5210
-biodiversity : 0.5173
 defined iucn : 0.5032
+areas ecosystem : 0.5714
+protected areas : 0.5804
+conservation measures : 0.5878
 ----------------------------------------------------

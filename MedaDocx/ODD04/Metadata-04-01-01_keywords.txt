@@ -1,7 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-proficiency levels : 0.6032
 minimum proficiency : 0.5873
-levels mpls : 0.5340
-learning assessments : 0.5016
 ----------------------------------------------------

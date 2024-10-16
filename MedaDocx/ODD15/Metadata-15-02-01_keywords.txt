@@ -1,9 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sustainable forest : 0.6677
-forest management : 0.6075
-management forest : 0.5314
-values forests : 0.5172
 sustainable management : 0.5150
-forests benefit : 0.5011
 ----------------------------------------------------

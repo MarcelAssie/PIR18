@@ -1,9 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-genital mutilation : 0.6665
-mutilation female : 0.6645
-mutilation interagency : 0.5571
-mutilation : 0.5397
 mutilation indicator : 0.5220
-female genital : 0.5018
+mutilation interagency : 0.5571
+mutilation fgm : 0.6599
 ----------------------------------------------------

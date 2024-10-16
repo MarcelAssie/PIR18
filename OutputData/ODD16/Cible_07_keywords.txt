@@ -1,27 +1,25 @@
 Mots-clés pour la cible 07 :
 ----------------------------------------------------
-legislatures members : 0.6093
-national legislature : 0.6072
-legislatures persons : 0.5967
-parliaments legislature : 0.5966
-country legislature : 0.5894
-representation national : 0.5711
-legislature legislature : 0.5669
-legislature : 0.5615
+bicameral parliament : 0.5236
+chairperson legislature : 0.5358
+legislature prescribed : 0.5381
+member parliament : 0.5454
+unicameral legislatures : 0.5542
+groups legislative : 0.5554
 legislature metadata : 0.5579
-legislature generally : 0.5577
-government units : 0.5712
-institutional units : 0.5346
+representation national : 0.5711
+country legislature : 0.5894
+legislatures persons : 0.5967
 national indicator : 0.5182
-government sector : 0.5103
-constitute judiciary : 0.6040
-judiciary : 0.5928
-court judiciary : 0.5888
-courts gender : 0.5872
-judicial systems : 0.5819
-representation judiciary : 0.5784
-judiciary understood : 0.5780
-judiciary courts : 0.5750
+institutional units : 0.5346
+judiciary require : 0.5405
+court systems : 0.5407
+courts national : 0.5430
+courts constitutes : 0.5491
+positions judiciary : 0.5524
+focused judiciary : 0.5525
 courts indicator : 0.5741
-judiciary given : 0.5681
+judiciary understood : 0.5780
+judicial systems : 0.5819
+courts gender : 0.5872
 ----------------------------------------------------

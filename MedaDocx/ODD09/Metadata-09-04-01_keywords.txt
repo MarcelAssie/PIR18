@@ -1,10 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-co2 emissions : 0.6089
-emissions manufacturing : 0.5517
-emissions economy : 0.5415
-emissions gdp : 0.5290
-sector co2 : 0.5280
-refers industries : 0.5091
 estimates co2 : 0.5028
+refers industries : 0.5091
 ----------------------------------------------------

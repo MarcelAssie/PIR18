@@ -1,12 +1,10 @@
 Mots-clés pour la cible 0A :
 ----------------------------------------------------
-tariff lines : 0.6991
-number tariff : 0.6868
-distinctions tariffs : 0.6746
-tariffs customs : 0.6654
-tariff : 0.6452
+slaughter tariffs : 0.5091
+kg tariffs : 0.5160
+97 tariff : 0.5407
 tariff rate : 0.6451
-national tariff : 0.6450
-considered tariffs : 0.6429
-tariffs tariffs : 0.6260
+distinctions tariffs : 0.6746
+number tariff : 0.6868
+tariff lines : 0.6991
 ----------------------------------------------------

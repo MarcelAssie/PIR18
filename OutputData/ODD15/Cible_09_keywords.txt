@@ -1,12 +1,12 @@
 Mots-clés pour la cible 09 :
 ----------------------------------------------------
-accounting biodiversity : 0.6563
-biodiversity national : 0.6352
-biodiversity target : 0.6225
-national biodiversity : 0.6136
-integrate biodiversity : 0.6052
-plan biodiversity : 0.6043
-biodiversity 2011 : 0.5969
-biodiversity strategy : 0.5964
+measuring ecosystem : 0.5457
+biodiversity 1992 : 0.5500
+mainstreaming biodiversity : 0.5564
+ecosystem accounting : 0.5593
+biodiversity values : 0.5743
+integration biodiversity : 0.5820
 biodiversity government : 0.5920
+biodiversity strategy : 0.5964
+biodiversity national : 0.6352
 ----------------------------------------------------

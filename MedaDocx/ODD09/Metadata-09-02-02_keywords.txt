@@ -1,12 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-employment defined : 0.6036
-manufacturing employment : 0.5970
-employment comprises : 0.5924
-define employment : 0.5753
-employment employment : 0.5503
-total employment : 0.5479
-employment total : 0.5359
-work distinction : 0.5342
 labour statisticians : 0.5268
+work distinction : 0.5342
+employment total : 0.5359
 ----------------------------------------------------

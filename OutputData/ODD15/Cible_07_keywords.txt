@@ -1,8 +1,0 @@
-Mots-clés pour la cible 07 :
-----------------------------------------------------
-trade wildlife : 0.6780
-trade legal : 0.5858
-illegal trade : 0.5636
-trade endangered : 0.5351
-wildlife sum : 0.5104
-----------------------------------------------------

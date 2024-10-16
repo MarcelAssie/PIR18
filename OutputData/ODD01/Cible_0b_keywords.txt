@@ -1,10 +1,5 @@
 Mots-clés pour la cible 0b :
 ----------------------------------------------------
-monetary poverty : 0.6687
-poor monetary : 0.5710
-consumption poverty : 0.5270
-poverty determined : 0.5266
 poverty levels : 0.5135
-expenditures governments : 0.5055
-poverty : 0.5002
+poverty determined : 0.5266
 ----------------------------------------------------

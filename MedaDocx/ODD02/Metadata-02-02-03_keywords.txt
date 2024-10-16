@@ -1,13 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-iron deficiency : 0.6627
-haemoglobin concentration : 0.6477
-deficiency iron : 0.6235
-deficiency anaemia : 0.6232
-concentration haemoglobin : 0.6120
-anaemia condition : 0.5986
-blood haemoglobin : 0.5490
 years haemoglobin : 0.5410
-haemoglobin blood : 0.5394
-anaemia : 0.5389
+haemoglobin concentration : 0.6477
 ----------------------------------------------------

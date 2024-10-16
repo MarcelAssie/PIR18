@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-constitute judiciary : 0.6040
-judiciary : 0.5928
-court judiciary : 0.5888
-courts gender : 0.5872
-judicial systems : 0.5819
-representation judiciary : 0.5784
-judiciary understood : 0.5780
-judiciary courts : 0.5750
+judiciary require : 0.5405
+court systems : 0.5407
+courts national : 0.5430
+courts constitutes : 0.5491
+positions judiciary : 0.5524
+focused judiciary : 0.5525
 courts indicator : 0.5741
-judiciary given : 0.5681
+judiciary understood : 0.5780
+judicial systems : 0.5819
+courts gender : 0.5872
 ----------------------------------------------------

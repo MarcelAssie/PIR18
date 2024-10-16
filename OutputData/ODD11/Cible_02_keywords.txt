@@ -1,11 +1,7 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-public transport : 0.6396
-transport public : 0.6306
-transport accessible : 0.6175
-pedestrian access : 0.6095
-accessible walking : 0.5653
-transport users : 0.5601
-passenger transport : 0.5516
+transport residents : 0.5026
+transport considered : 0.5076
+measure pedestrian : 0.5299
 pedestrian walk : 0.5492
 ----------------------------------------------------

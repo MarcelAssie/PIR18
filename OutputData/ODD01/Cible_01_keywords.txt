@@ -1,23 +1,16 @@
 Mots-clés pour la cible 01 :
 ----------------------------------------------------
-international poverty : 0.6882
-global poverty : 0.6793
-assessing poverty : 0.6189
-defining poverty : 0.6014
-poverty measures : 0.5812
-poverty line : 0.5672
-poverty poverty : 0.5667
-value poverty : 0.5537
-poverty given : 0.5527
+poverty terms : 0.5230
+poverty means : 0.5273
+typical poverty : 0.5326
+absolute poverty : 0.5376
+income countries : 0.5408
+poverty lines : 0.5427
+ppp poverty : 0.5500
 world poorest : 0.5524
-poverty rate : 0.7192
-poverty line : 0.6564
-household poverty : 0.6523
-poverty households : 0.6446
-levels poverty : 0.6398
-expenditure poverty : 0.6379
-working poverty : 0.6322
+defined poor : 0.5019
+income : 0.5342
 international poverty : 0.6303
-poor income : 0.6109
-poverty : 0.5981
+poverty line : 0.6564
+poverty rate : 0.7192
 ----------------------------------------------------

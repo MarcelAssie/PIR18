@@ -1,17 +1,7 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-measure developmental : 0.5628
-developmental outcomes : 0.5518
-milestones children : 0.5506
-childhood development : 0.5322
-primary education : 0.6714
-childhood education : 0.6553
-childhood primary : 0.5648
-learning educational : 0.5641
-early childhood : 0.5517
-educational activities : 0.5428
-education defined : 0.5120
-education programmes : 0.5110
-learning programme : 0.5030
 educational tasks : 0.5015
+education defined : 0.5120
+early childhood : 0.5517
+childhood primary : 0.5648
 ----------------------------------------------------

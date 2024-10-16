@@ -1,20 +1,17 @@
 Mots-clés pour la cible 08 :
 ----------------------------------------------------
-occupational accidents : 0.7408
-accident occupational : 0.7217
-occupational injuries : 0.7061
-injury occupational : 0.6904
-fatal occupational : 0.6281
-accident workers : 0.6224
+personal injury : 0.5180
+injuries definitions : 0.5247
+statistics occupational : 0.5271
+incurring occupational : 0.5338
+workers injured : 0.5366
+number occupational : 0.5385
+death occupational : 0.5482
+traffic accidents : 0.5695
+accidents considered : 0.5953
 occupational disease : 0.5987
-ilo constitution : 0.6923
-ilo declaration : 0.6702
-ilo conventions : 0.6213
-provisions ilo : 0.6043
-established ilo : 0.5977
-ilo normative : 0.5530
-obligation ilo : 0.5520
-ilo supervisory : 0.5472
-ilo member : 0.5408
+ilo unique : 0.5112
 supervisory ilo : 0.5403
+ilo supervisory : 0.5472
+ilo normative : 0.5530
 ----------------------------------------------------

@@ -1,7 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-sendai framework : 0.6154
-framework indicators : 0.5400
-agreements sendai : 0.5217
 implementation sendai : 0.5128
 ----------------------------------------------------

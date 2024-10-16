@@ -1,10 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-government expenditure : 0.5686
-domestic budgetary : 0.5414
-budgetary central : 0.5287
-central government : 0.5148
+general government : 0.5021
 entities budgetary : 0.5101
-government finance : 0.5098
-general budget : 0.5066
 ----------------------------------------------------

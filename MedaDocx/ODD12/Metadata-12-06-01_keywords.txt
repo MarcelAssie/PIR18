@@ -1,12 +1,11 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-reporting sustainability : 0.6336
-sustainability reports : 0.6120
-sustainability disclosures : 0.5957
-company reporting : 0.5911
-disclosures sustainability : 0.5770
-indicator sustainability : 0.5623
+integrated reporting : 0.5072
+indicators entity : 0.5213
+entity reporting : 0.5217
+sustainability counted : 0.5437
+companies report : 0.5452
 sustainability information : 0.5530
-sustainability accounting : 0.5514
-entities reporting : 0.5469
+indicator sustainability : 0.5623
+disclosures sustainability : 0.5770
 ----------------------------------------------------

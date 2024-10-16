@@ -1,11 +1,7 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
+sexual exploitation : 0.5054
+forms trafficking : 0.5462
+trafficking offence : 0.6629
 define trafficking : 0.6828
-given trafficking : 0.6824
-considered trafficking : 0.6803
-trafficking offences : 0.6782
-trafficking : 0.6709
-trafficking persons : 0.6590
-victims trafficking : 0.6508
-exploitation prostitution : 0.5530
 ----------------------------------------------------

@@ -1,17 +1,7 @@
 Mots-clés pour la cible 19 :
 ----------------------------------------------------
-housing statistics : 0.5942
-housing census : 0.5895
-detailed population : 0.5805
-statistics population : 0.5700
-population housing : 0.5546
-census : 0.5497
-proportion countries : 0.5233
-population : 0.5142
 population registers : 0.5098
-census 10 : 0.5034
-vital registration : 0.6481
-registration vital : 0.6448
-death registration : 0.6225
+population housing : 0.5546
+housing statistics : 0.5942
 vital statistics : 0.5652
 ----------------------------------------------------

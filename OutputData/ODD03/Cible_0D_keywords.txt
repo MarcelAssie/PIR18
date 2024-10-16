@@ -1,8 +1,4 @@
 Mots-clés pour la cible 0D :
 ----------------------------------------------------
-regulations ihr : 0.5809
-assessment ihr : 0.5647
-ihr states : 0.5381
-cephalosporins coli : 0.5987
 mrsa isolates : 0.5660
 ----------------------------------------------------

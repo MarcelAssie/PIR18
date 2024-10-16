@@ -1,9 +1,4 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-social protection : 0.6254
-coverage social : 0.5864
-social insurance : 0.5758
-social protection : 0.6265
 social insurance : 0.5443
-insurance social : 0.5235
 ----------------------------------------------------

@@ -1,7 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-mountain biodiversity : 0.5934
 protected areas : 0.5927
-biodiversity covered : 0.5646
-conservation measures : 0.5557
+mountain biodiversity : 0.5934
 ----------------------------------------------------

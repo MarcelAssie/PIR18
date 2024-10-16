@@ -1,17 +1,8 @@
 Mots-clés pour la cible 03 :
 ----------------------------------------------------
-debt concessional : 0.6008
-concessional sustainable : 0.5550
 financing sustainable : 0.5522
-development loans : 0.5517
-concessional transfer : 0.5484
-development finance : 0.5403
-personal remittances : 0.6589
-remittances comprise : 0.6037
-personal transfers : 0.5627
-remittances expressed : 0.5491
-remittances : 0.5470
-remittances received : 0.5380
-gdp personal : 0.5306
 transfers compensation : 0.5182
+gdp personal : 0.5306
+remittances received : 0.5380
+remittances expressed : 0.5491
 ----------------------------------------------------

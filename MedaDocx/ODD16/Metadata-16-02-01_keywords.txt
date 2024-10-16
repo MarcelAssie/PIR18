@@ -1,11 +1,6 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-violent discipline : 0.6058
-aggression caregivers : 0.5915
-corporal punishment : 0.5791
-psychological aggression : 0.5719
-physical punishment : 0.5672
-punishment psychological : 0.5200
-aggression : 0.5057
 physical corporal : 0.5005
+aggression refers : 0.5183
+punishment psychological : 0.5200
 ----------------------------------------------------

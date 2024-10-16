@@ -1,10 +1,5 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-food losses : 0.6755
-food waste : 0.5849
-loss sdg : 0.5394
 harvest losses : 0.5236
-losses crop : 0.5116
-monitoring food : 0.5061
-loss waste : 0.5037
+loss sdg : 0.5394
 ----------------------------------------------------

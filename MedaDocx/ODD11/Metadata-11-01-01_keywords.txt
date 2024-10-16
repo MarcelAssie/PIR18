@@ -1,13 +1,13 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
-housing urban : 0.6300
-housing sector : 0.6061
-housing inadequate : 0.6000
-housing globally : 0.5998
-housing neighbourhoods : 0.5984
-slums housing : 0.5914
-inadequate housing : 0.5852
-housing housing : 0.5834
+homelessness growing : 0.5415
+infrastructure housing : 0.5458
+housing informal : 0.5498
+conditions homelessness : 0.5547
+housing adequate : 0.5604
+urban poverty : 0.5619
 housing definition : 0.5719
-housing conditions : 0.5654
+slums housing : 0.5914
+housing globally : 0.5998
+housing sector : 0.6061
 ----------------------------------------------------

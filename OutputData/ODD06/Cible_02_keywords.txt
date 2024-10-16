@@ -1,19 +1,22 @@
 Mots-clés pour la cible 02 :
 ----------------------------------------------------
-sanitation facilities : 0.6847
-improved sanitation : 0.6657
-sanitation technologies : 0.6474
+guidelines sanitation : 0.5674
+sanitation refers : 0.5751
+wet sanitation : 0.5783
+toilets improved : 0.5791
+types sanitation : 0.5957
+based sanitation : 0.6122
+dry sanitation : 0.6136
 latrines sanitation : 0.6178
-sanitation : 0.6174
-flushed sanitation : 0.6135
-health sanitation : 0.6054
-handwashing facilities : 0.6755
-handwashing soap : 0.6067
-facilitate handwashing : 0.5967
-designated handwashing : 0.5928
-handwashing agents : 0.5897
-household handwashing : 0.5738
-population handwashing : 0.5660
-sand handwashing : 0.5637
+sanitation facility : 0.6447
+measuring handwashing : 0.5049
+handwashing national : 0.5069
+water soap : 0.5076
+tools handwashing : 0.5249
+handwashing behaviour : 0.5501
 facility soap : 0.5630
+sand handwashing : 0.5637
+population handwashing : 0.5660
+handwashing agents : 0.5897
+handwashing soap : 0.6067
 ----------------------------------------------------

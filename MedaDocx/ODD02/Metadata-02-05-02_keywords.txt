@@ -1,8 +1,4 @@
 Mots-clés extraits et scores :
 ----------------------------------------------------
 biodiversity indicators : 0.6401
-biodiversity outlook : 0.5697
-biodiversity information : 0.5279
-biodiversity : 0.5066
-livestock breeds : 0.5044
 ----------------------------------------------------

@@ -1,21 +1,13 @@
 Mots-clés pour la cible 05 :
 ----------------------------------------------------
-environment iwrm : 0.5760
-iwrm management : 0.5615
-management iwrm : 0.5503
 iwrm institutions : 0.5490
-concept iwrm : 0.5459
-definition iwrm : 0.5424
-iwrm status : 0.5336
-applicable iwrm : 0.5244
-implement iwrm : 0.5040
-transboundary basin : 0.6109
-basin refers : 0.5706
-basin organization : 0.5685
-basin aquifer : 0.5580
-basin considered : 0.5490
-basin extent : 0.5446
+management iwrm : 0.5503
+states basin : 0.5114
+extent catchment : 0.5136
+transboundary water : 0.5147
+basin comprises : 0.5241
 basins shared : 0.5352
-river basin : 0.5305
-specific basin : 0.5302
+basin aquifer : 0.5580
+basin organization : 0.5685
+transboundary basins : 0.5797
 ----------------------------------------------------
