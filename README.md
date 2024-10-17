@@ -12,7 +12,9 @@ Utilisation d'algorithmes avancés : Implémentation de méthodes pour établir 
 
 Structure du dépôt :
 
-/MetaD/ : Fichiers de données et textes extraits pour analyse.
+/MetaD/ : Fichiers de metadonnées en pdf et textes extraits pour analyse.
+
+/MetaDocx/ : Fichiers de metadonnées en txt et textes extraits pour analyse.
 
 /OldScripts/ : Anciens codes et scripts qui ne sont plus utilisés mais conservés pour référence.
 
