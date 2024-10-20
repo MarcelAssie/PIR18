@@ -129,7 +129,7 @@ def start(odd_number, txt_file, model):
     cleaned_keywords = clean_keywords(list_keywords)
 
     # Organisation du fichier pour l'affichage
-    cible = txt_file[27:29]
+    cible = txt_file[30:32]
     output_keywords = []
     for keyword in cleaned_keywords:
         output_keywords.append((odd_number, cible, keyword))
