@@ -5,12 +5,12 @@ import re
 import csv
 import pandas as pd
 
-from .filters import txt_to_string, filter_similar_entities
-# from filters import txt_to_string, filter_similar_entities
+from .toolbox import read_txt_file, filter_similar_entities
+# from toolbox import read_txt_file, filter_similar_entities
 
 # Création du dossier des résultats
-results_path = "./OutputData"
-# results_path = "../OutputData"
+# results_path = "./OutputDatalm"
+results_path = "../OutputDatalm"
 os.makedirs(results_path, exist_ok=True)
 
 def entities_extractions(dossier):
