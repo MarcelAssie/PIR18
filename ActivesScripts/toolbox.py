@@ -103,7 +103,7 @@ def clean_keywords(keywords, max_words=3):
     filtered_keywords = [re.sub(r"^\d+\.\s*", "", keyword) for keyword in cleaned_keywords]
 
     # Etape 4 : # Retirer les mots-clés contenant 'SGB' ou 'SGBS' et 'Sustainable Development'
-    filtered_keywords = [kw for kw in filtered_keywords if kw.lower() not in ['sgb','sgbs', 'sustainable development']]
+    filtered_keywords = [kw for kw in filtered_keywords if kw.lower() not in ['sdg','sdgs', 'sustainable development']]
 
     # Étape 5 : Filtrer par nombre de mots
     results = []
