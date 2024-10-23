@@ -1,0 +1,377 @@
+ODD,Cible,Mots-cles
+03,01,live births
+03,01,time period
+03,01,skilled health personnel
+03,01,quality care
+03,02,mortality rate
+03,02,child death
+03,02,age-specific mortality rate
+03,02,live birth
+03,02,sustainable development goals
+03,02,life table
+03,02,mortality rate
+03,02,population at risk
+03,02,probability of death
+03,02,live births
+03,02,sustainable development goals
+03,02,neonatal mortality rate
+03,02,sustainable development goals
+03,02,neonatal deaths
+03,02,early neonatal deaths
+03,02,late neonatal deaths
+03,02,live births
+03,03,health systems
+03,03,notification data
+03,03,inventory studies
+03,03,malaria infection
+03,03,diagnostic test
+03,03,population at risk
+03,03,sustainable development goals
+03,03,hbv infection
+03,03,chronic disease
+03,03,child health
+03,03,hbsag testing
+03,03,indirect measurement
+03,03,proportion of
+03,03,hepatitis b
+03,03,surface antigen
+03,03,active infection
+03,03,immune response
+03,03,viral agents
+03,03,laboratory confirmation
+03,03,chronic hbv infection
+03,03,neglected tropical diseases
+03,03,who ntd roadmap
+03,03,individual treatment
+03,03,vector management
+03,03,veterinary public health
+03,03,access to water
+03,03,access to san
+03,04,climate change
+03,04,gender equality
+03,04,cardiovascular disease
+03,04,chronic respiratory disease
+03,04,sustainable development goals
+03,04,life expectancy
+03,04,mortality rate
+03,04,health outcomes
+03,04,mortality rates
+03,04,life table methods
+03,04,sustainable development goals
+03,04,infant mortality rate
+03,04,age-specific mortality rates
+03,04,chronic respiratory diseases
+03,04,climate change
+03,04,gender equality
+03,04,suicide mortality rate
+03,05,climate change
+03,05,substance use disorders
+03,05,treatment interventions
+03,05,psychoactive substances
+03,05,other psychoactive substances
+03,05,substance abuse
+03,05,public health threat
+03,05,controlled substances
+03,05,national legislations
+03,05,new psychoactive substances
+03,05,harmful patterns
+03,05,substance use disorder
+03,05,health system responses
+03,05,prevention interventions
+03,05,hazardous substance use
+03,05,quality of life
+03,05,substance use disorders
+03,05,clinical trials
+03,05,recovery management
+03,05,social support
+03,05,evidence-based interventions
+03,05,scientific process
+03,05,substance use dis
+03,05,climate change
+03,05,national context
+03,05,calendar year
+03,05,pure alcohol
+03,05,sustainable development goals
+03,05,alcohol consumption
+03,05,unrecorded consumption
+03,05,surrogate alcohol
+03,05,cross-border shopping
+03,05,tourist consumption
+03,05,official statistics
+03,05,alcohol consumption
+03,05,pure alcohol
+03,05,government statistics
+03,05,industry statistics
+03,05,recorded consumption
+03,05,beverage-specific categories
+03,05,regression analysis
+03,05,unrecorded apc
+03,05,fractional response
+03,05,random intercepts
+03,05,per capita consumption
+03,05,unrecorded alcohol
+03,05,global tourist consumption
+03,05,net negative
+03,06,road traffic injuries
+03,06,fatality deaths
+03,06,road traffic crashes
+03,06,sustainable development goals
+03,06,road traffic crash
+03,06,climate change
+03,06,poverty reduction
+03,06,gender equality
+03,06,clean water
+03,06,food security
+03,06,energy access
+03,07,family planning
+03,07,reproductive age
+03,07,modern methods
+03,07,postpone pregnancy
+03,07,no additional
+03,07,family planning
+03,07,modern methods
+03,07,contraceptive prevalence
+03,07,unmet need
+03,07,reproductive age
+03,07,contraceptive prevalence
+03,07,oral contraceptives
+03,07,sexual activity
+03,07,age groups
+03,07,adolescent birth rate
+03,07,age-specific fertility rate
+03,08,reproductive health
+03,08,maternal health
+03,08,newborn health
+03,08,child health
+03,08,infectious diseases
+03,08,non-communicable diseases
+03,08,health service coverage
+03,08,geometric means
+03,08,tracer indicators
+03,08,service coverage categories
+03,08,metadata components
+03,08,family planning
+03,08,modern methods
+03,08,married or in-union
+03,08,pregnancy care
+03,08,live birth
+03,08,antenatal care
+03,08,time period
+03,08,child immunization
+03,08,diphtheria-tetanus-pertussis vaccine
+03,08,child treatment
+03,08,acute respiratory infection
+03,08,health facility
+03,08,infectious diseases
+03,08,disease prevention
+03,08,public health
+03,08,global health
+03,08,sustainable development goals
+03,08,antiretroviral therapy
+03,08,sustainable development goals
+03,08,insecticide-treated net
+03,08,high malaria burden
+03,08,noncommunicable diseases
+03,08,sustainable development goals
+03,08,chronic diseases
+03,08,service capacity
+03,08,hospital beds density
+03,08,maximum threshold
+03,08,health professionals
+03,08,per capita
+03,08,maximum thresholds
+03,08,health security
+03,08,core capacity index
+03,08,sdg indicator 3.d.1
+03,08,health expenditure
+03,08,household expenditure
+03,08,total household expenditure
+03,08,climate change
+03,08,renewable energy
+03,08,carbon emissions
+03,08,greenhouse gases
+03,08,out-of-pocket (oop) payments
+03,08,outpatient care
+03,08,inpatient care
+03,08,medical products
+03,08,other health services
+03,08,health expenditures
+03,08,provider types
+03,08,permanent income
+03,08,living standards
+03,08,household surveys
+03,08,durable goods
+03,08,non-durable goods
+03,08,direct taxes
+03,08,property income
+03,08,household production
+03,08,household consumption
+03,08,energy efficiency
+03,08,clean technology
+03,08,financial hardship
+03,08,health expenditure
+03,08,household consumption
+03,08,household income
+03,09,mortality rate
+03,09,household air pollution
+03,09,ambient air pollution
+03,09,crude death rate
+03,09,age-standardized death rate
+03,09,population distribution
+03,09,air pollution
+03,09,epidemiological studies
+03,09,sustainable development goals
+03,09,lower respiratory infections
+03,09,all age groups
+03,09,cerebrovascular diseases
+03,09,heart disease
+03,09,fine particulate matter
+03,09,animal dung
+03,09,mortality rate
+03,09,unsafe water
+03,09,unsafe sanitation
+03,09,lack of hygiene
+03,09,respiratory infection
+03,09,nematode infection
+03,09,mortality rate
+03,09,unintentional poisoning
+03,09,mortality rate
+03,09,icd-10 codes
+03,0a,tobacco product
+03,0a,daily basis
+03,0a,non-daily basis
+03,0a,smoked tobacco
+03,0a,tobacco use
+03,0a,smoked products
+03,0a,smokeless products
+03,0a,current use
+03,0a,previous 30 days
+03,0a,daily use
+03,0a,tobacco products
+03,0a,human consumption
+03,0a,smoked tobacco products
+03,0a,smokeless tobacco product
+03,0a,moist snuff
+03,0a,creamy snuff
+03,0a,dry snuff
+03,0a,demographic profile
+03,0a,who standard population
+03,0a,hypothetical numbers
+03,0a,meaningful comparison
+03,0a,climate change
+03,0a,renewable energy
+03,0a,carbon emissions
+03,0a,greenhouse gases
+03,0a,sustainable agriculture
+03,0a,food security
+03,0a,water conservation
+03,0b,vaccine coverage
+03,0b,infant survival
+03,0b,nationally recommended schedule
+03,0b,routine immunization services
+03,0b,measles containing vaccine
+03,0b,pneumococcal disease
+03,0b,immunization schedule
+03,0b,public health
+03,0b,child mortality
+03,0b,hpv vaccine
+03,0b,target age group
+03,0b,recommended doses
+03,0b,previous calendar year
+03,0b,global health policy
+03,0b,national programmes
+03,0b,local disease epidemiology
+03,0b,national health priorities
+03,0b,recommended age
+03,0b,primary series
+03,0b,first two years
+03,0b,new vaccines
+03,0b,life course vaccination
+03,0b,sustainable development goals
+03,0B,medical research
+03,0B,basic health
+03,0B,health sectors
+03,0B,multilateral institutions
+03,0B,official agencies
+03,0B,state governments
+03,0B,local governments
+03,0B,executive agencies
+03,0B,economic development
+03,0B,developing countries
+03,0B,sustainable development goals
+03,0B,official development assistance
+03,0B,health facilities
+03,0B,essential medicines
+03,0B,sustainable basis
+03,0B,quality assurance
+03,0B,core set
+03,0B,national level
+03,0B,core set
+03,0B,essential medicines
+03,0B,sustainable basis
+03,0B,core concepts
+03,0B,poverty line
+03,0B,essential medicines
+03,0B,global health
+03,0B,universal coverage
+03,0B,global health
+03,0B,sustainable development goals
+03,0B,accessible medicine
+03,0B,universal health coverage
+03,0B,disease burden
+03,0B,health equity
+03,0B,access to healthcare
+03,0B,prevention strategies
+03,0B,health systems strengthening
+03,0B,data collection
+03,0B,binary variable
+03,0B,price per daily
+03,0B,pack size
+03,0B,poverty indicators
+03,0B,economic circumstances
+03,0B,social circumstances
+03,0B,daily wages
+03,0B,non-food items
+03,0B,national standards
+03,0B,essential medicines
+03,0B,primary health care
+03,0B,communicable diseases
+03,0B,non-communicable diseases
+03,0B,sustainable development goals
+03,0B,health care
+03,0B,primary care
+03,0B,disease prevalence
+03,0B,global reference
+03,0B,premature mortality
+03,0B,loss of health
+03,0B,summary measure
+03,0C,medical doctors
+03,0C,specialist medical practitioners
+03,0C,national area
+03,0C,subnational area
+03,0C,health worker
+03,0C,national level
+03,0C,male doctors
+03,0C,all medical doctors
+03,0C,isco-08 codes
+03,0C,female doctors
+03,0C,nursing personnel
+03,0C,gender equality
+03,0C,healthcare workforce
+03,0D,public health events
+03,0D,international concern
+03,0D,points of entry
+03,0D,public health
+03,0D,annual reporting
+03,0D,state part
+03,0D,sdg 3.d.1
+03,0D,gender equality
+03,0D,community engagement
+03,0D,bloodstream infection
+03,0D,third-generation cephalosporin
+03,0D,patients seeking care
+03,0D,blood sample
+03,0D,oxacillin mic
+03,0D,clinical breakpoints
+03,0D,third generation cephalosporins
+03,0D,clinical breakpoints

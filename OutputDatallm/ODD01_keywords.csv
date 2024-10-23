@@ -1,0 +1,269 @@
+ODD,Cible,Mots-cles
+01,01,poverty line
+01,01,international prices
+01,01,economic gradient
+01,01,global poverty
+01,01,absolute poverty
+01,01,richer countries
+01,01,extreme poverty
+01,01,purchasing power
+01,01,international poverty line
+01,01,cost of living
+01,01,employed population
+01,01,international poverty line
+01,01,working poverty rate
+01,01,per-capita consumption
+01,01,sustainable development goals
+01,01,working age
+01,01,reference period
+01,01,poverty line
+01,01,per-capita monetary requirements
+01,01,household members
+01,01,consumption expenditure
+01,01,number of adults
+01,01,number of children
+01,01,household income
+01,01,consumption levels
+01,01,sustainable development goals
+01,02,national poverty rate
+01,02,rural poverty rate
+01,02,urban poverty rate
+01,02,poverty line
+01,02,national definition
+01,02,economic gradient
+01,02,urban areas
+01,02,rural areas
+01,02,separate poverty lines
+01,02,sustainable development goals
+01,02,sdg 1.2.2
+01,02,sustainable development goals
+01,02,multidimensional poverty
+01,02,weighted dimensions
+01,02,poor people
+01,02,total population
+01,02,sustainable development goals
+01,02,multidimensional poverty
+01,02,poor people
+01,02,weighted dimensions
+01,02,multidimensional deprivation
+01,02,under 18
+01,02,material dimensions
+01,02,living standards
+01,02,multidimensional poverty
+01,02,eu member states
+01,02,north macedonia
+01,02,child poverty
+01,02,life-cycle analysis
+01,02,age groups
+01,02,global sdg database
+01,02,headcount percentage
+01,03,social protection system
+01,03,social protection floors
+01,03,child benefits
+01,03,maternity benefits
+01,03,job support
+01,03,disability support
+01,03,work injuries
+01,03,social protection
+01,03,social insurance
+01,03,social protection systems
+01,03,contributory schemes
+01,03,non-contributory schemes
+01,03,active age
+01,03,social insurance
+01,03,universal schemes
+01,03,means-tested schemes
+01,03,coverage gaps
+01,03,social protection
+01,03,labor market
+01,03,social insurance
+01,03,social assistance
+01,03,direct beneficiaries
+01,03,indirect beneficiaries
+01,03,household participation
+01,03,social insurance
+01,03,social assistance
+01,03,labor market programs
+01,03,per capita income
+01,03,world bank
+01,04,basic services
+01,04,drinking water
+01,04,drinking water
+01,04,collection time
+01,04,piped water
+01,04,improved sanitation
+01,04,flush toilets
+01,04,pour flush toilets
+01,04,sewer systems
+01,04,septic tanks
+01,04,drinking water
+01,04,safely managed services
+01,04,low income countries
+01,04,middle income
+01,04,clean fuels
+01,04,indoor air quality
+01,04,household fuel combustion
+01,04,sdg 7.1.2
+01,04,primary reliance
+01,04,sdg 9.1.1
+01,04,sdg 11.2.1
+01,04,rural development
+01,04,climate change
+01,04,community engagement
+01,04,economic growth
+01,04,socio-economic opportunities
+01,04,public transport services
+01,04,safe footpaths
+01,04,poverty reduction
+01,04,rural areas
+01,04,gis-based index
+01,04,digital technology
+01,04,sdg 11.2.1
+01,04,public transport
+01,04,convenient access
+01,04,persons with dis
+01,04,city delimitation
+01,04,public stops
+01,04,spatial analysis
+01,04,population served
+01,04,walkable distance
+01,04,sdg indicator 11.6.1
+01,04,municipal solid waste
+01,04,controlled facilities
+01,04,emergency services
+01,04,hospital care
+01,04,physician care
+01,04,outpatient medical services
+01,04,laboratory services
+01,04,radiology services
+01,04,basic education
+01,04,sdg 4.1.1
+01,04,young people
+01,04,lower secondary
+01,04,proficiency level
+01,04,fixed (wired) broadband
+01,04,cable modem
+01,04,high speed leased
+01,04,land use
+01,04,urban areas
+01,04,rural areas
+01,04,tenure types
+01,04,public land
+01,04,tenure rights
+01,04,legal recognition
+01,04,perception of security
+01,04,sustainable development goals
+01,04,right holders
+01,04,land tenure security
+01,04,involuntary loss
+01,04,census data
+01,04,sampling frame
+01,04,adult population
+01,04,climate change
+01,04,renewable energy
+01,04,carbon emissions
+01,04,greenhouse gases
+01,04,environmental protection
+01,04,developing countries
+01,04,data gap
+01,04,customary systems
+01,04,formal document
+01,04,justice systems
+01,04,food security
+01,04,land governance
+01,04,community involvement
+01,04,indigenous rights
+01,04,environmental protection
+01,04,social justice
+01,04,tenure typology
+01,04,land governance
+01,04,conflicting interests
+01,04,tenure rights
+01,05,hazardous event
+01,05,sustainable development goals
+01,05,hazardous event
+01,05,presumed dead
+01,05,physical evidence
+01,05,official/legal report
+01,05,competent authorities
+01,05,sustainable development goals
+01,05,health effects
+01,05,economic damage
+01,05,physical damage
+01,05,economic loss
+01,05,sustainable development goals
+01,05,economic impact
+01,05,direct loss
+01,05,indirect loss
+01,05,physical damage
+01,05,economic loss
+01,05,monetary value
+01,05,affected area
+01,05,economic loss
+01,05,direct economic loss
+01,05,human impacts
+01,05,environmental impacts
+01,05,indirect economic loss
+01,05,climate change
+01,05,renewable energy
+01,05,carbon emissions
+01,05,greenhouse gases
+01,05,disaster risk reduction
+01,05,sendai framework
+01,05,sustainable development goals
+01,05,disaster risk reduction
+01,05,sendai framework
+01,05,time frames
+01,05,disaster risk reduction
+01,05,sendai framework
+01,0a,poverty reduction
+01,0a,gross national income
+01,0a,official development assistance
+01,0a,official agencies
+01,0a,state governments
+01,0a,local governments
+01,0a,executive agencies
+01,0a,economic development
+01,0a,basic health
+01,0a,basic education
+01,0a,population programmes
+01,0a,reproductive health
+01,0a,developmental food aid
+01,0a,food aid
+01,0a,social services
+01,0a,water supply
+01,0a,social services
+01,0a,basic needs
+01,0a,food aid
+01,0a,hunger alleviation
+01,0a,poverty reduction
+01,0a,nutrition improvement
+01,0a,agricultural development
+01,0a,community empowerment
+01,0a,climate change mitigation
+01,0a,climate change adaptation
+01,0a,disaster risk reduction
+01,0a,environmental protection
+01,0a,biodiversity conservation
+01,0a,fiscal indicator
+01,0a,net worth
+01,0a,economic classification
+01,0a,functions of government
+01,0a,general government units
+01,0a,final outlays
+01,0a,health expenditure
+01,0a,individual persons
+01,0a,collective basis
+01,0a,medical personnel
+01,0a,social protection
+01,0a,international sources
+01,0a,government expenditure
+01,0a,formal education
+01,0a,early childhood
+01,0a,tertiary education
+01,0a,public instruction
+01,0a,private instruction
+01,0a,general administration
+01,0a,other activities
+01,0b,sdg 1.2.1
+01,0b,sdg 1.2.1

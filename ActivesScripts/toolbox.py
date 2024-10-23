@@ -55,7 +55,7 @@ def extract_keywords_from_chunks(chunks, test_model):
         model=model,
         tokenizer=tokenizer,
         task='text-generation',
-        max_new_tokens=150,
+        max_new_tokens=50,
         repetition_penalty=1.1
     )
 
@@ -102,7 +102,10 @@ def clean_keywords(keywords, max_words=3):
     # Etape 3 : Retirer les numéros et points
     filtered_keywords = [re.sub(r"^\d+\.\s*", "", keyword) for keyword in cleaned_keywords]
 
-    # Étape 4: Filtrer par nombre de mots
+    # Etape 4 : # Retirer les mots-clés contenant 'SGB' ou 'SGBS' et 'Sustainable Development'
+    filtered_keywords = [kw for kw in filtered_keywords if kw.lower() not in ['sgb','sgbs', 'sustainable development']]
+
+    # Étape 5 : Filtrer par nombre de mots
     results = []
     for kw in filtered_keywords:
         if 2 <= len(kw.split()) <= max_words:
@@ -152,4 +155,10 @@ def filter_similar_entities(entities, threshold=60):
             seen.add(entity)
 
     return filtered_entities
+#
+# def filter_target(keywords):
+#     targets = []
+#     for tag in keywords:
+#         targets.append(tag[0])
+
 

@@ -6,3 +6,4 @@ if __name__ == "__main__":
     odd_files = os.listdir("MedaDocx")
     for odd_file in odd_files:
         entities_extractions(f"MedaDocx/{odd_file}")
+        kkfkjnkvnl
