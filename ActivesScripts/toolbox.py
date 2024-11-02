@@ -89,7 +89,7 @@ def extract_keywords_from_chunks(chunks, test_model):
     return keywords
 
 
-def clean_keywords(keywords, max_words=3):
+def clean_keywords(keywords, max_words=2):
     # Étape 1: Nettoyer les mots-clés des
     cleaned_keywords = []
     for kw in keywords:
@@ -108,7 +108,7 @@ def clean_keywords(keywords, max_words=3):
     # Étape 5 : Filtrer par nombre de mots
     results = []
     for kw in filtered_keywords:
-        if 2 <= len(kw.split()) <= max_words:
+        if len(kw.split()) == max_words:
             results.append(kw)
 
     return results
