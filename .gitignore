@@ -13,3 +13,6 @@ env/
 
 # Fichiers de log
 *.log
+
+# Cloud Cadence
+.cadence

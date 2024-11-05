@@ -8,7 +8,7 @@ from fuzzywuzzy import fuzz
 
 # Connection à Hugging Face
 def login_hf():
-    file_path = "C:/Users/jeanm/Desktop/Ensg/Semestre3/Projet_Recherche/Ressources"
+    file_path = "C:/Users/jeanm/Desktop/Ensg/Semestre3/ProjetRecherche/Ressources"
     api_keys = [api_keys for api_keys in os.listdir(file_path) if "api_keys" in api_keys]
     with open(f"{file_path}/{api_keys[0]}", 'r', encoding='utf-8') as file:
         file = file.read()
