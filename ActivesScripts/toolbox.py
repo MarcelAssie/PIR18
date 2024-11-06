@@ -138,7 +138,7 @@ def start(odd_number, txt_file, model):
     indicator = txt_file[27:35]
     output_keywords = []
     for keyword in cleaned_keywords:
-        output_keywords.append((f"ODD{odd_number}", f"Cible {str(odd_number-cible)}", f"Indicateur {str(indicator)}", keyword))
+        output_keywords.append((f"ODD{odd_number}", f"Cible {odd_number}-{cible}", f"Indicateur {indicator}", keyword))
 
     return output_keywords
 
