@@ -90,25 +90,27 @@ def extract_keywords_from_chunks(chunks, test_model):
 
 
 def clean_keywords(keywords, max_words=2):
-    # Étape 1: Nettoyer les mots-clés des
+    # Étape 1: Nettoyer les mots-clés des caractères
     cleaned_keywords = []
     for kw in keywords:
         cleaned_kw = kw.lstrip('- ').strip()
         cleaned_keywords.append(cleaned_kw)
 
-        # Étape 2: Supprimer les doublons tout en conservant l'ordre
+    # Étape 2: Supprimer les doublons tout en conservant l'ordre
     cleaned_keywords = list(dict.fromkeys([kw.lower() for kw in cleaned_keywords]))
 
     # Etape 3 : Retirer les numéros et points
     filtered_keywords = [re.sub(r"^\d+\.\s*", "", keyword) for keyword in cleaned_keywords]
 
-    # Etape 4 : # Retirer les mots-clés contenant 'SGB' ou 'SGBS' et 'Sustainable Development'
-    filtered_keywords = [kw for kw in filtered_keywords if kw.lower() not in ['sdg','sdgs', 'sustainable development']]
+    # Etape 4 : # Retirer les mots-clés spécifiques
+    exclusion_terms = ['sdg','sdgs', 'sustainable development', 'sustainable development goals', 'indicator', 'sdg indicator']
+    filtered_keywords = [kw for kw in filtered_keywords if not any(excluded in kw.lower() for excluded in exclusion_terms)]
 
-    # Étape 5 : Filtrer par nombre de mots
+
+    # Étape 5 : Filtrer par nombre de mots et les expressions numériques
     results = []
     for kw in filtered_keywords:
-        if len(kw.split()) == max_words:
+        if len(kw.split()) == max_words and not re.search(r'\d+', kw):
             results.append(kw)
 
     return results
@@ -133,9 +135,10 @@ def start(odd_number, txt_file, model):
 
     # Organisation du fichier pour l'affichage
     cible = txt_file[30:32]
+    indicator = txt_file[27:35]
     output_keywords = []
     for keyword in cleaned_keywords:
-        output_keywords.append((odd_number, cible, keyword))
+        output_keywords.append((f"ODD{odd_number}", f"Cible {str(odd_number-cible)}", f"Indicateur {str(indicator)}", keyword))
 
     return output_keywords
 
@@ -150,15 +153,10 @@ def filter_similar_entities(entities, threshold=60):
         if any(fuzz.ratio(entity, seen_entity) > threshold for seen_entity in seen):
             continue
         else:
-            # Ajouter a entités filtrées et entités vues
+            # Ajouter entités filtrées et entités vues
             filtered_entities.append((entity, score))
             seen.add(entity)
 
     return filtered_entities
-#
-# def filter_target(keywords):
-#     targets = []
-#     for tag in keywords:
-#         targets.append(tag[0])
 
 

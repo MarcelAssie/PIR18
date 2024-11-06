@@ -1,227 +1,198 @@
-ODD,Cible,Mots-cles
-04,01,young people
-04,01,proficiency level
-04,01,primary education
-04,01,lower secondary education
-04,01,indicator 4.1.1
-04,01,consensus building meeting
-04,01,gender equality
-04,01,clean water
-04,01,decent work and
-04,01,learning assessments
-04,01,performance level descriptors
-04,01,cross-national assessments
-04,01,regional tests
-04,01,learning assessment
-04,01,proficiency levels
-04,01,young people
-04,01,intended age
-04,01,completed grade
-04,01,primary entrance age
-04,01,full-time study
-04,01,grade progression
-04,01,repeating grades
-04,01,skipping grades
-04,01,primary education
-04,01,age group
-04,01,completion rate
-04,01,sustainable development goals
-04,02,psychosocial well-being
-04,02,gross motor development
-04,02,fine motor development
-04,02,executive functioning
-04,02,emotional skills
-04,02,social skills
-04,02,internalizing behavior
-04,02,externalizing behavior
-04,02,sdg 4.2.1
-04,02,developmental outcomes
-04,02,developmental milestones
-04,02,24-29 months
-04,02,age 30-35 months
-04,02,organized learning
-04,02,early childhood education
-04,02,primary education
-04,02,age range
-04,02,official entry age
-04,02,combination programmes
-04,02,organized learning programme
-04,02,coherent set
-04,02,educational activities
-04,02,pre-determined learning outcomes
-04,02,holistic approach
-04,02,fundamental skills
-04,02,national legislation
-04,02,primary education
-04,02,official entry age
-04,02,global level
-04,02,sustainable development goals
-04,03,age range
-04,03,formal education
-04,03,non-formal education
-04,03,previous 12
-04,03,young people
-04,04,ict skills
-04,04,skill areas
-04,04,computer-related activities
-04,04,response categories
-04,04,last three months
-04,04,digital literacy
-04,04,ict infrastructure
-04,04,digital inclusion
-04,04,digital innovation
-04,04,digital transformation
-04,04,climate change
-04,04,renewable energy
-04,04,resource management
-04,04,waste reduction
-04,04,poverty reduction
-04,04,gender equality
-04,04,attached files
-04,04,basic arithmetic
-04,04,energy efficiency
-04,04,renewable energy
-04,04,carbon footprint
-04,04,waste reduction
-04,04,resource conservation
-04,04,poverty reduction
-04,04,gender equality
-04,04,energy efficiency
-04,04,programming language
-04,04,computer program
-04,04,sustainable development goals
-04,04,embedded computing
-04,04,multiple responses
-04,04,carried out
-04,04,climate change
-04,04,poverty reduction
-04,04,gender equality
-04,04,clean water
-04,04,green economy
-04,04,digital format
-04,04,electronic books
-04,04,disease prevention
-04,04,injury treatment
-04,04,public health
-04,04,medical research
-04,04,health education
-04,04,community development
-04,04,economic growth
-04,04,social justice
-04,04,messaging service
-04,04,video calling
-04,04,civic issues
-04,04,political issues
-04,04,poverty reduction
-04,04,digital environment
-04,04,sustainable development goals
-04,04,climate change
-04,04,poverty reduction
-04,04,digital environments
-04,04,computer software
-04,04,app development
-04,04,sustainable development goals
-04,04,clean water
-04,04,renewable energy
-04,04,green technology
-04,04,carbon emissions
-04,04,climate change
-04,04,resource management
-04,04,carbon footprint
-04,04,environmental protection
-04,04,green finance
-04,04,corporate social responsibility
-04,04,social responsibility
-04,04,ethical sourcing
-04,04,fair trade
-04,04,carbon emissions
-04,04,environmental protection
-04,04,greenhouse gases
-04,04,security measures
-04,04,strong passwords
-04,04,log-in attempts
-04,04,online accounts
-04,04,privacy settings
-04,04,personal data
-04,04,information sharing
-04,04,limiting sharing
-04,04,community development
-04,04,economic growth
-04,04,skill levels
-04,04,skill areas
-04,05,parity indices
-04,05,indicator values
-04,05,groups of interest
-04,05,climate change
-04,05,poverty reduction
-04,05,clean water
-04,05,gender equality
-04,05,access to energy
-04,05,disaster risk
-04,06,global reporting
-04,06,learning assessments
-04,06,basic knowledge
-04,06,domain literacy
-04,06,functional literacy
-04,06,functional numeracy
-04,06,unesco definitions
-04,06,effective functioning
-04,06,community development
-04,07,teacher training
-04,07,teacher education
-04,07,student assessment
-04,07,combined score
-04,07,sdg 4-education 2030
-04,07,indicator framework
-04,07,follow-up and review
-04,07,global indic
-04,07,shared planet
-04,07,environmental integrity
-04,07,economic viability
-04,07,just society
-04,07,cultural diversity
-04,0A,climate change
-04,0A,lower secondary
-04,0A,upper secondary
-04,0A,grid/mains connection
-04,0A,fuel-powered generator
-04,0A,sustainable use
-04,0A,world wide web
-04,0A,information sharing
-04,0A,online discussion forums
-04,0A,desktop computer
-04,0A,handheld computer
-04,0A,touch screen
-04,0A,physical keyboard
-04,0A,adapted infrastructure
-04,0A,education facilities
-04,0A,learning materials
-04,0A,assistive products
-04,0A,functioning limitations
-04,0A,school environment
-04,0A,simplified formats
-04,0A,drinking water
-04,0A,improved water sources
-04,0A,water points
-04,0A,school hours
-04,0B,climate change
-04,0B,multilateral institutions
-04,0B,official agencies
-04,0B,state governments
-04,0B,local governments
-04,0B,executive agencies
-04,0B,economic development
-04,0B,developing countries
-04,0B,sustainable development goals
-04,0B,financial aid
-04,0B,individual students
-04,0B,higher education
-04,0B,full-time studies
-04,0B,tuition costs
-04,0B,imputed student costs
-04,0B,training costs
-04,0B,developing countries
-04,0B,donor country
-04,0C,teacher training
-04,0C,organized pedagogy
-04,0C,relevant level
+ODD,Cible,Indicateur,Mots-cles
+ODD04,Cible 01,04-01-01,young people
+ODD04,Cible 01,04-01-01,proficiency level
+ODD04,Cible 01,04-01-01,primary education
+ODD04,Cible 01,04-01-01,indicator 4.1.1
+ODD04,Cible 01,04-01-01,gender equality
+ODD04,Cible 01,04-01-01,clean water
+ODD04,Cible 01,04-01-01,learning assessments
+ODD04,Cible 01,04-01-01,cross-national assessments
+ODD04,Cible 01,04-01-01,regional tests
+ODD04,Cible 01,04-01-01,learning assessment
+ODD04,Cible 01,04-01-01,proficiency levels
+ODD04,Cible 01,04-01-02,young people
+ODD04,Cible 01,04-01-02,intended age
+ODD04,Cible 01,04-01-02,completed grade
+ODD04,Cible 01,04-01-02,full-time study
+ODD04,Cible 01,04-01-02,grade progression
+ODD04,Cible 01,04-01-02,repeating grades
+ODD04,Cible 01,04-01-02,skipping grades
+ODD04,Cible 01,04-01-02,primary education
+ODD04,Cible 01,04-01-02,age group
+ODD04,Cible 01,04-01-02,completion rate
+ODD04,Cible 02,04-02-01,psychosocial well-being
+ODD04,Cible 02,04-02-01,executive functioning
+ODD04,Cible 02,04-02-01,emotional skills
+ODD04,Cible 02,04-02-01,social skills
+ODD04,Cible 02,04-02-01,internalizing behavior
+ODD04,Cible 02,04-02-01,externalizing behavior
+ODD04,Cible 02,04-02-01,sdg 4.2.1
+ODD04,Cible 02,04-02-01,developmental outcomes
+ODD04,Cible 02,04-02-01,developmental milestones
+ODD04,Cible 02,04-02-01,24-29 months
+ODD04,Cible 02,04-02-02,organized learning
+ODD04,Cible 02,04-02-02,primary education
+ODD04,Cible 02,04-02-02,age range
+ODD04,Cible 02,04-02-02,combination programmes
+ODD04,Cible 02,04-02-02,coherent set
+ODD04,Cible 02,04-02-02,educational activities
+ODD04,Cible 02,04-02-02,holistic approach
+ODD04,Cible 02,04-02-02,fundamental skills
+ODD04,Cible 02,04-02-02,national legislation
+ODD04,Cible 02,04-02-02,primary education
+ODD04,Cible 02,04-02-02,global level
+ODD04,Cible 03,04-03-01,age range
+ODD04,Cible 03,04-03-01,formal education
+ODD04,Cible 03,04-03-01,non-formal education
+ODD04,Cible 03,04-03-01,previous 12
+ODD04,Cible 03,04-03-01,young people
+ODD04,Cible 04,04-04-01,ict skills
+ODD04,Cible 04,04-04-01,skill areas
+ODD04,Cible 04,04-04-01,computer-related activities
+ODD04,Cible 04,04-04-01,response categories
+ODD04,Cible 04,04-04-01,digital literacy
+ODD04,Cible 04,04-04-01,ict infrastructure
+ODD04,Cible 04,04-04-01,digital inclusion
+ODD04,Cible 04,04-04-01,digital innovation
+ODD04,Cible 04,04-04-01,digital transformation
+ODD04,Cible 04,04-04-01,climate change
+ODD04,Cible 04,04-04-01,renewable energy
+ODD04,Cible 04,04-04-01,resource management
+ODD04,Cible 04,04-04-01,waste reduction
+ODD04,Cible 04,04-04-01,poverty reduction
+ODD04,Cible 04,04-04-01,gender equality
+ODD04,Cible 04,04-04-01,attached files
+ODD04,Cible 04,04-04-01,basic arithmetic
+ODD04,Cible 04,04-04-01,energy efficiency
+ODD04,Cible 04,04-04-01,renewable energy
+ODD04,Cible 04,04-04-01,carbon footprint
+ODD04,Cible 04,04-04-01,waste reduction
+ODD04,Cible 04,04-04-01,resource conservation
+ODD04,Cible 04,04-04-01,poverty reduction
+ODD04,Cible 04,04-04-01,gender equality
+ODD04,Cible 04,04-04-01,energy efficiency
+ODD04,Cible 04,04-04-01,programming language
+ODD04,Cible 04,04-04-01,computer program
+ODD04,Cible 04,04-04-01,embedded computing
+ODD04,Cible 04,04-04-01,multiple responses
+ODD04,Cible 04,04-04-01,carried out
+ODD04,Cible 04,04-04-01,climate change
+ODD04,Cible 04,04-04-01,poverty reduction
+ODD04,Cible 04,04-04-01,gender equality
+ODD04,Cible 04,04-04-01,clean water
+ODD04,Cible 04,04-04-01,green economy
+ODD04,Cible 04,04-04-01,digital format
+ODD04,Cible 04,04-04-01,electronic books
+ODD04,Cible 04,04-04-01,disease prevention
+ODD04,Cible 04,04-04-01,injury treatment
+ODD04,Cible 04,04-04-01,public health
+ODD04,Cible 04,04-04-01,medical research
+ODD04,Cible 04,04-04-01,health education
+ODD04,Cible 04,04-04-01,community development
+ODD04,Cible 04,04-04-01,economic growth
+ODD04,Cible 04,04-04-01,social justice
+ODD04,Cible 04,04-04-01,messaging service
+ODD04,Cible 04,04-04-01,video calling
+ODD04,Cible 04,04-04-01,civic issues
+ODD04,Cible 04,04-04-01,political issues
+ODD04,Cible 04,04-04-01,poverty reduction
+ODD04,Cible 04,04-04-01,digital environment
+ODD04,Cible 04,04-04-01,climate change
+ODD04,Cible 04,04-04-01,poverty reduction
+ODD04,Cible 04,04-04-01,digital environments
+ODD04,Cible 04,04-04-01,computer software
+ODD04,Cible 04,04-04-01,app development
+ODD04,Cible 04,04-04-01,clean water
+ODD04,Cible 04,04-04-01,renewable energy
+ODD04,Cible 04,04-04-01,green technology
+ODD04,Cible 04,04-04-01,carbon emissions
+ODD04,Cible 04,04-04-01,climate change
+ODD04,Cible 04,04-04-01,resource management
+ODD04,Cible 04,04-04-01,carbon footprint
+ODD04,Cible 04,04-04-01,environmental protection
+ODD04,Cible 04,04-04-01,green finance
+ODD04,Cible 04,04-04-01,social responsibility
+ODD04,Cible 04,04-04-01,ethical sourcing
+ODD04,Cible 04,04-04-01,fair trade
+ODD04,Cible 04,04-04-01,carbon emissions
+ODD04,Cible 04,04-04-01,environmental protection
+ODD04,Cible 04,04-04-01,greenhouse gases
+ODD04,Cible 04,04-04-01,security measures
+ODD04,Cible 04,04-04-01,strong passwords
+ODD04,Cible 04,04-04-01,log-in attempts
+ODD04,Cible 04,04-04-01,online accounts
+ODD04,Cible 04,04-04-01,privacy settings
+ODD04,Cible 04,04-04-01,personal data
+ODD04,Cible 04,04-04-01,information sharing
+ODD04,Cible 04,04-04-01,limiting sharing
+ODD04,Cible 04,04-04-01,community development
+ODD04,Cible 04,04-04-01,economic growth
+ODD04,Cible 04,04-04-01,skill levels
+ODD04,Cible 04,04-04-01,skill areas
+ODD04,Cible 05,04-05-01,parity indices
+ODD04,Cible 05,04-05-01,indicator values
+ODD04,Cible 05,04-05-01,climate change
+ODD04,Cible 05,04-05-01,poverty reduction
+ODD04,Cible 05,04-05-01,clean water
+ODD04,Cible 05,04-05-01,gender equality
+ODD04,Cible 05,04-05-01,disaster risk
+ODD04,Cible 06,04-06-01,global reporting
+ODD04,Cible 06,04-06-01,learning assessments
+ODD04,Cible 06,04-06-01,basic knowledge
+ODD04,Cible 06,04-06-01,domain literacy
+ODD04,Cible 06,04-06-01,functional literacy
+ODD04,Cible 06,04-06-01,functional numeracy
+ODD04,Cible 06,04-06-01,unesco definitions
+ODD04,Cible 06,04-06-01,effective functioning
+ODD04,Cible 06,04-06-01,community development
+ODD04,Cible 07,04-07-01,teacher training
+ODD04,Cible 07,04-07-01,teacher education
+ODD04,Cible 07,04-07-01,student assessment
+ODD04,Cible 07,04-07-01,combined score
+ODD04,Cible 07,04-07-01,indicator framework
+ODD04,Cible 07,04-07-01,global indic
+ODD04,Cible 07,04-07-01,shared planet
+ODD04,Cible 07,04-07-01,environmental integrity
+ODD04,Cible 07,04-07-01,economic viability
+ODD04,Cible 07,04-07-01,just society
+ODD04,Cible 07,04-07-01,cultural diversity
+ODD04,Cible 0A,04-0A-01,climate change
+ODD04,Cible 0A,04-0A-01,lower secondary
+ODD04,Cible 0A,04-0A-01,upper secondary
+ODD04,Cible 0A,04-0A-01,grid/mains connection
+ODD04,Cible 0A,04-0A-01,fuel-powered generator
+ODD04,Cible 0A,04-0A-01,sustainable use
+ODD04,Cible 0A,04-0A-01,information sharing
+ODD04,Cible 0A,04-0A-01,desktop computer
+ODD04,Cible 0A,04-0A-01,handheld computer
+ODD04,Cible 0A,04-0A-01,touch screen
+ODD04,Cible 0A,04-0A-01,physical keyboard
+ODD04,Cible 0A,04-0A-01,adapted infrastructure
+ODD04,Cible 0A,04-0A-01,education facilities
+ODD04,Cible 0A,04-0A-01,learning materials
+ODD04,Cible 0A,04-0A-01,assistive products
+ODD04,Cible 0A,04-0A-01,functioning limitations
+ODD04,Cible 0A,04-0A-01,school environment
+ODD04,Cible 0A,04-0A-01,simplified formats
+ODD04,Cible 0A,04-0A-01,drinking water
+ODD04,Cible 0A,04-0A-01,water points
+ODD04,Cible 0A,04-0A-01,school hours
+ODD04,Cible 0B,04-0B-01,climate change
+ODD04,Cible 0B,04-0B-01,multilateral institutions
+ODD04,Cible 0B,04-0B-01,official agencies
+ODD04,Cible 0B,04-0B-01,state governments
+ODD04,Cible 0B,04-0B-01,local governments
+ODD04,Cible 0B,04-0B-01,executive agencies
+ODD04,Cible 0B,04-0B-01,economic development
+ODD04,Cible 0B,04-0B-01,developing countries
+ODD04,Cible 0B,04-0B-01,financial aid
+ODD04,Cible 0B,04-0B-01,individual students
+ODD04,Cible 0B,04-0B-01,higher education
+ODD04,Cible 0B,04-0B-01,full-time studies
+ODD04,Cible 0B,04-0B-01,tuition costs
+ODD04,Cible 0B,04-0B-01,training costs
+ODD04,Cible 0B,04-0B-01,developing countries
+ODD04,Cible 0B,04-0B-01,donor country
+ODD04,Cible 0C,04-0C-01,teacher training
+ODD04,Cible 0C,04-0C-01,organized pedagogy
+ODD04,Cible 0C,04-0C-01,relevant level
