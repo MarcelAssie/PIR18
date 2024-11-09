@@ -1,6 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-number deaths : 0.5171
-mortality rate : 0.5801
-poisoning defined : 0.6064
-----------------------------------------------------

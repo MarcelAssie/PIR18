@@ -1,6 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-cohabiting marriage : 0.4122
-women autonomy : 0.4283
-decide health : 0.4453
-----------------------------------------------------

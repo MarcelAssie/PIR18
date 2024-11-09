@@ -1,6 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-deaths year : 0.4216
-suicide deaths : 0.5688
-definitions suicide : 0.6387
-----------------------------------------------------

@@ -1,8 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-tariff rate hs : 0.6139
-tariffs customs duties : 0.6218
-national tariff : 0.6277
-total number tariff : 0.6392
-tariff lines cent : 0.6493
-----------------------------------------------------

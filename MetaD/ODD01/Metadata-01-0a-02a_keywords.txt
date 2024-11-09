@@ -1,6 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-datasets sg_xpd_educ : 0.4084
-expenditure cofog : 0.4837
-sdg indicators : 0.5121
-----------------------------------------------------

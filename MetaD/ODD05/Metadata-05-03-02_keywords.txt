@@ -1,8 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-proportion adolescent : 0.4166
-genitalia injury : 0.4512
-mutilation indicator : 0.5188
-mutilation updated : 0.5388
-mutilation interagency : 0.5563
-----------------------------------------------------

@@ -1,7 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-expected age : 0.4037
-children aged : 0.4049
-months developmentally : 0.4094
-outcomes children : 0.4207
-----------------------------------------------------

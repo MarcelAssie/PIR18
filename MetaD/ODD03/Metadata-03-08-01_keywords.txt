@@ -1,7 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-immunization percentage : 0.4211
-average coverage : 0.4234
-child immunization : 0.4314
-diseases service : 0.4419
-----------------------------------------------------

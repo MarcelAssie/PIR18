@@ -1,8 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-defined export : 0.4065
-subsidies budgetary : 0.4363
-subsidy reduction : 0.4506
-subsidies defined : 0.4822
-agricultural export : 0.5239
-----------------------------------------------------

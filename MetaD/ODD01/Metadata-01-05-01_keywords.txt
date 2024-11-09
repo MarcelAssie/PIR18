@@ -1,7 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-hazardous event : 0.4060
-death number : 0.4235
-disaster directly : 0.4382
-population death : 0.4791
-----------------------------------------------------

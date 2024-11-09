@@ -1,9 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-changes cgr : 0.4052
-indicator food : 0.4389
-price growth : 0.4568
-rate cagr : 0.4592
-anomalies ifpa : 0.4836
-growth indicator : 0.5187
-----------------------------------------------------

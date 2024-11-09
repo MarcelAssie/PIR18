@@ -1,9 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-consumption production : 0.5178
-policy instruments refer : 0.5179
-policy instruments distinguished : 0.5219
-aimed supporting sustainable : 0.5354
-clarifying concepts sustainable : 0.5504
-production sustainable consumption : 0.5919
-----------------------------------------------------

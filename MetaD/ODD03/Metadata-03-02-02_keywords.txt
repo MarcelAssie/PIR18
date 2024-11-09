@@ -1,9 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-deaths : 0.4069
-child born : 0.4160
-deaths live : 0.4720
-early neonatal : 0.5636
-mortality rates : 0.6036
-births neonatal : 0.6291
-----------------------------------------------------

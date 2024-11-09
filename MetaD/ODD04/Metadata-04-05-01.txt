@@ -1,7 +1,0 @@
-Parity indices require data for the specific groups of interest. They represent the ratio of the indicator 
-value for one group to that  of the other. Typically, the likely more disadvantaged group is placed in the 
-numerator. A value of exactly 1 indicates parity between the two groups.  
- 
-  
-See metadata for relevant underlying indicator.  
- 
