@@ -1,5 +1,5 @@
-keyword;clasification
-"""bop"" countries";SDG1
+﻿keyword;classification
+bop' countries;SDG1
 absolute poverty;SDG1
 bellagio principles;SDG1
 child nutritional status;SDG1
@@ -28,7 +28,7 @@ povertly line;SDG1
 poverty reduction;SDG1
 poor resilience;SDG1
 social protection;SDG1
-"""win-win"" reform agenda";SDG10
+win-win' reform agenda;SDG10
 adaptive cycle;SDG10
 adverse outcomes;SDG10
 advisory committee;SDG10
@@ -1589,7 +1589,7 @@ european union;SDG17
 fadama;SDG17
 fifth millennium development goal;SDG17
 g20;SDG17
-"g7 ""new alliance'";SDG17
+g7 'new alliance';SDG17
 g7+;SDG17
 g77;SDG17
 g8 summit;SDG17
@@ -3524,7 +3524,7 @@ women in development;SDG5
 women workers;SDG5
 women health;SDG5
 womens health;SDG5
-women�s rights;SDG5
+women’s rights;SDG5
 womens and childrens health;SDG5
 womens dietary diversity score;SDG5
 womens empowerment;SDG5

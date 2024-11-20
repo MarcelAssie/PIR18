@@ -3,8 +3,16 @@ from huggingface_hub import login
 from transformers import AutoTokenizer, pipeline
 from keybert.llm import TextGeneration
 from keybert import KeyLLM
-import re, os
+import re, os, pandas as pd
 from fuzzywuzzy import fuzz
+
+
+# ------------------------------------------------------------------------------------------------
+#  Chargement du fichier contenant les ODD, Cibles et Indicateurs et leurs informations
+
+file_path = "../Other/odd_target_indicator.csv"
+data = pd.read_csv(f"{file_path}", delimiter=";")
+# ------------------------------------------------------------------------------------------------
 
 # Connection à Hugging Face
 def login_hf():
@@ -65,7 +73,7 @@ def extract_keywords_from_chunks(chunks, test_model):
 
     I have the following document:
     - [DOCUMENT]
-
+    
     Please extract only the keywords related to the Sustainable Development Goals (SDGs) that are explicitly mentioned in this document. 
     The keywords should consist of 2 to 3 words and should be meaningful within the context of this document. 
     Ensure that the keywords are derived solely from the text provided and do not include any external references or interpretations. 
@@ -108,15 +116,15 @@ def clean_keywords(keywords, max_words=2):
 
 
     # Étape 5 : Filtrer par nombre de mots et les expressions numériques
-    results = []
+    data_cleaned = []
     for kw in filtered_keywords:
         if len(kw.split()) == max_words and not re.search(r'\d+', kw):
-            results.append(kw)
+            data_cleaned.append(kw)
 
-    return results
+    return data_cleaned
 
 
-def start(odd_number, txt_file, model):
+def processing(odd_number, txt_file, model):
 
     # Charger le fichier texte
     document_content = read_txt_file(txt_file)
@@ -134,13 +142,46 @@ def start(odd_number, txt_file, model):
     cleaned_keywords = clean_keywords(list_keywords)
 
     # Organisation du fichier pour l'affichage
-    cible = txt_file[30:32]
-    indicator = txt_file[27:35]
+    cible = txt_file[30:32].upper()
+    indicator = txt_file[27:35].upper()
     output_keywords = []
     for keyword in cleaned_keywords:
         output_keywords.append((f"ODD{odd_number}", f"Cible {odd_number}-{cible}", f"Indicateur {indicator}", keyword))
 
     return output_keywords
+
+def addTitles(dataframe) :
+    odd_list = []
+    target_list = []
+    indicator_list = []
+    for _, row in data.iterrows():
+        odd_list.append(row["Objectif"])
+        target_list.append(row["Cible"])
+        indicator_list.append(row["Indicateur"])
+
+    odd_names = list(dict.fromkeys(odd_list))
+    target_names = list(dict.fromkeys(target_list))
+    indicator_names = list(dict.fromkeys(indicator_list))
+
+    odd_sans_numeros = [titre.split('. ', 1)[1] for titre in odd_names]
+    odd_dict = {f"ODD{str(i).zfill(2)}": titre for i, titre in enumerate(odd_sans_numeros, start=1)}
+
+    target_titres_ord = [titre.split(': ', 1) for titre in target_names]
+    target_dict = {
+        f"Cible {'-'.join([f"{int(part):02d}" if part.isdigit() else part.upper().zfill(2) for part in titre[0].split('.')])}":
+            titre[1] for titre in target_titres_ord}
+
+    indicator_titres_ord = [titre.split(': ', 1) for titre in indicator_names]
+    indicator_titres_ord = [indicator for indicator in indicator_titres_ord if len(indicator) != 1]
+    indicator_dict = {
+        f"Indicateur {'-'.join([f"{int(part):02d}" if part.isdigit() else part.upper().zfill(2) for part in titre[0].split('.')])}":
+            titre[1] for titre in indicator_titres_ord}
+
+    dataframe["ODD"] = dataframe["ODD"].map(lambda x: f"{x} : {odd_dict.get(x, '')}")
+    dataframe["Cible"] = dataframe["Cible"].map(lambda x: f"{x} : {target_dict.get(x, '')}")
+    dataframe["Indicateur"] = dataframe["Indicateur"].map(lambda x: f"{x} : {indicator_dict.get(x, '')}")
+
+    return dataframe
 
 
 def filter_similar_entities(entities, threshold=60):
@@ -158,5 +199,4 @@ def filter_similar_entities(entities, threshold=60):
             seen.add(entity)
 
     return filtered_entities
-
 
