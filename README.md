@@ -42,7 +42,7 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 - **`/Other/`**  
   Contient tous les documents annexes utilisés dans des scripts 
 
-- **`/OutputData/`**  
+- **`/Output/`**  
   Dossiers contenant les **résultats générés**. Ce sont en les mots clés extraits par les LLM et LM: 
 
   - **`/DataLLM/`**
