@@ -157,7 +157,7 @@ Projet mené dans le cadre de l'Initiation à la Recherche des étudiants de la 
 
 Pour toute question ou suggestion :  
 
-📧 Email : Kouakou-Kan-Jose-Marcel.Assie@ensg.eu, Liam.Longfier@ensg.eu
+📧 Emails : Kouakou-Kan-Jose-Marcel.Assie@ensg.eu, Liam.Longfier@ensg.eu
 
 🛠️ Développement : PyCharm, Neo4j, Python, Jupyter NoteBook, Cypher.  
 
