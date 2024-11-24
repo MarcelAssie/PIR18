@@ -23,7 +23,7 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 ## 🏆 **Objectifs principaux**  
 
 1. **Extraction de données contextuelles**  
-   - Utiliser des techniques liées aux **Grands Modèles de Langage (LLM) ** pour identifier et extraire des informations pertinentes à partir de sources textuelles.  
+   - Utiliser des techniques liées aux **Grands Modèles de Langage (LLM)** pour identifier et extraire des informations pertinentes à partir de sources textuelles.  
 
 2. **Création de graphes de connaissances**  
    - Représenter les informations extraites sous forme de graphes, en mettant en évidence les relations significatives entre les entités (ODD, cibles, indicateurs).  
@@ -159,5 +159,5 @@ Pour toute question ou suggestion :
 
 📧 Emails : Kouakou-Kan-Jose-Marcel.Assie@ensg.eu, Liam.Longfier@ensg.eu
 
-🛠️ Développement : PyCharm, Neo4j, Python, Jupyter NoteBook, Cypher.  
+🛠️ Outils : PyCharm, Neo4j (Cypher), Python, Jupyter NoteBook.  
 
