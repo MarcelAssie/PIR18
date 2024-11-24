@@ -43,7 +43,7 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
   Contient tous les documents annexes utilisés dans des scripts 
 
 - **`/Output/`**  
-  Dossiers contenant les **résultats générés**. Ce sont en les mots clés extraits par les LLM et LM: 
+  Dossiers contenant les résultats générés. Ce sont les mots-clés extraits par les LLM et les LM, organisés comme suit :
 
   - **`/DataLLM/`**
     - **`/llama/`**
