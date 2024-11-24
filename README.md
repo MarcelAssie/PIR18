@@ -86,7 +86,7 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
    - Installer et démarrer une instance de **Neo4j**.  
    - Ajouter le plugin **APOC** pour bénéficier de fonctionnalités avancées.  
 
-4. **Lancer le projet (il faut créer cette fonction qui relancera toutes les étapes dde développement)**  
+4. **Lancer le projet** (il faut créer cette fonction qui relancera toutes les étapes du projet)  
    ```bash  
    python start.py  
    ```
