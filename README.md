@@ -1,7 +1,3 @@
-Voici une version mise à jour de votre README en fonction des informations du document fourni :  
-
----
-
 # 🚀 **PIR18 - Extraction de données contextuelles pour les ODD à l'aide des LLM et des graphes de connaissances**
 
 Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Projet d'Initiation à la Recherche 18 (PIR18)**. L'objectif principal de ce projet est de développer une méthode avancée d'extraction de données contextuelles basée sur les **Grands Modèles de Langage (LLM)** et de les structurer sous forme de **graphes de connaissances**. Cette approche vise à faciliter l'analyse et la visualisation des relations entre les **Objectifs de Développement Durable (ODD)**, leurs cibles et leurs indicateurs.
@@ -116,14 +112,13 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
      - **Indicator → measuredBy → Keyword**  
 
 5. **Validation et visualisation**  
-   Manipuler et interroger les graphes à travers des cas pratiques pour valider l'approche.  
-
-   I 
+   Manipuler et interroger les graphes à travers des cas pratiques pour valider l'approche.
 
 ---
 
 ## ✨ **Fonctionnalités principales**
 
+- **Téléchargement et organisation automatisés** des métadonnées sur le site officiel [UN SDG Metadata](https://unstats.un.org/sdgs/metadata). 
 - **Extraction automatisée** des mots-clés et topics des ODD.  
 - **Création de graphes interactifs** pour explorer les relations sémantiques.  
 - **Visualisation avancée** des liens entre indicateurs, cibles et objectifs.  
@@ -148,9 +143,9 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 
 ## 💡 **Contributeurs**
 
-- **Étudiants**  
-  - Marcel Assie  
+- **Étudiants**   
   - Liam Longfier  
+  - Marcel Assie 
 
 - **Encadrants**  
   - Malika GRIM-YEFSAH  
