@@ -1,5 +1,4 @@
-import os
-import docx  # Assurez-vous que python-docx est installé : pip install python-docx
+import docx
 import requests
 from bs4 import BeautifulSoup
 import os

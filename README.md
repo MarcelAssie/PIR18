@@ -1,18 +1,19 @@
-# 🚀 **PIR18 - Extraction de données contextuelles pour les ODD à l'aide des LLM et des graphes de connaissances**  
+Voici une version mise à jour de votre README en fonction des informations du document fourni :  
 
-Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Projet d'Initiation à la Recherche (PIR18)**. L'objectif principal de ce projet est de développer une méthode avancée d'extraction de données contextuelles basée sur les **Grands Modèles de Langage (LLM)** et de les structurer sous forme de **graphes de connaissances** pour mieux comprendre et analyser les Objectifs de Développement Durable (ODD).  
+---
+
+# 🚀 **PIR18 - Extraction de données contextuelles pour les ODD à l'aide des LLM et des graphes de connaissances**
+
+Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Projet d'Initiation à la Recherche 18 (PIR18)**. L'objectif principal de ce projet est de développer une méthode avancée d'extraction de données contextuelles basée sur les **Grands Modèles de Langage (LLM)** et de les structurer sous forme de **graphes de connaissances**. Cette approche vise à faciliter l'analyse et la visualisation des relations entre les **Objectifs de Développement Durable (ODD)**, leurs cibles et leurs indicateurs.
 
 ---
 
 ## 📚 **Table des matières**
 
 1. [🏆 Objectifs principaux](#-objectifs-principaux)  
-2. [🗂️ Structure du dépôt](#️-structure-du-dépot)  
+2. [🗂️ Structure du dépôt](#️-structure-du-dépôt)  
 3. [🛠️ Prérequis pour l'installation](#️-prérequis-pour-linstallation)  
 4. [📈 Méthodologie utilisée](#-méthodologie-utilisée)  
-   - [🔍 Extraction des mots-clés](#-extraction-des-mots-clés)  
-   - [📊 Création des graphes de connaissances](#-création-des-graphes-de-connaissances)  
-   - [💻 Requêtes et visualisations](#-requêtes-et-visualisations)  
 5. [✨ Fonctionnalités principales](#-fonctionnalités-principales)  
 6. [🚀 Prochaines étapes](#-prochaines-étapes)  
 7. [💡 Contributeurs](#-contributeurs)  
@@ -20,16 +21,19 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 
 ---
 
-## 🏆 **Objectifs principaux**  
+## 🏆 **Objectifs principaux**
 
 1. **Extraction de données contextuelles**  
-   - Utiliser des techniques liées aux **Grands Modèles de Langage (LLM)** pour identifier et extraire des informations pertinentes à partir de sources textuelles.  
+   - Utiliser des **LLM** pour identifier et extraire des topics, entités et mots-clés pertinents à partir de métadonnées textuelles liées aux ODD.  
 
-2. **Création de graphes de connaissances**  
-   - Représenter les informations extraites sous forme de graphes, en mettant en évidence les relations significatives entre les entités (ODD, cibles, indicateurs).  
+2. **Généralisation de l'approche**  
+   - Adapter les algorithmes d'extraction pour couvrir l'ensemble des 17 ODD et leurs 169 cibles, en prenant en compte les différences de structure et de format des données.  
 
-3. **Utilisation de modèles avancés**  
-   - Implémenter des **algorithmes basés sur les LLM** (comme LLaMA, Mistral) pour analyser les liens contextuels entre les **indicateurs des ODD** et les données extraites.  
+3. **Création et visualisation des graphes de connaissances**  
+   - Modéliser les données extraites sous forme de **nœuds** et **relations**, et les intégrer dans des **graphes de connaissances interactifs**.  
+
+4. **Analyse des relations complexes**  
+   - Étudier les interconnexions entre les objectifs, cibles, indicateurs et données externes grâce à des outils de visualisation avancés (ex. Neo4j).  
 
 ---
 
@@ -69,95 +73,98 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 
 ---
 
-## 🛠️ **Prérequis pour l'installation**  
+## 🛠️ **Prérequis pour l'installation**
 
 1. **Cloner le dépôt**  
-   ```bash  
+   ```bash
    git clone https://github.com/MarcelAssie/PIR18.git
-   ```  
+   ```
 
 2. **Installer les dépendances**  
-   Assurez-vous que Python 3.9 ou une version ultérieure est installé sur votre système. Ensuite, exécutez :  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
+   Assurez-vous que **Python 3.9** ou une version ultérieure est installé :  
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Configurer Neo4j**  
-   - Installer et démarrer une instance de **Neo4j**.  
-   - Ajouter le plugin **APOC** pour bénéficier de fonctionnalités avancées.  
+   - Installer Neo4j (https://neo4j.com/use-cases/knowledge-graph/).  
+   - Activer le plugin **APOC** pour bénéficier de fonctionnalités avancées.  
 
-4. **Lancer le projet** (il faut créer cette fonction qui relancera toutes les étapes du projet)  
-   ```bash  
-   python start.py  
-   ```
+4. **Lancer le projet**  
+   *(Fonctionnalité en développement)*.  
+
 ---
 
-## 📈 **Méthodologie utilisée**  
+## 📈 **Méthodologie utilisée**
 
-1. **Extraction des mots-clés**  
-   - Utilisation de modèles comme **Mistral 7B** et **LLaMA 2-7B Chat** pour identifier les mots-clés pertinents à partir des meta données.  
-   - Nettoyage et classification automatique des mots-clés en fonction des **Objectifs, Cibles, et Indicateurs des ODD**.  
+1. **Revue de la littérature**  
+   Étudier les approches actuelles pour :  
+   - L'extraction de données contextuelles.  
+   - La création et l'optimisation de graphes de connaissances (KG).  
 
-2. **Création des graphes de connaissances**  
-   - Les mots-clés extraits sont structurés en **nœuds** et **relations** dans Neo4j pour représenter les liens contextuels.  
+2. **Collecte et préparation des données**  
+   Préparer les métadonnées disponibles sur [UN SDG Metadata](https://unstats.un.org/sdgs/metadata) pour une exploitation optimale.  
+
+3. **Développement de modèles LLM**  
+   Adapter et tester des modèles comme **Mistral 7B** et **LLaMA 2-7B Chat** pour l'extraction de topics et d'entités liés aux ODD.  
+
+4. **Construction des graphes de connaissances**  
+   - Structurer les données extraites sous forme de nœuds et relations dans Neo4j.  
    - Exemple de relations :  
-     - **Goal → contain → Target**  
-     - **Target → contain → Indicator**  
+     - **Goal → contains → Target**  
+     - **Target → contains → Indicator**  
      - **Indicator → measuredBy → Keyword**  
 
-3. **Requêtes et visualisations**  
-   - Utilisation de requêtes Cypher pour interroger et visualiser les graphes afin d’obtenir des analyses détaillées des relations entre les ODD, cibles, et indicateurs.
-   
-4. **Interaction**  
-   - En cours de developpement...
+5. **Validation et visualisation**  
+   Manipuler et interroger les graphes à travers des cas pratiques pour valider l'approche.  
+
+   I 
 
 ---
 
-## ✨ **Fonctionnalités principales**  
+## ✨ **Fonctionnalités principales**
 
-- **Extraction automatisée des mots-clés** à partir de documents textuels (meta données SDGs).  
-- **Classification intelligente** des données en fonction des Objectifs de Développement Durable.  
-- **Création de visualisations interactives** des graphes pour explorer les relations entre les ODD.  
-- **Interface utilisateur** (en cours de développement) pour simplifier l’interaction avec le système.  
+- **Extraction automatisée** des mots-clés et topics des ODD.  
+- **Création de graphes interactifs** pour explorer les relations sémantiques.  
+- **Visualisation avancée** des liens entre indicateurs, cibles et objectifs.  
 
 ---
 
-## 🚀 **Prochaines étapes**  
+## 🚀 **Prochaines étapes**
 
-1. **Optimisation des algorithmes d'extraction**  
-   - Intégrer des algorithmes de nettoyage de donnée pour des metadonnées plus riches.  
+1. **Optimisation des modèles**  
+   - Intégrer des techniques de nettoyage et d'enrichissement des données.  
 
 2. **Amélioration des graphes**  
-   - Ajouter des métadonnées enrichies pour les nœuds et relations. 
-   
-3. **Amélioration de l'agorithme de traitement d'information**  
-   - Améliorer le processus de traitement des informations par le llm pour la génération de réponse.  
+   - Ajouter des propriétés enrichies aux nœuds et relations.  
+
+3. **Développement d'un outil interactif**  
+   - Proposer une interface utilisateur (chatbot) simplifiée pour discuter.  
 
 4. **Publication scientifique**  
-   - Documenter les résultats obtenus dans un **article scientifique** et le soumettre à une revue ou conférence.  
+   - Documenter les résultats obtenus dans un **article scientifique** et le soumettre à une revue ou conférence. 
 
 ---
 
 ## 💡 **Contributeurs**
 
-- **Etudiants**
-  - Marcel Assie
-  - Liam Longfier
-  
+- **Étudiants**  
+  - Marcel Assie  
+  - Liam Longfier  
 
-- **Encadrants**
-  - GRIM-YEFSAH Malika 
-  - BENJIRA Wissal
+- **Encadrants**  
+  - Malika GRIM-YEFSAH  
+  - Wissal BENJIRA  
 
-Projet mené dans le cadre de l'Initiation à la Recherche des étudiants de la 2ème année d'ingénieur à l'Ecole Nationale des Sciences Géographiques, France.
+Projet réalisé dans le cadre de l'Initiation à la Recherche des étudiants de 2ème année d'ingénieur à l'Ecole Nationale des Sciences Géographiques, France.  
 
 ---
 
-## 📫 **Contact**  
+## 📫 **Contact**
+Pour toute question ou suggestion : 
 
-Pour toute question ou suggestion :  
+📧 **Emails** :  
+- Liam.Longfier@ensg.eu  
+- Kouakou-Kan-Jose-Marcel.Assie@ensg.eu
 
-📧 Emails : Kouakou-Kan-Jose-Marcel.Assie@ensg.eu, Liam.Longfier@ensg.eu
-
-🛠️ Outils : PyCharm, Neo4j (Cypher), Python, Jupyter NoteBook.  
-
+🛠️ **Outils utilisés** : Python, Neo4j, PyCharm, Jupyter Notebook.  
