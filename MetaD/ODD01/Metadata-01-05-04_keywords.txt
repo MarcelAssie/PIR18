@@ -1,6 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-risk strengthening : 0.4371
-local disaster : 0.4474
-environmental resilience : 0.4560
-----------------------------------------------------

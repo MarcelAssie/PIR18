@@ -1,9 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-economy unit : 0.4038
-product gdp : 0.4386
-gdp measured : 0.4657
-intensity defined : 0.4731
-energy statistics : 0.4740
-defined energy : 0.5282
-----------------------------------------------------

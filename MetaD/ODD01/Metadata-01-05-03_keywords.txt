@@ -1,7 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-disaster risk : 0.4342
-indicators terminology : 0.4602
-sendai : 0.4755
-implementation sendai : 0.5022
-----------------------------------------------------

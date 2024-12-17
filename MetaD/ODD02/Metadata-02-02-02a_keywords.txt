@@ -1,6 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-malnutrition html : 0.4073
-estimates unicef : 0.4186
-growth standards : 0.4261
-----------------------------------------------------

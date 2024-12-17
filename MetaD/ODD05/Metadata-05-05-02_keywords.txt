@@ -1,7 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-females total : 0.4096
-women access : 0.4271
-proportion females : 0.4435
-employment series : 0.4529
-----------------------------------------------------

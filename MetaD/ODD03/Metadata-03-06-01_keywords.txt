@@ -1,9 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-fatal injury : 0.4045
-rate road : 0.4228
-deaths road : 0.4417
-road traffic : 0.4466
-deaths 100 : 0.4520
-traffic injuries : 0.5046
-----------------------------------------------------

@@ -1,8 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-health assembly : 0.4038
-report health : 0.4283
-health capacities : 0.4436
-ihr implementation : 0.4669
-health regulations : 0.4951
-----------------------------------------------------

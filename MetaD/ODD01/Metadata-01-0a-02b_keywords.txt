@@ -1,6 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-country expenditure : 0.4009
-datasets sg_xpd_educ : 0.4210
-total sd_xpd_esed : 0.4336
-----------------------------------------------------

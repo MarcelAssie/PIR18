@@ -1,9 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-sdg_indicator indicator : 0.4042
-related indicators : 0.4067
-sdg_indicator_info : 0.4087
-etadata : 0.4440
-etadata harmonized : 0.4570
-family planning : 0.4693
-----------------------------------------------------

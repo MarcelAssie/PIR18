@@ -1,8 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-classifications electricity : 0.4032
-percentage population : 0.4076
-census data : 0.4121
-global electrification : 0.4512
-access electricity : 0.4642
-----------------------------------------------------

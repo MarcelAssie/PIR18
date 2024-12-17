@@ -1,9 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-dac stats : 0.4069
-territories dac : 0.4078
-donors medical : 0.4149
-defined dac : 0.4185
-health sectors : 0.4585
-oda recipients : 0.4764
-----------------------------------------------------

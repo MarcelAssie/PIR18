@@ -1,7 +1,0 @@
-Mots-clés extraits et scores :
-----------------------------------------------------
-spl data : 0.4095
-protection indicators : 0.4270
-spl percentage : 0.4292
-social insurance : 0.5370
-----------------------------------------------------
