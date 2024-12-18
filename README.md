@@ -86,8 +86,10 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
    - Installer Neo4j (https://neo4j.com/use-cases/knowledge-graph/).  
    - Activer le plugin **APOC** pour bénéficier de fonctionnalités avancées.  
 
-4. **Lancer le projet**  
-   *(Fonctionnalité en développement)*.  
+4. **Lancer le projet**
+    ```bash
+    python .\Scripts\start.py
+   ```  
 
 ---
 
