@@ -187,7 +187,7 @@ def search_indicators(keywords):
     with driver.session() as session:
         # Requête principale : rechercher les ODD, cibles, indicateurs et mots-clés
         query1 = f"""
-        MATCH (s:SDG)-[:contain]->(t:Target)-[:contain]->(i:Indicator)-[:measuredBy]->(k:Keyword)
+        MATCH (s:SDG)-[:contains]->(t:Target)-[:contains]->(i:Indicator)-[:measuredBy]->(k:Keyword)
         WHERE k.word IN {keywords}
         RETURN i.code AS Indicateur, i.description AS IndicateurDescription
         """
@@ -219,7 +219,7 @@ def search_indicators(keywords):
         # Si des Goals sont trouvés, récupérer les indicateurs associés à ces Goals
         if goals:
             query3 = f"""
-            MATCH (s:SDG)-[:contain]->(t:Target)-[:contain]->(i:Indicator)
+            MATCH (s:SDG)-[:contains]->(t:Target)-[:contains]->(i:Indicator)
             WHERE s.code IN {list(goals)}
             RETURN i.code AS Indicateur, i.description AS IndicateurDescription
             """
