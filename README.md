@@ -182,4 +182,4 @@ Pour toute question ou suggestion :
 - Liam.Longfier@ensg.eu  
 - Kouakou-Kan-Jose-Marcel.Assie@ensg.eu
 
-🛠️ **Outils utilisés** : Python, Neo4j, PyCharm, Jupyter Notebook.  
+🛠️ **Outils utilisés** : Python, Neo4j, LM Studio, HuggingFace, PyCharm, Jupyter Notebook.  
