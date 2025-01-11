@@ -4,6 +4,14 @@ from PyQt5.QtCore import Qt, QThread, pyqtSignal
 from PyQt5.QtGui import QScreen
 from response_toolbox import *
 import time
+from py2neo import Graph
+from pyvis.network import Network
+import tempfile
+import webbrowser
+from neo4j import GraphDatabase
+
+
+
 
 class WorkerThread(QThread):
     update_status = pyqtSignal(str)
@@ -18,10 +26,14 @@ class WorkerThread(QThread):
 
     def run(self):
         try:
+
+
             translated_question = translate_to_english(self.question)
 
             self.update_status.emit("Extraction de mots-clés...")
+            print(translated_question)
             cleaned_keywords = extract_keywords(translated_question, self.model)
+            print(cleaned_keywords)
 
             if cleaned_keywords:
                 self.update_status.emit(f"Recherche dans le graphe de mots-clés similaires à plus de {int(self.threshold*100)}%...")
@@ -43,6 +55,11 @@ class WorkerThread(QThread):
                             self.update_status.emit("Similitudes trouvées après reformulation. Récupération des données...")
                             df = search_indicators(similitudes)
                             final_answer = generate_graph_answer(df, translated_question)
+                            query = f'MATCH (k:Keyword)<-[m:measuredBy]-(i:Indicator)<-[c:contains]-(t:Target)<-[d:contains]-(s:SDG) WHERE i.code IN {df['indicateur'].tolist()} RETURN  i, k, t, s, c, d, m'
+                            self.display_graph(query)
+
+
+
                         else:
                             self.update_status.emit(
                                 "Aucune similitude trouvée après reformulation. Génération d'une réponse brute...")
@@ -51,11 +68,87 @@ class WorkerThread(QThread):
                         final_answer = "Aucun mot-clé extrait après reformulation. Impossible de générer une réponse."
             else:
                 final_answer = "Aucun mot-clé extrait. Impossible de générer une réponse."
+
         except Exception as e:
             final_answer = f"Erreur lors du traitement : {str(e)}"
 
             # Émettre la réponse finale
         self.response_ready.emit(final_answer)
+
+    def display_graph(self, query):
+        try:
+            # Connexion au graphe
+            NEO4J_URI = "bolt://localhost:7687"
+            NEO4J_USERNAME = "neo4j"
+            NEO4J_PASSWORD = "liam160404"
+
+            # Créer le driver
+            driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
+
+            # Ouvrir une session pour exécuter la requête
+            with driver.session() as session:
+                result = session.run(query).data()
+
+            # Construire le graphe pour la visualisation
+            net = Network(notebook=False, directed=True)
+            added_nodes = set()
+            added_edges = set()
+
+            for record in result:
+                # Ajouter les nœuds principaux (indicateurs, cibles, objectifs)
+                if "i" in record:
+                    i_code = record["i"].get("code", "Unknown")
+                    if i_code not in added_nodes:
+                        net.add_node(i_code, label=f"Indicator: {i_code}", color="blue")
+                        added_nodes.add(i_code)
+
+                if "t" in record:
+                    t_code = record["t"].get("code", "Unknown")
+                    if t_code not in added_nodes:
+                        net.add_node(t_code, label=f"Target: {t_code}", color="green")
+                        added_nodes.add(t_code)
+
+                if "s" in record:
+                    s_code = record["s"].get("code", "Unknown")
+                    if s_code not in added_nodes:
+                        net.add_node(s_code, label=f"{s_code}", color="orange")
+                        added_nodes.add(s_code)
+
+                # Ajouter les nœuds de mots-clés
+                if "k" in record:
+                    keyword = record["k"].get("word", "Unknown Keyword")
+                    if keyword not in added_nodes:
+                        net.add_node(keyword, label=f"{keyword}", color="purple")
+                        added_nodes.add(keyword)
+
+                # Ajouter les relations principales
+                if "i" in record and "t" in record:
+                    edge = (record["i"].get("code", "Unknown"), record["t"].get("code", "Unknown"))
+                    if edge not in added_edges:
+                        net.add_edge(edge[0], edge[1], label="contains")
+                        added_edges.add(edge)
+
+                if "t" in record and "s" in record:
+                    edge = (record["t"].get("code", "Unknown"), record["s"].get("code", "Unknown"))
+                    if edge not in added_edges:
+                        net.add_edge(edge[0], edge[1], label="contains")
+                        added_edges.add(edge)
+
+                # Ajouter les relations avec les mots-clés
+                if "i" in record and "k" in record:
+                    edge = (record["k"].get("word", "Unknown Keyword"), record["i"].get("code", "Unknown"))
+                    if edge not in added_edges:
+                        net.add_edge(edge[0], edge[1], label="measuredBy")
+                        added_edges.add(edge)
+
+            # Enregistrer et ouvrir dans un navigateur
+            with tempfile.NamedTemporaryFile(suffix=".html", delete=False) as tmpfile:
+                net.save_graph(tmpfile.name)
+                webbrowser.open(f"file://{tmpfile.name}")
+
+        except Exception as e:
+            print(f"Erreur lors de l'affichage du graphe : {e}")
+
 
 class QuestionApp(QWidget):
     def __init__(self):
