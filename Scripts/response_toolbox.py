@@ -100,7 +100,6 @@ def extract_keywords(question, model):
         raw_output = response.json()["choices"][0]["message"]["content"]
         # Nettoyer les mots-clés
         cleaned_keywords = clean_keywords(raw_output.split(','))
-        print("\nMots-clés extraits de la question :", cleaned_keywords)
         return cleaned_keywords
     else:
         print("Erreur API :", response.status_code, response.text)

@@ -55,11 +55,11 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 
 - **`/Scripts/`**  
   Répertoire des **scripts actifs actuellement utilisés** pour :  
-    - Le téléchargement des metadonnées
+    - Le téléchargement des métadonnées
     - L'extraction des mots-clés.  
     - La création et la visualisation des graphes de connaissances.  
-    - La traitement de question
     - L'extraction des noms et des descriptions des SDGs
+    - Le traitement de question
 
 - **`/Tests/`**  
   Contient des scripts expérimentaux et des algorithmes en cours de test.  
@@ -83,13 +83,37 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
    ```
 
 3. **Configurer Neo4j**  
-   - Installer Neo4j (https://neo4j.com/use-cases/knowledge-graph/).  
+   - Installer Neo4j (https://neo4j.com/use-cases/knowledge-graph/).
+   - Créer le DBMS (Database Management System)
    - Activer le plugin **APOC** pour bénéficier de fonctionnalités avancées.  
+   
 
-4. **Lancer le projet**
+4. **Configurer LM Studio**
+   - Télécharger et installer l'application LM Studio (https://lmstudio.ai/)
+   - Télécharger les modèles _Mistral 7B_ et _LLaMA 2-7B_ dans la section _Discover_.
+
+
+6. **Lancer l'interaction**
     ```bash
     python .\Scripts\start.py
-   ```  
+   ```
+> NB : Pour un lancement du programme depuis le début, voici les scripts que vous devez exécuter dans l'ordre suivant :
+>
+>    1. **Chargement et organisation des métadonnées :**
+>      - `.\Scripts\get_manage_metadata.py` 
+>    2. **Téléchargement des descriptions des ODD, cibles et indicateurs :**
+>       - `.\Scripts\get_sdg_names.ipynb` 
+>    3. **Extraction des mots-clés des métadonnées :**
+>       - `.\Scripts\extraction_entities_llama.ipynb` (Pour l'extraction avec le modèle llama)
+>       - `.\Scripts\extraction_entities_mistral.ipynb` (Pour l'extraction avec le modèle mistral)
+>       - `.\Scripts\extraction_entities_lm.ipynb` (Pour l'extraction avec les LM)
+>    4. **Construction du graphe de Connaissance :**
+>       - `.\Scripts\graph_construction.ipynb` 
+>    5. **Interaction :**
+>       - `.\Scripts\start.py`
+>       
+> N'oubliez pas d'exécuter chaque script dans cet ordre pour garantir un lancement correct du programme.
+
 
 ---
 
@@ -129,16 +153,10 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 
 ## 🚀 **Prochaines étapes**
 
-1. **Optimisation des modèles**  
-   - Intégrer des techniques de nettoyage et d'enrichissement des données.  
+1. **Optimisation du temps d'exécution**  
+   - Intégrer des outils afin d'accélérer le temps de traitement de certaines opérations.  
 
-2. **Amélioration des graphes**  
-   - Ajouter des propriétés enrichies aux nœuds et relations.  
-
-3. **Développement d'un outil interactif**  
-   - Proposer une interface utilisateur (chatbot) simplifiée pour discuter.  
-
-4. **Publication scientifique**  
+2. **Publication scientifique**  
    - Documenter les résultats obtenus dans un **article scientifique** et le soumettre à une revue ou conférence. 
 
 ---
