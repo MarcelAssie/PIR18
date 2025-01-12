@@ -84,8 +84,12 @@ Ce dépôt regroupe l'ensemble des codes, ressources et documents liés au **Pro
 
 3. **Configurer Neo4j**  
    - Installer Neo4j (https://neo4j.com/use-cases/knowledge-graph/).
-   - Créer le DBMS (Database Management System)
-   - Activer le plugin **APOC** pour bénéficier de fonctionnalités avancées.  
+   - Créer votre DBMS (Database Management System)
+   - Les identifiants de votre DBMS doivent être remplacés dans les scripts suivants :
+     * `.\Scripts\graph_construction.ipynb` (Dans la 3ᵉ cellule)
+     * `.\Scripts\response_toolbox.py` (De la ligne 25 à la ligne 27)
+     * `.\Scripts\interface.py` (De la ligne 71 à la ligne 74)
+   - Activer le plugin **APOC** pour bénéficier de fonctionnalités avancées.
    
 
 4. **Configurer LM Studio**
